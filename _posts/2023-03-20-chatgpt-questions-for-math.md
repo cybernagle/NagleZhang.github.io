@@ -4,6 +4,7 @@ subtitle: "chatgpt"
 layout: post
 author: "NagleZh"
 header-style: text
+bilibili_video: BV1TW4y1Z7JT
 lang: zh
 tags:
   - 笔记
