@@ -1,4 +1,4 @@
-```yaml
+---
 title: "RSA 加密的基础"
 subtitle: "「笔记」"
 layout: post
@@ -8,7 +8,7 @@ lang: zh
 bilibili_video: BV1is4y1r7Da
 tags:
   - 笔记
-```
+---
 
 # GCD
 
