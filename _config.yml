@@ -1,0 +1,35 @@
+title: Nagle's Blog
+description: A clean and minimal blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nagle.top" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
+theme_color: "#2196f3"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Resume
+    url: /cv/
+
+# Social links
+social:
+  github: cybernagle
+  bilibili: 250682464
+  email: zhang.nlage@gmail.com
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/ 

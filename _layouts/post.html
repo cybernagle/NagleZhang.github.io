@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="post-meta">
+            <time datetime="{{ page.date | date_to_xmlschema }}">
+                {{ page.date | date: "%Y年%m月%d日" }}
+            </time>
+            {% if page.categories %}
+            <span class="categories">
+                分类：
+                {% for category in page.categories %}
+                <a href="/categories#{{ category }}">{{ category }}</a>
+                {% endfor %}
+            </span>
+            {% endif %}
+        </div>
+    </header>
+
+    <div class="post-content">
+        {{ content }}
+    </div>
+
+    {% if page.bilibili_video %}
+    <div class="bilibili-video">
+        <iframe src="//player.bilibili.com/player.html?bvid={{ page.bilibili_video }}" 
+                scrolling="no" 
+                border="0" 
+                frameborder="no" 
+                framespacing="0" 
+                allowfullscreen="true">
+        </iframe>
+    </div>
+    {% endif %}
+</article> 
