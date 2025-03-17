@@ -1,5 +1,5 @@
 ---
-- title: uv overtakes Poetry (for Wagtail users)
+- title: uv downloads overtake Poetry for Wagtail users
   url: https://wagtail.org/blog/uv-overtakes-poetry/
   summary: <a href="https://news.ycombinator.com/item?id=43386357">Comments</a>
   published: 2025-03-17 08:49:02 UTC
@@ -51,14 +51,14 @@
   url: https://stevelosh.com/blog/2013/09/teach-dont-tell/
   summary: <a href="https://news.ycombinator.com/item?id=43380833">Comments</a>
   published: 2025-03-16 17:55:42 UTC
-- title: Recommendations for designing magic numbers of binary file formats
-  url: https://hackers.town/@zwol/114155595855705796
-  summary: <a href="https://news.ycombinator.com/item?id=43366671">Comments</a>
-  published: 2025-03-14 20:05:53 UTC
 - title: 'Amiga 600: From the Amiga No One Wanted to Retro Favorite'
   url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
   summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
   published: 2025-03-16 17:28:55 UTC
+- title: Recommendations for designing magic numbers of binary file formats
+  url: https://hackers.town/@zwol/114155595855705796
+  summary: <a href="https://news.ycombinator.com/item?id=43366671">Comments</a>
+  published: 2025-03-14 20:05:53 UTC
 - title: When the Dotcom Bubble Burst
   url: https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
   summary: <a href="https://news.ycombinator.com/item?id=43380453">Comments</a>
@@ -71,6 +71,10 @@
   url: https://bye-tracker.net
   summary: <a href="https://news.ycombinator.com/item?id=43378925">Comments</a>
   published: 2025-03-16 13:30:36 UTC
+- title: A Facebook Insider's Exposé Alleges Bad Behavior at the Top
+  url: https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html
+  summary: <a href="https://news.ycombinator.com/item?id=43386253">Comments</a>
+  published: 2025-03-17 08:26:20 UTC
 - title: Tcl Tutorial
   url: https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html
   summary: <a href="https://news.ycombinator.com/item?id=43381195">Comments</a>
@@ -87,10 +91,10 @@
   url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
   summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
   published: 2025-03-16 03:37:47 UTC
-- title: A Facebook Insider's Exposé Alleges Bad Behavior at the Top
-  url: https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html
-  summary: <a href="https://news.ycombinator.com/item?id=43386253">Comments</a>
-  published: 2025-03-17 08:26:20 UTC
+- title: Everything Picolisp can do, and more
+  url: https://picolisp.com/wiki/?Documentation
+  summary: <a href="https://news.ycombinator.com/item?id=43381627">Comments</a>
+  published: 2025-03-16 19:49:02 UTC
 - title: Altbot (Fediverse alt-text generator) no longer uses Google's services
   url: https://fuzzies.wtf/@micr0/114172532499348433
   summary: <a href="https://news.ycombinator.com/item?id=43386333">Comments</a>
@@ -99,10 +103,6 @@
   url: https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
   summary: <a href="https://news.ycombinator.com/item?id=43382261">Comments</a>
   published: 2025-03-16 21:00:22 UTC
-- title: Everything Picolisp can do, and more
-  url: https://picolisp.com/wiki/?Documentation
-  summary: <a href="https://news.ycombinator.com/item?id=43381627">Comments</a>
-  published: 2025-03-16 19:49:02 UTC
 - title: DiceDB
   url: https://dicedb.io/
   summary: <a href="https://news.ycombinator.com/item?id=43379262">Comments</a>
