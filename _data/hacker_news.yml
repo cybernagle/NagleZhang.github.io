@@ -1,12 +1,12 @@
 ---
-- title: The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available
-  url: https://discuss.systems/@dev/114161826926246661
-  summary: <a href="https://news.ycombinator.com/item?id=43385268">Comments</a>
-  published: 2025-03-17 04:41:49 UTC
 - title: uv overtakes Poetry (for Wagtail users)
   url: https://wagtail.org/blog/uv-overtakes-poetry/
   summary: <a href="https://news.ycombinator.com/item?id=43386357">Comments</a>
   published: 2025-03-17 08:49:02 UTC
+- title: The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available
+  url: https://discuss.systems/@dev/114161826926246661
+  summary: <a href="https://news.ycombinator.com/item?id=43385268">Comments</a>
+  published: 2025-03-17 04:41:49 UTC
 - title: Sunsetting Whois
   url: https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en
   summary: <a href="https://news.ycombinator.com/item?id=43384069">Comments</a>
@@ -15,14 +15,14 @@
   url: https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/
   summary: <a href="https://news.ycombinator.com/item?id=43386004">Comments</a>
   published: 2025-03-17 07:30:26 UTC
-- title: Docs – Open source alternative to Notion or Outline
-  url: https://github.com/suitenumerique/docs
-  summary: <a href="https://news.ycombinator.com/item?id=43378239">Comments</a>
-  published: 2025-03-16 11:38:52 UTC
 - title: Checkers written in Rust and exported to WASM
   url: https://kevinalbs.com/checkers/
   summary: <a href="https://news.ycombinator.com/item?id=43364776">Comments</a>
   published: 2025-03-14 17:17:50 UTC
+- title: Docs – Open source alternative to Notion or Outline
+  url: https://github.com/suitenumerique/docs
+  summary: <a href="https://news.ycombinator.com/item?id=43378239">Comments</a>
+  published: 2025-03-16 11:38:52 UTC
 - title: Conducting forensics of mobile devices to find signs of a potential compromise
   url: https://github.com/mvt-project/mvt
   summary: <a href="https://news.ycombinator.com/item?id=43384894">Comments</a>
@@ -51,14 +51,14 @@
   url: https://stevelosh.com/blog/2013/09/teach-dont-tell/
   summary: <a href="https://news.ycombinator.com/item?id=43380833">Comments</a>
   published: 2025-03-16 17:55:42 UTC
-- title: 'Amiga 600: From the Amiga No One Wanted to Retro Favorite'
-  url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
-  summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
-  published: 2025-03-16 17:28:55 UTC
 - title: Recommendations for designing magic numbers of binary file formats
   url: https://hackers.town/@zwol/114155595855705796
   summary: <a href="https://news.ycombinator.com/item?id=43366671">Comments</a>
   published: 2025-03-14 20:05:53 UTC
+- title: 'Amiga 600: From the Amiga No One Wanted to Retro Favorite'
+  url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
+  summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
+  published: 2025-03-16 17:28:55 UTC
 - title: When the Dotcom Bubble Burst
   url: https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
   summary: <a href="https://news.ycombinator.com/item?id=43380453">Comments</a>
@@ -79,43 +79,43 @@
   url: https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
   summary: <a href="https://news.ycombinator.com/item?id=43374278">Comments</a>
   published: 2025-03-15 18:22:15 UTC
-- title: Peru's Great Urban Experiment (2023)
-  url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
-  summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
-  published: 2025-03-16 03:37:47 UTC
 - title: Genomic study indicates our capacity for language emerged 135,000 years ago
   url: https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
   summary: <a href="https://news.ycombinator.com/item?id=43384826">Comments</a>
   published: 2025-03-17 03:09:28 UTC
+- title: Peru's Great Urban Experiment (2023)
+  url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
+  summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
+  published: 2025-03-16 03:37:47 UTC
 - title: Everything Picolisp can do, and more
   url: https://picolisp.com/wiki/?Documentation
   summary: <a href="https://news.ycombinator.com/item?id=43381627">Comments</a>
   published: 2025-03-16 19:49:02 UTC
-- title: Microsoft's 1986 IPO
-  url: https://dfarq.homeip.net/microsofts-1986-ipo/
-  summary: <a href="https://news.ycombinator.com/item?id=43381141">Comments</a>
-  published: 2025-03-16 18:41:30 UTC
 - title: A Guide to Undefined Behavior in C and C++ (2010)
   url: https://blog.regehr.org/archives/213
   summary: <a href="https://news.ycombinator.com/item?id=43352503">Comments</a>
   published: 2025-03-13 12:16:33 UTC
-- title: Local-First and Ejectable
-  url: https://thymer.com/local-first-ejectable
-  summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
-  published: 2025-03-14 14:00:34 UTC
 - title: DiceDB
   url: https://dicedb.io/
   summary: <a href="https://news.ycombinator.com/item?id=43379262">Comments</a>
   published: 2025-03-16 14:20:02 UTC
-- title: From Languages to Language Sets
-  url: https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4
-  summary: <a href="https://news.ycombinator.com/item?id=43360287">Comments</a>
-  published: 2025-03-14 07:12:43 UTC
 - title: 'Kastle (YC S24) Is Hiring Engineer #3'
   url: https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
   summary: <a href="https://news.ycombinator.com/item?id=43382261">Comments</a>
   published: 2025-03-16 21:00:22 UTC
-- title: 'Tänzer: The lovable web server framework for Tcl'
-  url: https://tanzer.io/
-  summary: <a href="https://news.ycombinator.com/item?id=43381497">Comments</a>
-  published: 2025-03-16 19:32:38 UTC
+- title: A Facebook Insider's Exposé Alleges Bad Behavior at the Top
+  url: https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html
+  summary: <a href="https://news.ycombinator.com/item?id=43386253">Comments</a>
+  published: 2025-03-17 08:26:20 UTC
+- title: Local-First and Ejectable
+  url: https://thymer.com/local-first-ejectable
+  summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
+  published: 2025-03-14 14:00:34 UTC
+- title: From Languages to Language Sets
+  url: https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4
+  summary: <a href="https://news.ycombinator.com/item?id=43360287">Comments</a>
+  published: 2025-03-14 07:12:43 UTC
+- title: Microsoft's 1986 IPO
+  url: https://dfarq.homeip.net/microsofts-1986-ipo/
+  summary: <a href="https://news.ycombinator.com/item?id=43381141">Comments</a>
+  published: 2025-03-16 18:41:30 UTC
