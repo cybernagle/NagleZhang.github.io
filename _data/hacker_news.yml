@@ -27,26 +27,26 @@
   url: https://github.com/mvt-project/mvt
   summary: <a href="https://news.ycombinator.com/item?id=43384894">Comments</a>
   published: 2025-03-17 03:25:26 UTC
-- title: Going down the rabbit hole of Git's new bundle-URI
-  url: https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/
-  summary: <a href="https://news.ycombinator.com/item?id=43353223">Comments</a>
-  published: 2025-03-13 13:38:26 UTC
 - title: A AI etymology deconstructor – can guess fake words
   url: https://deconstructor.ayush.digital/
   summary: <a href="https://news.ycombinator.com/item?id=43357591">Comments</a>
   published: 2025-03-13 21:52:41 UTC
+- title: Going down the rabbit hole of Git's new bundle-URI
+  url: https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/
+  summary: <a href="https://news.ycombinator.com/item?id=43353223">Comments</a>
+  published: 2025-03-13 13:38:26 UTC
 - title: Image Processing in C – Dwayne Phillips [pdf]
   url: https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf
   summary: <a href="https://news.ycombinator.com/item?id=43359343">Comments</a>
   published: 2025-03-14 03:30:33 UTC
-- title: Zlib-rs is faster than C
-  url: https://trifectatech.org/blog/zlib-rs-is-faster-than-c/
-  summary: <a href="https://news.ycombinator.com/item?id=43381512">Comments</a>
-  published: 2025-03-16 19:35:07 UTC
 - title: Artificial photosynthesis directed toward organic synthesis
   url: https://www.nature.com/articles/s41467-025-56374-z
   summary: <a href="https://news.ycombinator.com/item?id=43356068">Comments</a>
   published: 2025-03-13 18:36:05 UTC
+- title: Zlib-rs is faster than C
+  url: https://trifectatech.org/blog/zlib-rs-is-faster-than-c/
+  summary: <a href="https://news.ycombinator.com/item?id=43381512">Comments</a>
+  published: 2025-03-16 19:35:07 UTC
 - title: Teach, Don't Tell (2013)
   url: https://stevelosh.com/blog/2013/09/teach-dont-tell/
   summary: <a href="https://news.ycombinator.com/item?id=43380833">Comments</a>
@@ -55,6 +55,10 @@
   url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
   summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
   published: 2025-03-16 17:28:55 UTC
+- title: Recommendations for designing magic numbers of binary file formats
+  url: https://hackers.town/@zwol/114155595855705796
+  summary: <a href="https://news.ycombinator.com/item?id=43366671">Comments</a>
+  published: 2025-03-14 20:05:53 UTC
 - title: When the Dotcom Bubble Burst
   url: https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
   summary: <a href="https://news.ycombinator.com/item?id=43380453">Comments</a>
@@ -75,30 +79,30 @@
   url: https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
   summary: <a href="https://news.ycombinator.com/item?id=43374278">Comments</a>
   published: 2025-03-15 18:22:15 UTC
-- title: Recommendations for designing magic numbers of binary file formats
-  url: https://hackers.town/@zwol/114155595855705796
-  summary: <a href="https://news.ycombinator.com/item?id=43366671">Comments</a>
-  published: 2025-03-14 20:05:53 UTC
 - title: Peru's Great Urban Experiment (2023)
   url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
   summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
   published: 2025-03-16 03:37:47 UTC
-- title: Microsoft's 1986 IPO
-  url: https://dfarq.homeip.net/microsofts-1986-ipo/
-  summary: <a href="https://news.ycombinator.com/item?id=43381141">Comments</a>
-  published: 2025-03-16 18:41:30 UTC
-- title: Everything Picolisp can do, and more
-  url: https://picolisp.com/wiki/?Documentation
-  summary: <a href="https://news.ycombinator.com/item?id=43381627">Comments</a>
-  published: 2025-03-16 19:49:02 UTC
 - title: Genomic study indicates our capacity for language emerged 135,000 years ago
   url: https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
   summary: <a href="https://news.ycombinator.com/item?id=43384826">Comments</a>
   published: 2025-03-17 03:09:28 UTC
+- title: Everything Picolisp can do, and more
+  url: https://picolisp.com/wiki/?Documentation
+  summary: <a href="https://news.ycombinator.com/item?id=43381627">Comments</a>
+  published: 2025-03-16 19:49:02 UTC
+- title: Microsoft's 1986 IPO
+  url: https://dfarq.homeip.net/microsofts-1986-ipo/
+  summary: <a href="https://news.ycombinator.com/item?id=43381141">Comments</a>
+  published: 2025-03-16 18:41:30 UTC
 - title: A Guide to Undefined Behavior in C and C++ (2010)
   url: https://blog.regehr.org/archives/213
   summary: <a href="https://news.ycombinator.com/item?id=43352503">Comments</a>
   published: 2025-03-13 12:16:33 UTC
+- title: Local-First and Ejectable
+  url: https://thymer.com/local-first-ejectable
+  summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
+  published: 2025-03-14 14:00:34 UTC
 - title: DiceDB
   url: https://dicedb.io/
   summary: <a href="https://news.ycombinator.com/item?id=43379262">Comments</a>
@@ -107,10 +111,6 @@
   url: https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4
   summary: <a href="https://news.ycombinator.com/item?id=43360287">Comments</a>
   published: 2025-03-14 07:12:43 UTC
-- title: Local-First and Ejectable
-  url: https://thymer.com/local-first-ejectable
-  summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
-  published: 2025-03-14 14:00:34 UTC
 - title: 'Kastle (YC S24) Is Hiring Engineer #3'
   url: https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
   summary: <a href="https://news.ycombinator.com/item?id=43382261">Comments</a>
