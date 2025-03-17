@@ -19,6 +19,8 @@ navigation:
     url: /
   - title: Blog
     url: /blog/
+  - title: RSS
+    url: /feed/
   - title: Resume
     url: /cv/
 
