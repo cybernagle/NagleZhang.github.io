@@ -10,7 +10,13 @@ module Jekyll
       # 定义 RSS 来源
       feeds = {
         "Reddit Entrepreneur" => "https://www.reddit.com/r/Entrepreneur/.rss",
-        "Hacker News" => "https://news.ycombinator.com/rss"
+        "Investing" => "https://www.investing.com/rss/news.rss",
+        "Hacker News" => "https://news.ycombinator.com/rss",
+        "Startup Stories" => "https://feeds.feedburner.com/Mixergy-main-podcast",
+        "BitCoin News" => "https://cointelegraph.com/rss/tag/bitcoin",
+        "Eth News" => "https://cointelegraph.com/rss/tag/ethereum",
+        "Crypto Market" => "https://cointelegraph.com/rss/category/market-analysis",
+        "Crypto Weekly Overview" => "https://cointelegraph.com/rss/category/weekly-overview"
       }
 
       # 确保 _data 目录存在
