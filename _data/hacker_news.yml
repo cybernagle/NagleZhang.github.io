@@ -27,6 +27,10 @@
   url: https://github.com/mvt-project/mvt
   summary: <a href="https://news.ycombinator.com/item?id=43384894">Comments</a>
   published: 2025-03-17 03:25:26 UTC
+- title: Compression of Spectral Images Using Spectral JPEG XL
+  url: https://jcgt.org/published/0014/01/04/
+  summary: <a href="https://news.ycombinator.com/item?id=43377463">Comments</a>
+  published: 2025-03-16 07:37:20 UTC
 - title: A AI etymology deconstructor – can guess fake words
   url: https://deconstructor.ayush.digital/
   summary: <a href="https://news.ycombinator.com/item?id=43357591">Comments</a>
@@ -35,10 +39,6 @@
   url: https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/
   summary: <a href="https://news.ycombinator.com/item?id=43353223">Comments</a>
   published: 2025-03-13 13:38:26 UTC
-- title: Compression of Spectral Images Using Spectral JPEG XL
-  url: https://jcgt.org/published/0014/01/04/
-  summary: <a href="https://news.ycombinator.com/item?id=43377463">Comments</a>
-  published: 2025-03-16 07:37:20 UTC
 - title: Image Processing in C – Dwayne Phillips [pdf]
   url: https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf
   summary: <a href="https://news.ycombinator.com/item?id=43359343">Comments</a>
@@ -67,6 +67,10 @@
   url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
   summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
   published: 2025-03-16 17:28:55 UTC
+- title: Technical Mathematics (1954) [pdf]
+  url: https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf
+  summary: <a href="https://news.ycombinator.com/item?id=43385857">Comments</a>
+  published: 2025-03-17 07:03:59 UTC
 - title: Genomic study indicates our capacity for language emerged 135,000 years ago
   url: https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
   summary: <a href="https://news.ycombinator.com/item?id=43384826">Comments</a>
@@ -83,18 +87,14 @@
   url: https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html
   summary: <a href="https://news.ycombinator.com/item?id=43381195">Comments</a>
   published: 2025-03-16 18:48:39 UTC
-- title: 'Show HN: 10 teams are racing to build a pivotal tracker replacement'
-  url: https://bye-tracker.net
-  summary: <a href="https://news.ycombinator.com/item?id=43378925">Comments</a>
-  published: 2025-03-16 13:30:36 UTC
 - title: That Time I Recreated Photoshop in C++
   url: https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
   summary: <a href="https://news.ycombinator.com/item?id=43374278">Comments</a>
   published: 2025-03-15 18:22:15 UTC
-- title: Technical Mathematics (1954) [pdf]
-  url: https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf
-  summary: <a href="https://news.ycombinator.com/item?id=43385857">Comments</a>
-  published: 2025-03-17 07:03:59 UTC
+- title: 'Show HN: 10 teams are racing to build a pivotal tracker replacement'
+  url: https://bye-tracker.net
+  summary: <a href="https://news.ycombinator.com/item?id=43378925">Comments</a>
+  published: 2025-03-16 13:30:36 UTC
 - title: Peru's Great Urban Experiment (2023)
   url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
   summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
