@@ -23,6 +23,10 @@
   url: https://www.gethistories.com/p/the-trials-of-an-exorcist-1597
   summary: <a href="https://news.ycombinator.com/item?id=43365878">Comments</a>
   published: 2025-03-14 18:47:48 UTC
+- title: 'Show HN: Beyond Jira: Lightweight Project Management for Freelancers'
+  url: https://enkitask.com/
+  summary: <a href="https://news.ycombinator.com/item?id=43386745">Comments</a>
+  published: 2025-03-17 10:02:22 UTC
 - title: Conducting forensics of mobile devices to find signs of a potential compromise
   url: https://github.com/mvt-project/mvt
   summary: <a href="https://news.ycombinator.com/item?id=43384894">Comments</a>
@@ -35,14 +39,6 @@
   url: https://jcgt.org/published/0014/01/04/
   summary: <a href="https://news.ycombinator.com/item?id=43377463">Comments</a>
   published: 2025-03-16 07:37:20 UTC
-- title: A AI etymology deconstructor – can guess fake words
-  url: https://deconstructor.ayush.digital/
-  summary: <a href="https://news.ycombinator.com/item?id=43357591">Comments</a>
-  published: 2025-03-13 21:52:41 UTC
-- title: 'Show HN: Beyond Jira: Lightweight Project Management for Freelancers'
-  url: https://enkitask.com/
-  summary: <a href="https://news.ycombinator.com/item?id=43386745">Comments</a>
-  published: 2025-03-17 10:02:22 UTC
 - title: Going down the rabbit hole of Git's new bundle-URI
   url: https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/
   summary: <a href="https://news.ycombinator.com/item?id=43353223">Comments</a>
@@ -55,6 +51,10 @@
   url: https://trifectatech.org/blog/zlib-rs-is-faster-than-c/
   summary: <a href="https://news.ycombinator.com/item?id=43381512">Comments</a>
   published: 2025-03-16 19:35:07 UTC
+- title: Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware
+  url: https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/
+  summary: <a href="https://news.ycombinator.com/item?id=43386856">Comments</a>
+  published: 2025-03-17 10:22:40 UTC
 - title: Technical Mathematics (1954) [pdf]
   url: https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf
   summary: <a href="https://news.ycombinator.com/item?id=43385857">Comments</a>
@@ -67,10 +67,6 @@
   url: https://www.nature.com/articles/s41467-025-56374-z
   summary: <a href="https://news.ycombinator.com/item?id=43356068">Comments</a>
   published: 2025-03-13 18:36:05 UTC
-- title: Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware
-  url: https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/
-  summary: <a href="https://news.ycombinator.com/item?id=43386856">Comments</a>
-  published: 2025-03-17 10:22:40 UTC
 - title: Teach, Don't Tell (2013)
   url: https://stevelosh.com/blog/2013/09/teach-dont-tell/
   summary: <a href="https://news.ycombinator.com/item?id=43380833">Comments</a>
@@ -79,14 +75,14 @@
   url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
   summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
   published: 2025-03-16 17:28:55 UTC
-- title: When the Dotcom Bubble Burst
-  url: https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
-  summary: <a href="https://news.ycombinator.com/item?id=43380453">Comments</a>
-  published: 2025-03-16 17:02:34 UTC
 - title: A Facebook Insider's Exposé Alleges Bad Behavior at the Top
   url: https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html
   summary: <a href="https://news.ycombinator.com/item?id=43386253">Comments</a>
   published: 2025-03-17 08:26:20 UTC
+- title: When the Dotcom Bubble Burst
+  url: https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
+  summary: <a href="https://news.ycombinator.com/item?id=43380453">Comments</a>
+  published: 2025-03-16 17:02:34 UTC
 - title: Did the Particle Go Through the Two Slits, or Did the Wave Function?
   url: https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/
   summary: <a href="https://news.ycombinator.com/item?id=43353947">Comments</a>
@@ -119,3 +115,7 @@
   url: https://thymer.com/local-first-ejectable
   summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
   published: 2025-03-14 14:00:34 UTC
+- title: DiceDB
+  url: https://dicedb.io/
+  summary: <a href="https://news.ycombinator.com/item?id=43379262">Comments</a>
+  published: 2025-03-16 14:20:02 UTC
