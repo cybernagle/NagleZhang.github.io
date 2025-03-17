@@ -11,14 +11,14 @@
   url: https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/
   summary: <a href="https://news.ycombinator.com/item?id=43386004">Comments</a>
   published: 2025-03-17 07:30:26 UTC
-- title: Checkers written in Rust and exported to WASM
-  url: https://kevinalbs.com/checkers/
-  summary: <a href="https://news.ycombinator.com/item?id=43364776">Comments</a>
-  published: 2025-03-14 17:17:50 UTC
 - title: Docs – Open source alternative to Notion or Outline
   url: https://github.com/suitenumerique/docs
   summary: <a href="https://news.ycombinator.com/item?id=43378239">Comments</a>
   published: 2025-03-16 11:38:52 UTC
+- title: Checkers written in Rust and exported to WASM
+  url: https://kevinalbs.com/checkers/
+  summary: <a href="https://news.ycombinator.com/item?id=43364776">Comments</a>
+  published: 2025-03-14 17:17:50 UTC
 - title: Conducting forensics of mobile devices to find signs of a potential compromise
   url: https://github.com/mvt-project/mvt
   summary: <a href="https://news.ycombinator.com/item?id=43384894">Comments</a>
@@ -59,18 +59,10 @@
   url: https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/
   summary: <a href="https://news.ycombinator.com/item?id=43353947">Comments</a>
   published: 2025-03-13 14:49:06 UTC
-- title: Peru's Great Urban Experiment (2023)
-  url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
-  summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
-  published: 2025-03-16 03:37:47 UTC
 - title: That Time I Recreated Photoshop in C++
   url: https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
   summary: <a href="https://news.ycombinator.com/item?id=43374278">Comments</a>
   published: 2025-03-15 18:22:15 UTC
-- title: Microsoft's 1986 IPO
-  url: https://dfarq.homeip.net/microsofts-1986-ipo/
-  summary: <a href="https://news.ycombinator.com/item?id=43381141">Comments</a>
-  published: 2025-03-16 18:41:30 UTC
 - title: Tcl Tutorial
   url: https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html
   summary: <a href="https://news.ycombinator.com/item?id=43381195">Comments</a>
@@ -79,6 +71,14 @@
   url: https://bye-tracker.net
   summary: <a href="https://news.ycombinator.com/item?id=43378925">Comments</a>
   published: 2025-03-16 13:30:36 UTC
+- title: Peru's Great Urban Experiment (2023)
+  url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
+  summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
+  published: 2025-03-16 03:37:47 UTC
+- title: Microsoft's 1986 IPO
+  url: https://dfarq.homeip.net/microsofts-1986-ipo/
+  summary: <a href="https://news.ycombinator.com/item?id=43381141">Comments</a>
+  published: 2025-03-16 18:41:30 UTC
 - title: Everything Picolisp can do, and more
   url: https://picolisp.com/wiki/?Documentation
   summary: <a href="https://news.ycombinator.com/item?id=43381627">Comments</a>
@@ -95,27 +95,27 @@
   url: https://thymer.com/local-first-ejectable
   summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
   published: 2025-03-14 14:00:34 UTC
-- title: 'Kastle (YC S24) Is Hiring Engineer #3'
-  url: https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
-  summary: <a href="https://news.ycombinator.com/item?id=43382261">Comments</a>
-  published: 2025-03-16 21:00:22 UTC
 - title: DiceDB
   url: https://dicedb.io/
   summary: <a href="https://news.ycombinator.com/item?id=43379262">Comments</a>
   published: 2025-03-16 14:20:02 UTC
+- title: 'Kastle (YC S24) Is Hiring Engineer #3'
+  url: https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
+  summary: <a href="https://news.ycombinator.com/item?id=43382261">Comments</a>
+  published: 2025-03-16 21:00:22 UTC
 - title: 'Tänzer: The lovable web server framework for Tcl'
   url: https://tanzer.io/
   summary: <a href="https://news.ycombinator.com/item?id=43381497">Comments</a>
   published: 2025-03-16 19:32:38 UTC
-- title: Genomic study indicates our capacity for language emerged 135,000 years ago
-  url: https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
-  summary: <a href="https://news.ycombinator.com/item?id=43384826">Comments</a>
-  published: 2025-03-17 03:09:28 UTC
-- title: A 62M-year-old skeleton sheds light on an enigmatic mammal
-  url: https://www.sciencedaily.com/releases/2025/03/250311121514.htm
-  summary: <a href="https://news.ycombinator.com/item?id=43354084">Comments</a>
-  published: 2025-03-13 15:03:08 UTC
 - title: Edgar Allan Poe's life was a mess. But his work was in his command
   url: https://www.washingtonpost.com/books/2025/03/13/edgar-allan-poe-biography-kopley-review/
   summary: <a href="https://news.ycombinator.com/item?id=43366124">Comments</a>
   published: 2025-03-14 19:12:12 UTC
+- title: A 62M-year-old skeleton sheds light on an enigmatic mammal
+  url: https://www.sciencedaily.com/releases/2025/03/250311121514.htm
+  summary: <a href="https://news.ycombinator.com/item?id=43354084">Comments</a>
+  published: 2025-03-13 15:03:08 UTC
+- title: Genomic study indicates our capacity for language emerged 135,000 years ago
+  url: https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
+  summary: <a href="https://news.ycombinator.com/item?id=43384826">Comments</a>
+  published: 2025-03-17 03:09:28 UTC
