@@ -81,6 +81,8 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.1)
     rouge (4.5.1)
+    rss (0.3.1)
+      rexml
     safe_yaml (1.0.5)
     sass-embedded (1.69.5)
       google-protobuf (~> 3.23)
@@ -108,6 +110,8 @@ DEPENDENCIES
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.17.0)
   jekyll-seo-tag (~> 2.8.0)
+  nokogiri (~> 1.18.4)
+  rss (~> 0.3.1)
   webrick (~> 1.8)
 
 BUNDLED WITH

@@ -1,5 +1,8 @@
 require 'feedjira'
 require 'open-uri'
+require 'rss'
+require 'yaml'
+require 'nokogiri'
 
 module Jekyll
   class RSSGenerator < Generator
@@ -26,16 +29,11 @@ module Jekyll
       feeds.each do |name, url|
         begin
           # 抓取 RSS 数据
-          feed = Feedjira.parse(URI.open(url).read)
+          feed = fetch_rss_feed(url)
           file_path = File.join(data_dir, "#{name.downcase.gsub(' ', '_')}.yml")
 
           # 将数据写入 YAML 文件
-          File.write(file_path, feed.entries.map { |entry| {
-            "title" => entry.title,
-            "url" => entry.url,
-            "summary" => entry.summary || "No summary available",
-            "published" => entry.published&.to_s || Time.now.to_s
-          } }.to_yaml)
+          save_to_yaml(feed, file_path)
           puts "Successfully fetched #{name} RSS to #{file_path}"
         rescue StandardError => e
           puts "Error fetching #{name}: #{e.message}"
@@ -44,4 +42,43 @@ module Jekyll
     end
   end
 end
-        # "Product Hunt" => "https://www.producthunt.com/feed",
+
+def fetch_rss_feed(url)
+  URI.open(url) do |rss|
+    feed = RSS::Parser.parse(rss)
+    feed.items.map do |item|
+      {
+        "title" => item.title,
+        "url" => item.link,
+        "summary" => format_summary(item),
+        "published" => item.pubDate
+      }
+    end
+  end
+end
+
+def format_summary(item)
+  summary = if item.respond_to?(:description) && item.description
+              item.description
+            elsif item.respond_to?(:content) && item.content
+              item.content
+            elsif item.respond_to?(:summary) && item.summary
+              item.summary
+            else
+              "No summary available"
+            end
+
+  # Check if the summary contains HTML tags
+  if summary =~ /<\/?[a-z][\s\S]*>/i
+    # Parse and clean the HTML content
+    Nokogiri::HTML(summary).text
+  else
+    summary
+  end
+end
+
+def save_to_yaml(data, filename)
+  File.open(filename, 'w') do |file|
+    file.write(data.to_yaml)
+  end
+end
