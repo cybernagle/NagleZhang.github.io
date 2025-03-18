@@ -4,7 +4,6 @@ title: Market Feed
 permalink: /feed/
 ---
 
-<h1>Market Feed</h1>
 {% for feed in site.data %}
   <h2>{{ feed[0] }}</h2>
   <ul>
@@ -12,9 +11,15 @@ permalink: /feed/
     <li>
       <a href="{{ entry.url }}">{{ entry.title }}</a>
       {% if entry.summary contains "<p>" %}
-        <p>{{ entry.summary markdownify }}</p>
+        <details>
+          <summary>Click to expand</summary>
+          <p>{{ entry.summary markdownify }}</p>
+        </details>
       {% else %}
-        <p>{{ entry.summary }}</p>
+        <details>
+          <summary>Click to expand</summary>
+          <p>{{ entry.summary }}</p>
+        </details>
       {% endif %}
       <small>{{ entry.published }}</small>
     </li>
