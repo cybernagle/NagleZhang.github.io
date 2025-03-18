@@ -1,121 +1,121 @@
 ---
-- title: The Alexa feature "Do Not Send Voice Recordings" you enabled no longer available
-  url: https://discuss.systems/@dev/114161826926246661
-  summary: <a href="https://news.ycombinator.com/item?id=43385268">Comments</a>
-  published: 2025-03-17 04:41:49 UTC
-- title: Launching RDAP; sunsetting WHOIS
-  url: https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en
-  summary: <a href="https://news.ycombinator.com/item?id=43384069">Comments</a>
-  published: 2025-03-17 00:48:48 UTC
-- title: uv downloads overtake Poetry for Wagtail users
-  url: https://wagtail.org/blog/uv-overtakes-poetry/
-  summary: <a href="https://news.ycombinator.com/item?id=43386357">Comments</a>
-  published: 2025-03-17 08:49:02 UTC
-- title: The exceptional Jordan algebra (2020)
-  url: https://cp4space.hatsya.com/2020/10/28/the-exceptional-jordan-algebra/
-  summary: <a href="https://news.ycombinator.com/item?id=43386004">Comments</a>
-  published: 2025-03-17 07:30:26 UTC
-- title: Docs – Open source alternative to Notion or Outline
-  url: https://github.com/suitenumerique/docs
-  summary: <a href="https://news.ycombinator.com/item?id=43378239">Comments</a>
-  published: 2025-03-16 11:38:52 UTC
-- title: The Trials of an Exorcist, 1597
-  url: https://www.gethistories.com/p/the-trials-of-an-exorcist-1597
-  summary: <a href="https://news.ycombinator.com/item?id=43365878">Comments</a>
-  published: 2025-03-14 18:47:48 UTC
-- title: 'Show HN: Beyond Jira: Lightweight Project Management for Freelancers'
-  url: https://enkitask.com/
-  summary: <a href="https://news.ycombinator.com/item?id=43386745">Comments</a>
-  published: 2025-03-17 10:02:22 UTC
-- title: Conducting forensics of mobile devices to find signs of a potential compromise
-  url: https://github.com/mvt-project/mvt
-  summary: <a href="https://news.ycombinator.com/item?id=43384894">Comments</a>
-  published: 2025-03-17 03:25:26 UTC
-- title: Checkers written in Rust and exported to WASM
-  url: https://kevinalbs.com/checkers/
-  summary: <a href="https://news.ycombinator.com/item?id=43364776">Comments</a>
-  published: 2025-03-14 17:17:50 UTC
-- title: Compression of Spectral Images Using Spectral JPEG XL
-  url: https://jcgt.org/published/0014/01/04/
-  summary: <a href="https://news.ycombinator.com/item?id=43377463">Comments</a>
-  published: 2025-03-16 07:37:20 UTC
-- title: Going down the rabbit hole of Git's new bundle-URI
-  url: https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/
-  summary: <a href="https://news.ycombinator.com/item?id=43353223">Comments</a>
-  published: 2025-03-13 13:38:26 UTC
-- title: Image Processing in C – Dwayne Phillips [pdf]
-  url: https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf
-  summary: <a href="https://news.ycombinator.com/item?id=43359343">Comments</a>
-  published: 2025-03-14 03:30:33 UTC
-- title: Zlib-rs is faster than C
-  url: https://trifectatech.org/blog/zlib-rs-is-faster-than-c/
-  summary: <a href="https://news.ycombinator.com/item?id=43381512">Comments</a>
-  published: 2025-03-16 19:35:07 UTC
-- title: Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware
-  url: https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/
-  summary: <a href="https://news.ycombinator.com/item?id=43386856">Comments</a>
-  published: 2025-03-17 10:22:40 UTC
-- title: Technical Mathematics (1954) [pdf]
-  url: https://sliderulemuseum.com/Manuals/TechnicalMathematics_RiceAndKnight.pdf
-  summary: <a href="https://news.ycombinator.com/item?id=43385857">Comments</a>
-  published: 2025-03-17 07:03:59 UTC
+- title: GIMP 3.0
+  url: https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/
+  summary: <a href="https://news.ycombinator.com/item?id=43393822">Comments</a>
+  published: 2025-03-17 23:25:53 UTC
+- title: Past and Present Futures of User Interface Design
+  url: https://www.datagubbe.se/futui/
+  summary: <a href="https://news.ycombinator.com/item?id=43393924">Comments</a>
+  published: 2025-03-17 23:35:02 UTC
+- title: Archival Storage
+  url: https://blog.dshr.org/2025/03/archival-storage.html
+  summary: <a href="https://news.ycombinator.com/item?id=43391459">Comments</a>
+  published: 2025-03-17 18:36:21 UTC
+- title: Deep Learning Is Not So Mysterious or Different
+  url: https://arxiv.org/abs/2503.02113
+  summary: <a href="https://news.ycombinator.com/item?id=43390400">Comments</a>
+  published: 2025-03-17 16:47:02 UTC
+- title: 'Show HN: OpenTimes – Free travel times between U.S. Census geographies'
+  url: https://opentimes.org
+  summary: <a href="https://news.ycombinator.com/item?id=43392521">Comments</a>
+  published: 2025-03-17 20:40:52 UTC
+- title: PrintedLabs – 3D printable optical experiment equipment
+  url: https://printedlabs.uni-bayreuth.de/en
+  summary: <a href="https://news.ycombinator.com/item?id=43378114">Comments</a>
+  published: 2025-03-16 11:05:58 UTC
+- title: Alphabet spins out Taara – Internet over lasers
+  url: https://x.company/blog/posts/taara-graduation/
+  summary: <a href="https://news.ycombinator.com/item?id=43390467">Comments</a>
+  published: 2025-03-17 16:55:17 UTC
+- title: Doctor Droid (YC W23) Is Hiring
+  url: https://www.ycombinator.com/companies/doctor-droid/jobs/2v9x6QW-ai-lead
+  summary: <a href="https://news.ycombinator.com/item?id=43394621">Comments</a>
+  published: 2025-03-18 01:00:34 UTC
+- title: Hidden Messages in Emojis and Hacking the US Treasury
+  url: https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking
+  summary: <a href="https://news.ycombinator.com/item?id=43359264">Comments</a>
+  published: 2025-03-14 03:13:26 UTC
+- title: Quantum Speedup Found for Class of Hard Problems
+  url: https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/
+  summary: <a href="https://news.ycombinator.com/item?id=43392950">Comments</a>
+  published: 2025-03-17 21:34:53 UTC
+- title: After 47 years, OpenVMS gets a package manager (VSP)
+  url: https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html
+  summary: <a href="https://news.ycombinator.com/item?id=43392295">Comments</a>
+  published: 2025-03-17 20:11:09 UTC
+- title: The High Heel Problem
+  url: https://simonschreibt.de/gat/the-high-heel-problem/
+  summary: <a href="https://news.ycombinator.com/item?id=43392549">Comments</a>
+  published: 2025-03-17 20:43:35 UTC
+- title: Don't Try to Reform Science
+  url: https://maxwellforbes.com/posts/dont-try-to-reform-science/
+  summary: <a href="https://news.ycombinator.com/item?id=43374753">Comments</a>
+  published: 2025-03-15 19:45:04 UTC
+- title: HTTP/3 is everywhere but nowhere
+  url: https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/
+  summary: <a href="https://news.ycombinator.com/item?id=43360251">Comments</a>
+  published: 2025-03-14 07:02:39 UTC
+- title: Carefully but Purposefully Oxidising Ubuntu
+  url: https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu
+  summary: <a href="https://news.ycombinator.com/item?id=43360969">Comments</a>
+  published: 2025-03-14 09:37:57 UTC
+- title: Wall Street’s ‘Private Rooms’
+  url: https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms
+  summary: <a href="https://news.ycombinator.com/item?id=43390595">Comments</a>
+  published: 2025-03-17 17:10:59 UTC
+- title: 'Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript'
+  url: https://github.com/casparwylie/cascii-core
+  summary: <a href="https://news.ycombinator.com/item?id=43377897">Comments</a>
+  published: 2025-03-16 10:02:21 UTC
+- title: Theory crafting a system for 1000 simultaneous micro SD card ingests
+  url: https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159
+  summary: <a href="https://news.ycombinator.com/item?id=43361389">Comments</a>
+  published: 2025-03-14 11:00:41 UTC
+- title: 'Show HN: Psychedelic animation generator; (p)art of your next trip'
+  url: https://collidingscopes.github.io/liquid-shape-distortions/
+  summary: <a href="https://news.ycombinator.com/item?id=43358264">Comments</a>
+  published: 2025-03-13 23:26:56 UTC
+- title: Extracting content from an LCP “protected” ePub
+  url: https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/
+  summary: <a href="https://news.ycombinator.com/item?id=43378627">Comments</a>
+  published: 2025-03-16 12:50:56 UTC
+- title: Dataminr tracked Gaza-related protests
+  url: https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/
+  summary: <a href="https://news.ycombinator.com/item?id=43390747">Comments</a>
+  published: 2025-03-17 17:25:35 UTC
+- title: 'Show HN: Localscope–Limit scope of Python functions for reproducible execution'
+  url: https://localscope.readthedocs.io/en/latest/
+  summary: <a href="https://news.ycombinator.com/item?id=43390823">Comments</a>
+  published: 2025-03-17 17:33:14 UTC
+- title: Stupid Smart Pointers in C
+  url: http://blog.kevinalbs.com/stupid_smart_pointers
+  summary: <a href="https://news.ycombinator.com/item?id=43387334">Comments</a>
+  published: 2025-03-17 11:29:04 UTC
+- title: Underware 2.0 – Open Source Infinite Cable Management
+  url: https://makerworld.com/en/models/783010-underware-2-0-infinite-cable-management
+  summary: <a href="https://news.ycombinator.com/item?id=43386578">Comments</a>
+  published: 2025-03-17 09:29:33 UTC
+- title: 'Coq-of-rust: Formal verification tool for Rust'
+  url: https://github.com/formal-land/coq-of-rust
+  summary: <a href="https://news.ycombinator.com/item?id=43360633">Comments</a>
+  published: 2025-03-14 08:34:18 UTC
+- title: Occupry your next lease to negotiate a better deal
+  url: https://occupry.com
+  summary: <a href="https://news.ycombinator.com/item?id=43392303">Comments</a>
+  published: 2025-03-17 20:12:40 UTC
 - title: Recommendations for designing magic numbers of binary file formats
   url: https://hackers.town/@zwol/114155595855705796
   summary: <a href="https://news.ycombinator.com/item?id=43366671">Comments</a>
   published: 2025-03-14 20:05:53 UTC
-- title: Artificial photosynthesis directed toward organic synthesis
-  url: https://www.nature.com/articles/s41467-025-56374-z
-  summary: <a href="https://news.ycombinator.com/item?id=43356068">Comments</a>
-  published: 2025-03-13 18:36:05 UTC
-- title: Teach, Don't Tell (2013)
-  url: https://stevelosh.com/blog/2013/09/teach-dont-tell/
-  summary: <a href="https://news.ycombinator.com/item?id=43380833">Comments</a>
-  published: 2025-03-16 17:55:42 UTC
-- title: 'Amiga 600: From the Amiga No One Wanted to Retro Favorite'
-  url: https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/
-  summary: <a href="https://news.ycombinator.com/item?id=43380649">Comments</a>
-  published: 2025-03-16 17:28:55 UTC
-- title: A Facebook Insider's Exposé Alleges Bad Behavior at the Top
-  url: https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html
-  summary: <a href="https://news.ycombinator.com/item?id=43386253">Comments</a>
-  published: 2025-03-17 08:26:20 UTC
-- title: When the Dotcom Bubble Burst
-  url: https://dfarq.homeip.net/when-the-dotcom-bubble-burst/
-  summary: <a href="https://news.ycombinator.com/item?id=43380453">Comments</a>
-  published: 2025-03-16 17:02:34 UTC
-- title: Did the Particle Go Through the Two Slits, or Did the Wave Function?
-  url: https://profmattstrassler.com/2025/03/13/did-the-particle-go-through-the-two-slits-or-did-the-wave-function/
-  summary: <a href="https://news.ycombinator.com/item?id=43353947">Comments</a>
-  published: 2025-03-13 14:49:06 UTC
-- title: Genomic study indicates our capacity for language emerged 135,000 years ago
-  url: https://phys.org/news/2025-03-genomic-capacity-language-emerged-years.html
-  summary: <a href="https://news.ycombinator.com/item?id=43384826">Comments</a>
-  published: 2025-03-17 03:09:28 UTC
-- title: Tcl Tutorial
-  url: https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html
-  summary: <a href="https://news.ycombinator.com/item?id=43381195">Comments</a>
-  published: 2025-03-16 18:48:39 UTC
-- title: That Time I Recreated Photoshop in C++
-  url: https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/
-  summary: <a href="https://news.ycombinator.com/item?id=43374278">Comments</a>
-  published: 2025-03-15 18:22:15 UTC
-- title: 'Show HN: 10 teams are racing to build a pivotal tracker replacement'
-  url: https://bye-tracker.net
-  summary: <a href="https://news.ycombinator.com/item?id=43378925">Comments</a>
-  published: 2025-03-16 13:30:36 UTC
-- title: Peru's Great Urban Experiment (2023)
-  url: https://archaeology.org/issues/may-june-2023/features/peru-chimu-chan-chan/
-  summary: <a href="https://news.ycombinator.com/item?id=43376793">Comments</a>
-  published: 2025-03-16 03:37:47 UTC
-- title: 'Kastle (YC S24) Is Hiring Engineer #3'
-  url: https://www.ycombinator.com/companies/kastle/jobs/XSq5nJT-founding-applied-ai-engineer-at-kastle
-  summary: <a href="https://news.ycombinator.com/item?id=43382261">Comments</a>
-  published: 2025-03-16 21:00:22 UTC
-- title: Local-First and Ejectable
-  url: https://thymer.com/local-first-ejectable
-  summary: <a href="https://news.ycombinator.com/item?id=43362725">Comments</a>
-  published: 2025-03-14 14:00:34 UTC
-- title: DiceDB
-  url: https://dicedb.io/
-  summary: <a href="https://news.ycombinator.com/item?id=43379262">Comments</a>
-  published: 2025-03-16 14:20:02 UTC
+- title: 'Show HN: A bi-directional, persisted KV store that is faster than Redis'
+  url: https://hpkv.io
+  summary: <a href="https://news.ycombinator.com/item?id=43387834">Comments</a>
+  published: 2025-03-17 12:35:16 UTC
+- title: Launching RDAP; sunsetting WHOIS
+  url: https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en
+  summary: <a href="https://news.ycombinator.com/item?id=43384069">Comments</a>
+  published: 2025-03-17 00:48:48 UTC
+- title: American Pharmaceutical Companies Aren't Paying Tax in the U.S.
+  url: https://www.cfr.org/blog/american-pharmaceutical-companies-still-arent-paying-tax-us
+  summary: <a href="https://news.ycombinator.com/item?id=43394643">Comments</a>
+  published: 2025-03-18 01:03:19 UTC
