@@ -1,124 +1,123 @@
 ---
-- title: Make Ubuntu packages 90% faster by rebuilding them
-  url: https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097
+- title: 'Bolt3D: Generating 3D Scenes in Seconds'
+  url: https://szymanowiczs.github.io/bolt3d
   summary: Comments
-  published: 2025-03-18 23:55:17.000000000 +00:00
-- title: Two new PebbleOS watches
-  url: https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/
+  published: 2025-03-19 22:30:56.000000000 +00:00
+- title: How fast the days are getting longer
+  url: https://joe-antognini.github.io/astronomy/daylight
   summary: Comments
-  published: 2025-03-18 15:59:27.000000000 +00:00
-- title: Crew-9 Returns to Earth
-  url: https://www.spacex.com/launches/mission/?missionId=crew-9-return
+  published: 2025-03-19 16:13:20.000000000 +00:00
+- title: DESI Opens Access to the Largest 3D Map of the Universe Yet
+  url: https://newscenter.lbl.gov/2025/03/19/desi-opens-access-to-the-largest-3d-map-of-the-universe-yet/
   summary: Comments
-  published: 2025-03-19 05:32:52.000000000 +00:00
-- title: Apple restricts Pebble from being awesome with iPhones
-  url: https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/
+  published: 2025-03-19 23:08:08.000000000 +00:00
+- title: LLM Agents Are Simply Graph – Tutorial for Dummies
+  url: https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial
   summary: Comments
-  published: 2025-03-18 16:23:21.000000000 +00:00
-- title: Visualising data structures and algorithms through animation
-  url: https://visualgo.net/en
+  published: 2025-03-19 21:29:13.000000000 +00:00
+- title: AI Blindspots – Blindspots in LLMs I've noticed while AI coding
+  url: https://ezyang.github.io/ai-blindspots/
   summary: Comments
-  published: 2025-03-16 12:19:29.000000000 +00:00
-- title: Some notes on Grafana Loki's new "structured metadata"
-  url: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiStructuredMetadata
+  published: 2025-03-19 16:48:32.000000000 +00:00
+- title: Muons used to test the condition of a road bridge in Estonia
+  url: https://news.err.ee/1609634600/muons-used-to-test-the-condition-of-a-road-bridge-in-estonia
   summary: Comments
-  published: 2025-03-16 10:38:57.000000000 +00:00
-- title: 'Show HN: I made a tool to port tweets to Bluesky mantaining their original
-    date'
-  url: https://bluemigrate.com
+  published: 2025-03-16 12:05:53.000000000 +00:00
+- title: 'fd: A simple, fast and user-friendly alternative to ''find'''
+  url: https://github.com/sharkdp/fd
   summary: Comments
-  published: 2025-03-18 17:07:39.000000000 +00:00
-- title: 'Artificial Intelligence: Foundations of Computational Agents'
-  url: https://artint.info/index.html
+  published: 2025-03-19 11:44:17.000000000 +00:00
+- title: 'Doge to Fired CISA Staff: Email Us Your Personal Data'
+  url: https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/
   summary: Comments
-  published: 2025-03-16 11:36:23.000000000 +00:00
-- title: Google to buy Wiz for $32B
-  url: https://www.reuters.com/technology/cybersecurity/google-agrees-buy-cybersecurity-startup-wiz-32-bln-ft-reports-2025-03-18/
+  published: 2025-03-20 01:29:15.000000000 +00:00
+- title: Database management in a single PHP file
+  url: https://github.com/vrana/adminer
   summary: Comments
-  published: 2025-03-18 12:18:29.000000000 +00:00
-- title: Designing Electronics That Work
-  url: https://www.hscott.net/designing-electronics-that-work/
+  published: 2025-03-17 09:30:02.000000000 +00:00
+- title: Writing an LLM from scratch, part 10 – dropout
+  url: https://www.gilesthomas.com/2025/03/llm-from-scratch-10-dropout
   summary: Comments
-  published: 2025-03-18 16:18:08.000000000 +00:00
-- title: HTTrack Website Copier
-  url: https://www.httrack.com/
+  published: 2025-03-20 01:25:54.000000000 +00:00
+- title: Looking Ahead at Intel's Xe3 GPU Architecture
+  url: https://chipsandcheese.com/p/looking-ahead-at-intels-xe3-gpu-architecture
   summary: Comments
-  published: 2025-03-18 17:30:13.000000000 +00:00
-- title: SheepShaver is an open source PowerPC Apple Macintosh emulator
-  url: https://www.emaculation.com/doku.php/sheepshaver
+  published: 2025-03-19 20:31:13.000000000 +00:00
+- title: The Lost Art of Research as Leisure
+  url: https://kasurian.com/p/research-as-leisure
   summary: Comments
-  published: 2025-03-16 10:32:02.000000000 +00:00
-- title: Karatsuba Matrix Multiplication and Its Efficient Hardware Implementations
-  url: https://arxiv.org/abs/2501.08889
+  published: 2025-03-19 10:09:15.000000000 +00:00
+- title: Introduction to Deep Learning (CMU)
+  url: https://deeplearning.cs.cmu.edu/./S25/index.html
   summary: Comments
-  published: 2025-03-15 12:55:10.000000000 +00:00
-- title: 'Show HN: "Git who" – A new CLI tool for industrial-scale Git blaming'
-  url: https://github.com/sinclairtarget/git-who
+  published: 2025-03-19 23:12:45.000000000 +00:00
+- title: Fine-tune Google's Gemma 3
+  url: https://unsloth.ai/blog/gemma3
   summary: Comments
-  published: 2025-03-18 20:20:09.000000000 +00:00
-- title: Gnome / mutter triple buffering patch merged
-  url: https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/1441
+  published: 2025-03-19 16:34:45.000000000 +00:00
+- title: Orpheus-3B – Emotive TTS by Canopy Labs
+  url: https://canopylabs.ai/model-releases
   summary: Comments
-  published: 2025-03-15 11:20:48.000000000 +00:00
-- title: US appeals court rules AI generated art cannot be copyrighted
-  url: https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/
+  published: 2025-03-19 22:26:39.000000000 +00:00
+- title: 'Launch HN: Modernbanc (YC W20) – Modern and fast accounting software'
+  url: https://news.ycombinator.com/item?id=43414405
   summary: Comments
-  published: 2025-03-18 18:17:33.000000000 +00:00
-- title: The "Memory Cartography" of Azerbaijani Emigrants
-  url: https://jam-news.net/memory-cartography-of-azerbaijani-emigrants/
+  published: 2025-03-19 16:50:05.000000000 +00:00
+- title: 'The Continuing Crisis, Part IX: Inside the NIH Now'
+  url: https://www.science.org/content/blog-post/continuing-crisis-part-ix-inside-nih-now
   summary: Comments
-  published: 2025-03-18 05:32:11.000000000 +00:00
-- title: 'Preview: Amazon S3 Tables and Lakehouse in DuckDB'
-  url: https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html
+  published: 2025-03-19 23:09:34.000000000 +00:00
+- title: 'Show HN: Codemcp – Claude Code for Claude Pro subscribers – ditch API bills'
+  url: https://github.com/ezyang/codemcp
   summary: Comments
-  published: 2025-03-18 16:36:20.000000000 +00:00
-- title: 'Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework'
-  url: https://github.com/ai-dynamo/dynamo
+  published: 2025-03-13 18:29:19.000000000 +00:00
+- title: 'The Defer Technical Specification: It Is Time'
+  url: https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go
   summary: Comments
-  published: 2025-03-18 20:44:14.000000000 +00:00
-- title: This is no world for an axolotl
-  url: https://english.elpais.com/eps/2025-03-15/this-is-no-world-for-an-axolotl.html
+  published: 2025-03-16 14:20:13.000000000 +00:00
+- title: OpenAI's o1-pro now available via API
+  url: https://platform.openai.com/docs/models/o1-pro
   summary: Comments
-  published: 2025-03-15 16:26:51.000000000 +00:00
-- title: Turkish university annuls Erdogan rival's degree, preventing run for president
-  url: https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/
+  published: 2025-03-19 22:25:14.000000000 +00:00
+- title: Is Dark Energy Getting Weaker? New Evidence Strengthens the Case
+  url: https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/
   summary: Comments
-  published: 2025-03-18 20:31:22.000000000 +00:00
-- title: 'Ask HN: Where do you browse and chat outside of here?'
-  url: https://news.ycombinator.com/item?id=43408194
+  published: 2025-03-19 22:50:24.000000000 +00:00
+- title: The Collective Ambition Behind Odysseus, a Game-Changing Sci-Fi Larp
+  url: https://mssv.net/2025/03/19/the-collective-ambition-behind-odysseus-a-game-changing-sci-fi-larp/
   summary: Comments
-  published: 2025-03-19 04:07:13.000000000 +00:00
-- title: 20 Years of YC / HN
-  url: https://vickiboykis.com/2025/03/17/20-years-of-yc/
+  published: 2025-03-19 17:34:43.000000000 +00:00
+- title: Looking for beta testers for my GPS based game
+  url: https://cityquizler.com/
   summary: Comments
-  published: 2025-03-18 01:52:18.000000000 +00:00
-- title: 'Reviving the modprobe_path Technique: Overcoming search_binary_handler()
-    Patch'
-  url: https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04
+  published: 2025-03-17 06:01:55.000000000 +00:00
+- title: Markprompt (YC W24) – Stripe for customer support – is hiring founding eng
+    in SF
+  url: https://markprompt.com/jobs
   summary: Comments
-  published: 2025-03-15 20:04:29.000000000 +00:00
-- title: 'Show HN: I made a live multiplayer Minesweeper game'
-  url: https://www.minesweeperpro.com/
+  published: 2025-03-19 17:00:13.000000000 +00:00
+- title: How I got 100% off my train travel
+  url: https://readbunce.com/p/how-i-got-100-off-my-train-travel
   summary: Comments
-  published: 2025-03-18 11:17:44.000000000 +00:00
-- title: SheepIt Render Farm server code goes open source
-  url: https://gitlab.com/sheepitrenderfarm
+  published: 2025-03-16 12:44:11.000000000 +00:00
+- title: Konva.js - Declarative 2D Canvas for React, Vue, and Svelte
+  url: https://konvajs.org/
   summary: Comments
-  published: 2025-03-15 00:42:22.000000000 +00:00
-- title: Rust on the RP2350 (2024)
-  url: https://thejpster.org.uk/blog/blog-2024-08-08/
+  published: 2025-03-19 12:30:48.000000000 +00:00
+- title: Energetic cost of human disturbance on the southern sea otter
+  url: https://wildlife.onlinelibrary.wiley.com/doi/10.1002/jwmg.70012
   summary: Comments
-  published: 2025-03-16 12:42:02.000000000 +00:00
-- title: A Tale of Four Kernels [pdf] (2008)
-  url: https://users.csc.calpoly.edu/~djanzen/courses/509S09/papers/FourKernels.pdf
+  published: 2025-03-18 10:12:18.000000000 +00:00
+- title: 'Show HN: Learn where countries are on the world map with Spaced Repetition'
+  url: https://map.koljapluemer.com
   summary: Comments
-  published: 2025-03-18 20:25:27.000000000 +00:00
-- title: Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf
-    (2022)
-  url: https://ericdraken.com/pfsense-decrypt-ad-traffic/
+  published: 2025-03-17 21:35:37.000000000 +00:00
+- title: The Origin of the Pork Taboo
+  url: https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/
   summary: Comments
-  published: 2025-03-18 07:59:50.000000000 +00:00
-- title: 'Ask HN: How Do I Escape Homelessness After Rebuilding My Mental Health?'
-  url: https://news.ycombinator.com/item?id=43402315
+  published: 2025-03-19 12:16:06.000000000 +00:00
+- title: Supply constraints do not explain house price, quantity growth across US
+    cities
+  url: https://www.nber.org/papers/w33576
   summary: Comments
-  published: 2025-03-18 17:42:21.000000000 +00:00
+  published: 2025-03-19 12:56:03.000000000 +00:00
