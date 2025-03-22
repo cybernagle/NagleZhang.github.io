@@ -1,125 +1,122 @@
 ---
-- title: Claude can now search the web
-  url: https://www.anthropic.com/news/web-search
+- title: Pen and Paper Exercises in Machine Learning (2022)
+  url: https://arxiv.org/abs/2206.13446
   summary: Comments
-  published: 2025-03-20 16:51:12.000000000 +00:00
-- title: 'Retro Boy: simple Game Boy emulator written in Rust, can be played on the
-    web'
-  url: https://github.com/smparsons/retroboy
+  published: 2025-03-21 20:07:12.000000000 +00:00
+- title: The little book about OS development
+  url: https://littleosbook.github.io/
   summary: Comments
-  published: 2025-03-20 21:54:17.000000000 +00:00
-- title: Zero-knowledge proofs, encoding Sudoku and Mario speedruns without semantic
-    leak
-  url: https://vasekrozhon.wordpress.com/2025/03/17/zero-knowledge-proofs/
+  published: 2025-03-21 20:30:32.000000000 +00:00
+- title: 'IronRDP: a Rust implementation of Microsoft''s RDP protocol'
+  url: https://github.com/Devolutions/IronRDP
   summary: Comments
-  published: 2025-03-18 00:56:19.000000000 +00:00
-- title: McLaren Invented New Carbon Fiber Tape to Build Even More Complex Parts
-  url: https://www.thedrive.com/news/mclaren-invented-new-carbon-fiber-tape-to-build-even-more-complex-parts
+  published: 2025-03-21 15:35:27.000000000 +00:00
+- title: France rejects backdoor mandate
+  url: https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate
   summary: Comments
-  published: 2025-03-17 12:53:52.000000000 +00:00
-- title: Next generation LEDs are cheap and sustainable
-  url: https://liu.se/en/news-item/nasta-generations-lysdioder-ar-billiga-och-miljovanliga
+  published: 2025-03-21 20:35:11.000000000 +00:00
+- title: EFF Border Search Pocket Guide
+  url: https://www.eff.org/document/eff-border-search-pocket-guide
   summary: Comments
-  published: 2025-03-17 02:42:16.000000000 +00:00
-- title: The Frontend Treadmill
-  url: https://polotek.net/posts/the-frontend-treadmill/
+  published: 2025-03-21 23:41:15.000000000 +00:00
+- title: 'Oxidizing Ubuntu: adopting Rust utilities by default'
+  url: https://lwn.net/SubscriberLink/1014002/580b8750bf02cf41/
   summary: Comments
-  published: 2025-03-20 12:25:31.000000000 +00:00
-- title: The Burnout Machine
-  url: https://unionize.fyi
+  published: 2025-03-18 19:25:17.000000000 +00:00
+- title: Imbue (YC S17) Is Hiring Product Engineers
+  url: https://news.ycombinator.com/item?id=43442360
   summary: Comments
-  published: 2025-03-20 18:24:17.000000000 +00:00
-- title: ACARS Drama
-  url: https://acarsdrama.com/
+  published: 2025-03-22 01:01:40.000000000 +00:00
+- title: Not OK Cupid – A story of poor email address validation
+  url: https://www.fastmail.com/blog/not-ok-cupid/
   summary: Comments
-  published: 2025-03-20 14:33:28.000000000 +00:00
-- title: OpenAI Audio Models
-  url: https://www.openai.fm/
+  published: 2025-03-21 23:54:30.000000000 +00:00
+- title: "‘Bluey’s World’: How a Cute Aussie Puppy Became a Juggernaut"
+  url: https://www.hollywoodreporter.com/tv/tv-features/blueys-world-success-puppy-juggernaut-1236164905/
   summary: Comments
-  published: 2025-03-20 17:18:00.000000000 +00:00
-- title: Build a Container Image from Scratch
-  url: https://danishpraka.sh/posts/build-a-container-image-from-scratch/
+  published: 2025-03-19 12:14:46.000000000 +00:00
+- title: Global population datasets systematically underrepresent rural population
+  url: https://www.nature.com/articles/s41467-025-56906-7
   summary: Comments
-  published: 2025-03-18 05:57:56.000000000 +00:00
-- title: The Last Drops of Mexico City
-  url: https://mexicocitywater.longlead.com
+  published: 2025-03-18 11:50:38.000000000 +00:00
+- title: 'Show HN: A terminal emulator in pure PHP'
+  url: https://github.com/soloterm/screen
   summary: Comments
-  published: 2025-03-20 13:28:44.000000000 +00:00
-- title: Oxygen discovered in most distant known galaxy
-  url: https://www.eso.org/public/news/eso2507/
+  published: 2025-03-21 17:43:25.000000000 +00:00
+- title: Monster Cables picked the wrong guy to threaten (2008)
+  url: https://www.oncontracts.com/monster-cables-picked-the-wrong-guy-to-threaten/
   summary: Comments
-  published: 2025-03-20 13:21:34.000000000 +00:00
-- title: 'Show HN: Minimalytics – a standalone minimal analytics app built on SQLite'
-  url: https://github.com/nafey/minimalytics
+  published: 2025-03-22 00:30:37.000000000 +00:00
+- title: Rocky Linux from CIQ – Hardened
+  url: https://ciq.com/products/rocky-linux/hardened/
   summary: Comments
-  published: 2025-03-20 19:33:30.000000000 +00:00
-- title: Debugging PostgreSQL More Easily
-  url: https://www.cybertec-postgresql.com/en/debugging-postgresql-more-easily/
+  published: 2025-03-19 08:43:18.000000000 +00:00
+- title: Export Predefined Regions in Krita
+  url: https://github.com/aldanasjuan/krita_export_region
   summary: Comments
-  published: 2025-03-18 11:25:54.000000000 +00:00
-- title: The Pain That Is GitHub Actions
-  url: https://www.feldera.com/blog/the-pain-that-is-github-actions
+  published: 2025-03-20 17:23:00.000000000 +00:00
+- title: MySQL transactions per second vs. fsyncs per second (2020)
+  url: https://sirupsen.com/napkin/problem-10-mysql-transactions-per-second
   summary: Comments
-  published: 2025-03-20 03:37:31.000000000 +00:00
-- title: 'Going from an Idea to MVP in Weeks: PromptPanda''s Launch(es)'
-  url: https://docs.opensaas.sh/blog/2025-03-12-going-from-an-idea-to-mvp-in-weeks-promptpandas-launches/
+  published: 2025-03-21 21:18:39.000000000 +00:00
+- title: 'Career Development: What It Means to Be a Manager, Director, or VP (2015)'
+  url: https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/
   summary: Comments
-  published: 2025-03-18 11:04:52.000000000 +00:00
-- title: Powers of 2 with all even digits
-  url: https://oeis.org/A068994
+  published: 2025-03-21 10:49:41.000000000 +00:00
+- title: Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]
+  url: https://www.daemonology.net/blog/chunking-attacks.pdf
   summary: Comments
-  published: 2025-03-20 11:55:13.000000000 +00:00
-- title: 'Minding the gaps: A new way to draw separators in CSS'
-  url: https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/
+  published: 2025-03-21 17:30:34.000000000 +00:00
+- title: Ancient DNA Shows Stone Age Europeans Voyaged by Sea to Africa
+  url: https://www.nature.com/articles/d41586-025-00764-2
   summary: Comments
-  published: 2025-03-20 08:00:54.000000000 +00:00
-- title: Want even tinier chips? Use a particle accelerator
-  url: https://www.economist.com/science-and-technology/2025/03/12/want-even-tinier-chips-use-a-particle-accelerator
+  published: 2025-03-20 18:23:00.000000000 +00:00
+- title: Frink
+  url: https://frinklang.org/
   summary: Comments
-  published: 2025-03-17 18:35:41.000000000 +00:00
-- title: 'Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary
-    Code'
-  url: https://www.galois.com/articles/introducing-grease
+  published: 2025-03-21 19:39:17.000000000 +00:00
+- title: Lock Contention
+  url: https://maksimkita.com/blog/lock-contention.html
   summary: Comments
-  published: 2025-03-20 13:57:30.000000000 +00:00
-- title: 'Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries
-    (20'
-  url: https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/
+  published: 2025-03-17 16:47:08.000000000 +00:00
+- title: Liberapay
+  url: https://en.liberapay.com/
   summary: Comments
-  published: 2025-03-18 13:23:57.000000000 +00:00
-- title: Understanding Solar Energy
-  url: https://www.construction-physics.com/p/understanding-solar-energy
+  published: 2025-03-18 12:21:12.000000000 +00:00
+- title: 'Mathup: Easy MathML authoring tool with a quick to write syntax'
+  url: https://mathup.xyz/
   summary: Comments
-  published: 2025-03-20 12:09:32.000000000 +00:00
-- title: Pump.co (YC S22) Is Hiring
-  url: https://www.ycombinator.com/companies/pump-co/jobs/7kB7DNb-email-outreach-manager
+  published: 2025-03-21 17:02:17.000000000 +00:00
+- title: 'Show HN: Hyperbrowser MCP Server – Connect AI agents to the web through
+    browsers'
+  url: https://github.com/hyperbrowserai/mcp
   summary: Comments
-  published: 2025-03-20 17:01:08.000000000 +00:00
-- title: Indian chemical company employees indicted for Importing of Fentanyl Precursors
-  url: https://www.justice.gov/opa/pr/india-based-chemical-manufacturing-company-and-top-employees-indicted-unlawful-importation
+  published: 2025-03-20 17:01:12.000000000 +00:00
+- title: New USPTO Memo Makes Fighting Patent Trolls Even Harder
+  url: https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder
   summary: Comments
-  published: 2025-03-21 01:20:32.000000000 +00:00
-- title: SoftBank Group to Acquire Ampere Computing for 6.5B
-  url: https://group.softbank/en/news/press/20250320
+  published: 2025-03-21 18:55:33.000000000 +00:00
+- title: Legged Locomotion Meets Skateboarding
+  url: https://umich-curly.github.io/DHAL/
   summary: Comments
-  published: 2025-03-20 01:58:47.000000000 +00:00
-- title: How I accepted myself into Canada's largest AI hackathon
-  url: https://fastcall.dev/posts/genai-genesis-firebase/
+  published: 2025-03-21 12:38:20.000000000 +00:00
+- title: 'Piccolo: Large-Scale Graph Processing with Fine-Grained In-Memory Scatter-Gather'
+  url: https://arxiv.org/abs/2503.05116
   summary: Comments
-  published: 2025-03-20 05:42:21.000000000 +00:00
-- title: "'Dark oxygen': a deep-sea discovery that has split scientists"
-  url: https://phys.org/news/2025-03-dark-oxygen-deep-sea-discovery.html
+  published: 2025-03-21 19:30:32.000000000 +00:00
+- title: 'Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch'
+  url: https://victorpoughon.github.io/torchlensmaker/
   summary: Comments
-  published: 2025-03-17 10:40:05.000000000 +00:00
-- title: 'Bolt3D: Generating 3D Scenes in Seconds'
-  url: https://szymanowiczs.github.io/bolt3d
+  published: 2025-03-21 13:29:11.000000000 +00:00
+- title: Jagged Flash Attention Optimization
+  url: https://www.shaped.ai/blog/jagged-flash-attention-optimization
   summary: Comments
-  published: 2025-03-19 22:30:56.000000000 +00:00
-- title: Leaking Passwords and more on macOS
-  url: https://wts.dev/posts/password-leak/
+  published: 2025-03-18 17:45:49.000000000 +00:00
+- title: "‘The Celts: A Modern History’ by Ian Stewart Review"
+  url: https://www.historytoday.com/archive/review/celts-modern-history-ian-stewart-review
   summary: Comments
-  published: 2025-03-20 16:47:17.000000000 +00:00
-- title: Diagrams AI can, and cannot, generate
-  url: https://www.ilograph.com/blog/posts/diagrams-ai-can-and-cannot-generate/
+  published: 2025-03-21 06:08:04.000000000 +00:00
+- title: Even the worst mass extinction had its oases
+  url: https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/
   summary: Comments
-  published: 2025-03-18 12:09:51.000000000 +00:00
+  published: 2025-03-19 05:21:33.000000000 +00:00
