@@ -1,48 +1,271 @@
 ---
 - title: " Here’s what happened in crypto today "
   url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, the US Treasury Department has officially removed crypto
-    mixer Tornado Cash from its sanctions list. Meanwhile, crypto investors' appetite
-    for speculation is cooling, as rising scams and global geopolitical tensions dampen
-    sentiment. In Australia, the government has pledged to tackle crypto debanking,
-    unveiling plans for a new regulatory framework focused on digital asset exchanges.Tornado
-    mixer dropped from US blacklistThe US Treasury Department has dropped cryptocurrency
-    mixer Tornado Cash from its sanctions list, the agency said on March 21. The removal
-    follows a January ruling by a US appeals court, which said the Treasury’s Office
-    of Foreign Assets Control (OFAC) cannot sanction Tornado’s smart contracts because
-    they are not the property of any foreign national. According to the January court
-    ruling, “Tornado Cash’s immutable smart contracts (the lines of privacy-enabling
-    software code) are not the ‘property’ of a foreign national or entity, meaning
-    […] OFAC overstepped its congressionally defined authority.”In a March 21 statement,
-    the Treasury said OFAC removed several dozen Tornado-affiliated smart contract
-    addresses on the Ethereum blockchain network from its sanctions list. Tornado’s
-    native token, Tornado Cash (TORN), was up around 60% on the news, according to
-    data from CoinMarketCap. As of March 21, TORN has a market capitalization of around
-    $73 million and a fully diluted value (FDV) of nearly $140 million, the data shows.TORN
-    is up around 60% on the news. Source: CoinMarketCapBitcoin speculative appetite
-    declines as investors seek safetySpeculative appetite is vanishing from the crypto
-    markets, as investors are looking for safer digital asset investments following
-    the recent wave of memecoin scams and macroeconomic uncertainty.Bitcoin’s hot
-    supply metric, which measures the Bitcoin (BTC) aged one week or less, is down
-    over 50%, from 5.9% at the end of November to just 2.3% on March 20, Glassnode
-    data shows.Bitcoin hot supply metric. Source: GlassnodeThe metric’s decline signals
-    an investor shift to safer investment positioning amid the recent market volatility,
-    according to Ryan Lee, chief analyst at Bitget Research.Australia outlines crypto
-    regulation plan, promises action on debankingAustralia’s government, under its
-    ruling center-left Labor Party, has proposed a new crypto framework regulating
-    exchanges under existing financial services laws and has promised to tackle debanking.It
-    comes ahead of a federal election slated to be held on or before May 17, which
-    current polling shows is shaping up to a dead heat between Prime Minister Anthony
-    Albanese’s Labor and the opposing Coalition led by Peter Dutton.Source: Kate CooperThe
-    Treasury Department said in a March 21 statement that crypto exchanges, custody
-    services and some brokerage firms that trade or store crypto will come under the
-    new laws.The regime imposes similar compliance requirements as other financial
-    services in the country, such as following rules safeguarding customer assets,
-    obtaining an Australian Financial Services Licence and meeting minimum capital
-    requirements.Albanese’s government intends to release a draft of the legislation
-    for public consultation. However, a change of government could be on the horizon
-    with a looming federal election, a date for which is yet to be called.\n\n            "
-  published: 2025-03-21 21:52:13.000000000 +00:00
+  summary: "Today in crypto, Pakistan’s Crypto Council proposes mining BTC with excess,
+    runoff energy, crypto analysts anticipate continued pressure owing to trading
+    wars until April, and Tether is in discussions with a Big Four accounting firm
+    to conduct a full financial audit.Newly commissioned Pakistan Crypto Council proposes
+    mining Bitcoin with excess energyThe newly commissioned Crypto Council of Pakistan
+    proposed mining Bitcoin with runoff energy at the group's inaugural meeting on
+    March 21 amid other policy proposals to establish a clear framework for digital
+    assets in the country.According to The Nation, the Bank of Pakistan's governor,
+    the chairman of Pakistan's Securities and Exchange Commission (SECP), the federal
+    information technology secretary, and lawmakers were present at the meeting.Bitcoin
+    mining helps to stabilize electrical loads and balance demand in an energy grid.
+    Source: Science DirectBefore the inaugural meeting of the group, Bilal bin Saqib,
+    the CEO of Pakistan's Crypto Council, wrote in a March 20 X post:\"Pakistan is
+    done sitting on the sidelines! We want Pakistan as the leader in blockchain-powered
+    finance. Pakistan is a low-cost high-growth market with 60% of the population
+    under 30. We have a web3 native workforce ready to build.\"This initiative represents
+    a massive departure from the government of Pakistan's previous stance on cryptocurrencies,
+    which sought bans on digital assets and crypto trading activities in the country.Crypto
+    markets will be pressured by trade wars until April: analystDespite a multitude
+    of positive crypto-specific developments, global tariff fears will continue pressuring
+    the markets until at least April 2, according to Nicolai Sondergaard, research
+    analyst at Nansen.Risk assets may lack direction until the tariff-related concerns
+    are resolved, which may happen between April 2 and July, presenting a positive
+    market catalyst, added the analyst.BTC/USD, 1-day chart. Source: TradingViewPresident
+    Trump’s reciprocal tariff rates are set to take effect on April 2, despite earlier
+    comments from Treasury Secretary Scott Bessent that indicated a possible delay
+    in their activation.Tether seeks Big Four firm for its first full financial audit:
+    ReportStablecoin issuer Tether is reportedly engaging with a Big Four accounting
+    firm to audit its assets reserve and verify that its USDT (USDT) stablecoin is
+    backed at a 1:1 ratio.Tether CEO Paolo Ardoino reportedly said the audit process
+    would be more straightforward under pro-crypto US President Donald Trump. It comes
+    after rising industry concerns over a potential FTX-style liquidity crisis for
+    Tether due to its lack of third-party audits.“If the President of the United States
+    says this is top priority for the US, Big Four auditing firms will have to listen,
+    so we are very happy with that,” Ardoino told Reuters on March 21.“It’s our top
+    priority,” Ardoino said. It was reported that Tether is currently subject to quarterly
+    reports but not a full independent annual audit, which is much more extensive
+    and provides more assurance to investors and regulators.However, Ardoino did not
+    specify which of the Big Four accounting firms — PricewaterhouseCoopers (PwC),
+    Ernst & Young (EY), Deloitte, or KPMG — he plans to engage.\n\n            "
+  published: 2025-03-22 21:32:11.000000000 +00:00
+- title: " The current BTC &#039;bear market&#039; will only last 90 days — Analyst "
+  url: https://cointelegraph.com/news/btc-bear-market-last-90-days-analyst?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The current Bitcoin (BTC) bear market, defined as a 20% or more drop from
+    the all-time high, is relatively weak in terms of magnitude and should only last
+    for 90 days, according to market analyst and the author of Metcalfe's Law as a
+    Model for Bitcoin's Value, Timothy Peterson.Peterson compared the current downturn
+    to the 10 previous bear markets, which occur roughly once per year, and said that
+    only four bear markets have been worse than the price decline in terms of duration,
+    including 2018, 2021, 2022, and 2024.The analyst predicted that BTC will not sink
+    deeply below the $50,000 price level due to the underlying adoption trends. However,
+    Peterson also argued that based on momentum, it is unlikely that BTC will break
+    below $80,000. The analyst added:\"There may be a slide in the next 30 days followed
+    by a 20-40% rally sometime after April 15. You can see that in the charts around
+    day 120. This would probably be enough of a headline to bring weak hands back
+    into the market and propel Bitcoin even higher.\"Crypto markets experienced a
+    sharp downturn following United States President Trump's tariffs on several US
+    trading partners, which sparked counter-tariffs on US exports, leading to fears
+    of a prolonged trade war.Comparison of every bear market since 2025. Source: Timothy
+    PetersonRelated: Is Bitcoin going to $65K? Traders explain why they're still bearishInvestors
+    flee risk-on assets over trade war fears Investor appetite for speculative assets
+    is declining due to the ongoing trade war and macroeconomic uncertainty.The Glassnode
+    Hot Supply metric, a measure of BTC owned for one week or less, declined from
+    5.9% amid the historic bull rally in November 2024 to only 2.3% as of March 20.According
+    to Nansen research analyst Nicolai Sondergaard, crypto markets will face trade
+    war pressures until April 2025, when international negotiations could potentially
+    lower or diffuse the trade tariffs altogether.A recent analysis from CryptoQuant
+    also shows that a majority of retail traders are already invested in BTC, dashing
+    long-held hopes that a massive rush of retail traders would inject fresh capital
+    into the markets and push prices higher in the near term.The trade war also placed
+    Bitcoin's safe haven narrative in doubt as the price of the decentralized asset
+    collapsed over tariff headlines alongside other risk and speculative assets.Magazine:
+    Bitcoiners are ‘all in’ on Trump since Bitcoin ’24, but it’s getting riskyThis
+    article does not contain investment advice or recommendations. Every investment
+    and trading move involves risk, and readers should conduct their own research
+    when making a decision.\n\n            "
+  published: 2025-03-22 19:29:54.000000000 +00:00
+- title: " Pakistan Crypto Council proposes using excess energy for BTC mining "
+  url: https://cointelegraph.com/news/pakistan-crypto-council-proposes-excess-energy-btc-mining?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bilal Bin Saqib, the CEO of Pakistan's Crypto Council, has proposed using
+    the country's runoff energy to fuel Bitcoin (BTC) mining at the Crypto Council's
+    inaugural meeting on March 21.According to an article from The Nation, the council
+    is exploring comprehensive regulatory frameworks for cryptocurrencies to attract
+    foreign direct investment and establish Pakistan as a crypto hub.The meeting included
+    lawmakers, the Bank of Pakistan's governor, the chairman of Pakistan's Securities
+    and Exchange Commission (SECP), and the federal information technology secretary.
+    Senator Muhammad Aurangzeb had this to say about the meeting:“This is the beginning
+    of a new digital chapter for our economy. We are committed to building a transparent,
+    future-ready financial ecosystem that attracts investment, empowers our youth,
+    and puts Pakistan on the global map as a leader in emerging technologies.”The
+    Crypto Council represents a radical departure from the government of Pakistan's
+    previous stance on crypto. In May 2023, former minister of state for finance and
+    revenue, Aisha Ghaus Pasha said crypto would never be legal in the country.Pasha
+    cited anti-money laundering restrictions under the Financial Action Task Force
+    (FATF) as the primary motivation for the government's anti-crypto stance.The presence
+    of Bitcoin miners can stabilize electrical grids. Source: Science Direct Related:
+    Pakistan eyes crypto legal framework to boost foreign investmentPakistan follows
+    the United States in embracing cryptoThe government of Pakistan moved to regulate
+    cryptocurrencies as legal tender on Nov. 4, 2024 — the same day as the elections
+    in the United States.Following the re-election of Donald Trump in the US and the
+    Jan. 20 inauguration, Trump moved quickly to establish pro-crypto policies at
+    the federal level.On Jan. 23, President Trump signed an executive order establishing
+    the Working Group on Digital Assets — an executive advisory council tasked with
+    exploring comprehensive regulatory reform on digital assets.President Trump signs
+    executive order establishing the President’s Working Group on Digital Assets.
+    Source: The White HouseThe Jan. 23 order also prohibited the government from researching,
+    developing, or issuing a central bank digital currency (CBDC).President Trump
+    also signed an executive order creating a Bitcoin strategic reserve and a separate
+    digital asset stockpile in March 2025 that will likely include cryptocurrencies
+    made by US-based firms.Magazine: How crypto laws are changing across the world
+    in 2025\n\n            "
+  published: 2025-03-22 16:40:00.000000000 +00:00
+- title: " Bitcoin sidechains will drive BTCfi growth "
+  url: https://cointelegraph.com/news/bitcoin-sidechains-will-drive-btcfi-growth?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Brendon Sedo, Core DAO initial contributorBitcoin is outgrowing
+    the “digital gold” narrative. The primary driver of this shift is the rise of
+    Bitcoin DeFi (BTCfi), which looks beyond the mere store-of-value use cases. In
+    2024, Bitcoin (BTC) became a natively yield-generating asset and the centerpiece
+    of Ethereum-style decentralized finance ecosystems. 2025 is when that kindling
+    can grow its flame on innovative Bitcoin sidechains. Most past attempts to tap
+    Bitcoin’s value as a productive asset required significant changes to its base
+    layer. That’s a big reason they failed. The Bitcoin layer 1 is not designed for
+    much change, leaving most Bitcoiners to merely hodl and not do much else. The
+    result is that Bitcoin remained underutilized as a network and an asset.Bitcoin
+    sidechains have emerged as the perfect solution to all these problems, scaling
+    Bitcoin’s utility without altering or being limited by the base layer. Naturally,
+    these protocols will be the most potent catalyst for BTCfi’s growth, especially
+    with BTC surpassing $100,000, constituting over 60% of the total crypto market
+    share, and entering a new regulatory landscape with the first “pro-crypto” US
+    government regime.Scaling Bitcoin, a productive assetPer Hal Finney, “Bitcoin
+    itself cannot scale to have every single financial transaction […] included in
+    the blockchain.” That’s why there’s a need for a secondary level of payment’ in
+    his view. For a long time, the blockchain space ignored Finney’s call to action
+    and prioritized innovation that isolated Bitcoin. However, innovations previously
+    limited to chains like Ethereum are now crossing over to the world of Bitcoin.
+    Sidechains, rollups and other scaling solutions offer more options for holders
+    who want Ethereum-style utility while remaining aligned with Bitcoin. This prepared
+    the ground for BTCfi, where holders can access a range of income-generating solutions
+    like staking, lending and derivatives. The industry is, however, still in the
+    early innings of this revolution in Bitcoin. As of November 2024, merely 0.8%
+    of its circulating supply is utilized for DeFi use cases, according to Galaxy
+    Digital. Out of Bitcoin’s roughly $2 trillion market cap, less than $7 billion
+    comprises BTCfi TVL.While this may appear unencouraging, it highlights the massive
+    remaining opportunity. Bitcoin L2 infrastructure scaled 7x from 2021 to November
+    2024. Recent: Bitcoin DeFi TVL up 2,000% amid bumper 2024 for BTC price, adoptionMore
+    importantly, it has accounted for a sizable share of new liquidity flowing into
+    BTC, besides institutional products like exchange-traded funds (ETFs). Even if
+    the supply of Bitcoin in BTCfi platforms and sidechains grows by 0.25% annually,
+    the sector will have a total addressable market of $44 billion to $47 billion
+    by 2030, according to Galaxy Digital. However, as Bitcoiners know, this is a conservative
+    estimate and would be accelerated by accelerating BTC price action or even more
+    Bitcoin DeFi adoption. VCs, for one, have started to recognize the potential of
+    Bitcoin sidechains, investing over $447 million already, according to Galaxy Digital.
+    Of this, about $174 million was invested in Q3 2024, setting the stage for more
+    explosive growth in 2025. More funding for early-stage projects will ensure more
+    successful launches, innovations, choices for users, and overall value. As Bitcoin-native
+    solutions provide access to productive use cases for Bitcoin, users will no longer
+    need to rely on trusted intermediaries and Bitcoin-agnostic smart contract platforms.
+    Sacrifices that were necessary to expand the utility of Bitcoin in the past will
+    no longer be required. That can unlock substantial value for principled BTC holders
+    and even the Bitcoin network itself. Yields on Bitcoin for BitcoinSo far, bridging
+    to Turing-complete Ethereum Virtual Machine (EVM) chains has been a go-to way
+    to facilitate yields and other financial use cases on Bitcoin. For example, the
+    wrapped Bitcoin (WBTC) market on Ethereum is more than $10 billion. While solutions
+    like WBTC have been suitable for some, many Bitcoin holders prefer not to entrust
+    custodians with their capital or rely on chains like Ethereum, which do not align
+    with Bitcoin's consensus principles or support the network at all. BTCfi, defined
+    by Bitcoin-aligned and Bitcoin-powered infrastructure, is a solution from which
+    both WBTC users and Bitcoin purists can benefit. Users who are already accustomed
+    to Ethereum’s smart contract sophistication can continue to enjoy that EVM experience
+    while also growing closer to Bitcoin’s roots. Principled Bitcoin users can get
+    more options for their BTC’s utility if the sidechain aligns with the base network. Bitcoin
+    holders also gain access to BTC derivatives superior to Ethereum-native solutions
+    like WBTC. Yield-bearing BTC derivatives on Bitcoin-aligned sidechains are a 100x
+    improvement, offering self-custody and previously unavailable yield sources to
+    Bitcoin holders. Overall, BTCfi can be much more significant. Not just compared
+    to where it is now, but also vis-a-vis EVM and SVM-based DeFi. Bitcoin sidechains
+    are already driving this shift, and will continue to do so throughout 2025. All
+    that is needed is the right approach and consistency regarding development and
+    product pipelines.For BTCfi, the path is clear: Deliver use cases with product-market
+    fit to Bitcoin holders on Bitcoin-powered platforms. This will lay the foundation
+    for generating even more value for the Bitcoin community as a whole. And ultimately,
+    there will be a positive flywheel of Bitcoin adoption. The institutional side
+    led headlines in 2024. Now, it’s time for the native, onchain camp to show its
+    strength and deliver. Opinion by: Brendon Sedo, Core DAO initial contributor.This
+    article is for general information purposes and is not intended to be and should
+    not be taken as legal or investment advice. The views, thoughts, and opinions
+    expressed here are the author’s alone and do not necessarily reflect or represent
+    the views and opinions of Cointelegraph.\n\n            "
+  published: 2025-03-22 15:00:00.000000000 +00:00
+- title: " Crypto markets will be pressured by trade wars until April: Analyst "
+  url: https://cointelegraph.com/news/crypto-markets-pressured-trade-wars-april-analyst?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Global trade war concerns will pressure both cryptocurrency and traditional
+    markets until at least the beginning of April, but the potential resolution may
+    bring the next big market catalyst.Bitcoin’s (BTC) price fell over 17% since US
+    President Donald Trump first announced import tariffs on Chinese goods on Jan.
+    20, the first day after his presidential inauguration.Despite a multitude of positive
+    crypto-specific developments, global tariff fears will continue to pressure the
+    markets until at least April 2, according to Nicolai Sondergaard, a research analyst
+    at Nansen.BTC/USD, 1-day chart. Source: Cointelegraph/TradingViewThe analyst said
+    during Cointelegraph’s Chainreaction daily X show on March 21:“I’m looking forward
+    to seeing what happens with the tariffs from April 2nd onwards, maybe we’ll see
+    some of them dropped but it depends if all countries can agree. That’s the biggest
+    driver at this moment.”Risk assets may lack direction until the tariff-related
+    concerns are resolved, which may happen between April 2 and July, presenting a
+    positive market catalyst, added the analyst.President Trump’s reciprocal tariff
+    rates are set to take effect on April 2, despite earlier comments from Treasury
+    Secretary Scott Bessent that indicated a possible delay in their activation.Related:
+    Ether risks correction to $1.8K as ETF outflows, tariff fears continueFed’s interest
+    rates are also contributing to market slumpHigh interest rates will also continue
+    pressuring risk appetite among investors until the Federal Reserve eventually
+    starts cutting rates, explained Sondergaard, adding:“We’re waiting for the Fed
+    to see proper “bad news” before they will really start cutting rates.”Fed target
+    interest rate probabilities. Source: CME Group’s FedWatch toolMarkets are currently
+    pricing in an 85% chance that the Fed will keep interest rates steady during the
+    next Federal Open Market Committee (FOMC) meeting on May 7, according to the latest
+    estimates of the CME Group’s FedWatch tool.Related: Crypto debanking is not over
+    until Jan 2026: Caitlin LongStill, the Federal Reserve indicates that inflation
+    and recession-related concerns are transitory, particularly regarding tariffs,
+    which may be a positive sign for investors, according to Iliya Kalchev, dispatch
+    analyst at Nexo digital asset investment platform.“Markets may now expect upcoming
+    economic data with greater confidence,” the analyst told Cointelegraph, adding:“Cooling
+    inflation and stable economic conditions could further boost investor appetite,
+    driving additional upside for Bitcoin and digital assets.”“Keep an eye on key
+    reports, including Consumer Confidence, Q4 GDP, jobless claims, and next week’s
+    crucial PCE inflation release, to gauge the likelihood of future rate cuts,” the
+    analyst added.Magazine: SEC’s U-turn on crypto leaves key questions unanswered\n\n
+    \           "
+  published: 2025-03-22 12:04:59.000000000 +00:00
+- title: " Crypto VC giant targets $1B for new funds, expects oversubscription — Report "
+  url: https://cointelegraph.com/news/crypto-venture-capitalist-one-billion-two-new-crypto-funds?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Venture capital firm Haun Ventures is reportedly looking to raise $1 billion
+    for two new crypto-related investment funds within the next three months.If successful,
+    $500 million will be allocated to early-stage crypto investments, while the remaining
+    $500 million will go toward late-stage crypto investments, people familiar with
+    the matter told Fortune Crypto on March 21.Different market conditions to 2022
+    led to lowered expectationsThe VC firm, founded by former Coinbase board member
+    and federal prosecutor Katie Haun in 2022, reportedly did not aim for the $1.5
+    billion it raised in its highly praised funding round in 2022. It cited different
+    market conditions as the reason for the lower target.However, Haun reportedly
+    expects the two new funds will be “oversubscribed.” In March 2022, Haun secured
+    $1.5 billion in the company’s first funding round shortly after its launch. Haun
+    also recruited former executives from Airbnb, Coinbase, and Google tech incubator
+    Jigsaw.The firm’s latest fundraising round is set to close in June and is expected
+    to be one of the largest in crypto funding in the past two years. Venture capital
+    firm Paradigm and digital asset investment manager Pantera Capital both sought
+    similar amounts in 2024.137 crypto companies raised a combined $1.11 billion in
+    funding in February 2025. Source: The TIEIn June 2024, Paradigm closed an $850
+    million investment fund, while in April, digital asset investment manager Pantera
+    Capital sought to raise over $1 billion for a new blockchain-focused fund.VCs
+    predict that stablecoins will continue to be a focus in 2025More recently, Haun
+    Ventures participated in crypto asset management firm Bitwise’s $70 million funding
+    round alongside investors such as Electric Capital, MassMutual, MIT Investment
+    Management Company, and Highland Capital.While the specific focus of Haun’s upcoming
+    crypto funds is not publicly known yet, other venture capitalists have recently
+    predicted that stablecoin interest will continue into 2025.Related: Venture capital
+    firms invest $400M in TON blockchainDeng Chao, CEO of institutional asset manager
+    HashKey Capital, recently told Cointelegraph that stablecoins were the strongest
+    proven use case for crypto in 2024. Meanwhile, market analyst Infinity Hedge predicted
+    that crypto VC investment in 2025 would surpass last year’s levels but wouldn’t
+    approach the peak recorded during the 2021 bull market. VC crypto funding in 2021
+    reached $33.8 billion, while in 2024 it reached $13.6 billion.Cointelegraph reached
+    out to Haun Ventures but did not receive a response by time of publication.Magazine:
+    Dummies guide to native rollups: L2s as secure as Ethereum itself\n\n            "
+  published: 2025-03-22 02:03:51.000000000 +00:00
 - title: " Coinbase in talks to buy derivatives exchange Deribit: Report "
   url: https://cointelegraph.com/news/coinbase-talks-to-buy-derivatives-exchange-deribit-report?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Coinbase is in advanced talks to buy Deribit, a cryptocurrency derivatives
@@ -59,7 +282,7 @@
     trading platform NinjaTrader for around $1.5 billion.Deribit is a popular crypto
     derivatives exchange. Source: DeribitRelated: Kraken to acquire NinjaTrader for
     $1.5B to offer US crypto futuresRed-hot marketCryptocurrency derivatives, such
-    as futures are options, are surging in popularity in the US.Futures are standardized
+    as futures and options, are surging in popularity in the US.Futures are standardized
     contracts allowing traders to buy or sell assets at a future date, often with
     leverage. Options are contracts granting the right to buy or sell — “call” or
     “put,” in trader parlance — an underlying asset at a certain price.Both types
@@ -1263,236 +1486,6 @@
     has 4 years to grow so big ‘no one can shut it down’: Kain Warwick, Infinex\n\n
     \           "
   published: 2025-03-20 15:20:23.000000000 +00:00
-- title: " Trump says US will be &#039;Bitcoin superpower&#039; as BTC price breaks
-    4-month downtrend "
-  url: https://cointelegraph.com/news/trump-us-bitcoin-superpower-btc-price-breaks-4-month-downtrend?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) sought to reinforce higher support at the March 20 Wall
-    Street open as bulls broke out of a key downtrend.BTC/USD 1-hour chart. Source:
-    Cointelegraph/TradingViewTrump pledges to make US “Bitcoin superpower”Data from
-    Cointelegraph Markets Pro and TradingView showed BTC/USD returning above $86,000.Now
-    circling the daily open, Bitcoin continued to build on strength which came the
-    day prior thanks to encouraging macroeconomic signals from the US Federal Reserve.Rumors
-    of a further announcement on crypto by the US government administration helped
-    BTC price action to reach two-week highs.President Donald Trump was due to deliver
-    virtual remarks on the third day of the Blockworks Digital Asset Summit 2025 event
-    in New York.Trump doubled down on his pledge not to sell confiscated US Bitcoin,
-    as well as end regulatory mechanisms such as Operation Chokepoint 2.0. No new
-    information on BTC purchases, however, was delivered. He said:“Together we will
-    make America the undisputed Bitcoin superpower and the crypto capital of the world.”In
-    so doing, BTC/USD reclaimed two key moving average trend lines, including the
-    200-day simple moving average (SMA), a key support component during bull markets.Analyzing
-    the current landscape, popular trader and analyst Rekt Capital focused on a similar
-    reclaim of the 200-day exponential moving average (EMA).“Bitcoin has most recently
-    Daily Closed above the 200 EMA and in fact is now in the process of retesting
-    it into new support,” he wrote in part of his latest content on X, calling the
-    trend line a “long-term gauge of investor sentiment towards BTC.”BTC/USD 1-day
-    chart with 200 SMA, EMA. Source: Cointelegraph/TradingViewA further X post revealed
-    a more impressive feat from bulls, with the daily chart showing a breakout from
-    a downtrend on Bitcoin’s relative strength index (RSI) — something in place since
-    November 2024.“Bitcoin has broken the Daily RSI Downtrend dating back to November
-    2024,” Rekt Capital confirmed.BTC/USD 1-day chart. Source: Rekt Capital/XAnalysis:
-    Markets may “wake up” to hawkish FedContinuing on the macro picture, trading firm
-    QCP Capital was cool on the outlook. Related: Peak 'FUD' hints at $70K floor —
-    5 Things to know in Bitcoin this weekIt warned that the initial risk-asset bounce
-    on the back of the Fed decision could easily reverse.“Beyond the immediate excitement,
-    the Fed's tone was notably cautious. Policymakers downgraded economy growth projections
-    to 1.7% (a 0.4% reduction), while raising their inflation forecast to 2.8%, signaling
-    a growing risk of stagflation,” it wrote in its latest bulletin to Telegram channel
-    subscribers. “Additionally, the Fed's dot plot revealed a more hawkish shift from
-    the one in December, with the number of officials forecasting no rate cuts in
-    2025 increasing to four.”Fed target rate probabilities for June FOMC meeting.
-    Source: CME GroupThe latest data from CME Group’s FedWatch Tool showed markets
-    retaining bets of interest rate cuts occurring no sooner than June.“Will the rally
-    sustain, or will investors wake up to the reality that risks remain firmly in
-    play?” QCP queried.This article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-03-20 15:15:41.000000000 +00:00
-- title: " Russia civic chamber proposes dedicated fund for confiscated crypto assets "
-  url: https://cointelegraph.com/news/russia-proposes-crypto-fund-from-seized-assets?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Amid the growing adoption of cryptocurrency reserves in countries like
-    the United States, legal activists in Russia are pushing to create a potential
-    crypto fund.Evgeny Masharov, a member of the Russian Civic Chamber, has proposed
-    creating a government cryptocurrency fund that would include assets confiscated
-    from criminal proceedings.The projected cryptocurrency fund would aim for revenues
-    for the government, targeting social projects, Masharov said, according to a March
-    20 report by the local news agency TASS.“The proceeds from the cryptocurrency
-    fund can then be used for social, environmental and educational projects,” he
-    reportedly stated.“Seized crypto should benefit the state”Masharov’s proposal
-    came amid Russian officials progressing with new legislation on recognizing cryptocurrencies
-    as property for the purposes of criminal procedure legislation.Alexander Bastrykin,
-    Chairman of Russia’s Investigative Committee, said that a related draft bill was
-    sent to the government for consideration, the local news agency RBC reported on
-    March 19.“Cryptocurrencies confiscated as part of criminal proceedings must work
-    for the benefit of the state,” Masharov said while commenting on the proposed
-    legislation.Evgeny Masharov, a member of the Russian Civic Chamber. Source: Oprf.ru“For
-    these purposes, a special fund can be created, putting cryptocurrencies on its
-    balance,” Masharov said, expressing confidence that many of the seized crypto
-    assets could see their market capitalization “rising significantly over time.”Russian
-    authorities have been seizing crypto assets for yearsMasharov’s proposal to turn
-    confiscated crypto assets for the benefit of the state follows years of the development
-    of related legislation in Russia.Russian prosecutors have been pushing legal initiatives
-    to allow the government to seize crypto obtained from criminal activity since
-    at least 2021, but there has not been a clear framework set in place.Related:
-    Russia using Bitcoin, USDt for oil trades with China and India: ReportIn the meantime,
-    the Russian government has not missed the opportunity to confiscate millions in
-    cryptocurrency from illegal cases, sometimes involving law enforcement officials.
-    Apparently, Russia’s current laws do not provide standards on where and how such
-    funds should be distributed.Bank of Russia governor against cryptoThe idea of
-    a potential social crypto fund in Russia may sound similar to initiatives like
-    the US Bitcoin (BTC) strategic reserve, which currently targets holding confiscated
-    BTC exclusively.In the meantime, Russia’s central bank governor, Elvira Nabiullina,
-    has previously strongly opposed the idea of potential investments in crypto by
-    the Bank of Russia.An excerpt from the US Strategic Bitcoin Reserve fact sheet.
-    Source: White House“Cryptocurrency investment doesn’t make any sense for the Central
-    Bank in terms of preserving value since it’s a very volatile asset,” Nabiullina
-    reportedly said in December 2024.Magazine: Crypto has 4 years to grow so big ‘no
-    one can shut it down’: Kain Warwick, Infinex\n\n            "
-  published: 2025-03-20 14:37:36.000000000 +00:00
-- title: " Tether’s US treasury holdings surpass Canada, Taiwan, ranks 7th globally "
-  url: https://cointelegraph.com/news/tether-becomes-7th-largest-us-treasury-holder-stablecoin-growth?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Tether, the $143-billion stablecoin giant, was the world’s seventh-largest
-    buyer of US Treasurys, surpassing some of the world’s largest countries.Tether,
-    the issuer of USDt (USDT), the world’s largest stablecoin, was the world’s seventh-largest
-    US Treasury buyer, surpassing Canada, Taiwan, Mexico, Norway, Hong Kong and numerous
-    other countries.The stablecoin issuer acquired over $33.1 billion worth of Treasurys,
-    compared to over $100 billion purchased by the Cayman Islands in the first place
-    in global rankings, according to Paolo Ardoino, CEO of Tether. “Tether was the
-    7th largest buyer of US Treasurys in 2024, compared to Countries,” wrote Ardoino
-    in a March 20 X post.Source: Paolo ArdoinoHowever, Luxembourg and the Cayman Islands
-    figures include “all the hedge funds buying into t-bills,” noted Ardoino in the
-    replies, whereas Tether’s figures represent the investments of a single entity.Tether
-    is investing in US Treasurys as additional backing assets for its US dollar-pegged
-    stablecoin since Treasurys are short-term debt securities issued by the US government
-    and are considered some of the safest and most liquid investments available.Related:
-    US Bitcoin reserve marks ‘real step’ toward global financial integrationTether’s
-    significant growth comes during a period of growing stablecoin adoption among
-    both investors and US lawmakers.Source: IntoTheBlockThe growing stablecoin supply
-    recently surpassed $219 billion and continues to rise, suggesting that the market
-    is “likely still mid-cycle” as opposed to the top of the bull run, according to
-    IntoTheBlock analysts.Related: Paolo Ardoino: Competitors and politicians intend
-    to ‘kill Tether’Stablecoin bill may pass as soon as August: Blockchain AssociationUS
-    lawmakers are on track to pass legislation setting rules for stablecoins and cryptocurrency
-    market structure by August, Kristin Smith, CEO of industry advocacy group the
-    Blockchain Association, said during Blockworks’ 2025 Digital Asset Summit in New
-    York.Smith’s timeline echoes a similar forecast by Bo Hines, executive director
-    of the President’s Council of Advisers on Digital Assets, who said on March 18
-    that he expects to see comprehensive stablecoin legislation in the coming months. “I
-    think we’re close to being able to get those done for August […] they’re doing
-    a lot of work on that behind the scenes right now,” Smith said on March 19 at
-    the Summit, which Cointelegraph attended. US President Donald Trump sits beside
-    Treasury Secretary Scott Bessent at the March 7 White House Crypto Summit. Source:
-    The Associated Press“I’m optimistic when you have the chairs of the relevant committees
-    in the House and the Senate and the White House that want to do something, and
-    you’ve got bipartisan votes in Congress to get it there,” she added.Magazine:
-    ETH may bottom at $1.6K, SEC delays multiple crypto ETFs, and more: Hodler’s Digest,
-    March 9–15\n\n            "
-  published: 2025-03-20 13:02:09.000000000 +00:00
-- title: " Why is the crypto market up today? "
-  url: https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "The cryptocurrency market is up today, with the total market capitalization
-    rising by approximately 3.2% in the last 24 hours to reach $2.8 trillion on March
-    20. The gains were led by Bitcoin (BTC) and Ether (ETH), which have risen around
-    3% and 4%, respectively.Crypto market performance Jan. 30. Source: Coin360Let’s
-    look at the top catalysts driving the crypto market rebound today.Risk-on sentiment
-    pushed the crypto market upThe crypto market rebound mirrors gains in US equities
-    following the Fed’s decision to leave interest rates unchanged.The S&P 500 and
-    the Nasdaq rose by 1.08% and 1.4%, during the late New York trading session on
-    March 19. Crypto-related stocks also climbed higher, with crypto exchange Coinbase
-    (COIN) rising by 4.75% and Strategy (MSTR) gaining nearly 7.4%.BREAKING: The S&P
-    500 adds +$500 billion of market cap today as the Fed extends their rate cut pause
-    for the 2nd straight meeting. pic.twitter.com/948U2U7gKe— The Kobeissi Letter
-    (@KobeissiLetter) March 19, 2025The US Dollar Index (DXY) remains at its lowest
-    levels since early November and is down more than 6.04% from its Jan. 13 peak
-    of 110.17. This comes after the Federal Open Market Committee (FOMC) meeting,
-    which saw the US central bank leave interest rates unchanged at 4.25%-4.50%, meeting
-    market expectations.The committee now projects two rate cuts by the end of the
-    year.The latest data from CME Group’s FedWatch Tool sees 16% odds of a 0.25% cut
-    in May with the odds increasing to 60.1% in June.Fed target rate probabilities
-    for June 18 FOMC meeting. Source: CME GroupWith traders now pricing in a higher
-    likelihood of rate cuts, risk assets, such as cryptocurrencies, have seen renewed
-    interest from traders.Pro-crypto policy expectationsAdding to the market’s upward
-    momentum is speculation that the US government was preparing an update to its
-    cryptocurrency policy.Key takeaways:US President Donald Trump is expected to speak
-    at Blockworks’ Digital Asset Summit (DAS) in New York City on March 20.BREAKING:
-    President Trump will address DAS tomorrow This is the first time a sitting President
-    has addressed a crypto conference. pic.twitter.com/x3gnGP0yAN— Blockworks (@Blockworks_)
-    March 19, 2025There are speculations that Trump will make major updates to his
-    administration’s crypto policies.“This would be his first major update since March
-    6, when the national crypto reserve was established,” capital markets commentator
-    The Kobeissi Letter said in a March 19 post on X, adding:“Rumors state President
-    Trump may be making a significant change to his strategy.”Trump’s recent comments
-    about establishing a Strategic Bitcoin Reserve and his pro-crypto stance have
-    sparked excitement among investors. Following his election, Bitcoin ETF inflows
-    hit a record $3.4 billion per week, and Bitcoin breached the $100,000 level before
-    setting a new all-time high above $109,000. This reflects institutional enthusiasm
-    for a potentially crypto-friendly regulatory environment.Combined with the Fed’s
-    dovish stance, this optimism has resulted in BTC price rebounding above $85,000.According
-    to  BitMEX co-founder Arthur Hayes, “QT is basically over on April 1,” highlighting
-    that markets should now focus on potential SLR exemption or restart of QE. Hayes
-    believes $77,000 was the likely bottom for Bitcoin.JAYPOW delivered, QT basically
-    over Apr 1. The next thing we need to get bulled up for realz is either SLR exemption
-    and or a restart of QE. Was $BTC $77k the bottom, prob. But stonks prob have more
-    pain left to fully convert Jay to team Trump so stay nimble and cashed up.— Arthur
-    Hayes (@CryptoHayes) March 20, 2025Related: US recession would be a big catalyst
-    for Bitcoin: BlackRockCrypto market technical reboundChart technicals show that
-    the crypto market’s gains today are part of a rebound that started after the price
-    dropped to a multimonth low of $2.44 trillion on March 11.TOTAL crypto market
-    cap daily candle chart. Source: Cointelegraph/TradingViewThe total market cap,
-    currently at $2.77 trillion, seeks to break above the resistance zone between
-    $2.8 trillion and $3 trillion, where both the 200-day and 50-day SMAs sit.If this
-    happens, it would signal a bullish breakout from the current downtrend, with bulls
-    targeting all-time highs around $3.20 trillion, i.e., the 100-day SMA.Meanwhile,
-    the daily RSI has jumped from near oversold conditions at 31 on March 11 to the
-    \ 47, suggesting the bullish momentum is picking up.This article does not contain
-    investment advice or recommendations. Every investment and trading move involves
-    risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-03-20 10:41:59.000000000 +00:00
-- title: " Russian Gotbit founder strikes $23M plea deal with US prosecutors "
-  url: https://cointelegraph.com/news/russian-gotbit-23-million-plea-united-states?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Aleksei Andriunin, a Russian national charged with manipulating cryptocurrency
-    through the Gotbit market maker platform, has reportedly struck a plea deal with
-    prosecutors in the United States.Gotbit founder and CEO Andriunin has agreed to
-    forfeit about $23 million in Tether USDt (USDT) and Circle’s USDC (USDC) in a
-    plea deal with Massachusetts federal prosecutors, the legal news service Law360
-    reported on March 19.As part of the plea, Andriunin will plead guilty to three
-    counts charging conspiracy to commit wire fraud and market manipulation, according
-    to the letter signed by the defendant on March 19.An excerpt from letters in the
-    Gotbix founder case related to the $23 million forfeiture as part of the plea
-    with Massachusetts prosecutors: Law360 “Defendant understands and agrees that
-    forfeiture shall not satisfy or affect any fine, lien, penalty, restitution, cost
-    of imprisonment, tax liability or any other debt owed to the United States,” the
-    letter reads.The agreement doesn’t bind the US Attorney GeneralIn the letter to
-    the defendant, the US Attorney for the District of Massachusetts, Leah Foley,
-    stressed that the agreement to forfeit $23 million is only between Andriunin and
-    the attorney.“It does not bind the Attorney General of the United States or any
-    other federal, state, or local prosecuting authorities,” the letter reads.The
-    letter also states that the defendant acknowledges the court is not obligated
-    to adhere to the sentencing calculations proposed by the Massachusetts attorney.An
-    excerpt from legal letters in the Gotbix founder case related to sentencing guidelines
-    with Massachusetts prosecutors: Law360 “Defendant may not withdraw defendant’s
-    guilty plea if defendant disagrees with how the court calculates the guidelines
-    or with the sentence the court imposes,” attorney Foley wrote.Andriunin was extradited
-    to the US in October 2025Gotbit founder’s deal with Massachusetts prosecutors
-    came months after Andriunin was extradited to the US in October 2024 after being
-    arrested by Portuguese authorities.Since extradition, Andriunin has appeared in
-    a federal court in Boston, Massachusetts, where he was ordered to remain detained
-    until further notice.Andriunin, 26, was charged with wire fraud and conspiracy
-    to commit market manipulation and wire fraud in a superseding indictment in October
-    2024.Source: Alex Andriunin According to Massachusetts court documents, Gotbit
-    was a crypto “market maker” that orchestrated a “widespread cryptocurrency market
-    manipulation scheme.” The platform was registered in Belize and was said to provide
-    artificial trading volume for global firms, including those in the US, between
-    2017 and 2024.Related: Telegram founder Pavel Durov given permission to leave
-    FranceApart from Andriunin, the criminal complaint from Massachusetts authorities
-    in September 2024 also involved other Gotbit employees, such as marketing director
-    Fedor Kedrov and sales director Qawi Jalili, both living in Russia.In the plea
-    letter, Massachusetts attorney Foley mentioned that the assets listed in the forfeiture
-    section of the Gotbit plea agreement are solely controlled by the defendant on
-    Gotbit’s behalf despite these assets belonging to Gotbit.Magazine: Memecoins are
-    ded — But Solana ‘100x better’ despite revenue plunge\n\n            "
-  published: 2025-03-20 09:38:51.000000000 +00:00
 - title: " Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug
     for 5 Years "
   url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
