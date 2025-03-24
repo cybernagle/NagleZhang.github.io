@@ -1,121 +1,121 @@
 ---
-- title: NixOS and reproducible builds could have detected the xz backdoor
-  url: https://luj.fr/blog/how-nixos-could-have-detected-xz.html
+- title: 'Shift-to-Middle Array: A Faster Alternative to Std:Deque?'
+  url: https://github.com/attilatorda/Shift-To-Middle_Array
   summary: Comments
-  published: 2025-03-22 19:39:59.000000000 +00:00
-- title: Map Features in OpenStreetMap with Computer Vision
-  url: https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/
+  published: 2025-03-23 23:20:27.000000000 +00:00
+- title: English Scientists Develop Fast, High-Quality AI Weather Model for Desktops
+  url: https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction
   summary: Comments
-  published: 2025-03-22 17:42:10.000000000 +00:00
+  published: 2025-03-23 23:33:39.000000000 +00:00
+- title: RDNA 4's “Out-of-Order” Memory Accesses
+  url: https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses
+  summary: Comments
+  published: 2025-03-23 22:18:29.000000000 +00:00
+- title: 'The Vatican''s Latinist: On the Career of Reginald Foster. (2017)'
+  url: https://newcriterion.com/article/the-vaticans-latinist/
+  summary: Comments
+  published: 2025-03-24 01:29:51.000000000 +00:00
+- title: A USB Interface to the "Mother of All Demos" Keyset
+  url: https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html
+  summary: Comments
+  published: 2025-03-23 15:31:26.000000000 +00:00
+- title: Supply Chain Attacks on Linux Distributions – Fedora Pagure
+  url: https://fenrisk.com/pagure
+  summary: Comments
+  published: 2025-03-19 19:58:37.000000000 +00:00
+- title: First Known Photographs of Living Specimens
+  url: https://www.inaturalist.org/projects/first-known-photographs-of-living-specimens
+  summary: Comments
+  published: 2025-03-20 20:19:45.000000000 +00:00
+- title: 'The SeL4 Microkernel: An Introduction [pdf]'
+  url: https://sel4.systems/About/seL4-whitepaper.pdf
+  summary: Comments
+  published: 2025-03-23 11:09:28.000000000 +00:00
+- title: Play the Virtual Organ from Arp Schnitger
+  url: https://www.orgelstadt-hamburg.de/play-arp/
+  summary: Comments
+  published: 2025-03-23 18:31:46.000000000 +00:00
+- title: 'Show HN: My iOS app to practice sight reading (10 years in the App Store)'
+  url: https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416
+  summary: Comments
+  published: 2025-03-23 21:25:08.000000000 +00:00
+- title: 'Show HN: I built website for sharing Drum Patterns'
+  url: http://drumpatterns.onether.com
+  summary: Comments
+  published: 2025-03-23 13:05:21.000000000 +00:00
+- title: 'Andromeda XXXV: The Faintest Dwarf Satellite of the Andromeda Galaxy'
+  url: https://iopscience.iop.org/article/10.3847/2041-8213/adb433
+  summary: Comments
+  published: 2025-03-20 05:46:44.000000000 +00:00
+- title: 'LangManus: An Open-Source Manus Agent with LangChain + LangGraph'
+  url: https://github.com/langmanus/langmanus
+  summary: Comments
+  published: 2025-03-21 11:01:00.000000000 +00:00
+- title: Improving recommendation systems and search in the age of LLMs
+  url: https://eugeneyan.com/writing/recsys-llm/
+  summary: Comments
+  published: 2025-03-23 03:40:05.000000000 +00:00
+- title: 'argp: GNU-style command line argument parser for Go'
+  url: https://github.com/tdewolff/argp
+  summary: Comments
+  published: 2025-03-23 12:45:21.000000000 +00:00
+- title: Technicalities of Homeworld 2 Backgrounds
+  url: https://simonschreibt.de/gat/homeworld-2-backgrounds/
+  summary: Comments
+  published: 2025-03-23 13:14:15.000000000 +00:00
+- title: The Worst Programmer I Know (2023)
+  url: https://dannorth.net/the-worst-programmer/
+  summary: Comments
+  published: 2025-03-23 13:08:45.000000000 +00:00
+- title: A Brief History of the Miracle Bacterium
+  url: https://www.asimov.press/p/miracle-bacterium
+  summary: Comments
+  published: 2025-03-23 15:59:12.000000000 +00:00
+- title: The Myth of Liquid Detection
+  url: https://eclecticlight.co/2025/03/16/last-week-on-my-mac-the-myth-of-liquid-detection/
+  summary: Comments
+  published: 2025-03-20 15:32:46.000000000 +00:00
+- title: Total lunar eclipse over Teide crater, Tenerife – a project with many obstacles
+  url: https://lrtimelapse.com/news/total-lunar-eclipse-over-teide-crater-tenerife/
+  summary: Comments
+  published: 2025-03-21 15:04:16.000000000 +00:00
+- title: Modern Realty (YC S24) Is Hiring
+  url: https://www.workatastartup.com/jobs/66546
+  summary: Comments
+  published: 2025-03-23 17:00:09.000000000 +00:00
+- title: Euclid opens data treasure trove, offers glimpse of deep fields
+  url: https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_opens_data_treasure_trove_offers_glimpse_of_deep_fields
+  summary: Comments
+  published: 2025-03-20 17:07:11.000000000 +00:00
+- title: All Placebos are not created equal (2021)
+  url: https://www.samstack.io/p/all-placebos-are-not-created-equal
+  summary: Comments
+  published: 2025-03-21 11:28:06.000000000 +00:00
+- title: Feral pig meat transmits rare bacteria
+  url: https://arstechnica.com/health/2025/03/florida-man-eats-feral-pig-meat-contracts-rare-biothreat-bacteria/
+  summary: Comments
+  published: 2025-03-19 17:17:06.000000000 +00:00
+- title: The Compressed Book Edition
+  url: https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/
+  summary: Comments
+  published: 2025-03-23 17:31:24.000000000 +00:00
 - title: 'PyTorch Internals: Ezyang''s Blog'
   url: https://blog.ezyang.com/2019/05/pytorch-internals/
   summary: Comments
   published: 2025-03-22 14:39:04.000000000 +00:00
-- title: Tencent's 'Hunyuan-T1'–The First Mamba-Powered Ultra-Large Model
-  url: https://llm.hunyuan.tencent.com/#/blog/hy-t1?lang=en
+- title: Bitter Lesson is about AI agents
+  url: https://ankitmaloo.com/bitter-lesson/
   summary: Comments
-  published: 2025-03-22 17:25:32.000000000 +00:00
-- title: The Vectrex Computer
-  url: https://www.amigalove.com/viewtopic.php?t=2887
+  published: 2025-03-23 09:16:29.000000000 +00:00
+- title: Satshot Founder Lanny Faleide Takes Global Imagery to New Heights
+  url: https://www.croplife.com/precision-tech/satshot/
   summary: Comments
-  published: 2025-03-22 22:52:21.000000000 +00:00
-- title: Mathematical Methods for Physics [pdf]
-  url: https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf
+  published: 2025-03-19 21:41:05.000000000 +00:00
+- title: 'The Scammer''s Manual: How to Launder Money and Get Away with It'
+  url: https://www.nytimes.com/2025/03/23/world/asia/cambodia-money-laundering-huione.html
   summary: Comments
-  published: 2025-03-22 19:58:52.000000000 +00:00
-- title: The polar vortex is hitting the brakes
-  url: https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes
-  summary: Comments
-  published: 2025-03-22 19:31:38.000000000 +00:00
-- title: Domu Technology Inc. (YC S24) Is Hiring a Vibe Coder
-  url: https://www.ycombinator.com/companies/domu-technology-inc/jobs/hwWsGdU-vibe-coder-ai-engineer
-  summary: Comments
-  published: 2025-03-23 01:00:12.000000000 +00:00
+  published: 2025-03-23 17:36:42.000000000 +00:00
 - title: 'Landrun: Sandbox any Linux process using Landlock, no root or containers'
   url: https://github.com/Zouuup/landrun
   summary: Comments
   published: 2025-03-22 13:56:59.000000000 +00:00
-- title: Quitting an Intel x86 Hypervisor
-  url: https://halobates.de/blog/p/446
-  summary: Comments
-  published: 2025-03-22 20:42:04.000000000 +00:00
-- title: Trapping misbehaving bots in an AI Labyrinth
-  url: https://blog.cloudflare.com/ai-labyrinth/
-  summary: Comments
-  published: 2025-03-19 13:31:07.000000000 +00:00
-- title: Optimizing Brainfuck interpreter in the C preprocessor
-  url: https://github.com/camel-cdr/bfcpp
-  summary: Comments
-  published: 2025-03-20 22:34:07.000000000 +00:00
-- title: 'Differential Geometry: A First Course in Curves and Surfaces [pdf]'
-  url: https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf
-  summary: Comments
-  published: 2025-03-22 13:46:30.000000000 +00:00
-- title: Magical Instant Bullets
-  url: https://militaryrealism.blog/2025/03/20/magical-instant-bullets/
-  summary: Comments
-  published: 2025-03-20 21:55:20.000000000 +00:00
-- title: 'Show HN: FastOpenAPI – automated docs for many Python frameworks'
-  url: https://github.com/mr-fatalyst/fastopenapi
-  summary: Comments
-  published: 2025-03-22 14:10:30.000000000 +00:00
-- title: 300-year-old Polish beech voted Tree of the Year
-  url: https://www.bbc.co.uk/news/articles/c20dd6yk55yo
-  summary: Comments
-  published: 2025-03-19 20:37:58.000000000 +00:00
-- title: Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]
-  url: https://www.youtube.com/watch?v=xJzrU38pGWc
-  summary: Comments
-  published: 2025-03-22 15:30:48.000000000 +00:00
-- title: 'Through a Glass Lushly: Michalina Janoszanka''s Reverse Paintings (Ca. 1920s)'
-  url: https://publicdomainreview.org/collection/michalina-janoszanka/
-  summary: Comments
-  published: 2025-03-19 21:15:39.000000000 +00:00
-- title: Derivatives and Logarithms of 3D Transforms
-  url: https://nosferalatu.com/./DerivativesLogarithmsTransforms.html
-  summary: Comments
-  published: 2025-03-21 00:06:36.000000000 +00:00
-- title: 'Bra and KET: String Interpolation in AmigaDOS'
-  url: https://www.datagubbe.se/braket/
-  summary: Comments
-  published: 2025-03-22 17:05:22.000000000 +00:00
-- title: California Attorney General issues consumer alert for 23andMe customers
-  url: https://oag.ca.gov/news/press-releases/attorney-general-bonta-urgently-issues-consumer-alert-23andme-customers
-  summary: Comments
-  published: 2025-03-22 17:55:38.000000000 +00:00
-- title: 'Crabtime: Zig’s Comptime in Rust'
-  url: https://crates.io/crates/crabtime
-  summary: Comments
-  published: 2025-03-19 18:44:11.000000000 +00:00
-- title: Italy demands Google poison DNS under strict Piracy Shield law
-  url: https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/
-  summary: Comments
-  published: 2025-03-22 19:46:04.000000000 +00:00
-- title: 'Understanding R1-Zero-Like Training: A Critical Perspective'
-  url: https://github.com/sail-sg/understand-r1-zero
-  summary: Comments
-  published: 2025-03-22 14:35:12.000000000 +00:00
-- title: 'Show HN: We made an MCP server so Cursor can debug Node.js on its own'
-  url: https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger
-  summary: Comments
-  published: 2025-03-22 15:57:26.000000000 +00:00
-- title: Scallop – A Language for Neurosymbolic Programming
-  url: https://www.scallop-lang.org/
-  summary: Comments
-  published: 2025-03-22 04:45:08.000000000 +00:00
-- title: Hubble Captures Vivid Auroras in Jupiter's Atmosphere (2016)
-  url: https://science.nasa.gov/missions/hubble/hubble-captures-vivid-auroras-in-jupiters-atmosphere/
-  summary: Comments
-  published: 2025-03-19 23:29:28.000000000 +00:00
-- title: Next.js version 15.2.3 has been released to address a security vulnerability
-  url: https://nextjs.org/blog/cve-2025-29927
-  summary: Comments
-  published: 2025-03-22 21:19:07.000000000 +00:00
-- title: Blue Ghost lander captures sunset shots on moon before falling silent
-  url: https://phys.org/news/2025-03-blue-ghost-lander-captures-stunning.html
-  summary: Comments
-  published: 2025-03-19 10:45:37.000000000 +00:00
-- title: When you deleted /lib on Linux while still connected via SSH (2022)
-  url: https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/
-  summary: Comments
-  published: 2025-03-22 07:24:05.000000000 +00:00
