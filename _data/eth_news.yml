@@ -1,4 +1,362 @@
 ---
+- title: " BNB Chain launches $100M liquidity program "
+  url: https://cointelegraph.com/news/bnb-chain-launches-100m-liquidity-program?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "BNB Chain (BNB) has launched a $100 million program designed to bootstrap
+    liquidity for its native projects on centralized exchanges (CEXs).The network
+    is allocating $100 million in incentives, primarily in the form of its native
+    BNB tokens, to projects that successfully list on any of 11 major CEXs specified
+    by BNB Chain, according to a March 24 announcement.The program aims to “further
+    enhance BNB Chain’s ecosystem liquidity and foster project growth by incentivizing
+    exchanges to list native BNB Chain tokens,” the chain said in the statement. BNB
+    Chain previously launched two smaller liquidity incentive programs, allocating
+    two tranches of $4.4 million in February and March to incentivize CEX listings
+    for memecoins and other ecosystem projects. Rewards vary based on the prominence
+    of the exchange listing. Source: BNB ChainThe network’s latest liquidity incentive
+    program will be executed on a first-come, first-served basis and will initially
+    run for a three-month trial period, it said. Only projects with at least a $5
+    million market capitalization and $1 million in daily trading volume are eligible,
+    among other criteria, BNB Chain said. The largest rewards — $500,000 in permanent
+    liquidity — are reserved for projects that list on major CEXs such as Binance
+    and Coinbase, it said.In some cases, rewards will be limited to non-withdrawable
+    BNB token liquidity and in others, they will also include purchases of project
+    tokens to create two-sided liquidity, according to BNB Chain.Chains by TVL. Source:
+    DeFILlamaRelated: Binance CEO reiterates denial of Trump family deal talksLagging
+    competitorsBNB Chain has a total value locked (TVL) of approximately $5.4 billion,
+    according to data from DefiLlama. It ranks fourth among blockchain networks in
+    TVL, lagging behind leading smart contract platforms Ethereum and Solana, with
+    TVLs of about $46 billion and $7 billion, respectively, according to DefiLlama. BNB
+    Chain is affiliated with Binance, the world’s largest cryptocurrency exchange. In
+    March, The Wall Street Journal reported that entities affiliated with US President
+    Donald Trump were in talks to buy Binance.US, an independently-operated US crypto
+    exchange.Former Binance CEO Changpeng “CZ” Zhao has denied many of the reports’
+    claims, including any suggestion that a deal was contingent on Trump pardoning
+    Zhao following his conviction on charges of violating the Bank Secrecy Act. In
+    2023, Binance agreed to pay a $4.3 billion penalty and for Zhao to plead guilty
+    to one count of violating the Bank Secrecy Act for shortcomings in Binance’s Anti-Money
+    Laundering program.Magazine: Trump’s crypto ventures raise conflict of interest,
+    insider trading questions\n\n            "
+  published: 2025-03-24 20:43:28.000000000 +00:00
+- title: " DeFi lender Nostra pauses borrowing after price feed error "
+  url: https://cointelegraph.com/news/lending-protocol-nostra-reports-critical-price-feed-issue?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Nostra, a lending protocol on Starknet, has paused borrowing for two liquid
+    staking tokens after identifying a “critical issue” with its price feeds, the
+    decentralized finance (DeFi) protocol said. On March 24, errors in Nostra’s price
+    feed inflated the reported prices of xSTRK and sSTRK — two liquid staking derivatives
+    of Starknet’s native STRK token — to approximately three times the tokens’ actual
+    value, Nostra said in a post on the X platform.According to Nostra, “[s]uch an
+    inflated price feed could have caused unnecessary liquidations of otherwise safe
+    positions, resulting in users with healthy positions getting liquidated.” In response,
+    the DeFi protocol has disabled any further borrowing against xSTRK and sSTRK collateral
+    deposits, Nostra said. Nostra has also recommended that users with existing xSTRK
+    and sSTRK deposits withdraw the collateral immediately. “Since we don’t have a
+    secondary (fallback) oracle to support these assets, as none are available, we
+    are unable to fully prevent similar events from occurring in the future,” Nostra
+    added.“Our priority has always been and continues to be to keep existing user
+    funds safe and with no fallback oracle, the risks outweigh the benefits,” it said. Nostra’s
+    collateral token options. Source: NostraRelated: Starknet to settle on Bitcoin
+    and Ethereum to unify the chainsStarknet DeFi protocolStarknet is a layer-2 scaling
+    chain of Ethereum secured using zero-knowledge (ZK) proofs. It launched its mainnet
+    in late 2021, according to Messari.It has a total value locked (TVL) of approximately
+    $575 million, according to data from L2Beat. Lending protocol Nostra is among
+    the larger DeFi projects operating on the chain. It has a TVL of approximately
+    $55 million, according to its website. On Nostra, users post collateral in one
+    token to borrow in another token. The DeFi protocol’s most popular collateral
+    tokens are Ether, STRK, and stablecoins USDC (USDC) and Tether (USDT). Starknet
+    designed STRK to be staked in exchange for a portion of the network’s fee revenues,
+    according to its documentation.xSTRK and sSTRK are liquid staking tokens issued
+    by independent DeFi protocols Endur and Nimbura, respectively. Magazine: What
+    are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
+  published: 2025-03-24 19:14:27.000000000 +00:00
+- title: " Price analysis 3/24: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK "
+  url: https://cointelegraph.com/news/price-analysis-3-24-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-link?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin (BTC) rose 4.25% last week to close above $86,000, and the bulls
+    extended the recovery above $88,700 on March 24. 10x Research founder Markus Thielen
+    said in a March 23 report that Bitcoin’s reversal indicators had turned positive,
+    suggesting a “renewed uptrend.”Buyers seem to be returning to the markets. According
+    to SoSoValue data, US Spot Bitcoin exchange-traded funds (ETFs) witnessed net
+    inflows of $744.4 million last week after recording five consecutive weeks of
+    outflows. However, Ether ETFs could not replicate a similar performance as they
+    witnessed a fourth successive week of net outflows.Daily cryptocurrency market
+    performance. Source: Coin360Analysts are divided about the near-term price action
+    for Bitcoin. Select analysts believe Bitcoin could run into significant resistance
+    near $90,000, starting a pullback toward $80,000. In contrast, BitMEX co-founder
+    and chief investment officer of Maelstrom, Arthur Hayes, said in a post on X that
+    Bitcoin will rally to $110,000 before it drops to $76,500.Could Bitcoin bulls
+    maintain the momentum and push the price above $90,000? Will the altcoins follow
+    Bitcoin higher? Let’s analyze the charts to find out.S&P 500 Index price analysisThe
+    S&P 500 Index (SPX) has risen to the 20-day exponential moving average (5,742),
+    where the bears are expected to step in. SPX daily chart. Source: Cointelegraph/TradingViewIf
+    the price turns down from the 20-day EMA, the bears will attempt to drag the index
+    below 5,670. If they succeed, the index may retest the critical support zone between
+    5,600 and 5,500.On the other hand, a close above the 20-day EMA will be the first
+    indication that the correction may be ending. The index will then try to rise
+    toward the 50-day simple moving average (5,913).US Dollar Index price analysisThe
+    US Dollar Index (DXY) rebounded off the 103.37 level on March 19, indicating that
+    the bulls are trying to form a floor.DXY daily chart. Source: Cointelegraph/TradingViewThe
+    index could reach the 20-day EMA (104.59), which is an important level to watch
+    out for. If the index turns down sharply from the 20-day EMA, the bears will again
+    try to sink the price below 103.37. If they can pull it off, the index may collapse
+    to 102 and eventually to 101.Contrarily, a break and close above the 20-day EMA
+    suggests the bears are losing their grip. The index could climb to the breakdown
+    level of 105.42, which is likely to act as a formidable barrier.Bitcoin price
+    analysisBitcoin broke above the 20-day EMA ($85,572) on March 23, suggesting the
+    start of a strong recovery.BTC/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    20-day EMA is flattening out, and the RSI has risen into positive territory, signaling
+    a minor advantage to the bulls. The relief rally is expected to face stiff resistance
+    at the 50-day SMA ($90,290). If the price turns down from the 50-day SMA but finds
+    support at the 20-day EMA, it will indicate a positive sentiment. That increases
+    the possibility of a rally to $95,000 and then to $100,000.Conversely, if the
+    price turns down from the 50-day SMA and breaks below the 20-day EMA, it will
+    suggest that the bears remain active at higher levels. A drop below $83,000 could
+    sink the BTC/USDT pair to $80,000.Ether price analysisEther (ETH) bulls are again
+    attempting to drive the price above the 20-day EMA ($2,057) and the breakdown
+    level of $2,111.ETH/USDT daily chart. Source: Cointelegraph/TradingViewIf they
+    manage to do that, it will signal that the markets have rejected the breakdown
+    below $2,111. The ETH/USDT pair could rally to the 50-day SMA ($2,356) and subsequently
+    to $2,550.Time is running out of the bears. If they want to retain the advantage,
+    they will have to defend the $2,111 level and swiftly pull the price below $1,750.
+    That may resume the downtrend toward the next support at $1,550.XRP price analysisXRP
+    (XRP) turned up from the 20-day EMA ($2.38) on March 23, signaling that the bulls
+    are using the dips to buy.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    bulls will try to push the price above $2.59. If they manage to do that, the XRP/USDT
+    pair could climb to the resistance line, where sellers are expected to mount a
+    strong defense. If the price turns down from the resistance line but rebounds
+    off the 20-day EMA, it will indicate a positive sentiment. That improves the prospects
+    of a break above the resistance line. The pair may then rally to $3.Sellers will
+    have to tug the price below $2.20 to seize control. That could clear the path
+    for a retest of the vital support at $2.BNB price analysisBNB (BNB) has bounced
+    off the moving averages, indicating a change in sentiment from selling on rallies
+    to buying on dips.BNB/USDT daily chart. Source: Cointelegraph/TradingViewIf the
+    price rises and breaks above $644, it will indicate the resumption of the recovery.
+    The BNB/USDT pair could ascend to $686 and above it to the crucial resistance
+    at $745. The 20-day EMA ($613) is the strong support to watch out for on the downside.
+    A break and close below the 20-day EMA could weaken the bullish momentum. The
+    pair may slide to the 38.2% Fibonacci retracement level of $591 and then to the
+    50% retracement level of $575.Solana price analysisSolana (SOL) broke above the
+    20-day EMA ($135) on March 24, signaling that the bulls are attempting a comeback.SOL/USDT
+    daily chart. Source: Cointelegraph/TradingViewIf the price maintains above the
+    20-day EMA, the SOL/USDT pair could rise to the 50-day SMA ($158). Sellers will
+    try to stall the rally at the 50-day SMA, but if the bulls overcome the obstacle,
+    the pair may surge toward $180. That will bring the large $110 to $260 range into
+    play.Contrarily, if the price turns down from the current level or the 50-day
+    SMA, it will suggest that the bears remain sellers on rallies. The bears will
+    have to yank the price below the $120 to $110 support zone to start the next leg
+    of the downtrend. Related: How long will Bitcoin’s price consolidation last?Dogecoin
+    price analysisDogecoin (DOGE) has risen above the 20-day EMA ($0.18), indicating
+    that the bulls have kept up the pressure.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewIf
+    the price closes above the 20-day EMA, the DOGE/USDT pair could climb to the 50-day
+    SMA ($0.21) and later to $0.24. Sellers are expected to defend the level, but
+    if the bulls prevail, the pair could soar to $0.29.Contrarily, if the price turns
+    down from the 20-day EMA and breaks below $0.16, it will signal that bears remain
+    active at higher levels. The pair may then slump to the critical support at $0.14.Cardano
+    price analysisCardano (ADA) has been trading between the moving averages and the
+    uptrend line for the past few days.ADA/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    failure of the bears to sink the price to the uptrend line suggests a lack of
+    selling at lower levels. Buyers will try to strengthen their position by pushing
+    the price above the moving averages. If they do that, the ADA/USDT pair could
+    rise to $0.84 and later to $1.02.This positive view will be invalidated in the
+    near term if the price turns down from the moving averages and breaks below the
+    uptrend line. That could sink the pair to $0.58 and eventually to $0.50.Chainlink
+    price analysisChainlink (LINK) has broken out of the 20-day EMA ($14.60) on March
+    24, indicating that the downtrend could be ending.LINK/USDT daily chart. Source:
+    Cointelegraph/TradingViewThe LINK/USDT pair could rise to the 50-day SMA ($16.34),
+    which could again act as a stiff resistance. If the price turns down from the
+    50-day SMA, the pair is likely to find support at the 20-day EMA. If the price
+    rebounds off the 20-day EMA, the likelihood of a rally to $19.25 increases.If
+    bears want to prevent the upside, they will have to swiftly pull the price below
+    $13.82. That may sink the pair to the channel’s support line near $12.This article
+    does not contain investment advice or recommendations. Every investment and trading
+    move involves risk, and readers should conduct their own research when making
+    a decision.\n\n            "
+  published: 2025-03-24 18:03:25.000000000 +00:00
+- title: " Ethereum down 57% from its all-time high, but it’s still worth more than
+    Toyota "
+  url: https://cointelegraph.com/news/ethereum-is-down-57-but-is-still-worth-more-than-toyota?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether is trading at around half its all-time high price, but the Ethereum
+    network is still valued higher than some of the world’s most prominent companies.
+    Ether (ETH) traded at roughly $2,088 at the time of writing amid continued exchange-traded
+    fund (ETF) outflows, down over 57% from its all-time high of nearly $4,900 set
+    in mid-November 2021, according to CoinMarketCap data. Despite this decline, Ethereum
+    maintains a market capitalization of nearly $252 billion, surpassing global corporations
+    such as Toyota ($250 billion) and the total market value of the precious metal
+    platinum ($245 billion).Other notable companies currently worth less than the
+    Ethereum network include IBM, McDonald’s, General Electric, Shell and Disney.
+    If Ethereum were a company, it would be the fiftieth largest in the world, just
+    behind Nestlé, with its market capitalization of nearly $256 billion.Alex Obchakevich,
+    founder of Obchakevich Research, told Cointelegraph that speculative interest
+    significantly contributes to Ethereum’s valuation, as well as its “freedom from
+    the financial framework of traditional finance.” He added:“Ethereum is about the
+    future, about new financial technologies and solutions. The project is still very
+    young and attracts many new and young investors who are ready to take risks. I
+    believe that the average Zoomer will choose Ethereum for investment rather than
+    Toyota or IBM shares.”Flavio Bianchi, a Polkadot ambassador and the chief marketing
+    officer of the decentralized fundraising platform Polimec, told Cointelegraph
+    that the comparison is less insightful than it might appear at first. He highlighted
+    that “Ethereum isn’t a business” — it’s infrastructure. He explained:“Its value
+    doesn’t come solely from revenue or profit but from usage and belief in its future
+    role. It enables people to build, transact, issue assets and coordinate without
+    intermediaries.”Obchakevich also suggested Ethereum became more attractive after
+    it transitioned to proof-of-stake (PoS), reinforcing “its value as a deflationary
+    asset with growth potential in the digital economy.”Related: ETH may reclaim $2.2K
+    ‘macro range’ amid growing whale accumulationIs Ethereum a deflationary asset?Recent
+    data from Ultra Sound Money shows that Ethereum is inflationary again, with an
+    annual inflation rate of about 0.73% over the past 30 days.The rate of inflation
+    or deflation is largely dependent on the ETH fees burned by the network and the
+    amount of newly issued Ether. Fees have been burned on the network since the implementation
+    of EIP-1559 in 2021, which, paired with decreased issuance after the PoS transition,
+    resulted in Ethereum being deflationary during sustained network activity.IntoTheBlock
+    data shows that on March 23, daily fees on Ethereum fell to a little over $337,000,
+    the lowest value reported since June 2020. YCharts also shows that on March 23,
+    there was only 118.67 ETH worth of fees, the lowest value reported this year.Ethereum
+    network transaction fees per day. Source: YChartsOver the past 24 hours, ETH’s
+    value rose nearly 3.5%, increasing its market capitalization by about $9.3 billion,
+    now totaling approximately $252.1 billion. For comparison, this figure exceeds
+    Greece’s gross domestic product (GDP), currently around $243.5 billion.Related:
+    Ethereum eyes 65% gains from ‘cycle bottom’ as BlackRock ETH stash crosses $1BObchakevich
+    highlighted that other than being worth more than Greece’s GDP, Ethereum’s market
+    cap is also higher than the GDP of countries such as Slovenia and Croatia combined.
+    He said this is more than a curious factoid:“For institutional investors, it is
+    a sign of legitimacy. Ethereum is valued for smart contracts, and DeFi has a TVL
+    [total value locked] of over $124 billion, seeing it not only as speculation but
+    as the infrastructure of the future.”Pradeep Singh, CEO of enterprise privacy
+    and security infrastructure firm Gateway FM, told Cointelegraph that these numbers
+    reflect “a fundamental shift in how we value digital infrastructure”:“What we’re
+    witnessing is a growing recognition that significant portions of the global economy
+    will eventually migrate to this infrastructure. Ethereum’s market capitalization
+    is essentially pricing in its future role as the settlement layer for everything
+    from financial services to supply chain management.”The Ethereum protocol continues
+    to evolve as developers introduce innovations such as native rollups, further
+    expanding the blockchain’s capabilities and potential use cases.Magazine: MegaETH
+    launch could save Ethereum… but at what cost?\n\n            "
+  published: 2025-03-24 15:33:33.000000000 +00:00
+- title: " XRP, Solana lead altcoin ETP inflows as Ethereum slumps — CoinShares "
+  url: https://cointelegraph.com/news/xrp-solana-lead-altcoin-etp-inflows-ethereum-struggles?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "XRP and Solana led all altcoin-based exchange-traded product (ETP) inflows
+    during the week ending March 21, with $6.71 million and $6.44 million respectively,
+    according to digital asset investment firm CoinShares.Other altcoin inflows were
+    comparatively modest, with Polygon (MATIC) logging $400,000 and Chainlink (LINK)
+    adding $200,000.Sentiment toward altcoins remained mixed overall, as Ether (ETH)
+    alone saw significant outflows totaling $86 million. Other notable outflows included
+    Sui (SUI), with $1.3 million, Polkadot (DOT), with $1.3 million and Tron (TRX)
+    with $950,000.Despite Ether’s substantial outflows dragging down the altcoin sector,
+    digital assets collectively reversed a five-week streak of net outflows, registering
+    inflows of $644 million. Bitcoin (BTC) led this recovery with inflows amounting
+    to $724 million, snapping its own five-week negative streak.Ethereum outflows
+    pull down altcoins ETP performance, but Bitcoin carries digital assets. Source:
+    CoinSharesAs Cointelegraph reported, Ethereum has now experienced net weekly outflows
+    for four consecutive weeks, while Bitcoin recorded its largest net inflow since
+    January.Related: Bitcoin ETFs log first net inflows in weeks, while Ether outflows
+    continueSentiment on digital assets ETPs shifting across the worldCoinShares noted
+    that the majority of inflows originated from the US, which accounted for $632
+    million, driven primarily by BlackRock’s iShares Bitcoin Trust (IBIT). Positive
+    sentiment, however, extended beyond the US, with Switzerland leading other regions
+    at $15.9 million, followed closely by Germany ($13.9 million) and Hong Kong ($1.2
+    million).Canada and Sweden lead outflows. Source: CoinSharesStars lining up for
+    Solana and XRPAlthough altcoins collectively suffered a net outflow driven primarily
+    by Ethereum’s performance, Solana and XRP emerged as the standout altcoin performers.
+    In Solana’s case, the US market is poised to introduce its first Solana futures
+    exchange-traded funds (ETF), potentially paving the way for a future spot Solana
+    ETF.Related: XRP and Solana race toward the next crypto ETF approvalIn Bitcoin’s
+    case, the approval of futures-based ETFs was initially favored by regulators due
+    to the existence of a regulated market (the Chicago Mercantile Exchange), which
+    provided assurances against potential market manipulation. However, this raised
+    controversy over the SEC’s continued rejection of spot Bitcoin ETFs, which directly
+    hold the cryptocurrency. A pivotal lawsuit by Grayscale successfully challenged
+    this inconsistency, compelling the SEC to revisit its stance and ultimately paving
+    the way for approval of the long-awaited spot Bitcoin ETFs.Meanwhile, XRP has
+    seen a significant boost from the recent dismissal by the SEC of its long-running
+    lawsuit against Ripple Labs.Magazine: Memecoins are ded — But Solana ‘100x better’
+    despite revenue plunge \n\n            "
+  published: 2025-03-24 13:53:21.000000000 +00:00
+- title: " Bitcoin ETFs log first net inflows in weeks, while Ether outflows continue "
+  url: https://cointelegraph.com/news/bitcoin-etf-inflows-rebound-ethereum-outflows-continue?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Spot Bitcoin exchange-traded funds (ETFs) in the US snapped a five-week
+    net outflow streak in the trading week ending March 21.Bitcoin (BTC) ETFs clocked
+    a net inflow of $744.4 million — the biggest tally in eight weeks — extending
+    their daily inflow streak to six consecutive days, according to data from SoSoValue.US-based
+    spot Bitcoin ETF net flows get back on track. Source: SoSoValueFive funds contributed
+    to the inflows, with the bulk coming from BlackRock’s iShares Bitcoin Trust (IBIT),
+    which recorded $537.5 million. Fidelity’s Wise Origin Bitcoin Fund (FBTC) followed
+    with $136.5 million.The renewed inflows come after a bearish period for both the
+    crypto market and the broader global economy, marked by growing concerns over
+    escalating trade tensions and rising recession concerns.Related: US recession
+    would be a big catalyst for Bitcoin: BlackRockEarlier this year, Bitcoin ETFs
+    recorded their largest net inflows of 2025: $1.96 billion in the week ending Jan.
+    17 and $1.76 billion the following week. Bitcoin (BTC) surged to an all-time high
+    of $109,000 on Jan. 20, the inauguration day of US President Donald Trump.Bitcoin
+    later dropped into the $78,000 range amid the broader market correction. With
+    the latest inflows — the strongest since January — the price rebounded to $87,343
+    at the time of writing, according to CoinGecko.Bitcoin leaves Ethereum in the
+    red zoneThe same can’t be said for Ether (ETH) ETFs, which extended their weekly
+    net outflow streak to four weeks.Ethereum ETF net inflows continue slumping. Source:
+    SoSoValueDuring the week ending March 21, Ethereum funds saw a net outflow of
+    $102.9 million, with BlackRock’s iShares Ethereum Trust ETF (ETHA) accounting
+    for $74 million of that.Ether (ETH) was trading at $2,090 at the time of writing,
+    up from less than $2,000, a level it had fallen beneath for the first time in
+    over a year.Still, there was a bright spot for Ethereum, as institutions continue
+    to deepen their exposure to the asset.Related: Ethereum eyes 65% gains from ‘cycle
+    bottom’ as BlackRock ETH stash crosses $1BBlackRock’s BUIDL fund — which primarily
+    invests in tokenized real-world assets (RWAs) — now holds a record $1.15 billion
+    worth of Ether, up from about $990 million just a week earlier, according to Token
+    Terminal. The fresh injection of ETH signals growing conviction from the world’s
+    largest asset manager in Ethereum’s role as the leading infrastructure for real-world
+    asset tokenization.Market sentiment improves, but investors remain cautiousMarket
+    sentiment on crypto has improved since the past week, with the Crypto Fear & Greed
+    Index improving to 45% from 32% last week.Still, Singapore-based investment firm
+    QCP Capital advised caution regarding the likelihood of a sustained breakout.“Upcoming
+    tariff escalations slated for 2 April could once again pressure risk assets,”
+    QCP Cap said in a March 24 market analysis.Magazine: What are native rollups?
+    Full guide to Ethereum’s latest innovation\n\n            "
+  published: 2025-03-24 10:25:21.000000000 +00:00
+- title: " US Treasury argues no need for final court judgment in Tornado Cash case "
+  url: https://cointelegraph.com/news/us-treasury-argues-no-need-for-final-court-judgment-tornado-cash-case?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The US Treasury Department says there is no need for a final court judgment
+    in a lawsuit over its sanctioning of Tornado Cash after dropping the crypto mixer
+    from the sanctions list.In August 2022, Treasury’s Office of Foreign Assets Control
+    (OFAC) sanctioned Tornado Cash after alleging the protocol helped launder crypto
+    stolen by North Korean hacking crew the Lazarus Group, leading to a number of
+    Tornado Cash users filing a lawsuit against the regulator. After a court ruling
+    in favor of Tornado Cash, the US Treasury dropped the mixer from its sanctions
+    list on March 21, along with several dozen Tornado-affiliated smart contract addresses
+    from the Specially Designated Nationals (SDN) list, and has now argued “this matter
+    is now moot.”Because Tornado Cash has been dropped from the sanctions list, the
+    US Treasury Department argues there is no need for a final court judgment in the
+    lawsuit. Source: Paul Grewal“Because this court, like all federal courts, has
+    a continuing obligation to satisfy itself that it possesses Article III jurisdiction
+    over the case, briefing on mootness is warranted,” the US Treasury said. However,
+    Coinbase chief legal officer Paul Grewal said the Treasury’s hope to have the
+    case declared moot before an official judgment can be made isn’t the correct legal
+    process.“After grudgingly delisting TC, they now claim they’ve mooted any need
+    for a final court judgment. But that’s not the law, and they know it,” he said.“Under
+    the voluntary cessation exception, a defendant’s decision to end a challenged
+    practice moots a case only if the defendant can show that the practice cannot
+    ‘reasonably be expected to recur.’”Grewal pointed to a 2024 Supreme Court ruling
+    that found a legal complaint from Yonas Fikre, a US citizen who was put on the
+    No Fly List, is not moot by taking him off the list because the ban could be reinstated
+    again at a later date.Source: Paul Grewal“Here, Treasury has likewise removed
+    the Tornado Cash entities from the SDN, but has provided no assurance that it
+    will not re-list Tornado Cash again. That’s not good enough, and will make this
+    clear to the district court,” Grewal said.Six Tornado Cash users led by Ethereum
+    core developer Preston Van Loon, with the support of Coinbase, sued the Treasury
+    in September 2022 to reverse the sanctions under the argument that they were unlawful.Crypto
+    policy advocacy group Coin Center followed through with a similar suit in October
+    2022.  In August 2023, a Texas federal court judge sided with the US Treasury,
+    ruling that Tornado Cash was an entity that may be designated per OFAC regulations.
+    On appeal, a three-judge panel ruled in November that Treasury’s sanctions against
+    the crypto mixer’s immutable smart contracts were unlawful.US Treasury had a 60-day
+    window to challenge the decision, which it did; however, the US court sided with
+    Tornado Cash, overturning the sanctions on Jan. 21 and forcing the government
+    agency to remove the sanctions by March.Related: US Treasury under Trump could
+    take a different approach to Tornado CashIts founders are still facing legal strife,
+    however. The US charged Roman Storm and fellow co-founder Roman Semenov in August
+    2023, accusing them of helping launder over $1 billion in crypto through Tornado
+    Cash. Semenov is still at large and on the FBI’s most wanted list. Storm is free
+    on a $2 million bond and expected to face trial in April. Meanwhile, Tornado Cash
+    developer Alexey Pertsev was released from prison after a Dutch court suspended
+    his “pretrial detention” as he prepared to appeal his money laundering conviction.Magazine:
+    Ripple says SEC lawsuit ‘over,’ Trump at DAS, and more: Hodler’s Digest, March
+    16 – 22\n\n            "
+  published: 2025-03-24 05:17:02.000000000 +00:00
 - title: " Ethereum eyes 65% gains from &#039;cycle bottom&#039; as BlackRock ETH
     stash crosses $1B "
   url: https://cointelegraph.com/news/ethereum-65-cycle-bottom-black-rock-eth-1b?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -1109,368 +1467,3 @@
     potential conflicts of interest, experts have said. Magazine: Trump’s crypto ventures
     raise conflict of interest, insider trading questions\n\n            "
   published: 2025-03-18 18:29:18.000000000 +00:00
-- title: " Ethereum price in ‘cursed’ downtrend which could continue well into 2025
-    — Analyst "
-  url: https://cointelegraph.com/news/ethereum-price-in-cursed-downtrend-which-could-continue-well-into-2025-analyst?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum’s native token, Ether (ETH), has ventured into oversold territory
-    multiple times against Bitcoin (BTC) in recent months, but the altcoin has yet
-    to show any signs of finding a price bottom. The trading situation is actually
-    quite similar to a previous scenario, and ETH’s market structure suggests that
-    it could repeat itself in Q2 to Q3 of this year.Ether’s repeat breakdowns point
-    to more downsideThe relative strength index (RSI) on ETH’s 3-day timeframe remains
-    below 30, a level that typically signals a potential bounce. However, historical
-    patterns show that previous dips into oversold conditions have failed to mark
-    a definitive bottom. Each instance has been followed by another leg lower, reflecting
-    persistent bearish momentum.ETH/BTC three-day price chart. Source: TradingViewSince
-    mid-2024, the ETH/BTC pair has undergone repeat breakdowns, with losses of around
-    13%, 21%, 25%, and 19.5% occurring in rapid succession. Moreover, the 50-day and
-    200-day EMAs are trending lower, confirming the lack of bullish strength.X-based
-    market analyst @CarpeNoctom highlighted ETH’s negative price performance, noting
-    that the ETH/BTC pair has failed to confirm a bullish divergence—when the price
-    makes lower lows but the RSI makes higher lows—on its weekly chart.ETH/BTC weekly
-    price chart. Source: TradingView/CryptoNoctomETH ETF outflows and onchain data
-    hint at further weaknessThe “cursed” ETH/BTC downtrend stands out when compared
-    to the broader crypto market. This includes persistent outflows witnessed across
-    the US-based spot ETH ETFs, as well as negative onchain data.The net flows into
-    the spot Ether ETFs have dropped 9.8% in March to $2.54 billion. In comparison,
-    the spot Bitcoin ETF net flows are down 2.35% in the same period to $35.74 billion.Source:
-    Ted PillowsMeanwhile, Ethereum’s gas fees—measured by daily median gas consumption
-    on mainnet—were sitting around 1.12 GWEI as of March, down by nearly 50 times
-    what they were just a year ago.Ethereum median gas fees vs. ETH price (in dollar
-    terms). Source: Nansen“Despite the second rally of ETH price into 2024 year end,
-    activity on mainnet as measured by gas consumption never fully recovered,” data
-    analytics platform Nansen wrote in its latest report, adding: “This is downstream
-    of a few things but much of the activity has shifted to Solana and L2s over 2024.”Nansen
-    argued that they remain cautiously bearish on ETH due to its unfavorable risk/reward
-    ratio compared to BTC and lower-valued altcoins with niche market focus.A lack
-    of demand for ETH relative to Bitcoin is further visible in its future volume
-    data. Notably, Bitcoin futures volume has rebounded 32% from its Feb. 23 lows,
-    reaching $57 billion on March 18. In comparison, ETH’s trading activity remains
-    mostly flat, according to onchain data platform Glassnode. Bitcoin, Ethereum,
-    and Solana futures volume. Source: GlassnodeThe ETH/BTC pair could drop another
-    15%ETH/BTC pair is forming a bear pennant pattern on the daily chart, characterized
-    by a period of consolidation within converging trendlines forming after a steep
-    decline.Related: Standard Chartered drops 2025 ETH price estimate by 60% to $4KA
-    bear pennant technically resolves when the price drops below the lower trendline
-    and falls by as much as the previous downtrend’s height. Applying the same rule
-    on ETH/BTC brings its downside target for April to 0.01968 BTC, down 15% from
-    the current levels.ETH/BTC daily price chart. Source: TradingViewFurthermore,
-    the 50-day and 200-day EMAs remain in a sharp downward trajectory, with the ETH/BTC
-    pair trading far below these key levels, signaling a persistent bear market structure.Despite
-    the looming downside risk, a bullish invalidation could occur if ETH/BTC breaks
-    above the pennant’s upper resistance and flips the 50-day EMA into support.This
-    article does not contain investment advice or recommendations. Every investment
-    and trading move involves risk, and readers should conduct their own research
-    when making a decision.\n\n            "
-  published: 2025-03-18 18:26:00.000000000 +00:00
-- title: " Solana CME futures volumes reach $12.1M: Was the launch a dud, or is more
-    to come? "
-  url: https://cointelegraph.com/news/solana-cme-futures-volumes-reach-12-1-m-was-the-launch-a-dud-or-is-more-to-come?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Solana futures (SOL) on the Chicago Mercantile Exchange (CME) went live
-    on March 17, with a trading volume of $12.1 million on day 1, which fell short
-    compared to Bitcoin (BTC) and Ethereum’s (ETH) CME futures debut. CME Crypto futures
-    comparison by Vetle Lunde. Source: X.comVetle Lunde, Head of Research at K33Research,
-    compared the difference between Bitcoin (BTC), Ether (ETH) and Solana (SOL) CME
-    futures trading performances on their launch day, and it is clear that SOL’s CME
-    futures volume and open interest came in far below its competitors. However, Lunde
-    pointed out that if normalized volumes to the market cap are evaluated,  SOL’s
-    launch “aligns closer to the two.”Was the SOL CME futures launch a dud?Throughout
-    the current bull market, spot ETF approvals and CME futures contract launches
-    have consistently boosted investor sentiment and put wind behind the sails of
-    various cryptocurrencies. Comparing the normalized volumes adjusted for the market
-    cap differences of BTC, ETH and SOL on their first CME futures trading day provides
-    a fairer comparative analysis.Normalized volume measures trading activity relative
-    to a crypto asset’s market cap, offering a transparent evaluation across different
-    cryptocurrencies. This metric is valuable since it allows an understanding of
-    institutional engagement with respect to a crypto asset’s market cap. Normalized
-    volume comparison. Source: CointelegraphAs shown above, Bitcoin has the highest
-    normalized volume with 0.0319%, while ETH and SOL fell behind with 0.0173% and
-    0.0166%, respectively. A greater normalized volume suggests higher investor interest
-    per unit or market cap for Bitcoin. Additionally, the similarity between ETH’s
-    and SOL’s normalized volumes (roughly 0.017%) indicates that Solana’s trading
-    activity scale is similar to Ether’s despite the trading volume differences of
-    more than $20 million on day 1 between ETH and SOL’s CME futures. Related: Solana
-    deletes ‘cringe’ ad criticized for being ‘tone deaf’ on gender issuesWill SOL
-    CME futures follow ETH or BTC’s performance?Following the debut of Bitcoin CME
-    futures on Dec. 18, 2017, BTC declined by 26%, dropping from $19,000 to $14,000
-    by Dec. 31, 2017. The correction continued into 2018, marking the beginning of
-    a collective crypto bear market. Bitcoin, Ethereum and Solana CME launch, price
-    reaction. Source: Cointelegraph/TradingViewEther price registered a rally of 150%
-    to a new all-time high at $4,384, 93 days after the CME futures launch on Feb.
-    8, 2021. Following a new all-time high, a sharp correction occurred, but the altcoin
-    rallied again toward the end of 2021 to attain its current all-time high at $4,867
-    in November 2021. Considering the price trends of Bitcoin and ETH, SOL’s price
-    may experience a less enthusiastic rally. The absence of upward price movement
-    after its CME futures launch suggests a lack of investor excitement.However, from
-    a long-term perspective, SOL’s presence in the CME increases the opportunities
-    for Solana's liquidity and price discovery as it attracts institutional engagement.
-    A wider impact could potentially unfold over time as better market conditions
-    and favorable bullish price and protocol revenue projections draw traders’ interest.
-    Related: Bitcoin stalls under $85K— Key BTC price levels to watch ahead of FOMCThis
-    article does not contain investment advice or recommendations. Every investment
-    and trading move involves risk, and readers should conduct their own research
-    when making a decision.\n\n            "
-  published: 2025-03-18 17:25:43.000000000 +00:00
-- title: " All but 1 US spot Bitcoin ETF in the red this March "
-  url: https://cointelegraph.com/news/us-bitcoin-etfs-1-6b-outflows-march-bear-market-signs?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Nearly all United States spot Bitcoin exchange-traded funds (ETFs) had
-    net negative performances in March as analysts expect a bearish Bitcoin trend
-    of up to 12 months. Farside Investors data showed that spot Bitcoin ETFs struggled
-    in March, with net outflows surpassing their monthly net inflows. Asset manager
-    BlackRock’s iShares Bitcoin Trust ETF (IBIT) suffered the most, with outflows
-    reaching $552 million and inflows of only $84.6 million. According to the data,
-    Fidelity’s Wise Origin Bitcoin Fund (FBTC) saw outflows of over $517 million and
-    had inflows of only $136.5. The data also showed that Grayscale’s Bitcoin Trust
-    ETF (GBTC) had outflows of over $200 million and had zero inflows. However, Grayscale’s
-    Bitcoin Mini Trust ETF (BTC) is the only one that defied the trend, with zero
-    net outflows for March and over $55 million in net inflows. Spot Bitcoin ETF flows
-    in millions. Source: Farside InvestorsUS Spot Bitcoin ETFs had outflows of over
-    $1.6 billion in MarchOverall, the spot Bitcoin ETFs combined had outflows of over
-    $1.6 billion in the first 17 days of March and recorded only $351 million in inflows.
-    This wasn’t enough to offset the losses, bringing the net outflow to nearly $1.3
-    billion.Meanwhile, Ether-based investment products aren’t doing any better. BlackRock’s
-    iShares Ethereum Trust ETF (ETHA) had the most outflows, reaching $126 million,
-    but it did not record any monthly inflows. Fidelity’s Ethereum Fund (FETH) recorded
-    outflows of about $73 million but only had $21 million in inflows. Ether ETFs
-    had negative results throughout March, except for March 4, when inflows reached
-    $14 million. However, spot Ether ETFs performed poorly in the rest of March, with
-    over $300 million in total outflows.Spot Ether ETF flows in millions. Source:
-    Farside InvestorsRelated: Yuga exec warns about ‘true bear market’ Ether price
-    as whales scrambleCryptoQuant CEO says BTC bull cycle is overThe performance of
-    crypto exchange-traded products comes as sentiments for Bitcoin and the crypto
-    market turn bearish. On March 18, CryptoQuant founder and CEO Ki Young Ju said
-    the “Bitcoin bull cycle is over.” The executive expects up to a year of bearish
-    or sideways price action. Ju argued that onchain metrics indicate a bear market.
-    The executive said that new whales are selling low as liquidity dries up. Magazine:
-    Mystery celeb memecoin scam factory, HK firm dumps Bitcoin: Asia Express\n\n            "
-  published: 2025-03-18 09:10:59.000000000 +00:00
-- title: " Hyperliquid opened doors to ‘democratized’ crypto whale hunting: Analyst "
-  url: https://cointelegraph.com/news/traders-targeting-hyperliquid-whales-significant-positions-trigger-liquidations-10x-research?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Crypto whale tracking on the Hyperliquid blockchain has enabled traders
-    to target whales with prominent leveraged positions in a “democratized” attempt
-    to liquidate them, according to the head of 10x Research.Hyperliquid, a blockchain
-    network specializing in trading, allows traders to publicly observe what type
-    of positions a whale is holding, and since these positions are leveraged, the
-    market can assess the liquidation levels unless an additional margin is added,
-    Markus Thielen said in a March 17 report.Source: 10x Research“This transparency
-    opens the door for coordinated efforts, where groups of traders could intentionally
-    target these stop levels to trigger liquidations,” he said. It’s a common belief
-    in the crypto market that whales with substantial holdings can influence the market
-    through their trading tactics, such as stop-loss hunting, to deliberately trigger
-    other traders’ stop-loss orders and liquidate their positions. Thielen says the
-    recent actions from traders show this balance of power could be shifting. “In
-    effect, stop-hunting is being ‘democratized,’ with ad-hoc groups now playing a
-    role once reserved mainly for market-making desks, or treasury teams, at exchanges
-    before tighter regulatory scrutiny,” Thielen added. Thielen told Cointelegraph
-    that it’s still “unclear if this type of activity will become widespread onchain,
-    but as always, transparency can cut both ways.” Why are traders trying to liquidate
-    whales?This isn’t the first time smaller traders have attempted to take down larger
-    entities through coordinated trading tactics. Thielen says crypto traders trying
-    to liquidate whales have echoes of the GameStop short squeeze, which saw small
-    traders flip the table on Wall Street short-sellers by buying GameStop’s stock,
-    sending it to all-time highs of over $81 to liquid their positions. “This reminds
-    me of the dynamics we saw during the GameStop saga in 2020/2021, where aggressive
-    short squeezes drove rapid price spikes,” he said. Related: Bybit CEO on ‘brutal’
-    $4M Hyperliquid loss: Lower leverage as positions grow“When stop levels get triggered,
-    prices often accelerate in that direction, providing liquidity for others to cover.
-    We’ve seen similar tactics from market makers and exchanges in the crypto space
-    over the years.” Hunt is still on for 40x leveraged Bitcoin short-sellerOn March
-    16, a crypto whale known for placing large, highly leveraged positions on Hyperliquid
-    opened a 40x leveraged short position at $84,043 for over 4,442 Bitcoin (BTC),
-    worth over $368 million on March 16, facing liquidation if Bitcoin’s price surpassed
-    $85,592.The move didn’t go unnoticed, and pseudonymous trader CBB sent out the
-    call on X to gather a team of traders with enough funds to liquidate the whale’s
-    position. Source: CBBThielen said in the 10x report that on March 16, Bitcoin
-    surged by 2.5% within minutes, partly because of a coordinated effort to liquidate
-    a whale’s short position on Bitcoin perpetual via Hyperliquid.The whale has since
-    increased their position to $524 million, and at one point, the whale hunters
-    nearly got their wish when the price of Bitcoin hit $84,583.84, according to CoinGecko. Source:
-    CRGHowever, some speculate the exposed short position could be intentional. Hedge
-    fund trader Josh Man said in a March 17 post to X that the whale might be purposefully
-    trying to get liquidated. “So this there is a fairly rare and not widely used
-    technique of self-liquidation and this FEELS a little like that,” he said. “In
-    such events, the seller is actually creating a bomb designed to go off and create
-    a rally from the liquidation of his own short. One would expect that he has a
-    large offsetting long versus short.” Source: Josh ManMagazine: Crypto fans are
-    obsessed with longevity and biohacking: Here’s why\n\n            "
-  published: 2025-03-18 01:29:01.000000000 +00:00
-- title: " Standard Chartered drops 2025 ETH price estimate by 60% to $4K "
-  url: https://cointelegraph.com/news/standard-chartered-drops-2025-eth-price-estimate-by-60-to-4-k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum price is more than 52% down from its December 2024 high at $4,107
-    and data from TradingView shows ETH (ETH) down 42% since the start of 2025. Despite
-    being one of the largest cryptocurrencies by market capitalization and holding
-    the dominant spot as the leader in Web3 and DeFi, many analysts believe that ETH’s
-    price prospects remain grim in the short term. Crypto analyst and chartered market
-    technician Askel Kibar warned traders against assuming that ETH price trades at
-    a discount simply based on how far off it is from its average trading price. On
-    X, Kibar explained that “bottom reversals take time” given that “ all that supply
-    needs to be accumulated.” ETH/USD daily chart. Source: X / Aksel KibarReferring
-    to the chart above, Kibar said, “Those of you that want to see ETH outperform
-    BTC need to see similar price action to 2018-2020 period. After an extending downtrend
-    price formed a double bottom late in 2019. Then it turned out to a larger scale
-    H&S bottom reversal.” Currently, ETH’s chart does not show any type of bottoming
-    formation, leading Kibar to compare trading Ethereum to “catching a falling knife.” Standard
-    Chartered chops 2025 ETH price call to $4,000Standard Chartered added to the dim
-    outlook via a March 17 client letter, which revised down their end of 2025 ETH
-    price estimate from $10,000 to $4,000, a drastic 60% reduction.Geoff Kendrick,
-    the bank’s global head of Digital Assets Research, said, “We expect ETH to continue
-    its structural decline.”“Layer 2 blockchains were meant to improve ETH scalability,
-    but we estimate that Base (a key layer 2) has removed USD 50bn from ETH’s market
-    cap.” Kendrick cited lower ETH fees, a “higher net issuance,” and layer 2 blockchains
-    “taking Ethereum’s GDP” as an unexpected result of the Dencun upgrade. Adding
-    to their observation of Base absorbing Ethereum’s fee revenue, Kendrick said, “In
-    particular, Base — a layer 2 that was developed to address the problem of scalability
-    on Ethereum— is passing all the profit (fee revenue minus data recording fees)
-    it extracts to Coinbase, its corporate owner.” Related: Long-term Ethereum accumulation
-    could unwind if ETH price falls below $1.9K — AnalystVanEck Head of Digital Assets
-    Research Matthew Sigel and Patrick Bush, the firm's Senior Analyst on Digital
-    Assets, concur with the dim ETH price view held by many analysts. In a March 5
-    note to investors, the researchers cited ETH’s decline as being “largely due to
-    the erosion of the core factors that once made Ethereum valuable.” The analysts
-    again cited layer 2 blockchains Arbitrum and Base as catalysts in diminishing
-    ETH’s fee revenue, along with the popularity of memecoin trading on the Solana
-    blockchain.  This article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-03-17 19:39:17.000000000 +00:00
-- title: " Robinhood shares up 8% after launching betting markets hub "
-  url: https://cointelegraph.com/news/robinhood-launches-betting-markets-hub?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Robinhood has launched a betting markets hub as the online brokerage —
-    best known for stock trading — expands its presence in emergent asset classes,
-    including cryptocurrencies and event contracts, according to a March 17 announcement. Robinhood’s
-    stock, HOOD, rose roughly 8% on the Nasdaq after the announcement, according to
-    data from Google Finance. The new betting feature will let users “trade contracts
-    for what the upper bound of the target fed funds rate will be in May, as well
-    as the upcoming men’s and women’s College Basketball Tournaments,” it said. HOOD’s
-    intraday performance on the Nasdaq on March 17. Source: Google FinanceThe online
-    brokerage is tapping Kalshi, the US’ first CFTC-regulated prediction platform,
-    to operate the event contract platform, it said. Kalshi is already registered
-    to list dozens of event contracts, covering outcomes ranging from election results
-    to Rotten Tomatoes movie ratings.Prediction markets “play an important role at
-    the intersection of news, economics, politics, sports, and culture,” JB Mackenzie,
-    vice president and general manager of futures and international at Robinhood,
-    said in a statement. Experts say political betting markets often capture public
-    sentiment more accurately than polls. Platforms such as Kalshi and Polymarket
-    accurately predicted US President Donald Trump’s November election win even as
-    polls indicated a tossup.Related: Robinhood tips Singapore launch, touts memecoin
-    interest: ReportRising popularityPrediction markets have become increasingly popular
-    in the US since September 2024, when Kalshi prevailed in a lawsuit challenging
-    a CFTC decision to bar it from listing political event contracts.By November,
-    trading volumes across popular prediction markets neared $4 billion for contracts
-    tied to the US elections.Robinhood tested the waters of political event contracts
-    in October when it started letting certain users bet on the outcome of the presidential
-    election between former Vice President Kamala Harris and Trump.In February, Robinhood
-    suspended Super Bowl betting after receiving a request from the CFTC to nix its
-    customers’ access to the event contracts.Beyond stock tradingRobinhood has been
-    expanding its footprint in emerging asset classes, including cryptocurrencies
-    and derivatives. On March 13, the company listed memecoins like Pengu (PENGU),
-    Pnut (PNUT) and Popcat (POPCAT) in a bid to expand its presence in crypto. Back
-    in January, it rolled out futures contracts tied to cryptocurrencies such as Bitcoin
-    (BTC).Robihood’s latest earnings report shows the firm posted a 700% year-over-year
-    jump in crypto revenues in the fourth quarter of 2024 as Trump’s election win
-    and rising market prices fueled boosted crypto trading.X Hall of Flame: Memecoins
-    will die and DeFi will rise again — Sasha Ivanov \n\n            "
-  published: 2025-03-17 18:40:00.000000000 +00:00
-- title: " Price analysis 3/17: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, PI "
-  url: https://cointelegraph.com/news/price-analysis-3-17-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-pi?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) has largely stayed above $80,000 since March 11, indicating
-    that the bulls are not waiting for a deeper correction to buy. However, the failure
-    to propel the price above $86,000 shows that the bears have not given up and continue
-    to sell on rallies.CoinShares’ weekly report shows that cryptocurrency exchange-traded
-    products (ETPs) witnessed $1.7 billion in outflows last week. That takes the total
-    five-week outflows to $6.4 billion. Additionally, the streak of outflows has reached
-    17 days, marking the longest negative streak since CoinShares records began in
-    2015.Daily cryptocurrency market performance. Source: Coin360It’s not all gloom
-    and doom for the long-term investors. CryptoQuant contributor ShayanBTC said that
-    investors who purchased Bitcoin between three and six months ago are showing an
-    accumulation pattern. Historically, similar behavior has “played a crucial role
-    in forming market bottoms and igniting new uptrends.” Will buyers succeed in catapulting
-    Bitcoin above the overhead resistance levels? How are the altcoins placed? Let’s
-    analyze the charts to find out.S&P 500 Index price analysisThe S&P 500 Index (SPX)
-    is in a strong corrective phase. The fall to 5,504 on March 13 sent the relative
-    strength index (RSI) into the oversold territory, signaling a possible relief
-    rally in the near term.SPX daily chart. Source: Cointelegraph/TradingViewThe bears
-    will try to halt the recovery in the 5,670 to 5,773 resistance zone. If they succeed,
-    it will signal that the sentiment remains negative and traders are selling on
-    rallies. That heightens the risk of a fall to 5,400. The bulls are expected to
-    defend the 5,400 level with all their might because a drop below it may sink the
-    index to 5,100.On the upside, a break and close above the 20-day exponential moving
-    average (5,780) will signal strength. The index may then climb to the 50-day simple
-    moving average (5,938).US Dollar Index price analysisThe weak rebound off the
-    103.37 support in the US Dollar Index (DXY) suggests that the bears have kept
-    up the pressure.DXY daily chart. Source: Cointelegraph/TradingViewSellers are
-    trying to sink the index below 103.37. If they can pull it off, the decline could
-    extend to 102 and thereafter to 101.Conversely, if the price turns up from the
-    current level and breaks above 104, it will signal that buyers are trying to make
-    a comeback. The index could rise to the 20-day EMA (105), which is likely to attract
-    sellers. If buyers do not cede much ground to the bears, the prospects of a break
-    above the 20-day EMA increase. The index could then rally to the 50-day SMA (107).Bitcoin
-    price analysisBitcoin has been trying to form a higher low in the near term, building
-    strength to cross above the 200-day SMA ($84,112).BTC/USDT daily chart. Source:
-    Cointelegraph/TradingViewThe positive divergence on the RSI suggests that the
-    bearish momentum is weakening. If buyers drive the price above the 20-day EMA
-    ($85,808), the BTC/USDT pair could rise to the 50-day SMA ($92,621).Contrary to
-    this assumption, if the price turns down sharply from the 200-day SMA, it will
-    indicate that the bears are trying to flip the level into resistance. The pair
-    may slide to $80,000 and next to $76,606.Ether price analysisEther (ETH) has been
-    trading between $1,963 and $1,821, signaling a lack of aggressive buying at current
-    levels.ETH/USDT daily chart. Source: Cointelegraph/TradingViewIf the price dips
-    below the $1,821 to $1,754 support zone, it will indicate the resumption of the
-    downtrend. The ETH/USDT pair may then nosedive to the next significant support
-    at $1,550.This negative view will be invalidated in the near term if the price
-    turns up and breaks above the 20-day EMA ($2,107). The pair could ascend to the
-    50-day SMA ($2,514), where the bears are likely to sell aggressively. However,
-    if the bulls pierce the 50-day SMA resistance, the pair may rally to $2,857.XRP
-    price analysisXRP (XRP) turned down from the 50-day SMA ($2.51) on March 15, indicating
-    that the bears are active at higher levels.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    20-day EMA ($2.34) has flattened out, and the RSI is near the midpoint, indicating
-    a balance between supply and demand. The XRP/USDT pair could remain stuck between
-    the 50-day SMA and $2 for some time.If the price turns up from the current level
-    and breaks above the 50-day SMA, it will clear the path for a potential rally
-    to $3. Instead, a break and close below $2 will complete a head-and-shoulders
-    pattern. The pair may then tumble to $1.28.BNB price analysisBNB (BNB) turned
-    up from the 20-day EMA ($598) and rose above the 50-day SMA ($620), indicating
-    that the correction may be ending.BNB/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    20-day EMA has started to turn up, and the RSI has risen into positive territory,
-    indicating a slight advantage to the bulls. If the price sustains above the 50-day
-    SMA, the BNB/USDT pair could rally to $686 and eventually to $745.The 20-day EMA
-    is the critical support to watch out for on the downside. A break and close below
-    the 20-day EMA will signal that the bears have seized control. The pair may then
-    descend to the strong support at $500.Solana price analysisSolana (SOL) turned
-    down from the 20-day EMA ($139) on March 16, signaling that bears are aggressively
-    defending the level.SOL/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    SOL/USDT pair could drop to $120 and then to $110, where buyers are expected to
-    step in. If the price rebounds off the support zone, the bulls will again try
-    to drive the SOL/USDT pair above the 20-day EMA. If they manage to do that, the
-    pair could climb to $180.This positive view will be invalidated in the near term
-    if the price continues lower and breaks below the support zone. That may start
-    a downward move to $100 and subsequently to $80.Related: Ethereum onchain data
-    suggests $2K ETH price is out of reach for nowDogecoin price analysisDogecoin
-    (DOGE) has been gradually rising toward the 20-day EMA ($0.19), which is an important
-    near-term resistance to watch out for.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewIf
-    the price turns down sharply from the 20-day EMA, it suggests that bears are selling
-    on every minor rally. That heightens the risk of a break below the $0.14 support.
-    If that happens, the DOGE/USDT pair could plunge to $0.10.Contrarily, a break
-    and close above the 20-day EMA indicates that the selling pressure is reducing.
-    The pair could rise to the 50-day SMA ($0.23) and later to $0.29. A break and
-    close above $0.29 suggests that buyers are back in the driver’s seat.Cardano price
-    analysisCardano (ADA) has been trading below the 20-day EMA ($0.76) since March
-    8, but the bears have failed to sink the pair to the uptrend line. This suggests
-    that selling dries up at lower levels.ADA/USDT daily chart. Source: Cointelegraph/TradingViewBuyers
-    will have to drive the price above the moving averages to start a sustained recovery.
-    The ADA/USDT pair could climb to $1.02, where the bears may again mount a strong
-    defense.Contrary to this assumption, if the price turns down from the moving averages,
-    it will suggest that bears remain in control. That increases the likelihood of
-    a drop below the uptrend line. If that happens, the pair may plummet to $0.50.Pi
-    price analysisPi (PI) has been gradually sliding toward the $1.23 support, which
-    is likely to attract buying from the bulls.PI/USDT daily chart. Source: Cointelegraph/TradingViewIf
-    the price rebounds off $1.23 with strength, the PI/USDT pair could attempt a move
-    back toward $1.80. Sellers are expected to pose a strong challenge at $1.80, but
-    if the bulls prevail, the pair could rally to $2 and thereafter to $2.35.Contrarily,
-    if the price turns down from $1.80, it will signal a range formation. The pair
-    may swing between $1.23 and $1.80 for a while. Sellers will strengthen their position
-    on a break below $1.23. The pair may then collapse to the 78.6% retracement level
-    of $0.72.This article does not contain investment advice or recommendations. Every
-    investment and trading move involves risk, and readers should conduct their own
-    research when making a decision.\n\n            "
-  published: 2025-03-17 17:46:06.000000000 +00:00
