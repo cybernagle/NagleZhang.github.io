@@ -1,123 +1,122 @@
 ---
-- title: 'Qwen2.5-VL-32B: Smarter and Lighter'
-  url: https://qwenlm.github.io/blog/qwen2.5-vl-32b/
+- title: 'Stoop Coffee: A simple idea transformed my neighborhood'
+  url: https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed
   summary: Comments
-  published: 2025-03-24 18:35:12.000000000 +00:00
-- title: German parliament votes as a Git contribution graph
-  url: https://abstimmung.eu/git/2024
+  published: 2025-03-25 17:16:45.000000000 +00:00
+- title: Better Shell History Search
+  url: https://tratt.net/laurie/blog/2025/better_shell_history_search.html
   summary: Comments
-  published: 2025-03-24 23:29:03.000000000 +00:00
-- title: Triforce – a beamformer for Apple Silicon laptops
-  url: https://crates.io/crates/triforce-lv2
+  published: 2025-03-25 22:35:17.000000000 +00:00
+- title: 4o Image Generation
+  url: https://openai.com/index/introducing-4o-image-generation/
   summary: Comments
-  published: 2025-03-24 14:45:34.000000000 +00:00
-- title: Gatehouse – a composable, async-friendly authorization policy framework in
-    Rust
-  url: https://github.com/thepartly/gatehouse
+  published: 2025-03-25 18:06:02.000000000 +00:00
+- title: Sell yourself, sell your work
+  url: https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn
   summary: Comments
-  published: 2025-03-24 22:50:47.000000000 +00:00
-- title: 'Show HN: I''m a teacher and built an AI presentation tool'
-  url: https://news.ycombinator.com/item?id=43451141
+  published: 2025-03-25 21:35:16.000000000 +00:00
+- title: You might want to stop running atop
+  url: https://rachelbythebay.com/w/2025/03/25/atop/
   summary: Comments
-  published: 2025-03-23 05:58:35.000000000 +00:00
-- title: Section 230 Protects Users, Not Big Tech
-  url: https://www.eff.org/deeplinks/2025/03/230-protects-users-not-big-tech
+  published: 2025-03-25 23:09:09.000000000 +00:00
+- title: Deciphering language processing in the human brain through LLM representations
+  url: https://research.google/blog/deciphering-language-processing-in-the-human-brain-through-llm-representations/
   summary: Comments
-  published: 2025-03-25 01:05:23.000000000 +00:00
-- title: Arc-AGI-2 and ARC Prize 2025
-  url: https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025
+  published: 2025-03-21 18:44:37.000000000 +00:00
+- title: Ruby, Ractors, and lock-free data structures
+  url: https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/
   summary: Comments
-  published: 2025-03-24 20:35:30.000000000 +00:00
-- title: Modelica is a language for modeling of cyber-physical systems
-  url: https://modelica.org/language/
+  published: 2025-03-23 06:55:11.000000000 +00:00
+- title: Optimizing ML training with metagradient descent
+  url: https://arxiv.org/abs/2503.13751
   summary: Comments
-  published: 2025-03-25 00:07:06.000000000 +00:00
-- title: CO2 laser enables long-range detection of radioactive material
-  url: https://physicsworld.com/a/co2-laser-enables-long-range-detection-of-radioactive-material/
+  published: 2025-03-25 21:22:35.000000000 +00:00
+- title: Kylie Minogue song about a typeface
+  url: https://abcdinamo.com/news/german-bold-italic
   summary: Comments
-  published: 2025-03-21 21:41:18.000000000 +00:00
-- title: 'Intel: A Bug and a Pro'
-  url: https://www.abortretry.fail/p/intel-a-bug-and-a-pro
+  published: 2025-03-25 16:51:09.000000000 +00:00
+- title: Whose code am I running in GitHub Actions?
+  url: https://alexwlchan.net/2025/github-actions-audit/
   summary: Comments
-  published: 2025-03-24 21:20:13.000000000 +00:00
-- title: 'MRubyD: A new mruby virtual machine implemented in pure C#'
-  url: https://github.com/hadashiA/MRubyD
+  published: 2025-03-25 17:17:05.000000000 +00:00
+- title: Gemini 2.5
+  url: https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
   summary: Comments
-  published: 2025-03-23 06:52:59.000000000 +00:00
-- title: Three Hundred Years Later, a Tool from Isaac Newton Gets an Update
-  url: https://www.quantamagazine.org/three-hundred-years-later-a-tool-from-isaac-newton-gets-an-update-20250324/
+  published: 2025-03-25 17:01:54.000000000 +00:00
+- title: Devs say AI crawlers dominate traffic, forcing blocks on entire countries
+  url: https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/
   summary: Comments
-  published: 2025-03-24 22:16:56.000000000 +00:00
-- title: The Prospero Challenge
-  url: https://www.mattkeeter.com/projects/prospero/
+  published: 2025-03-25 21:42:37.000000000 +00:00
+- title: 'Svelte: $derived can now be overwritten'
+  url: https://github.com/sveltejs/svelte/pull/15570
   summary: Comments
-  published: 2025-03-24 09:04:43.000000000 +00:00
-- title: 'The Peano Axioms: Building Blocks of Arithmetic'
-  url: https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/
+  published: 2025-03-22 11:17:30.000000000 +00:00
+- title: Scientists break down plastic using a simple, inexpensive catalyst and air
+  url: https://phys.org/news/2025-03-scientists-plastic-simple-inexpensive-catalyst.html
   summary: Comments
-  published: 2025-03-24 19:26:05.000000000 +00:00
-- title: Mastering Delphi 5 2025 Annotated Edition Is Now Complete
-  url: https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html
+  published: 2025-03-21 20:12:49.000000000 +00:00
+- title: 'VGGT: Visual Geometry Grounded Transformer'
+  url: https://github.com/facebookresearch/vggt
   summary: Comments
-  published: 2025-03-24 15:40:08.000000000 +00:00
-- title: The earliest versions of the first C compiler known to exist
-  url: https://github.com/mortdeus/legacy-cc
+  published: 2025-03-25 12:59:26.000000000 +00:00
+- title: 'Show HN: A website for sharing the "Good, Bad, and Why"s of urban spaces'
+  url: https://dedede.de/en
   summary: Comments
-  published: 2025-03-21 08:17:19.000000000 +00:00
-- title: The unexpected legend of WD-40
-  url: https://www.youtube.com/watch?v=FsuGKceApsA
+  published: 2025-03-24 21:48:07.000000000 +00:00
+- title: 'Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH'
+  url: https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/
   summary: Comments
-  published: 2025-03-22 14:10:18.000000000 +00:00
-- title: 600M years of shared environmental stress response found in algae and plants
-  url: https://phys.org/news/2025-03-million-years-environmental-stress-response.html
+  published: 2025-03-25 13:22:09.000000000 +00:00
+- title: The highest-ranking personal blogs of Hacker News
+  url: https://refactoringenglish.com/tools/hn-popularity/
   summary: Comments
-  published: 2025-03-21 14:30:18.000000000 +00:00
-- title: I won't connect my dishwasher to your cloud
-  url: https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud
+  published: 2025-03-25 18:48:57.000000000 +00:00
+- title: U.S. national-security leaders included me in a group chat
+  url: https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/
   summary: Comments
-  published: 2025-03-24 17:09:07.000000000 +00:00
-- title: Project Operation Whitecoat (2010)
-  url: https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making
+  published: 2025-03-24 16:23:55.000000000 +00:00
+- title: If you get the chance, always run more extra network fiber cabling
+  url: https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RunMoreExtraNetworkFiber
   summary: Comments
-  published: 2025-03-24 16:35:07.000000000 +00:00
-- title: Rickover's Lessons
-  url: https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a
+  published: 2025-03-25 13:40:59.000000000 +00:00
+- title: 'Ask HN: Difficulties with going back to school'
+  url: https://news.ycombinator.com/item?id=43452945
   summary: Comments
-  published: 2025-03-23 04:18:46.000000000 +00:00
-- title: The game designer playing through his own psyche
-  url: https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche
+  published: 2025-03-23 13:54:06.000000000 +00:00
+- title: Why is C the symbol for the speed of light? (2004)
+  url: https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html
   summary: Comments
-  published: 2025-03-24 10:39:32.000000000 +00:00
-- title: 'Goblin.tools: simple, single-task tools to help neurodivergent people with
-    tasks'
-  url: https://goblin.tools/
+  published: 2025-03-25 15:42:03.000000000 +00:00
+- title: 'My Favorite C++ Pattern: X Macros (2023)'
+  url: https://danilafe.com/blog/chapel_x_macros/
   summary: Comments
-  published: 2025-03-24 14:15:17.000000000 +00:00
-- title: Researchers search for more precise ways to measure pain
-  url: https://www.washingtonpost.com/science/2025/03/23/pain-measure-precision-research/
+  published: 2025-03-25 14:57:59.000000000 +00:00
+- title: Activeloop (YC S18) Is Hiring Senior Python Back End and AI Search Engineers
+  url: https://careers.activeloop.ai/
   summary: Comments
-  published: 2025-03-24 03:57:02.000000000 +00:00
-- title: The Wright brothers invented the airplane, right? Not if you're in Brazil
-  url: https://www.washingtonpost.com/world/2025/03/21/brazil-airplane-wright-brothers-santos-dumont/
+  published: 2025-03-25 17:00:36.000000000 +00:00
+- title: The Jakt Programming Language
+  url: https://github.com/SerenityOS/jakt
   summary: Comments
-  published: 2025-03-22 01:55:51.000000000 +00:00
-- title: 'Show HN: LinkedIn sucks, so I built a better one'
-  url: https://heyopenspot.com/
+  published: 2025-03-21 16:34:26.000000000 +00:00
+- title: What Killed Innovation?
+  url: https://www.shirleywu.studio/notebook/2025-02-innovation-killer
   summary: Comments
-  published: 2025-03-23 18:52:40.000000000 +00:00
-- title: 'Mruby/C and picoruby: high level langs in low-level devices?'
-  url: https://github.com/picoruby/picoruby
+  published: 2025-03-25 13:26:01.000000000 +00:00
+- title: Chicago-Sized Iceberg Hid Ancient Ecosystem, Scientists Reveal
+  url: https://gizmodo.com/chicago-sized-iceberg-hid-ancient-ecosystem-scientists-reveal-2000579125
   summary: Comments
-  published: 2025-03-23 09:20:42.000000000 +00:00
-- title: 'Autology: A Lisp with access to its own interpreter'
-  url: https://github.com/Kimbsy/autology
+  published: 2025-03-23 13:19:07.000000000 +00:00
+- title: 'Show HN: Fingernotes – handwritten notes which become their own preview
+    image'
+  url: https://fingernotes.com/note/97513380
   summary: Comments
-  published: 2025-03-21 10:37:16.000000000 +00:00
-- title: 'Project Aardvark: reimagining AI weather prediction'
-  url: https://www.turing.ac.uk/blog/project-aardvark-reimagining-ai-weather-prediction
+  published: 2025-03-23 06:32:19.000000000 +00:00
+- title: Ollama Models Atom Feed
+  url: https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/
   summary: Comments
-  published: 2025-03-23 23:33:39.000000000 +00:00
-- title: A proof checker meant for education
-  url: https://jsiek.github.io/deduce/index.html
+  published: 2025-03-23 08:32:40.000000000 +00:00
+- title: Polypane, The browser for ambitious web developers
+  url: https://polypane.app/
   summary: Comments
-  published: 2025-03-21 11:47:37.000000000 +00:00
+  published: 2025-03-23 09:07:17.000000000 +00:00
