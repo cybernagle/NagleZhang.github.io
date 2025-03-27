@@ -1,4 +1,500 @@
 ---
+- title: " Bitget CEO slams Hyperliquid’s handling of “suspicious” incident involving
+    JELLY token "
+  url: https://cointelegraph.com/news/bitget-ceo-slams-hyperliquid-jelly-perps-delisting?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Gracy Chen, CEO of cryptocurrency exchange Bitget, criticized Hyperliquid’s
+    handling of a March 26 incident on its perpetual exchange, saying it put the network
+    at risk of becoming “FTX 2.0.”On March 26, Hyperliquid, a blockchain network specializing
+    in trading, said it delisted perpetual futures contracts for the JELLY token and
+    would reimburse users after identifying “evidence of suspicious market activity”
+    tied to the instruments. The decision, which was reached by consensus among Hyperliquid’s
+    relatively small number of validators, flagged existing concerns about the popular
+    network’s perceived centralization.“Despite presenting itself as an innovative
+    decentralized exchange with a bold vision, Hyperliquid operates more like an offshore
+    [centralized exchange],” Chen said, after saying “Hyperliquid may be on track
+    to become FTX 2.0.”FTX was a cryptocurrency exchange run by Sam Bankman-Fried,
+    who was convicted of fraud in the US after FTX’s abrupt collapse in 2022. Chen
+    did not accuse Hyperliquid of specific legal infractions, instead emphasizing
+    what she considered to be Hyperliquid’s “immature, unethical, and unprofessional”
+    response to the event.“The decision to close the $JELLY market and force settlement
+    of positions at a favorable price sets a dangerous precedent,” Chen said. “Trust—not
+    capital—is the foundation of any exchange […] and once lost, it’s almost impossible
+    to recover.”Source: Gracy ChenRelated: Hyperliquid delists JELLY perps, citing
+    ‘suspicious’ activityJELLY incidentThe JELLY token was launched in January by
+    Venmo co-founder Iqram Magdon-Ismail as part of a Web3 social media project dubbed
+    JellyJelly. It initially reached a market capitalization of roughly $250 million
+    before falling to the single digit millions in the ensuing weeks, according to
+    DexScreener. On March 26, JELLY’s market cap soared to around $25 million after
+    Binance, the world’s most popular crypto exchange, launched its own perpetual
+    futures tied to the token. The same day, a Hyperliquid trader “opened a massive
+    $6M short position on JellyJelly” and then “deliberately self-liquidated by pumping
+    JellyJelly’s price on-chain,” Abhi, founder of Web3 company AP Collective, said
+    in an X post.BitMEX founder Arthur Hayes said initial reactions to Hyperliquid’s
+    JELLY incident overestimated the network’s potential reputational risks.“Let’s
+    stop pretending hyperliquid is decentralised. And then stop pretending traders
+    actually [care],” Hayes said in an X post. “Bet you $HYPE is back where [it] started
+    in short order cause degens gonna degen.”Binance launched JELLY perps on March
+    26. Source: BinanceGrowing painsOn March 12, Hyperliquid grappled with a similar
+    crisis caused by a whale who intentionally liquidated a roughly $200 million long
+    Ether (ETH) position. The trade cost depositors into Hyperliquid’s liquidity pool,
+    HLP, roughly $4 million in losses after forcing the pool to unwind the trade at
+    unfavorable prices. Since then, Hyperliquid has increased collateral requirements
+    for open positions to “reduce the systemic impact of large positions with hypothetical
+    market impact upon closing.” Hyperliquid operates the most popular leveraged perpetuals
+    trading platform, controlling roughly 70% of market share, according to a January
+    report by asset manager VanEck. Perpetual futures, or “perps,” are leveraged futures
+    contracts with no expiry date. Traders deposit margin collateral, such as USDC,
+    to secure open positions.According to L2Beat, Hyperliquid has two main validator
+    sets, each comprising four validators. By comparison, rival chains such as Solana
+    and Ethereum are supported by approximately 1,000 and 1 million validators, respectively. More
+    validators generally lessen the risk of a small group of insiders manipulating
+    a blockchain. Magazine: What are native rollups? Full guide to Ethereum’s latest
+    innovation\n\n            "
+  published: 2025-03-26 20:39:50.000000000 +00:00
+- title: " Bitcoin mining stocks down after Microsoft scraps data center plans "
+  url: https://cointelegraph.com/news/bitcoin-mining-stocks-down-after-microsoft-reportedly?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Update (March 26 at 8:48 PM UTC): This article has been updated to include
+    commentary from Benchmark stock analyst Mark Palmer.Bitcoin (BTC) mining stocks
+    are down after tech giant Microsoft reportedly scrapped plans to invest in new
+    artificial intelligence data centers in the US and Europe, citing a potential
+    oversupply, according to a report by Bloomberg and data from Google Finance.Shares
+    of crypto miners Bitfarms, CleanSpark, Core Scientific, Hut 8, Marathon Digital
+    and Riot dropped between 4% and 12% in tandem with the news, the data showed.The
+    stock price retrenchments highlight cryptocurrency miners’ increased dependence
+    on business from artificial intelligence models after the Bitcoin network’s April
+    2024 “halving” cut into mining revenues.According to Benchmark stock analyst Mark
+    Palmer, investors already anticipated Microsoft’s data center cuts. In his view,
+    the share price pullback \"appears to be driven more by stagnation in the price
+    of bitcoin than any other factor, potentially combined with investor fatigue settling
+    over the space as mining difficulty remains near record levels,” Palmer told Cointelegraph.CORZ
+    intraday performance on the Nasdaq. Source: Google FinanceMiners are “diversifying
+    into AI data-center hosting as a way to expand revenue and repurpose existing
+    infrastructure for high-performance computing,” Coin Metrics said in a March report.For
+    example, in June 2024, Core Scientific pledged 200 megawatts of hardware capacity
+    to support CoreWeave’s artificial intelligence workloads.In August 2024, asset
+    manager VanEck said Bitcoin mining stocks could collectively see a roughly $37
+    billion bump to market capitalizations if they invest heavily in supporting AI.Nevertheless,
+    miners have struggled this year as declining crypto prices worsen pressures on
+    businesses already impacted by April’s halving, JPMorgan said in March. Waning
+    demand for AI data centers could add further strain.Bitcoin miners could see gains
+    in valuation from pivoting to AI. Source: VanEckRelated: Bet more on the Bitcoin
+    miners cashing in on AICutting back on computeOn March 26, analysts at TD Cowen
+    said Microsoft had abandoned plans to build several new data centers that would
+    have generated some 2 gigawatts of power, according to Bloomberg. The analysts
+    reportedly attributed Microsoft’s pullback to a perceived oversupply of computing
+    capacity for AI models, as well as the tech giant’s decision to forgo some planned
+    collaborations with ChatGPT maker OpenAI. In the past six months, Microsoft has
+    canceled various data center leases and delayed plans to onboard more capacity,
+    according to Bloomberg. Microsoft’s data center investments are expected to slow
+    further in the second half of 2025 as the company finishes $80 billion in planned
+    buildouts and pivots to outfitting existing centers with hardware and equipment,
+    Bloomberg said. Magazine: Memecoins are ded — But Solana ‘100x better’ despite
+    revenue plunge\n\n            "
+  published: 2025-03-26 19:20:00.000000000 +00:00
+- title: " Ethereum’s (ETH) path back to $2.5K depends on 3 key factors "
+  url: https://cointelegraph.com/news/ethereum-s-eth-path-back-to-2-5-k-depends-on-3-key-factors?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether (ETH) price reclaimed the $2,000 support on March 24 but remains
+    18% below the $2,500 level seen three weeks ago. Data shows Ether has underperformed
+    the altcoin market by 14% over the past 30 days, leading traders to question whether
+    the altcoin can regain bullish momentum and which factors might drive a trend
+    reversal.Ether/USD (left) vs. total altcoin capitalization, USD (right). Source:
+    TradingView / CointelegraphEther appears well-positioned to attract institutional
+    demand and significantly reduce the FUD that has limited its upside potential.
+    Critics have long argued that the Ethereum ecosystem lags behind competitors in
+    overall user experience and still offers limited base-layer scalability, which
+    has negatively impacted network fees and transaction efficiency. Will the Ethereum
+    Pectra upgrade impact ETH price?Many of the Ethereum network’s challenges are
+    expected to be addressed in the upcoming Pectra network upgrade, scheduled for
+    late April or early June. Among the proposed changes is a doubling of the data
+    that can be included in each block, which should help lower fees for rollups and
+    privacy-focused mechanisms. Additionally, the cost of call data will increase,
+    encouraging developers to adopt blobs—a more efficient method for data storage.Another
+    notable improvement in the upcoming upgrade is the introduction of smart accounts,
+    which allow wallets to function like smart contracts during transactions. This
+    enables gas fee sponsorship, passkey authentication, and batch transactions. Additionally,
+    several other enhancements focus on optimizing staking deposits and withdrawals,
+    providing greater flexibility, and extending block history for smart contracts
+    that rely on past data.Arthur Hayes, co-founder of BitMEX, set a $5,000 price
+    target for ETH on March 25, stating that it should significantly outperform competitor
+    Solana (SOL).Source: CryptoHayesRegardless of the rationale behind Arthur’s price
+    prediction, ETH options traders do not share the same bullish sentiment. The Sept.
+    26 call (buy) option with a $5,000 strike price costs only $35.40, implying extremely
+    low odds. However, Ethereum remains the undisputed leader in smart contract deposits
+    and is the only altcoin with a spot exchange-traded fund (ETF) in the US, currently
+    holding $8.9 billion in assets under management.Ethereum TVL growth and reduced
+    ETH supply on exchangesEthereum’s network boasts a total value locked (TVL) of
+    $52.5 billion, significantly surpassing Solana’s $7 billion. More importantly,
+    deposits on the Ethereum network grew 10% over the past 30 days, reaching 25.4
+    million ETH, while Solana saw an 8% decline over the same period. Notable highlights
+    on Ethereum include Sky (formerly Maker), which saw a 17% increase in deposits,
+    and Ethena, whose TVL surged by 38% in 30 days.Ether balance on exchanges, ETH.
+    Source: GlassnodeThe Ether supply on exchanges stood at 16.9 million ETH on March
+    25, just 3.5% above its five-year low of 16.32 million ETH, according to Glassnode
+    data. This trend suggests that investors are withdrawing from exchanges, signaling
+    a long-term capital commitment. Similarly, flows into spot Ether ETFs remained
+    relatively muted on March 24 and March 25, in contrast to the $316 million in
+    net outflows accumulated since March 10.Related: Ethereum devs prepare final Pectra
+    test before mainnet launchLastly, the Ethereum network is gaining momentum in
+    the Real World Asset (RWA) industry, particularly after the BlackRock BUILD fund
+    surpassed $1.5 billion in capitalization. The Ethereum ecosystem, including its
+    layer-2 scalability solutions, accounts for over 80% of this market, according
+    to RWA.XYZ data, underscoring Ethereum’s dominance in the decentralized finance
+    (DeFi) space.Ether’s price drop below $1,900 on March 10 likely reflected overly
+    bearish expectations. However, the tide appears to have turned as the Ethereum
+    network demonstrated resilience, and traders continued to withdraw from exchanges,
+    setting the stage for a potential rally toward $2,500.This article is for general
+    information purposes and is not intended to be and should not be taken as legal
+    or investment advice. The views, thoughts, and opinions expressed here are the
+    author’s alone and do not necessarily reflect or represent the views and opinions
+    of Cointelegraph.\n\n            "
+  published: 2025-03-26 19:11:27.000000000 +00:00
+- title: " Price analysis 3/26: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LINK, AVAX, XLM "
+  url: https://cointelegraph.com/news/price-analysis-3-26-btc-eth-xrp-bnb-sol-doge-ada-link-avax-xlm?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin (BTC) bulls have maintained the pressure and are attempting to
+    push the price above the $90,000 resistance. A positive sign in favor of the bulls
+    is that the US spot Bitcoin exchange-traded funds have witnessed net inflows for
+    eight successive trading days, according to SoSoValue data. That indicates institutional
+    investors are gradually buying again.In another positive, a Bitcoin whale bought
+    2,400 Bitcoin — worth over $200 million — on March 24 to increase the total holding
+    to more than 15,000 BTC, blockchain analytics firm Arkham Intelligence said in
+    a post on X.Crypto market data daily view. Source: Coin360However, a Bitcoin rally
+    may not be easy as bulls are expected to encounter solid selling near $90,000.
+    Alphractal CEO Joao Wedson highlighted in a post on X that whales had closed long
+    positions and initiated short positions on Bitcoin at $88,000. He added that history
+    says the whales are right.Could Bitcoin break above the stiff overhead resistance,
+    pulling altcoins higher, or is it time for a short-term correction? Let’s analyze
+    the charts of the top 10 cryptocurrencies to find out.Bitcoin price analysisBitcoin
+    is facing selling at the resistance line, but a positive sign is that the bulls
+    have not allowed the price to dip below the 20-day exponential moving average
+    ($85,825). BTC/USDT daily chart. Source: Cointelegraph/TradingViewThe flattening
+    20-day EMA and the relative strength index (RSI) near the midpoint suggest that
+    the bulls have a slight edge. A break and close above the 50-day simple moving
+    average ($89,787) indicates that the correction may be over. The BTC/USDT pair
+    could soar to $95,000 and later to the crucial resistance at $100,000.Contrary
+    to this assumption, if the price turns down and breaks below the 20-day EMA, it
+    signals that the bulls have given up. That may sink the pair to $83,000 and then
+    to $80,000.Ether price analysisEther’s (ETH) recovery is facing solid resistance
+    at the breakdown level of $2,111, indicating that the bears are unwilling to give
+    up their advantage.ETH/USDT daily chart. Source: Cointelegraph/TradingViewIf the
+    price continues lower and breaks below $1,937, it will signal that the bears are
+    trying to flip the $2,111 level into resistance. If that happens, the ETH/USDT
+    pair could decline to $1,800.This negative view will be invalidated in the near
+    term if the price turns up and breaks above $2,111. That opens the doors for a
+    rally to the 50-day SMA ($2,325) and subsequently to $2,550. Such a move will
+    suggest that the pair may have formed a short-term bottom at $1,754.XRP price
+    analysisXRP (XRP) is trying to take support at the 20-day EMA ($2.39), suggesting
+    that the bulls are buying on dips.XRP/USDT daily chart. Source: Cointelegraph/TradingViewIf
+    the price bounces off the 20-day EMA, the bulls will try to push the price to
+    the resistance line. If the price turns down sharply from the resistance line
+    and breaks below the moving averages, it will signal that the bears remain in
+    control. That could keep the XRP/USDT pair stuck between the resistance line and
+    $2 for some more time.Buyers will be in the driver’s seat on a break and close
+    above the resistance line. The pair may rally to $3 and eventually to $3.40.BNB
+    price analysisBNB (BNB) bulls are facing resistance at $644, but a positive sign
+    is that the buyers have not given up much ground to the bears.BNB/USDT daily chart.
+    Source: Cointelegraph/TradingViewThe 20-day EMA ($616) has started to turn up,
+    and the RSI is in the positive zone, suggesting that the path of least resistance
+    is to the upside. If buyers drive the price above $644, the BNB/USDT pair could
+    ascend to $686. This level may again act as a strong barrier, but if the bulls
+    overcome it, the pair may rally to $745.The first sign of weakness will be a break
+    and close below the 20-day EMA. That may pull the price down toward the 38.2%
+    Fibonacci retracement level of $591.Solana price analysisSolana (SOL) broke and
+    closed above the 20-day EMA ($136) on March 24, suggesting the start of a relief
+    rally.SOL/USDT daily chart. Source: Cointelegraph/TradingViewThe 50-day SMA ($155)
+    may act as a resistance, but if the bulls prevail, the SOL/USDT pair could rally
+    to $180. Sellers are expected to aggressively defend the $180 level. If the price
+    turns down sharply from $180 and breaks below the 20-day EMA, it will signal a
+    possible range formation in the near term. The pair may consolidate between $110
+    and $180 for some time.Instead, if buyers drive the price above $180, it suggests
+    that the pair has started its journey toward the top of the large $110 to $260
+    range.Dogecoin price analysisDogecoin (DOGE) rose and closed above the 20-day
+    EMA ($0.18) on March 25, suggesting the start of a sustained recovery.DOGE/USDT
+    daily chart. Source: Cointelegraph/TradingViewThe DOGE/USDT pair is facing selling
+    at the 50-day SMA ($0.21). If the price rebounds off the 20-day EMA, it will signal
+    buying on dips. The bulls will try to propel the pair to $0.24 and later to $0.29.On
+    the other hand, if the price skids below the 20-day EMA, it will indicate that
+    bears continue to sell on rallies. The pair may drop to $0.16 and then to the
+    crucial support at $0.14.Cardano price analysisCardano (ADA) bulls pushed the
+    price above the 50-day SMA ($0.75) but are struggling to sustain the higher levels.ADA/USDT
+    daily chart. Source: Cointelegraph/TradingViewIf the price breaks below the 20-day
+    EMA, the bears will attempt to pull the ADA/USDT pair to the uptrend line. This
+    is an important level for the bulls to defend because a break below it could tilt
+    the advantage in favor of the bears. The pair could then descend to $0.58 and,
+    after that, to $0.50.If buyers want to seize control, they will have to push and
+    maintain the price above the 50-day SMA. If they manage to do that, the pair could
+    rise to $0.84. This level may act as a strong resistance, but if the bulls prevail,
+    the pair may climb to $1.02.Related: Bitcoin price just ditched a 3-month downtrend
+    as 'key shift' beginsChainlink price analysisChainlink (LINK) has moved up to
+    the 50-day SMA ($16.12), which is likely to act as a stiff resistance.LINK/USDT
+    daily chart. Source: Cointelegraph/TradingViewIf the price turns down from the
+    50-day SMA, the LINK/USDT pair may find support at the 20-day EMA ($14.75). A
+    strong rebound off the 20-day EMA increases the likelihood of a break above the
+    50-day SMA. The pair could climb to $17.7 and later to the resistance line.If
+    bears want to prevent the upside, they will have to swiftly pull the price back
+    below the 20-day EMA. The pair could slump to $13.82 and thereafter to the channel’s
+    support line.Avalanche price analysisAvalanche’s (AVAX) relief rally rose above
+    the 50-day SMA ($22.10) on March 25, indicating that the downtrend could be ending.AVAX/USDT
+    daily chart. Source: Cointelegraph/TradingViewThe 20-day EMA ($20.42) has started
+    to turn up, and the RSI has jumped into the positive zone, signaling an advantage
+    to buyers. If the AVAX/USDT pair turns down from the current level but finds support
+    at the 20-day EMA, it suggests a change in sentiment from selling on rallies to
+    buying on dips. That improves the prospects of a rally to $27.23.On the contrary,
+    a break and close below the 20-day EMA signals a range formation between $25.12
+    and $15.27.Stellar price analysisStellar (XLM) recovered to the breakdown level
+    of $0.31, where the bears are expected to mount a strong defense.XLM/USD daily
+    chart. Source: Cointelegraph/TradingViewIf the price turns down from $0.31 and
+    breaks below $0.27, it will suggest that the bears are active at higher levels.
+    That heightens the risk of a drop to the critical support at $0.22, where buyers
+    are expected to step in.Alternatively, a break and close above $0.31 signals that
+    the markets have rejected the breakdown. The XLM/USDT pair may rise to the downtrend
+    line, which could again pose a substantial challenge. A break and close above
+    the downtrend line suggests a potential trend change.This article does not contain
+    investment advice or recommendations. Every investment and trading move involves
+    risk, and readers should conduct their own research when making a decision.\n\n
+    \           "
+  published: 2025-03-26 17:30:00.000000000 +00:00
+- title: " Celo becomes Ethereum L2 with Optimism rollup implementation "
+  url: https://cointelegraph.com/news/celo-migrates-to-ethereum-layer-2-using-op-stack?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Celo, the blockchain network launched in 2020, has officially transitioned
+    from a layer-1 chain to an Ethereum layer-2 protocol.Celo announced the successful
+    transition in a March 26 X post, stating that “Celo is officially an Ethereum
+    layer 2” protocol. In the thread, the organization claimed the new protocol features
+    one-second blocks, sub-cent transaction costs, and Tether’s USDt (USDT) and USDC
+    (USDC) as gas.Celo first proposed this transition in the summer of 2023, and it
+    is now completed after block production on the old layer-1 platform halted and
+    continued on the new network. The new platform is based on the OP technology stack
+    and an optimistic rollups implementation.Source: CeloRelated: Vitalik Buterin
+    endorses Celo for beating Tron in stablecoin addressesOptimism-based architectureBlockchain
+    rollups are layer-2 scaling solutions designed to bundle multiple transactions
+    off the main blockchain, reducing congestion and lowering transaction fees. Optimistic
+    rollups owe their name to their assumption that offchain transactions are valid
+    by default, only resorting to fraud proofs during a challenge period if discrepancies
+    are detected on the main chain.Marek Olszewski, CEO of Celo developer cLabs, told
+    Cointelegraph that “migrating to an Ethereum L2 enhances Celo’s security and scalability.”
+    He added:“Celo transactions are now anchored to Ethereum, inheriting its battle-tested
+    economic security and decentralization. Celo L2 also offers one-second block times
+    and near-instant confirmations.“Related: A beginner’s guide to understanding the
+    layers of blockchain technologyLeveraging Ethereum’s network effectsIrfan Shaik,
+    founder of rollup protocol Interstate, also recognized the change as positive
+    for the protocol. He highlighted that Ethereum “has the greatest network effects
+    of any chain,” adding:“Layer 1s with liquidity fragmentation can instead tap into
+    the largest pool of liquidity available, the ETH layer 1s.“Olszewski also shared
+    his enthusiasm over the transition to the OP tech stack, saying it allows for
+    “deeper composability with Ethereum-native apps and protocols.” The new system
+    is also significantly simplified, with 365,000 fewer lines of code — decreasing
+    attack surface and, according to him, leading to a lighter, cleaner and faster
+    codebase.He also highlighted that the upgrade preserved Celo’s near five-year
+    chain history and was carried out in a trustless manner. The token was also moved
+    to the Ethereum blockchain, which Olszewski pointed out should sensibly increase
+    its liquidity. He explained:“What this means is that Celo becomes a fully-aligned
+    Ethereum layer 2 — by architecture, by ecosystem and by mission.“Magazine: What
+    are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
+  published: 2025-03-26 15:05:33.000000000 +00:00
+- title: " BlackRock ‘BUIDL’ tokenized fund triples in 3 weeks as Bitcoin stalls "
+  url: https://cointelegraph.com/news/blackrock-buidl-3x-1-8-b-3-weeks-bitcoin-lacks-momentum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Update March 26, 2:36 pm UTC: This article has been updated to include
+    quotes from Brickken CEO Edwin Mata.BlackRock’s Ethereum-native tokenized money
+    market fund has more than tripled in value over the past three weeks, nearing
+    the $2 billion mark amid rising demand for safe-haven digital assets.BlackRock’s
+    USD Institutional Digital Liquidity Fund (BUIDL) saw an over three-fold increase
+    over the past three weeks, from $615 million to $1.87 billion, according to Token
+    Terminal data shared by Leon Waidmann, head of research at Onchain Foundation,
+    a Web3 intelligence platform.BlackRock BUIDL capital deployed by chain. Source:
+    Token Terminal, Leon Waidmann“BUIDL fund TVL exploded from $615M → $1.87B in just
+    3 weeks. The tokenization wave is hitting faster than most realize,” the researcher
+    wrote in a March 26 X post.BlackRock’s BUIDL fund is part of the wider real-world
+    asset (RWA) tokenization sector, which refers to financial products and tangible
+    assets such as real estate and fine art minted on the blockchain, increasing investor
+    accessibility to and trading opportunities for these assets.The surge in BlackRock’s
+    fund reflects a growing institutional appetite for tokenized RWAs due to more
+    regulatory clarity, according to Edwin Mata, co-founder and CEO of Brickken, a
+    European RWA platform.“The US is witnessing a notable shift toward a more crypto-friendly
+    regulatory environment,” the CEO told Cointelegraph, adding:“The SEC has recently
+    concluded several investigations without enforcement actions, including those
+    involving Immutable, Coinbase and Kraken. This trend suggests a move toward clearer
+    regulatory frameworks that support innovation in the digital asset space.”Related:
+    Crypto markets will be pressured by trade wars until April: AnalystBlackRock launched
+    BUIDL in March 2024 in partnership with tokenization platform Securitize. In a
+    recent Fortune report, Securitize chief operating officer Michael Sonnenshein
+    said the fund aims to make offchain assets “unboring.” RWAs reached a new cumulative
+    all-time high of over $17 billion on Feb. 3, following Bitcoin’s (BTC) decline
+    below $100,000.Related: Redemption arcs of 2024: Ripple’s victory, memecoins’
+    rise, RWA growthRWAs near $20B record high amid Bitcoin’s lack of momentumThe
+    total value of onchain RWAs is less than 0.5% away from surpassing the $20 billion
+    mark, with a total cumulative value of $19.57 billion, according to data from
+    RWA.xyz.RWA global market dashboard. Source: RWA.xyzRWAs will likely rise to new
+    all-time highs in 2025 as they attract investor interest amid Bitcoin’s lack of
+    momentum, according to Alexander Loktev, chief revenue officer at P2P.org, an
+    institutional staking and crypto infrastructure provider.“Given the recent moves
+    we’ve seen from major financial institutions, particularly BlackRock and JPMorgan’s
+    growing involvement in tokenization, I believe we could hit $50 billion in TVL,”
+    Loktev told Cointelegraph.Traditional finance (TradFi) institutions are “starting
+    to view tokenized assets as a serious bridge to DeFi,” driven by institutions
+    looking for digital asset investments with “predictable yields,” added Loktev.Magazine:
+    Ripple says SEC lawsuit ‘over,’ Trump at DAS, and more: Hodler’s Digest, March
+    16 – 22\n\n            "
+  published: 2025-03-26 14:53:07.000000000 +00:00
+- title: " Ethereum devs prepare final Pectra test before mainnet launch "
+  url: https://cointelegraph.com/news/ethereum-devs-prepare-pectra-upgrade-final-testnet-before-mainnet?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ethereum developers are under pressure as the Pectra upgrade moves to
+    a new testnet following a series of unexpected issues that have delayed its mainnet
+    deployment.The Pectra upgrade, which was expected to hit the Ethereum mainnet
+    in March, was deployed into the network’s Holesky testnet on Feb. 24. However,
+    the upgrade failed to finalize on the network, prompting developers to investigate
+    and address the causes. On March 5, the update was rolled out to the Sepolia testnet.
+    However, developers again encountered errors, which were made worse by an unknown
+    attacker who used an “edge case” to cause the mining of empty blocks. To better
+    prepare for the upgrade, Ethereum core developers created a new testnet called
+    “Hoodi.” Ethereum developers “exhausted” from Pectra preparationsHoodi was launched
+    on March 17, and the Pectra upgrade will roll out on Hoodi on March 26. If the
+    upgrade runs smoothly, Pectra may hit the mainnet as early as April 25. In an
+    interview with Cointelegraph’s Felix Ng, Ethereum Foundation’s protocol support
+    team member Nixo said developers have been through a lot while preparing for the
+    Pectra upgrade. Nixo told Cointelegraph: “I think that people are nervous because
+    we just had two testnets in a row basically have really unexpected issues that
+    were not fundamentally related to how it would have gone on mainnet.”Nixo added
+    that exhaustion is setting in, especially for the consensus layer developers,
+    as Hoodi marks the third attempt to test Pectra.“I think the consensus layer devs
+    especially, but also like somewhat the execution layer devs are exhausted right
+    now,” Nixo told Cointelegraph. Related: Ethereum devs agree to stop forking around
+    and accelerate the roadmapEthereum devs solved what needed to be solvedAccording
+    to Nixo, the Holesky testnet failed in part because it had never been tested with
+    such a small validator set on the canonical chain.“As decentralized as Holesky
+    is, it has never been tested at so few validators on the canonical chain,” she
+    said. When about 10% was left on the canonical chain, the validators overloaded
+    their RAM and memory as they kept the state for 90% of validators on the non-canonical
+    chain. Nixo said they had never seen this before. “And so the consensus layer
+    devs all of a sudden had this problem where they had to change a bunch of things,
+    and I think that that was really tiring for them,” she said. Despite the recent
+    testnet challenges, Ethereum’s broader development continues to show progress.On
+    March 13, 2024, the network rolled out the Dencun upgrade, which implemented many
+    changes in the blockchain. High gas fees, which were once a huge problem for the
+    network, have become a thing of the past. A year after its Dencun upgrade, Ethereum’s
+    gas fees dropped by 95%. On March 23, average gas prices reached historic lows
+    of 0.28 gwei.Magazine: What are native rollups? Full guide to Ethereum’s latest
+    innovation\n\n            "
+  published: 2025-03-26 10:38:59.000000000 +00:00
+- title: " Fidelity plans stablecoin launch after SOL ETF ‘regulatory litmus test’ "
+  url: https://cointelegraph.com/news/fidelity-stablecoin-launch-sol-etf-regulatory-litmus-test?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Fidelity Investments is reportedly in the final stages of testing a US
+    dollar-pegged stablecoin, signaling the firm’s latest push into digital assets
+    amid a more favorable crypto regulatory climate under the Trump administration.The
+    $5.8 trillion asset manager plans to launch the stablecoin through its cryptocurrency
+    division, Fidelity Digital Assets, according to a March 25 report by the Financial
+    Times citing anonymous sources familiar with the matter.The stablecoin development
+    is reportedly part of the asset manager’s wider push into crypto-based services.
+    Fidelity is also launching an Ethereum-based “OnChain” share class for its US
+    dollar money market fund.Fidelity’s March 21 filing with the US securities regulator
+    stated the OnChain share class would help track transactions of the Fidelity Treasury
+    Digital Fund (FYHXX), an $80 million fund consisting almost entirely of US Treasury
+    bills.While the OnChain share class filing is pending regulatory approval, it
+    is expected to take effect on May 30, Fidelity said.Fidelity’s filing to register
+    a tokenized version of the Fidelity Treasury Digital Fund. Source: Securities
+    and Exchange CommissionIncreasingly more US financial institutions are launching
+    cryptocurrency-based offerings after President Donald Trump’s election signaled
+    a shift in policy.Custodia and Vantage Bank have launched “America’s first-ever
+    bank-issued stablecoin” on the permissionless Ethereum blockchain, which will
+    act as a “real dollar” and not a “synthetic” dollar, as Federal Reserve Board
+    Governor Christopher Waller called stablecoins in a Feb. 12 speech.Source: Caitlin
+    LongTrump previously signaled that his administration intends to make crypto policy
+    a national priority and the US a global hub for blockchain innovation.Related:
+    Trump turned crypto from ‘oppressed industry’ to ‘centerpiece’ of US strategyFidelity’s
+    spot SOL application is “regulatory litmus test”Fidelity’s stablecoin push comes
+    a day after Cboe BZX Exchange, a US securities exchange, requested permission
+    to list a proposed Fidelity exchange-traded fund (ETF) holding Solana (SOL), according
+    to March 25 filings. The filing may provide insights about the SEC’s regulatory
+    attitude toward Solana ETFs, according to Lingling Jiang, partner at DWF Labs
+    crypto venture capital firm.“This filing is also more than just a product proposal
+    — it’s a regulatory litmus test,” Jiang told Cointelegraph, adding:“If approved,
+    it would signal a maturing posture from the SEC that recognizes functional differentiation
+    across blockchains.”“It would accelerate the development of compliant financial
+    products tied to next-gen assets — and for market makers, that means more instruments,
+    more pairs, and ultimately, more velocity in the system,” Jiang added. Related:
+    SEC dropping XRP case was ‘priced in’ since Trump’s election: AnalystsMeanwhile,
+    crypto industry participants are awaiting US stablecoin legislation, which may
+    come in the next two months.The GENIUS Act, an acronym for Guiding and Establishing
+    National Innovation for US Stablecoins, would establish collateralization guidelines
+    for stablecoin issuers while requiring full compliance with Anti-Money Laundering
+    laws.A positive sign for the industry is that the stablecoin bill may be on the
+    president’s desk in the next two months, according to Bo Hines, the executive
+    director of the president’s Council of Advisers on Digital Assets.Magazine: SEC’s
+    U-turn on crypto leaves key questions unanswered\n\n            "
+  published: 2025-03-26 09:31:40.000000000 +00:00
+- title: " Custodia and Vantage Bank partner for ‘first bank-issued stablecoin’ "
+  url: https://cointelegraph.com/news/custodia-bank-helps-execute-first-bank-issued-stablecoin-transaction-in-us?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The crypto-friendly Custodia Bank has worked with Vantage Bank to complete
+    what the two firms say is “America’s first-ever bank-issued stablecoin” on a permissionless
+    blockchain.Custodia said on March 25 that it tokenized US dollar demand deposits
+    and facilitated the issuance, transfer and redemption of the stablecoin “Avit”
+    on Ethereum via the ERC-20 token standard.“A new US dollar payment rail has now
+    been activated inside the US banking system,” Custodia added.“We broke ground
+    on the legal/regulatory front, proving that US banks can collaborate to tokenize
+    demand deposits on a permissionless blockchain in a regulatorily-compliant manner,”
+    said Custodia CEO Caitlin Long.Source: Caitlin LongVantage Bank CEO and President
+    Jeff Sinnott said the event was a “pivotal moment in reshaping the financial landscape,
+    demonstrating how blockchain and stablecoins can revolutionize payments.”In a
+    series of posts on X, Long explained that the Avit stablecoin was a “real dollar”
+    and not a “synthetic” dollar, as Federal Reserve Board Governor Christopher Waller
+    called stablecoins in a Feb. 12 speech.“Real” US dollars, Long explained, can
+    only be issued by the Federal Reserve and a few legally authorized entities, including
+    Custodia Bank. She added that Avit is a “real dollar” as it tokenizes a bank’s
+    demand deposit — funds that customers can withdraw on-demand, such as money in
+    a checking account.Ethereum backers cheer Custodia’s chain choiceCustodia has
+    historically championed Bitcoin, and Ethereum advocates were quick to note that
+    the bank chose Ethereum for the stablecoin.“ETH fixed this. Bitcoin couldn’t,”
+    wrote Ethereum advocate Evan Van Ness. Ethereum educator Anthony Sassano also
+    posted to make clear the “permissionless blockchain” Custodia referred to in its
+    announcement.“Just in case it wasn’t obvious, this is built on Ethereum.”Source:
+    Matthew SigelRelated: Ethereum poised for record highs in Q1 2025, analysts predictEthereum
+    secures over $125.8 billion worth of stablecoins on its network, nearly doubling
+    the second-place Tron blockchain at $64.8 billion, DefiLlama data shows.Ethereum
+    also tokenizes over $3.6 billion worth of US Treasury bills — seven times more
+    than its next competitor, Stellar, at $465.7 million, according to RWA.xyz data.Magazine:
+    Comeback 2025: Is Ethereum poised to catch up with Bitcoin and Solana?\n\n            "
+  published: 2025-03-26 05:14:57.000000000 +00:00
+- title: " Bitcoin, Ethereum to end Q1 in the red, ‘vertical swing up’ unlikely "
+  url: https://cointelegraph.com/news/bitcoin-ether-performance-q1-2025-decline-rebound-unlikely-analysts?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin and Ethereum are poised to suffer their worst first quarter in
+    years unless they can pull off a huge rally in the next few days.Ether (ETH) has
+    dropped 37.98% so far over the first quarter of 2025, its worst Q1 decline since
+    2018, when it plunged 46.61%, according to CoinGlass data. Meanwhile, Bitcoin
+    (BTC) is down 6.49% so far over the quarter, which is slated to end on March 31
+    — marking its worst Q1 performance since 2020, when it saw a 10.83% decline. Crypto
+    market unlikely to flash green before end quarterSwyftx lead analyst Pav Hundal
+    told Cointelegraph that a “vertical swing up into the end of the quarter looks
+    unlikely.” Ether has posted an average return of 78.23% in the first quarter of
+    every year since 2017. Source: CoinGlassHundal said that the crypto market will
+    be “flying a little blind” until the middle of April when the broader market should
+    have better clarity on US President Donald Trump’s tariff plans.“The economic
+    data shows a global economy in decent shape,” he said. Some analysts say it may
+    only be a matter of weeks after that before Bitcoin sees its next significant
+    rally.Crypto commentator Colin Talks Crypto said in a March 19 X post that Bitcoin
+    may begin its “next major blast-off” around April 30. Meanwhile, Swan Bitcoin
+    CEO Cory Klippsten said earlier this month that there’s more than a 50% chance
+    Bitcoin will hit all-time highs before the end of June.The first quarter has historically
+    been Ether’s strongest and Bitcoin’s second-best. Since 2017, Ether has averaged
+    a 78.23% gain in Q1, while Bitcoin has seen an average return of 51.62% since
+    2013.At the time of publication, Bitcoin is trading at $87,558, while Ether is
+    trading at $2,059, up 5.08% and 5.88% over the past 24 hours, respectively.Meanwhile,
+    the ETH/BTC ratio — showing Ether’s relative strength to Bitcoin — is at its lowest
+    point since May 2020, sitting at 0.2348, according to TradingView data.The ETH/BTC
+    ratio is sitting at 0.02348 at the time of publication. Source: TradingViewThe
+    rest of the crypto market has followed the downtrend of the two largest cryptocurrencies
+    by market cap, with the entire crypto market capitalization declining 11.65% since
+    Jan. 1, sitting at $2.88 trillion at the time of publication, according to CoinMarketCap
+    data.Related: Bitcoin price has 75% chance of hitting new highs in 2025 — AnalystWhile
+    many in the crypto industry were highly optimistic going into Q1 2025 following
+    a strong end to 2024 after Bitcoin tapped $100,000 for the first time after Trump’s
+    November election win, unexpected macroeconomic conditions were largely to blame
+    for the crypto market’s downturn at the beginning of February.After Bitcoin retraced
+    below $100,000 in February, amid Trump’s imposed tariffs and uncertainty around
+    the future of the US federal interest rate, the broader market sentiment turned
+    fearful. The sentiment-tracking Crypto Fear & Greed Index was reading a “Neutral”
+    score of 47 as of March 26.Magazine: What are native rollups? Full guide to Ethereum’s
+    latest innovationThis article does not contain investment advice or recommendations.
+    Every investment and trading move involves risk, and readers should conduct their
+    own research when making a decision.\n\n            "
+  published: 2025-03-26 04:15:19.000000000 +00:00
 - title: " BlackRock’s BUIDL expands to Solana as tokenized money market fund nears
     $2B "
   url: https://cointelegraph.com/news/buidl-blackrock-securitize-solana-expansion?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -1014,447 +1510,3 @@
     move involves risk, and readers should conduct their own research when making
     a decision.\n\n            "
   published: 2025-03-21 06:07:41.000000000 +00:00
-- title: " Clearinghouse backs Ethereum token standard for US securities "
-  url: https://cointelegraph.com/news/dtcc-vows-to-promote-erc3643-token-standard?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The Depository Trust & Clearing Corporation (DTCC) — the US’s primary
-    clearinghouse for securities transactions — has committed to promoting Ethereum’s
-    ERC-3643 standard for permissioned securities tokens, according to a March 20
-    announcement. DTCC is joining the ERC3643 Association, a nonprofit dedicated to
-    catalyzing the standard’s adoption with the goal of “promoting and advancing the
-    ERC3643 token standard,” it said. The endorsement highlights how US regulators
-    are embracing tokenization after President Donald Trump vowed to make America
-    the “world’s crypto capital.” It also suggests that the Ethereum blockchain network
-    may play an important role in the US’s permissioned security token ecosystem. “DTCC
-    will help lead the future of tokenization and support institutional adoption at
-    scale,” Dennis O’Connell, president of the ERC3643 Association, said in a statement.ERC-3643
-    is a standard for permissioned Ethereum tokens. Source: ERC3643.orgRelated: Tokenization
-    can transform US markets if Trump clears the wayEarly mover The DTCC is a private
-    organization closely overseen by the US Securities and Exchange Commission (SEC). It
-    settles most US securities transactions. In 2023, the DTCC processed transactions
-    worth an aggregate of $3 quadrillion, according to its annual report. Also known
-    as the T-REX Protocol, ERC-3643 is “an open-source suite of smart contracts that
-    enables the issuance, management, and transfer of permissioned tokens […] even
-    on permissionless blockchains,” according to the ERC3643 Association’s website. It
-    relies on a custom-built decentralized identity protocol to ensure that only users
-    meeting pre-specified conditions can become tokenholders. The DTCC has been an
-    early mover among US financial overseers in embracing blockchain technology, piloting
-    several initiatives related to onchain securities transactions. They include testing
-    settling tokenized US Treasury Bills on the Canton Network and piloting private
-    asset tokenization on an Avalanche (AVAX) subnet. In February, the clearinghouse
-    launched ComposerX, a platform designed to streamline token creation and settlement
-    for regulated US financial institutions.In November, the Commodity Future Trading
-    Commission (CFTC) — a top US financial regulator — tipped plans to explore similar
-    technologies for onchain settlement in the derivatives markets.  Magazine: Terrorism
-    and Israel-Gaza war weaponized to destroy crypto\n\n            "
-  published: 2025-03-20 20:55:11.000000000 +00:00
-- title: " Pump.fun launches own DEX, drops Raydium "
-  url: https://cointelegraph.com/news/pump-fun-launches-own-dex-dropping-raydium?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Pump.fun has launched its own decentralized exchange (DEX) called PumpSwap,
-    potentially displacing Raydium as the primary trading venue for Solana (SOL) memecoins. Starting
-    on March 20, memecoins that successfully bootstrap liquidity, or “bond,” on Pump.fun
-    will migrate directly to PumpSwap, Pump.fun said in an X post. Previously, bonded
-    Pump.fun tokens migrated to Raydium, which emerged as Solana’s most popular DEX
-    largely thanks to memecoins trading activity. According to Pump.fun, PumpSwap
-    “functions similarly to Raydium V4 & Uniswap V2” and is designed “to create the
-    most frictionless environment for trading coins.”“[M]igrations were a major point
-    of friction - they slow a coin’s momentum and introduce needless complexity for
-    new users,” Pump.fun said. “[N]ow, migrations happen instantly and for free.”Raydium’s
-    trading volumes surged in 2024, largely due to memecoins. Source: DeFiLlamaRelated:
-    Solana shorts spike amid memecoin scandalsHeightened competitionThe launch comes
-    just a few days after Raydium tipped plans to create its own memecoin launchpad
-    — called LaunchLab — to directly compete with Pump.fun. Pump.fun and Raydium’s
-    transition from partners to competitors stands to reshape Solana’s decentralized
-    finance (DeFi) ecosystem at a time when memecoin trading volumes are down dramatically
-    from January highs. “We welcome competition because users win at the end of the
-    day,” Alon, one of Pump.fun’s co-founders, told Cointelegraph on March 20. Other
-    upstart protocols — such as Daos.fun, GoFundMeme and Pumpkin — are also vying
-    for a share of Solana’s memecoin market. PumpSwap plans to adopt one of rival
-    GoFundMeme’s most popular features — revenue sharing with memecoin creators. Soon,
-    “a percentage of protocol revenue will be shared with coin creators,” Pump.fun
-    said.“[I]f it succeeds, millions of dollars will go towards aligning creators
-    with their communities and incentivizing higher quality launches.” Pump.fun’s
-    fee revenues are down from January. Source: DeFiLlamaDeclining memecoin activityOn
-    Feb. 27, Cointelegraph reported that successful memecoin launches on Pump.fun
-    were down some 80% from January highs after a series of memecoin-related scandals
-    cooled sentiment among retail traders. Pump.fun’s average daily fee revenue declined
-    from more than $4 million in January to around $1 million as of mid-March, according
-    to a Pump.fun spokesperson and data from DefiLlama.Memecoins drove explosive growth
-    on Solana in 2024, with the chain’s total value locked (TVL) increasing from around
-    $1.4 billion to more than $9 billion that year, according to DefiLlama.Raydium
-    was among the biggest beneficiaries, with daily volumes soaring from around $245
-    million to more than $2 billion over the course of 2024, DefiLlama data shows.In
-    January, Raydium launched a leveraged perpetual futures trading platform in a
-    bid to challenge incumbent Jupiter, another top Solana DeFi protocol.Magazine:
-    Trump’s crypto ventures raise conflict of interest, insider trading questions\n\n
-    \           "
-  published: 2025-03-20 19:45:00.000000000 +00:00
-- title: " Crypto sleuth ZachXBT says he unmasked 50x Hyperliquid whale "
-  url: https://cointelegraph.com/news/zachxb-unmasked-mysterious-50x-hyperliquid-whale?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Onchain sleuth ZachXBT said he had identified the mysterious whale who
-    made $20 million in profits from highly leveraged trades on Hyperliquid and GMX
-    as a British hacker known as William Parker.According to ZachXBT’s March 20 X
-    post, Parker — who was previously known as Alistair Packover before changing his
-    name — was arrested last year for allegedly stealing around $1 million from two
-    casinos in 2023. Parker also made headlines a decade ago for allegations of hacking
-    and gambling, ZachXBT said.“It is abundantly clear WP/AP has not learned his lesson
-    over the years after serving time for fraud and will likely continue gambling,”
-    ZachXBT said.Source: ZachXBTRelated: Hyperliquid ups margin requirements after
-    $4 million liquidation lossZachXBT said his findings are based on a phone number
-    provided by a person who allegedly received a payment from the whale trader’s
-    wallet address. He also said that public wallet addresses associated with the
-    whale trader received proceeds from past onchain phishing schemes.Cointelegraph
-    has not independently verified ZachXBT’s claims. Massive leveraged betsThe mysterious
-    whale rose to prominence after profiting approximately $20 million from highly
-    leveraged trades — in some cases with up to 50x leverage — on decentralized perpetuals
-    exchanges Hyperliquid and GMX. On March 12, the trader intentionally liquidated
-    an approximately $200 million Ether (ETH) long, causing Hyperliquid’s liquidity
-    pool to lose $4 million. Meanwhile, the whale earned profits of some $1.8 million.Hyperliquid
-    said the liquidation was not an exploit but rather a predictable consequence of
-    how the trading platform operates under extreme conditions. The DEX later revised
-    its collateral rules for traders with open positions to guard against such occurrences
-    in the future. On March 14, the whale took another multimillion-long position,
-    this time on Chainlink (LINK).Perpetual futures, or “perps,” are leveraged futures
-    contracts with no expiry date. Traders deposit margin collateral — typically USDC
-    (USDC) for Hyperliquid — to secure open positions. Magazine: ‘Hong Kong’s FTX’
-    victims win lawsuit, bankers bash stablecoins: Asia Express\n\n            "
-  published: 2025-03-20 18:48:15.000000000 +00:00
-- title: " ‘Successful’ ETH ETF less perfect without staking — BlackRock "
-  url: https://cointelegraph.com/news/successful-eth-etf-less-perfect-without-staking-blackrock?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "BlackRock’s head of digital assets, Robbie Mitchnick, described the firm’s
-    Ether (ETH) exchange-traded fund (ETF) as a “tremendous success” but acknowledged
-    a key limitation. Speaking on March 20 at the Digital Asset Summit, he noted that
-    the ETF is “less perfect” without staking, highlighting a crucial feature absent
-    from the current offering.“A staking yield is a meaningful part of how you can
-    generate investment return in this space,” Mitchnick said. “And all the [Ether]
-    ETFs, of course, at launch did not have staking. So, if that is able to get resolved...”However,
-    adding staking to Ether ETFs is no simple task, according to Mitchnick. “It’s
-    not as simple as a new administration just green-lighting something, and then
-    boom, we’re all good, off to the races,” he said. “There’s a lot of fairly complex
-    challenges that have to be figured out, but if that can get figured out, then
-    I think it’s gonna be sort of a step change upward in terms of what we see the
-    activity around those products is.”Panel at Digital Asset Summit 2025 with Joseph
-    Lubin (middle) and Robbie Mitchnick (right). Source: YouTubeETH staking was first
-    introduced in December 2020 as part of the Ethereum network’s move from a proof-of-work
-    consensus mechanism to proof-of-stake. By February 2024, Ether staking deposits
-    reached $85 billion, accounting for 25% of the circulating supply of the cryptocurrency.The
-    current yield rate for staked Ether is between 2% and 7% annually. However, staking
-    ETH comes with risks, including the possibility of slashing if a validator engages
-    in misconduct. This potential penalty could deter traditional investors, as it
-    introduces an additional layer of risk to their investments.Related: Ether ETFs
-    poised to surge in 2025, analysts sayJoseph Lubin weighs in on Ethereum narrativesNarratives
-    surrounding Ethereum have, at times, been negative during this bull run, especially
-    because the price of Ether has lagged behind other crypto tokens.Also speaking
-    at the Digital Asset Summit, Ethereum co-founder Joseph Lubin said the narrative
-    about Ethereum to institutional investors is “too big to describe.” “It’s like
-    trying to describe the internet protocols and the web protocols,” Lubin said,
-    adding: “It can do everything just the way you can do pretty much anything on
-    the web. And so, there are people who can rock all of that, who can hold a lot
-    of the complexity and the potentiality in mind, but most people are not gonna
-    be able to do that.”According to Lubin, the Ethereum narrative should target applications
-    that matter to users and businesses rather than broad theoretical discussions.
-    “We are at our broadband moment, and we will see applications like social graphs,
-    decentralized ID, attestations, reputation, things that you can use inside of
-    different applications.”BlackRock's ETH pitch to investorsMitchnick noted that
-    when talking to institutional investors, Ethereum is easier to describe at a second-grade
-    level than a 10th-grade level.Robbie Mitchnick at Digital Asset Summit 2025. Source:
-    YouTube“Second-grade level, it’s a technology innovation story,” Mitchnick said.
-    “Once you start to get beyond that, it does get a little more vast, a little more
-    complicated. It’s about being a bet on blockchain adoption and innovation. That’s
-    part of the thesis as we communicate it to clients. And then when they wanna get
-    down to a little more tangible level, we can talk about some of the more specific
-    use cases that it unlocks.”BlackRock has advertised Ethereum to investors as a
-    bet on tokenization, stablecoin adoption and decentralized finance, according
-    to Mitchnick.Data from SoSoValue shows ETH ETFs hold a total value of $7 billion
-    as of March 20, with a cumulative inflow of $2.5 billion. However, the ETFs have
-    seen a cumulative outflow of $358 million in the past 11 days as the cryptocurrency
-    market has largely struggled.Magazine: Ethereum L2s will be interoperable ‘within
-    months’ — Complete guide\n\n            "
-  published: 2025-03-20 18:30:00.000000000 +00:00
-- title: " Kevin O’Leary reveals key catalysts that could reverse the bearish trend "
-  url: https://cointelegraph.com/news/kevin-o-leary-crypto-future-game-changing-legislation-bull-run?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The crypto market is currently facing significant pressure, largely due
-    to US President Donald Trump’s trade war and deteriorating macroeconomic conditions.
-    These factors have put markets under strain, with some analysts predicting that
-    the bull run is over and a bear market may be on the horizon.In a recent Cointelegraph
-    interview, Kevin O’Leary, also known as “Mr. Wonderful,” shared his thoughts on
-    the current state of the market and what could be ahead. Despite the turbulence,
-    O’Leary remains optimistic about the future of Bitcoin (BTC). He explains that
-    while the market is under pressure, he still expects Bitcoin to end the year higher
-    as a couple of key factors come into play.A key issue discussed in the interview
-    is the need for regulatory clarity, especially surrounding stablecoins. O’Leary
-    is particularly focused on the GENIUS Act, which he believes will be passed imminently
-    by the US Congress. “We have been waiting for almost seven years for this legislation.
-    I have a feeling it’s going to make it, and when that happens, it’s a game changer,”
-    O’Leary said.The passage of the GENIUS Act, which aims to provide regulatory clarity
-    around stablecoins, should boost the adoption of dollar-backed stablecoins. This
-    move is expected to bring much-needed stability and legitimacy to the crypto market,
-    helping to mitigate some of the ongoing risks. O’Leary also shared insights into
-    his personal crypto portfolio, revealing a diversified mix of assets in his portfolio.To
-    dive deeper into O’Leary’s views on the current state of the crypto market and
-    his personal approach to investing in crypto, make sure to watch the full interview
-    on our channel.Related: Trump says US will be 'Bitcoin superpower' as BTC price
-    breaks 4-month downtrend\n\n            "
-  published: 2025-03-20 17:21:02.000000000 +00:00
-- title: " Solana futures ETF to grow institutional adoption, despite limited inflows "
-  url: https://cointelegraph.com/news/solana-futures-etf-launch-spot-etf-expected?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The crypto industry is set to debut the first Solana futures exchange-traded
-    fund (ETF), a significant development that may pave the way for the first Solana
-    spot ETF as the “next logical step” for crypto-based trading products, according
-    to industry watchers.Volatility Shares is launching two Solana (SOL) futures ETFs,
-    the Volatility Shares Solana ETF (SOLZ) and the Volatility Shares 2X Solana ETF
-    (SOLT), on March 20.The debut of the first Solana futures ETF may bring significant
-    new institutional adoption for the SOL token, according to Ryan Lee, chief analyst
-    at Bitget Research.Volatility Shares Solana ETF SEC filing. Source: SECThe analyst
-    told Cointelegraph: “The launch of the first Solana ETFs in the US could significantly
-    boost Solana’s market position by increasing demand and liquidity for SOL, potentially
-    narrowing the gap with Ethereum’s market cap.”The Solana ETF will grow institutional
-    adoption by “offering a regulated investment vehicle, attracting billions in capital
-    and reinforcing Solana’s competitiveness against Ethereum,” said Lee, adding that
-    “Ethereum’s entrenched ecosystem remains a formidable barrier.”Still, other industry
-    participants are concerned that the Solana futures ETF will lead to investor disappointment
-    due to a lack of inflows, as we’ve seen with the spot Ether (ETH) ETF launch,
-    which was only a “sidekick” to Bitcoin ETFs in terms of inflows, as predicted
-    by Bloomberg’s senior ETF analyst, Eric Balchunas.Related: Bitcoin beats global
-    assets post-Trump election, despite BTC correctionSOL futures ETF may disappoint,
-    but spot SOL ETFs may be nextWhile the futures ETF may not bring significant inflows,
-    it legitimizes Solana’s status as a top cryptocurrency, especially after US President
-    Donald Trump announced that his Working Group on Digital Assets would include
-    Solana in the US crypto strategic reserve, along with Cardano’s ADA (ADA) token
-    and XRP (XRP).“Solana ETFs are in motion creating the possible avenues for more
-    wide-scale adoption,” according to Anmol Singh, co-founder of Bullet — a Solana-native
-    perpetual futures decentralized exchange.Singh told Cointelegraph:“Solana spot
-    ETF is yet to be approved, but given the increased awareness around Solana and
-    the futures ETFs, this would be a logical next step.”“We can expect moderate inflows
-    into the futures ETF — spot ETF is generally a better instrument for getting exposure,
-    and that will be the major milestone,” he added.Related: Trump-linked WLFI triples
-    Ether holdings, Solana sees $485M outflows: Finance RedefinedWhile the adoption
-    rate of futures ETFs is difficult to measure, a spot Solana ETF may attract between
-    $3 billion and $6 billion of net assets in the first six months, eclipsing the
-    adoption rate of Ether ETFs, according to a JPMorgan report seen by Cointelegraph. SOL
-    and XRP ETPs could attract $3 billion–$8 billion. Source: JPMorgan“When applying
-    these so-called “adoption rates” to SOL and XRP, we see SOL attracting roughly
-    $3 billion–$6 billion of net assets and XRP gathering $4 billion–$8 billion in
-    net new assets,” the report stated.However, “the timeline could extend into 2026
-    due to the SEC’s precedent of taking […] 240–260 days to review filings,” James
-    Seyffart, Bloomberg Intelligence analyst, said on Jan. 16.Magazine: Memecoins
-    are ded — But Solana ‘100x better’ despite revenue plunge\n\n            "
-  published: 2025-03-20 13:38:17.000000000 +00:00
-- title: " Coinbase becomes Ethereum&#039;s largest node operator with 11% stake "
-  url: https://cointelegraph.com/news/coinbase-largest-ethereum-node-operator-11-percent-staked-eth?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "A Coinbase report revealed that the crypto exchange is the largest node
-    operator on the Ethereum network, controlling 11.42% of the total staked Ether.In
-    a performance report, Coinbase said it had 3.84 million Ether (ETH), worth about
-    $6.8 billion, staked to its validators. The exchange said that, as of March 3,
-    it has 11.42% of the total staked ETH. Anthony Sassano, host of The Daily Gwei,
-    said that Coinbase's stake makes the exchange the “single largest node operator”
-    in the network. Sassano added that while the staking platform Lido is bigger as
-    a collective, each node operator has a much smaller percentage share. Source:
-    Anthony SassanoRelated: 83% of institutions plan to up crypto allocations in 2025:
-    CoinbaseCoinbase validator uptime and participation rate at 99.75%Coinbase also
-    shared that it exceeded its target for validator uptime, which indicates the percentage
-    of time when validators are operational. It also had a similar figure for its
-    participation rate, a metric that indicates how well validators perform their
-    consensus duties.Coinbase also reported that its validators had an average uptime
-    of 99.75%. Coinbase said they outperformed their target of 99% uptime without
-    compromising security standards. The exchange attributed the performance to an
-    upgrade implemented in 2024, which allowed the exchange to keep validators running
-    while performing beacon node maintenance. Meanwhile, Coinbase validators’ participation
-    rate is also at 99.75%. This exceeds the network average of 99.52%. In addition,
-    the Coinbase average for signing and submitting blocks produced by their MEV relays
-    is 99.76%, higher than the network average of 99.38%. While Coinbase operates
-    a centralized exchange platform, the company said it distributes its validators
-    across several regions to “help maintain a truly distributed and decentralized
-    Ethereum blockchain.” The exchange said its validators operate in Japan, Singapore,
-    Ireland, Germany and Hong Kong. Coinbase validator average performance versus
-    Ethereum network averages. Source: CoinbaseEther surges above $2,000 on March
-    20Coinbase’s recent report was followed by a surge in ETH prices as ETH accumulation
-    addresses started stockpiling significantly. 7-day ETH price chart. Source: CoinGeckoOn
-    March 2, Ether hit a weekly high of $2,060.73, surging by 12.3% in seven days.
-    On March 19, the asset’s daily trading volume reached $17.4 billion as its price
-    surpassed $2,000. The surge comes as ETH price sentiments turned bearish. On March
-    11, Yuga Labs’ vice president of blockchain suggested that ETH could drop as low
-    as $200 in a prolonged bear market. Magazine: Memecoins are ded — But Solana ‘100x
-    better’ despite revenue plunge\n\n            "
-  published: 2025-03-20 08:57:29.000000000 +00:00
-- title: " Bybit: 89% of stolen $1.4B crypto still traceable post-hack "
-  url: https://cointelegraph.com/news/bybit-1-4b-hack-88-percent-traceable-lazarus-group?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The lion’s share of the hacked Bybit funds is still traceable after the
-    historic cybertheft, as blockchain investigators continue their efforts to freeze
-    and recover these funds.The crypto industry was rocked by the largest hack in
-    history on Feb. 21, when Bybit lost over $1.4 billion in liquid-staked Ether (stETH),
-    Mantle Staked ETH (mETH) and other digital assets.Blockchain security firms, including
-    Arkham Intelligence, have identified North Korea’s Lazarus Group as the likely
-    culprit behind the Bybit exploit, as the attackers have continued swapping the
-    funds in an effort to make them untraceable.Despite the Lazarus Group’s efforts,
-    over 88% of the stolen $1.4 billion remains traceable, according to Ben Zhou,
-    the co-founder and CEO of Bybit exchange.The CEO wrote in a March 20 X post:“Total
-    hacked funds of USD 1.4bn around 500k ETH. 88.87% remain traceable, 7.59% have
-    gone dark, 3.54% have been frozen.”“86.29% (440,091 ETH, ~$1.23B) have been converted
-    into 12,836 BTC  across 9,117 wallets (Average 1.41 BTC each),” said the CEO,
-    adding that the funds were mainly funneled through Bitcoin (BTC) mixers, including
-    Wasbi, CryptoMixer, Railgun and Tornado Cash.Source: Ben ZhouThe CEO’s update
-    comes nearly a month after the exchange was hacked. It took the Lazarus Group
-    10 days to launder 100% of the stolen Bybit funds through the decentralized crosschain
-    protocol THORChain, Cointelegraph reported on March 4.Still, blockchain security
-    experts are hopeful that a portion of these funds can be frozen and recovered
-    by Bybit.Related: Can Ether recover above $3K after Bybit’s massive $1.4B hack?The
-    crypto industry needs more blockchain “bounty hunters” and white hat, or ethical
-    hackers, to combat the growing illicit activity from North Korean actors.Decoding
-    transaction patterns through cryptocurrency mixers remains the biggest challenge
-    in tracing these funds, Bybit’s CEO wrote, adding:“In the past 30 days, 5012 bounty
-    reports were received of which 63 were valid bounty reports. We welcome more reports,
-    we need more bounty hunters that can decode mixers as we need a lot of help there
-    down the road.”Bybit paid $2.2 million for Lazarus “bounty hunters”Bybit has awarded
-    over $2.2 million worth of funds to 12 bounty hunters for relevant information
-    that may lead to the freezing of the funds, according to LazarusBounty, a website
-    dedicated to tracking Bybit bounty payouts. The exchange is offering 10% of the
-    recovered funds as a bounty for white hat hackers and investigators.Bybit’s bounty
-    payout details for Lazarus-linked hack. Source: LazarusBountyRelated: Bybit exploit
-    exposes security flaws in centralized crypto exchangesThe Bybit attack highlights
-    that even centralized exchanges with strong security measures remain vulnerable
-    to sophisticated cyberattacks, analysts say.“This incident is another stark reminder
-    that even the strongest security measures can be undone by human error,” Lucien
-    Bourdon, an analyst at Trezor, told Cointelegraph.Bourdon explained that attackers
-    used a sophisticated social engineering technique, deceiving signers into approving
-    a malicious transaction that drained crypto from one of Bybit's cold wallets.The
-    Bybit hack is more than twice the size of the $600 million Poly Network hack in
-    August 2021, making it the largest crypto exchange breach to date.Magazine: Trump’s
-    crypto ventures raise conflict of interest, insider trading questions\n\n            "
-  published: 2025-03-20 08:52:55.000000000 +00:00
-- title: " Why is Ethereum (ETH) price up today? "
-  url: https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether (ETH) price rallied nearly 8% over the past 24 hours, reaching a
-    high of $2,064 on March 19. The altcoin’s daily trading volume increased to $17.4
-    billion as ETH regained a position above the $2,000 level. Ethereum 1-hour chart.
-    Source: Cointelegraph/TradingViewETH exhibits an ascending triangle breakoutEther
-    price is up today after the altcoin managed a successful breakout from an ascending
-    triangle pattern. After falling below $2,000 on March 10, Ether formed higher
-    lows, followed by multiple retests at the immediate resistance of $1,950, which
-    was the pattern’s neckline. A bullish divergence also took shape between the price
-    and relative strength index (RSI), preceding a local bottom at $1,752. Such technical
-    setups indicate that the bullish momentum is taking charge against the bearish
-    trend. Bitcoin 4-hour chart. Source: Cointelegraph/TradingViewWith a confirmed
-    bullish breakout taking place from the triangle pattern, the technical targets
-    remain at $2,142, which is roughly 5% from ETH’s current price. However, the 100-day
-    exponential moving average (blue line) is providing resistance at $2,050, which
-    needs to be flipped into support for prices to target $2,142. Rekt Capital, an
-    anonymous crypto analyst, highlighted that ETH recently tested its multi-year
-    demand zone under the $2,000 level. With respect to a bullish reversal, the trader
-    said, “If price can generate a strong enough reaction here, then ETH will be able
-    to reclaim the $2196-$3900 Macro Range (black).”Ethereum monthly analysis by Rekt
-    Capital. Source: X.comRelated: ETH price prospects dim as Ethereum DEX volumes
-    drop 34% in a weekEthereum flows to accumulation address hit new highsIrrespective
-    of recent price corrections, ETH accumulation addresses have been stockpiling
-    at a significant rate. On March 12, Ether inflows into ETH accumulation addresses
-    hit a one-day record at 345,210 ETH. ETH inflows into accumulation addresses.
-    Source: CryptoQuantEthereum accumulation addresses are a specific classification
-    of wallet addresses used to track long-term holding behavior in the Ethereum network.
-    These addresses usually have no outgoing transactions, meaning the ETH is not
-    used for spending or transferred out. In 2024, these addresses amassed over 5.8
-    million ETH across a 12-month period. In 2025, the accumulation rate has significantly
-    increased, with the same addresses acquiring 4.73 million ETH in under three months.Onchain
-    data shows that large holders are potentially taking advantage of ETH’s low price
-    by adding the altcoin at a discount which is currently 58.4% below its all-time
-    high.  Related: Ethereum price in ‘cursed’ downtrend which could continue well
-    into 2025 — AnalystThis article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-03-19 20:33:14.000000000 +00:00
-- title: " Price analysis 3/19: BTC, ETH, XRP, BNB, SOL, ADA, DOGE, LINK, LEO, TON "
-  url: https://cointelegraph.com/news/price-analysis-3-19-btc-eth-xrp-bnb-sol-ada-doge-link-leo-ton?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) has been clinging to the 200-day simple moving average ($84,359),
-    which suggests that the bulls have kept up the pressure. That improves the prospects
-    of an upside breakout, signaling the corrective phase may be ending. Derive founder
-    Nick Forster told Cointelegraph that the current pullback is a normal correction
-    that Bitcoin experiences during long-term rallies. He anticipates that Bitcoin’s
-    cycle peak is yet to come.A positive sign in favor of bulls is that the US spot
-    Bitcoin exchange-traded funds (ETFs) have again started to witness inflows. According
-    to Farside Investors data, spot Bitcoin ETFs have recorded $525 million in inflows
-    since March 14.Crypto market data daily view. Source: Coin360However, not everyone
-    is bullish on Bitcoin. CryptoQuant founder and CEO Ki Young Ju said in a post
-    on X that Bitcoin could remain in a bearish or sideways trend for the next 6-12
-    months as the bull cycle is over.Could Bitcoin break out of the 200-day SMA, triggering
-    a rally in altcoins? Let’s analyze the charts of the top 10 cryptocurrencies to
-    find out.Bitcoin price analysisBitcoin is facing selling at the 200-day SMA, but
-    the bulls have not given up much ground. That suggests the bulls are not dumping
-    their positions as they expect a breakout in the near term.BTC/USDT daily chart.
-    Source: Cointelegraph/TradingViewThe bullish momentum is expected to pick up on
-    a break and close above the 20-day exponential moving average ($85,441). The BTC/USDT
-    pair could then climb to the 50-day SMA ($91,904). This optimistic view will be
-    negated in the near term if the price turns down sharply from the 20-day EMA and
-    breaks below $80,000. The pair may then tumble to $76,606. Buyers are expected
-    to defend the $76,606 to $73,777 zone with all their might.Ether price analysisThe
-    narrow range trading in Ether (ETH) resolved to the upside on March 19, indicating
-    that the bulls have overpowered the bears.ETH/USDT daily chart. Source: Cointelegraph/TradingViewSellers
-    will try to halt the relief rally at the breakdown level of $2,111, but if the
-    bulls prevail, the ETH/USDT pair could ascend to the 50-day SMA ($2,468). If this
-    level is also crossed, the pair could surge to $2,850.Instead, if the price turns
-    down sharply from $2,111, it will signal that the bears are trying to flip the
-    level into resistance. The bears will gain the upper hand if they sink and maintain
-    the price below $1,800.XRP price analysisXRP (XRP) surged above the moving averages
-    on March 19, opening the doors for a rally to the resistance line.XRP/USDT daily
-    chart. Source: Cointelegraph/TradingViewIf the price turns down from the resistance
-    line, the XRP/USDT pair is likely to find support at the 20-day EMA ($2.36). A
-    bounce off the 20-day EMA increases the likelihood of a break above the resistance
-    line. The pair may then climb to $3.On the other hand, if the price turns down
-    from the resistance line and breaks below the moving averages, it heightens the
-    risk of a drop to $2. Sellers will be in control on a close below $2.BNB price
-    analysisBNB (BNB) closed above the 50-day SMA ($618) on March 17, but the bulls
-    are struggling to sustain the higher levels.BNB/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    pullback is expected to find support at the 20-day EMA ($602). If the price rebounds
-    off the 20-day EMA with strength, it will suggest a change in sentiment from selling
-    on rallies to buying on dips. That increases the possibility of a break above
-    $644. The BNB/USDT pair could then rally to $686.Conversely, a break and close
-    below the 20-day EMA suggests that the bulls are booking profits. That may sink
-    the pair to $550.Solana price analysisSolana (SOL) rebounded off the $120 to $110
-    support zone on March 18, indicating that the bulls are aggressively defending
-    the zone.SOL/USDT daily chart. Source: Cointelegraph/TradingViewIf buyers catapult
-    the price above the 20-day EMA ($137), it will suggest the start of a sustained
-    recovery. The SOL/USDT pair could rally to the 50-day SMA ($167) and, after that,
-    to $180.Contrarily, if the price turns down from the 20-day EMA, it will signal
-    that the bears remain in control. A break below the support zone suggests the
-    start of the next leg of the downtrend. There is minor support at $98, but if
-    the level breaks down, the pair could plummet to $80.Cardano price analysisCardano
-    (ADA) has been trading between the uptrend line and the moving averages for the
-    past few days, indicating indecision about the next directional move.ADA/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe downsloping moving averages
-    and the RSI just below the midpoint give a slight edge to the bears. If the price
-    turns down from the moving averages and breaks below the uptrend line, the ADA/USDT
-    pair could drop to $0.58 and eventually to $0.50.On the contrary, a break and
-    close above the moving averages suggests that the bulls are back in the game.
-    The pair could ascend to $1.02, where the bears are expected to sell aggressively.Dogecoin
-    price analysisDogecoin (DOGE) is facing selling near the 20-day EMA ($0.18), indicating
-    that the bears are active at higher levels.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    bears will try to sink the price below the $0.14 support. If they manage to do
-    that, it will signal the resumption of the downtrend. The DOGE/USDT pair could
-    plunge to psychological support at $0.10.If buyers do not give up much ground
-    from the current level, it improves the prospects of a break above the 20-day
-    EMA. If that happens, the pair could climb to $0.25 and thereafter to $0.29.Related:
-    Fund managers dump US stocks at record pace — Can recession fears hurt Bitcoin?Chainlink
-    price analysisChainlink (LINK) has risen to the 20-day EMA ($14.66), but the bulls
-    are expected to face stiff resistance from the bears.LINK/USDT daily chart. Source:
-    Cointelegraph/TradingViewIf the price turns down from the 20-day EMA, the bears
-    will again try to sink the LINK/USDT pair below the $12 support. If they manage
-    to do that, the pair could descend to the crucial support at $10.Alternatively,
-    a break and close above the 20-day EMA suggests that the breakdown below the channel
-    was a bear trap. The pair may climb to the 50-day SMA ($17.22) and later to $19.25.UNUS
-    SED LEO price analysisUNUS SED LEO (LEO) has been trading in a tight range between
-    $10 and $9.60 for the past few days, suggesting that the bulls are holding on
-    to their positions as they anticipate a move higher.LEO/USD daily chart. Source:
-    Cointelegraph/TradingViewIf buyers drive and maintain the price above $10, the
-    LEO/USD pair will complete a bullish ascending triangle pattern. The pair may
-    then start an upmove toward the pattern target of $12.04.Contrary to this assumption,
-    if the price turns down and breaks below $9.60, it will signal that the bulls
-    have given up. The pair may then drop to the uptrend line, which is again expected
-    to attract buyers. Toncoin price analysisToncoin (TON) has been facing resistance
-    at the 50-day SMA ($3.56), but a positive sign is that the bulls have not ceded
-    ground to the bears.TON/USDT daily chart. Source: Cointelegraph/TradingViewThat
-    increases the likelihood of a break and close above the 50-day SMA. If that happens,
-    the TON/USDT pair could climb to $4.50 and then to $5. Sellers are expected to
-    mount a vigorous defense near $5.This positive view will be invalidated in the
-    near term if the price turns down and breaks below the 20-day EMA ($3.26). That
-    will indicate selling at higher levels. The pair may then slump to $3.This article
-    does not contain investment advice or recommendations. Every investment and trading
-    move involves risk, and readers should conduct their own research when making
-    a decision.\n\n            "
-  published: 2025-03-19 17:08:10.000000000 +00:00
