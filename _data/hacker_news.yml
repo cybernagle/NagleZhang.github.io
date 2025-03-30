@@ -1,121 +1,122 @@
 ---
-- title: Is AI the new research scientist? Not so, according to a human-led study
-  url: https://news.warrington.ufl.edu/faculty-and-research/ai-research-scientist/
+- title: Buy once, use forever A directory of one-time purchase software. Add yours
+  url: https://buyoncesoftware.com/
   summary: Comments
-  published: 2025-03-29 00:32:19.000000000 +00:00
-- title: iCloud Mail has DNS misconfigured
-  url: https://www.mail-tester.com/test-p3tdhnk3o
+  published: 2025-03-30 00:28:34.000000000 +00:00
+- title: Towards fearless SIMD, 7 years later
+  url: https://linebender.org/blog/towards-fearless-simd/
   summary: Comments
-  published: 2025-03-29 00:22:21.000000000 +00:00
-- title: We hacked Gemini's Python sandbox and leaked its source code (at least some)
-  url: https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/
+  published: 2025-03-29 23:52:00.000000000 +00:00
+- title: Everyone knows all the apps on your phone
+  url: https://peabee.substack.com/p/everyone-knows-what-apps-you-use
   summary: Comments
-  published: 2025-03-28 18:12:58.000000000 +00:00
-- title: Noise cancellation improves turn-taking for AI Voice Agents
-  url: https://krisp.ai/blog/improving-turn-taking-of-ai-voice-agents-with-background-voice-cancellation/
+  published: 2025-03-29 21:26:32.000000000 +00:00
+- title: My TV started playing a video in full screen by itself. What happened?
+  url: https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US
   summary: Comments
-  published: 2025-03-25 03:56:17.000000000 +00:00
-- title: 'Show HN: An Almost Free, Open Source TURN Server'
-  url: https://github.com/lvidgen/WebRTC/blob/master/FOSS_TURN_Server/howto.md
+  published: 2025-03-30 00:41:45.000000000 +00:00
+- title: Commercials that David Lynch directed (2018)
+  url: https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html
   summary: Comments
-  published: 2025-03-28 22:46:43.000000000 +00:00
-- title: 'Xee: A Modern XPath and XSLT Engine in Rust'
-  url: https://blog.startifact.com/posts/xee/
+  published: 2025-03-29 20:31:21.000000000 +00:00
+- title: Atop 2.11 heap problems
+  url: https://openwall.com/lists/oss-security/2025/03/29/1
   summary: Comments
-  published: 2025-03-28 06:48:18.000000000 +00:00
-- title: DIY PTP Grandmaster Clock with a Raspberry Pi
-  url: https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi
+  published: 2025-03-29 20:43:42.000000000 +00:00
+- title: Convert Linux to Windows
+  url: https://philipbohun.com/blog/0007.html
   summary: Comments
-  published: 2025-03-28 21:37:21.000000000 +00:00
-- title: Digital Echoes and Unquiet Minds
-  url: https://www.chrbutler.com/digital-echoes-and-unquiet-minds
+  published: 2025-03-29 21:34:02.000000000 +00:00
+- title: Why Apple's Severance gets edited over remote desktop software
+  url: https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/
   summary: Comments
-  published: 2025-03-28 20:29:32.000000000 +00:00
-- title: xAI has acquired X, xAI now valued at $80B
-  url: https://twitter.com/elonmusk/status/1905731750275510312
+  published: 2025-03-29 18:00:48.000000000 +00:00
+- title: Accessible open textbooks in math-heavy disciplines
+  url: https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/
   summary: Comments
-  published: 2025-03-28 21:23:42.000000000 +00:00
-- title: 'NSA F9T53 Opsec Special Bulletin: Signal Vulnerability'
-  url: https://www.scribd.com/document/843124910/NSA-full
+  published: 2025-03-29 16:38:01.000000000 +00:00
+- title: Msgpack23 – A modern, header-only C++ library for MessagePack (de)serialization
+  url: https://github.com/rwindegger/msgpack23
   summary: Comments
-  published: 2025-03-29 00:38:44.000000000 +00:00
-- title: How Kerala got rich
-  url: https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states
+  published: 2025-03-30 00:15:47.000000000 +00:00
+- title: 'Paged Out #6 is out'
+  url: https://pagedout.institute/?page=blog.php#entry-2025-03-29
   summary: Comments
-  published: 2025-03-28 16:27:44.000000000 +00:00
-- title: 'Show HN: Multi UPS SNMP based shutdown'
-  url: https://nupst.serve.zone
+  published: 2025-03-29 18:12:03.000000000 +00:00
+- title: Utah becomes first US state to ban fluoride in its water
+  url: https://www.bbc.com/news/articles/c4gmggp2y99o
   summary: Comments
-  published: 2025-03-29 01:02:33.000000000 +00:00
-- title: How to write blog posts that developers read
-  url: https://refactoringenglish.com/chapters/write-blog-posts-developers-read/
+  published: 2025-03-29 19:19:05.000000000 +00:00
+- title: 'XAN: A Modern CSV-Centric Data Manipulation Toolkit for the Terminal'
+  url: https://github.com/medialab/xan
   summary: Comments
-  published: 2025-03-28 11:01:19.000000000 +00:00
-- title: Finley (YC W21) Is Hiring a Technical Implementations Specialist
-  url: https://ats.rippling.com/finley-technologies/jobs
+  published: 2025-03-27 15:50:08.000000000 +00:00
+- title: The disappearance of Gaia, ESA spacecraft will be turned off on 27 March
+    2025
+  url: https://www.cosmos.esa.int/web/gaia/news
   summary: Comments
-  published: 2025-03-28 21:01:49.000000000 +00:00
-- title: Optimizing Matrix Multiplication on RDNA3
-  url: https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html
+  published: 2025-03-26 18:51:00.000000000 +00:00
+- title: Breaking up with vibe coding
+  url: https://www.lucasaguiar.xyz/posts/vibe-coding-pitfalls/
   summary: Comments
-  published: 2025-03-25 09:55:21.000000000 +00:00
-- title: 'Testing Without Mocks: A Pattern Language (2023)'
-  url: https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks
+  published: 2025-03-30 00:17:12.000000000 +00:00
+- title: Spark AI (YC W24) is hiring a full-stack engineer in San Francisco
+  url: https://www.ycombinator.com/companies/spark/jobs/kDeJlPK-software-engineer-full-stack
   summary: Comments
-  published: 2025-03-25 12:00:56.000000000 +00:00
-- title: 'Show HN: Hexi – Modern header-only network binary serialisation for C++'
-  url: https://github.com/EmberEmu/Hexi
+  published: 2025-03-29 21:00:35.000000000 +00:00
+- title: The Mysterious Flow of Fluid in the Brain
+  url: https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/
   summary: Comments
-  published: 2025-03-28 17:37:42.000000000 +00:00
-- title: Decomposing a Factorial into Large Factors
-  url: https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/
+  published: 2025-03-26 14:49:02.000000000 +00:00
+- title: Matrix Calculus (For Machine Learning and Beyond)
+  url: https://arxiv.org/abs/2501.14787
   summary: Comments
-  published: 2025-03-28 14:55:54.000000000 +00:00
-- title: The Real Book (2021)
-  url: https://99percentinvisible.org/episode/the-real-book/
+  published: 2025-03-29 20:00:33.000000000 +00:00
+- title: 'Lvgl: Embedded graphics library to create beautiful UIs'
+  url: https://github.com/lvgl/lvgl
   summary: Comments
-  published: 2025-03-28 16:39:10.000000000 +00:00
-- title: 'The Art of DJing: Avalon Emerson (2019)'
-  url: https://it.ra.co/features/3392
+  published: 2025-03-29 18:42:43.000000000 +00:00
+- title: Veloren – voxel action-adventure role-playing
+  url: https://veloren.net/
   summary: Comments
-  published: 2025-03-28 19:22:14.000000000 +00:00
-- title: Building a modern durable execution engine from first principles
-  url: https://restate.dev/blog/building-a-modern-durable-execution-engine-from-first-principles/
+  published: 2025-03-29 18:05:08.000000000 +00:00
+- title: The Candid Naivety of Geeks
+  url: https://ploum.net/2025-03-28-geeks-naivety.html
   summary: Comments
-  published: 2025-03-27 13:51:44.000000000 +00:00
-- title: Plasmonic Modulators Can Break the Wireless Terahertz Barrier
-  url: https://spectrum.ieee.org/terahertz-waves-2671362433
+  published: 2025-03-29 19:45:46.000000000 +00:00
+- title: 'OSS-SEC: Three bypasses of Ubuntu''s unprivileged user namespace restrictions'
+  url: https://seclists.org/oss-sec/2025/q1/253
   summary: Comments
-  published: 2025-03-25 01:17:35.000000000 +00:00
-- title: SignalBotOne – Notification Webhooks for Signal
-  url: https://signalbot.one/
+  published: 2025-03-29 19:07:44.000000000 +00:00
+- title: Koto Programming Language
+  url: https://koto.dev/
   summary: Comments
-  published: 2025-03-28 17:06:56.000000000 +00:00
-- title: I asked police to send me their public surveillance footage of my car
-  url: https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/
+  published: 2025-03-29 12:14:48.000000000 +00:00
+- title: 'Vramfs: Vram Based Filesystem for Linux'
+  url: https://github.com/Overv/vramfs
   summary: Comments
-  published: 2025-03-28 12:14:06.000000000 +00:00
-- title: Swiftly 1.0
-  url: https://swift.org/blog/introducing-swiftly_10/
+  published: 2025-03-29 17:51:12.000000000 +00:00
+- title: 'Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen'
+  url: https://github.com/Rukenshia/pomodoro
   summary: Comments
-  published: 2025-03-28 20:29:21.000000000 +00:00
-- title: Superhyperbola
-  url: https://www.johndcook.com/blog/2025/03/27/superhyperbola/
+  published: 2025-03-29 10:42:26.000000000 +00:00
+- title: Medical Benchmarks and the Myth of the Universal Patient
+  url: https://www.newyorker.com/magazine/2025/03/31/medical-benchmarks-and-the-myth-of-the-universal-patient
   summary: Comments
-  published: 2025-03-28 18:25:21.000000000 +00:00
-- title: 'Ask HN: can Wireless-CarPlay dongles steal your data?'
-  url: https://news.ycombinator.com/item?id=43470337
+  published: 2025-03-27 01:13:59.000000000 +00:00
+- title: '"Moonshots" Initiative to Secure the Future of RISC OS'
+  url: https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os
   summary: Comments
-  published: 2025-03-25 12:20:28.000000000 +00:00
-- title: 'Cross-Platform P2P Wi-Fi: How the EU Killed AWDL'
-  url: https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl
+  published: 2025-03-29 21:58:42.000000000 +00:00
+- title: Real Time Chess – A physical chess board without the concept of turns
+  url: https://github.com/misprit7/real-time-chess
   summary: Comments
-  published: 2025-03-28 13:13:04.000000000 +00:00
-- title: Building Statically Linked Go Executables with CGO and Zig
-  url: https://calabro.io/zig-cgo
+  published: 2025-03-29 11:41:54.000000000 +00:00
+- title: MS-DOS and Windows 3.11 still run train dashboards at German railway (Jan'24)
+  url: https://www.tomshardware.com/software/windows/ms-dos-and-windows-311-still-run-train-dashboards-at-german-railway-company-listed-admin-job-for-30-year-old-operating-system
   summary: Comments
-  published: 2025-03-28 14:11:07.000000000 +00:00
-- title: The Biology of B-Movie Monsters (2003)
-  url: https://fathom.lib.uchicago.edu/2/21701757/
+  published: 2025-03-30 00:21:55.000000000 +00:00
+- title: 'Show HN: Appear as anyone in video calls like zoom or Google meets'
+  url: https://www.phazr.ai/
   summary: Comments
-  published: 2025-03-28 13:40:41.000000000 +00:00
+  published: 2025-03-29 18:44:49.000000000 +00:00
