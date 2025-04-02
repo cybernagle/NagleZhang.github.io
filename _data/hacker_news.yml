@@ -1,121 +1,122 @@
 ---
-- title: Netflix's Media Production Suite
-  url: https://netflixtechblog.com/globalizing-productions-with-netflixs-media-production-suite-fc3c108c0a22
+- title: DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit
+  url: https://github.com/dfd-tud/deda
   summary: Comments
-  published: 2025-04-01 01:02:33.000000000 +00:00
-- title: Charlie Javice convicted of defrauding JPMorgan in $175M startup sale
-  url: https://apnews.com/article/charlie-javice-convicted-fraud-jp-morgan-783cb7b089f6ab5d814c4c0984f0302b
+  published: 2025-04-01 21:11:43.000000000 +00:00
+- title: Stop Syncing Everything
+  url: https://sqlsync.dev/posts/stop-syncing-everything/
   summary: Comments
-  published: 2025-03-28 20:55:50.000000000 +00:00
-- title: Go Optimization Guide
-  url: https://goperf.dev/
+  published: 2025-03-31 17:07:44.000000000 +00:00
+- title: Electron band structure in germanium, my ass (2001)
+  url: https://pages.cs.wisc.edu/~kovar/hall.html
   summary: Comments
-  published: 2025-03-31 20:29:58.000000000 +00:00
-- title: 'JEP draft: Prepare to make final mean final'
-  url: https://openjdk.org/jeps/8349536
+  published: 2025-04-01 12:25:12.000000000 +00:00
+- title: Shared DNA in Music
+  url: https://pudding.cool/2025/04/music-dna/
   summary: Comments
-  published: 2025-03-31 19:35:51.000000000 +00:00
-- title: A deliberate practice app for guitar players who want to level up
-  url: https://www.captrice.io/
+  published: 2025-04-01 21:07:23.000000000 +00:00
+- title: Bletchley code breaker Betty Webb dies aged 101
+  url: https://www.bbc.com/news/articles/c78jd30ywv8o
   summary: Comments
-  published: 2025-03-29 03:27:31.000000000 +00:00
-- title: The Guardian flourishes without a paywall
-  url: https://nymag.com/intelligencer/article/how-the-guardian-us-flourishes-without-a-paywall.html
+  published: 2025-04-01 12:55:28.000000000 +00:00
+- title: 'Show HN: Offline SOS signaling+recovery app for disasters/wars'
+  url: https://github.com/nizarmah/igatha
   summary: Comments
-  published: 2025-03-29 00:31:27.000000000 +00:00
-- title: The demoscene as a UNESCO heritage in Sweden
-  url: https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden
+  published: 2025-04-01 21:58:32.000000000 +00:00
+- title: Simulated Economy Tutorial
+  url: https://jasonfantl.com/posts/Simulated-Economy-(1)/
   summary: Comments
-  published: 2025-03-31 10:39:57.000000000 +00:00
-- title: Notes on the Pentium's microcode circuitry
-  url: https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html
+  published: 2025-04-02 00:05:47.000000000 +00:00
+- title: Dave Täht has died
+  url: https://libreqos.io/2025/04/01/in-loving-memory-of-dave/
   summary: Comments
-  published: 2025-03-31 18:35:37.000000000 +00:00
-- title: MLB says Yankees’ new “torpedo bats” are legal and likely coming
-  url: https://thelibertyline.com/2025/03/30/yankees-new-torpedo-bat/
+  published: 2025-04-01 18:40:47.000000000 +00:00
+- title: 'Show HN: Qwen-2.5-32B is now the best open source OCR model'
+  url: https://github.com/getomni-ai/benchmark/blob/main/README.md
   summary: Comments
-  published: 2025-03-31 15:27:03.000000000 +00:00
-- title: Honey has now lost 4M Chrome users after shady tactics were revealed
-  url: https://9to5google.com/2025/03/31/honey-extension-users-dropped-chrome-march-2025/
+  published: 2025-04-01 17:00:49.000000000 +00:00
+- title: Glubux's Powerwall (2016)
+  url: https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/
   summary: Comments
-  published: 2025-03-31 18:28:03.000000000 +00:00
-- title: 'KOReader: Open-Source eBook Reader'
-  url: https://github.com/koreader/koreader
+  published: 2025-04-01 15:49:01.000000000 +00:00
+- title: 'The Myst Graph: A New Perspective on Myst'
+  url: https://glthr.com/myst-graph-1
   summary: Comments
-  published: 2025-03-31 19:52:29.000000000 +00:00
-- title: 'Launch HN: Augento (YC W25) – Fine-tune your agents with reinforcement learning'
-  url: https://news.ycombinator.com/item?id=43537505
+  published: 2025-04-01 17:19:48.000000000 +00:00
+- title: AI image recognition detects bubble-like structures in the universe
+  url: https://phys.org/news/2025-03-ai-image-recognition-universe.html
   summary: Comments
-  published: 2025-03-31 17:29:04.000000000 +00:00
-- title: Turso SQLite Offline Sync Public Beta
-  url: https://turso.tech/blog/turso-offline-sync-public-beta
+  published: 2025-03-31 14:21:15.000000000 +00:00
+- title: 'Show HN: Textcase: A Python Library for Text Case Conversion'
+  url: https://github.com/zobweyt/textcase
   summary: Comments
-  published: 2025-03-31 15:10:39.000000000 +00:00
-- title: 'LLM Workflows then Agents: Getting Started with Apache Airflow'
-  url: https://github.com/astronomer/airflow-ai-sdk
+  published: 2025-04-01 22:19:35.000000000 +00:00
+- title: 'Show HN: Zig Topological Sort Library for Parallel Processing'
+  url: https://github.com/williamw520/toposort
   summary: Comments
-  published: 2025-03-31 18:32:28.000000000 +00:00
-- title: The <select> element can now be customized with CSS
-  url: https://developer.chrome.com/blog/a-customizable-select
+  published: 2025-04-01 17:48:45.000000000 +00:00
+- title: Generate autounattend.xml files for Windows 10/11
+  url: https://schneegans.de/windows/unattend-generator/
   summary: Comments
-  published: 2025-03-31 09:11:47.000000000 +00:00
-- title: 'Show HN: I made a little puzzle game about a rogue chess knight'
-  url: https://knightride.rakhim.org/
+  published: 2025-03-29 20:44:41.000000000 +00:00
+- title: Hightouch (YC S19) Is Hiring Front End Engineers
+  url: https://job-boards.greenhouse.io/hightouch/jobs/5437380004
   summary: Comments
-  published: 2025-03-29 14:02:53.000000000 +00:00
-- title: It’s not mold, it’s calcium lactate (2018)
-  url: https://www.thephcheese.com/theres-white-stuff-growing-on-your-cheese-that-isnt-mold
+  published: 2025-04-01 21:00:08.000000000 +00:00
+- title: 'Show HN: Nue – Apps lighter than a React button'
+  url: https://nuejs.org/blog/large-scale-apps/
   summary: Comments
-  published: 2025-03-31 14:49:42.000000000 +00:00
-- title: 'AI agents: Less capability, more reliability, please'
-  url: https://www.sergey.fyi/articles/reliability-vs-capability
+  published: 2025-04-01 05:47:41.000000000 +00:00
+- title: The April Fools joke that might have got me fired
+  url: http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html
   summary: Comments
-  published: 2025-03-31 14:45:35.000000000 +00:00
-- title: James Webb Space Telescope reveals that most galaxies rotate clockwise
-  url: https://www.smithsonianmag.com/smart-news/james-webb-space-telescope-reveals-that-most-galaxies-rotate-clockwise-180986224/
+  published: 2025-04-01 07:11:30.000000000 +00:00
+- title: 'Testing DVD-R and CD-R 25 years later: optical disks from Japan'
+  url: https://goughlui.com/2025/03/23/optical-discs-from-japan-part-6-tdk-uv-guard-fuji-lg-sony-maxell-cmc/
   summary: Comments
-  published: 2025-03-31 10:31:39.000000000 +00:00
-- title: Automating Interactive Fiction Logic Generation with LLMs in Emacs
-  url: https://blog.tendollaradventure.com/automating-story-logic-with-llms/
+  published: 2025-04-01 21:46:31.000000000 +00:00
+- title: 'Tell HN: Camelgate NPM Outage (Cloudflare)'
+  url: https://news.ycombinator.com/item?id=43548589
   summary: Comments
-  published: 2025-03-31 15:57:15.000000000 +00:00
-- title: 'Things I Won''t Work With: Dioxygen Difluoride (2010)'
-  url: https://www.science.org/content/blog-post/things-i-won-t-work-dioxygen-difluoride
+  published: 2025-04-01 16:19:28.000000000 +00:00
+- title: The March of the Vegetables Parade
+  url: http://www.marchofthevegetables.org
   summary: Comments
-  published: 2025-03-31 10:58:53.000000000 +00:00
-- title: Oracle attempt to hide cybersecurity incident from customers?
-  url: https://doublepulsar.com/oracle-attempt-to-hide-serious-cybersecurity-incident-from-customers-in-oracle-saas-service-9231c8daff4a
+  published: 2025-03-31 09:56:02.000000000 +00:00
+- title: 'RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components'
+  url: https://github.com/ruby-ui/ruby_ui
   summary: Comments
-  published: 2025-03-31 15:11:33.000000000 +00:00
-- title: Compiler Options Hardening Guide for C and C++
-  url: https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
+  published: 2025-04-01 15:39:58.000000000 +00:00
+- title: 'Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal
+    Methods'
+  url: https://queue.acm.org/detail.cfm?id=3712057
   summary: Comments
-  published: 2025-03-31 11:01:50.000000000 +00:00
-- title: Distro (YC S24) Is Hiring a Lead Solutions Engineer
-  url: https://www.ycombinator.com/companies/distro/jobs/hJQCfVH-lead-solutions-engineer
+  published: 2025-04-01 14:59:42.000000000 +00:00
+- title: Excitable cells
+  url: https://jenevoldsen.com/posts/excitable-cells/
   summary: Comments
-  published: 2025-03-31 17:00:06.000000000 +00:00
-- title: Why I run FreeBSD for my home servers (2024)
-  url: https://aumont.fr/posts/FreeBSD-Home-Server/
+  published: 2025-03-28 13:05:52.000000000 +00:00
+- title: 'Launch HN: ASim (YC S21) – Mobile app that generates mobile apps'
+  url: https://news.ycombinator.com/item?id=43547677
   summary: Comments
-  published: 2025-03-31 12:59:23.000000000 +00:00
-- title: France fines Apple €150M for “excessive” pop-ups that let users reject tracking
-  url: https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/
+  published: 2025-04-01 15:06:11.000000000 +00:00
+- title: AR Computers to Terminate Eyestrain and Myopia
+  url: https://eyewiki.org/AR_Computers_To_Terminate_Eyestrain_And_Myopia
   summary: Comments
-  published: 2025-03-31 17:38:16.000000000 +00:00
-- title: 'FSKit: Implement a file system that runs in user space'
-  url: https://developer.apple.com/documentation/fskit
+  published: 2025-04-01 23:31:11.000000000 +00:00
+- title: 'Show HN: Duolingo-style exercises but with real-world content like the news'
+  url: https://app.fluentsubs.com/exercises/daily
   summary: Comments
-  published: 2025-03-31 21:25:33.000000000 +00:00
-- title: Symmetry between up and down quarks is more broken than expected
-  url: https://phys.org/news/2025-03-symmetry-quarks-broken.html
+  published: 2025-04-01 05:46:34.000000000 +00:00
+- title: The atrocious state of binary compatibility on Linux and how to address it
+  url: https://jangafx.com/insights/linux-binary-compatibility
   summary: Comments
-  published: 2025-03-29 10:12:03.000000000 +00:00
-- title: Kagi for Kids
-  url: https://help.kagi.com/kagi/plans/family-plan.html#kidslogin
+  published: 2025-04-01 22:22:46.000000000 +00:00
+- title: SSLyze – SSL configuration scanning library and CLI tool
+  url: https://github.com/nabla-c0d3/sslyze
   summary: Comments
-  published: 2025-03-31 18:47:30.000000000 +00:00
-- title: Debugging Lotus 1-2-3 by fax
-  url: https://blog.jgc.org/2025/03/debugging-lotus-1-2-3-by-fax.html
+  published: 2025-04-02 00:03:31.000000000 +00:00
+- title: 'Show HN: Make SVGs interactive in React with 1 line'
+  url: https://svggles.vercel.app/
   summary: Comments
-  published: 2025-03-31 15:23:50.000000000 +00:00
+  published: 2025-04-01 18:28:31.000000000 +00:00

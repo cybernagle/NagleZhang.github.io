@@ -1,4 +1,279 @@
 ---
+- title: " Here’s what happened in crypto today "
+  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Today in crypto, stablecoin issuer Circle filed to go public in the US,
+    Ethereum's revenue from blob storage sinks to its lowest level of 2025 and Binance
+    halts select Tether (USDt) spot trading pairs in the European Economic Area.Circle
+    files for Initial Public Offering planned for AprilUSDC (USDC) stablecoin issuer
+    Circle Internet Group filed with the US Securities and Exchange Commission on
+    April 1 to go public later this month on the New York Stock Exchange under the
+    ticker “CRCL.”Its Form S-1 registration statement didn’t detail the number of
+    shares it would offer or what its initial public offering target price would be,
+    but it did shed some light on the firm’s financials.The filing shows Circle’s
+    revenue last year was $1.67 billion in revenue for 2024, a 16% year-on-year bump,
+    while its 2024 net income was $155.6 million — a 41.8% fall from 2023.Circle’s
+    financials over the last three years ended Dec. 31. Source: SECOver 99% of Circle’s
+    revenue in 2024 came from its stablecoin reserves. The company issues the second-largest
+    stablecoin by market cap behind only Tether (USDT) and generates part of its income
+    by holding yield-bearing Treasury bills.Circle attempted to go public via a Special
+    Purpose Acquisition Company (SPAC) merger in 2021— which it abandoned in December
+    2022 — and again in January 2024 via a confidential filing with the SEC.Ethereum's
+    weekly blob fees hit 2025 lowsThe Ethereum network’s main source of income from
+    layer-2 (L2) scaling chains — “blob fees” — has sunk to the lowest weekly levels
+    so far this year, according to data from Etherscan. In the week ending March 30,
+    Ethereum earned only 3.18 Ether (ETH) from blob fees, according to Etherscan,
+    or approximately $6,000 US dollars as of April 1. This figure marks a 73% drop
+    from the prior week and a more than 95% decline from the week ending March 16,
+    when Ethereum’s income from blob fees exceeded 84 ETH, Etherscan said in an X
+    post. Ethereum’s blob fee income has been uneven. Source: Dune AnalyticsIn March
+    2024, Ethereum’s Dencun upgrade migrated L2 transaction data to temporary offchain
+    stores called “blobs.” The upgrade cut costs for users but also reduced overall
+    fee revenue for Ethereum — initially by as much as 95%, according to data from
+    asset manager VanEck.Since then, growth in blob fees has been unsteady. Ethereum’s
+    weekly blob fee income peaked at nearly $1 million in November before declining
+    sharply in recent weeks, according to data from Dune Analytics. Binance ends Tether
+    USDT trading in Europe to comply with MiCA rulesBinance has discontinued spot
+    trading pairs with Tether’s USDt in the EEA to comply with MiCA.Cryptocurrency
+    exchange Binance has delisted spot trading pairs with several non-MiCA-compliant
+    tokens in the EEA in line with a plan disclosed in early March, Cointelegraph
+    has learned.While spot trading pairs in tokens such as USDt (USDT) are now delisted
+    on Binance, users in the EEA can still custody the affected tokens and trade them
+    in perpetual contracts.USDT is available for perpetual trading on Binance. Source:
+    BinanceAccording to a previous announcement by Binance, the spot trading pairs
+    for non-MiCA-compliant tokens were to be delisted by March 31, which is in line
+    with a local requirement to delist such tokens by the end of the first quarter
+    of 2025.Binance is not the only crypto exchange delisting non-MiCA-compliant tokens
+    for spot trading in the EEA.Other exchanges, such as Kraken, have delisted spot
+    trading pairs in tokens such as USDT in the EEA after announcing plans in February.According
+    to a notice on the Kraken website, the exchange restricted USDT for sell-only
+    mode in the EEA on March 24. At the time of writing, the platform doesn’t allow
+    its EEA users to buy the affected tokens.Kraken restricted USDT to sell-only mode
+    in the EEA on March 24. Source: KrakenAmong other non-MiCA-compliant tokens, Binance
+    has also delisted spot trading pairs for Dai (DAI), First Digital USD (FDUSD),
+    TrueUSD (TUSD), Pax Dollar (USDP), Anchored Euro (AEUR), TerraUSD (UST), TerraClassicUSD
+    (USTC) and PAX Gold (PAXG).\n\n            "
+  published: 2025-04-01 23:02:03.000000000 +01:00
+- title: " Ethereum&#039;s weekly blob fees hit 2025 lows "
+  url: https://cointelegraph.com/news/ethereum-weekly-blob-fees-hit-2025-lows?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The Ethereum network’s main source of income from layer-2 (L2) scaling
+    chains — “blob fees” — has sunk to the lowest weekly levels so far this year,
+    according to data from Etherscan. In the week ending March 30, Ethereum earned
+    only 3.18 Ether (ETH) from blob fees, according to Etherscan, or approximately
+    $6,000 US dollars as of April 1. This figure marks a 73% drop from the prior week
+    and a more than 95% decline from the week ending March 16, when Ethereum’s income
+    from blob fees exceeded 84 ETH, Etherscan said in an X post. Source: EtherscanRelated:
+    Ethereum fees poised for rebound amid L2, blob uptickPost-Dencun growing painsIn
+    March 2024, Ethereum’s Dencun upgrade migrated L2 transaction data to temporary
+    offchain stores called “blobs.”The upgrade cut costs for users but also reduced
+    overall fee revenue for Ethereum — initially by as much as 95%, according to data
+    from asset manager VanEck.“ETH Fees Were Weak Due to Lack of Blob Revenues as
+    L2s Have Not Filled Available Capacity,” Matthew Sigel, VanEck’s head of digital
+    asset research, said in a Nov. 1, 2024, post on the X platform.Since then, growth
+    in blob fees has been unsteady. Ethereum’s weekly blob fee income peaked at nearly
+    $1 million in November before declining sharply in recent weeks, according to
+    data from Dune Analytics. Ethereum’s blob fee income has been uneven. Source:
+    Dune AnalyticsEthereum’s ongoing struggle to earn meaningful income from blob
+    fees underscores concerns about the network’s scaling model, which relies heavily
+    on L2s for transaction throughput.“Ethereum’s future will revolve around how effectively
+    it serves as a data availability engine for L2s,” arndxt, author of the Threading
+    on the Edge newsletter, said in a March 31 X post. According to an X post by Michael
+    Nadeau, founder of The DeFi Report, L2 transaction volumes would need to increase
+    more than 22,000-fold for blob fees to fully offset Ethereum’s peak transaction
+    fee revenues. However, Ethereum’s economics are still evolving. For instance,
+    the network’s Pectra Upgrade — which aims to significantly change how Ethereum
+    allocates blob space — is scheduled for this year. “The plan is simple: scale
+    Ethereum as much as possible to capture as much marketshare as we can - worry
+    about fee revenue later,” Sassal, founder of The Daily Gwei, said in a March 17
+    X post. Magazine: AI agents trading crypto is a hot narrative, but beware of rookie
+    mistakes\n\n            "
+  published: 2025-04-01 21:30:00.000000000 +01:00
+- title: " Ethereum prints 4 consecutive red monthly candles, but data points to an
+    ETH/BTC bottom "
+  url: https://cointelegraph.com/news/ethereum-prints-4-consecutive-red-monthly-candles-but-data-points-to-an-eth-btc-bottom?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ethereum’s native token, Ether (ETH), registered four consecutive red
+    monthly candles after the altcoin dropped 18.47% in March. The altcoin’s current
+    market structure reflects a sustained bearish trend not seen since the bear market
+    of 2022. With each monthly close taking place below the previous month’s low,
+    analysts are beginning the debate about whether ETH is approaching a bottom or
+    if there is more downside ahead for the altcoin.  Ethereum/Bitcoin ratio hits
+    new 5-year lowOn March 30, the Ethereum/Bitcoin ratio dropped to a five-year low
+    of 0.021. The ETH/BTC ratio measures ETH’s value against Bitcoin (BTC), and the
+    current decline underlines Ether’s underperformance against Bitcoin over the past
+    five years. In fact, the last time the ETH/BTC ratio dipped to 0.021, ETH was
+    valued between $150-$300 in May 2020. Ethereum/Bitcoin 1-month chart. Source:
+    Cointelegraph/TradingViewData from the token terminal showed Ethereum’s monthly
+    fees dropped to $22 million in March 20205, its lowest level since June 2020,
+    indicating low network activity and market interest. Ethereum fees represent the
+    cost users pay for transactions, which is influenced by network demand. When network
+    fees begin to drop, it indicates reduced network utility. Ethereum fees and price.
+    Source: token terminalDespite the price action and revenue malaise, Ethereum analyst
+    VentureFounder said that the ETH/BTC bottom could occur over the next few weeks.
+    The analyst hinted at a potential bottom between 0.017 and 0.022, suggesting that
+    the ratio might drop further before a recovery. The analyst said, “Maybe another
+    lower low RSI and one more push downward lots of similarity with 2018-2019 Fed
+    tightening & QE cycle, expecting the first higher high after May FOMC when Fed
+    ends QT & begin QE.”Ethereum/Bitcoin analysis by venture founder. Source: X.comRelated:
+    Ethereum price down almost 50% since Eric Trump's 'add ETH' endorsementHistorical
+    odds favor a short-term bottomSince its inception, ETH has registered three or
+    more consecutive bearish monthly candles on five occasions, and each time, a short-term
+    bottom was the result. The chart below shows that the most back-to-back red months
+    occurred in 2018, with seven, but prices jumped 83% after the correction. Ethereum
+    monthly chart. Source: Cointelegraph/TradingViewIn 2022, after three consecutive
+    bearish months, ETH price consolidated in a range for almost a year, but the bottom
+    was in on the third bearish candle in June 2022. Historically, Ethereum has a
+    75% probability of having a green month in April. Based on Ethereum’s past quarterly
+    returns, the altcoin experienced the least number of drawdowns in Q2 compared
+    to other quarters. With the average returns in Q2 as high as 60.59%, the likelihood
+    of positive returns in April. Ethereum Quarterly returns. Source: CoinGlassRelated:
+    Why is Ethereum (ETH) price up today?This article does not contain investment
+    advice or recommendations. Every investment and trading move involves risk, and
+    readers should conduct their own research when making a decision.\n\n            "
+  published: 2025-04-01 20:23:16.000000000 +01:00
+- title: " Why is Ethereum (ETH) price up today? "
+  url: https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether (ETH) price rallied nearly 3% over the past 24 hours, reaching a
+    high of $1,866 on April 1. The top altcoin’s daily trading volume increased by
+    27% to $15. billion as ETH climbed above $1,800.ETH/USD four-hour chart. Source:
+    Cointelegraph/TradingViewSeveral factors are behind Ethereum’s bullishness today,
+    including:The launch of Privacy Pools on Ethereum.Reducing supply on exchanges.Ether’s
+    market setup points to a 12% rebound next.Privacy Pools launch on Ethereum boosts
+    ETH priceOne of the most significant drivers of Ether’s bullishness today is the
+    launch of Privacy Pools on the Ethereum mainnet.gm Ethereum ☀️It is our great
+    honor to announce the mainnet launch of Privacy Pools!ETH users can now achieve
+    on-chain privacy, while still dissociating from illicit fundsIt is now up to all
+    of us to Make Privacy Normal Again \U0001FAE1More info in this thread \U0001F447
+    pic.twitter.com/3nJO0AxoD1— 0xbow.io (@0xbowio) March 31, 2025  What to know:Announced
+    by developers at 0xbow.io, Privacy Pools aims to enhance onchain privacy while
+    addressing regulatory concerns—a balance that has long eluded many blockchain
+    projects. Unlike previous privacy mixers like Tornado Cash, which faced sanctions
+    for enabling illicit transactions, Privacy Pools use “Association Sets” to screen
+    out bad actors while preserving user anonymity. The new privacy tool has garnered
+    support from Ethereum co-founder Vitalik Buterin himself. Buterin, a co-author
+    of the original Privacy Pools research paper, made one of the first deposits,
+    expressing his confidence in the project. Market participants responded to this
+    with enthusiasm, with Cryptolive calling it a “privacy breakthrough,” with sentiment
+    suggesting it could “make privacy normal again” in the blockchain industry. “This
+    is huge; it’s got the backing of Ethereum co-founder Vitalik Buterin,” said DuckAI
+    Agent, adding that it could be a sign of increased adoption and usage. “Overall,
+    I'm bullish on ETH - this launch could be a game-changer for the ecosystem.”This
+    development should increase Ethereum’s utility, potentially attracting more users
+    and developers to the network, which in turn drives demand for ETH.Reducing ETH
+    supply on exchangesAnother factor supporting Ether’s performance today is reducing
+    supply on exchanges.Key takeaways:ETH balance on exchanges has reached a 9-year
+    low of 18.3 million ETH after dropping nearly 5% over the last 30 days.These are
+    levels last seen in July 2016 when ETH was trading below $15.The amount of ETH
+    supply on exchanges has resumed its downtrend, as shown in the chart below.ETH
+    supply on exchanges. Source: CryptoQuantA decline in exchange supply suggests
+    that holders are moving their ETH into cold storage or staking, reducing the circulating
+    supply available for trading.Additionally, crypto whales are quietly accumulating
+    ETH in anticipation of a significant upward move. ETH inflows into accumulation
+    addresses have surged to multi-year highs, surpassing levels seen before major
+    bull runs, as seen in the chart below.Ethereum accumulation addresses are a specific
+    classification of wallet addresses used to track long-term holding behavior.ETH
+    inflows into accumulation addresses. Source: CryptoQuantHigh inflows into accumulation
+    addresses suggest that institutional investors and large holders are potentially
+    taking advantage of ETH’s low price to accumulate. Related: zkLend hacker claims
+    losing stolen ETH to Tornado Cash phishing siteETH price nurtures a V-shaped recoveryEther’s
+    price action has been attempting a V-shaped recovery chart pattern on the four-hour
+    chart since March 25, as shown below.A V-shaped recovery is a bullish pattern
+    formed when an asset experiences a sharp price increase after a steep decline. It
+    is completed when the price moves up to the resistance at the top of the V formation,
+    also known as the neckline.ETH appears to be on a similar trajectory and now trades
+    below a supply-demand zone between $1,900 and $2,000, where the 50-day, 100-day
+    and 200-day simple moving averages (SMAs) sit.This suggests that bulls need to
+    push the price above this area to increase the chances of reaching the neckline
+    at $2,100 to complete the V-pattern.This would represent a 12% increase from the
+    current price.ETH/USD daily chart. Source: Cointelegraph/TradingViewMeanwhile,
+    the relative strength index, or RSI, has risen from oversold conditions at 21
+    on March 31 to 56 at the time of writing, suggesting that the bullish momentum
+    is picking up.This article does not contain investment advice or recommendations.
+    Every investment and trading move involves risk, and readers should conduct their
+    own research when making a decision.\n\n            "
+  published: 2025-04-01 10:51:01.000000000 +01:00
+- title: " zkLend hacker claims losing stolen ETH to Tornado Cash phishing site "
+  url: https://cointelegraph.com/news/zk-lend-hacker-loses-stolen-eth-after-depositing-it-into-a-tornado-cash-phishing-site?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The hacker behind the $9.6 million exploit of the decentralized money-lending
+    protocol zkLend in February claims they’ve just fallen victim to a phishing website
+    impersonating Tornado Cash, resulting in the loss of a significant portion of
+    the stolen funds.In a message sent to zkLend through Etherscan on March 31, the
+    hacker claimed to have lost 2,930 Ether (ETH) from the stolen funds to a phishing
+    website posing as a front-end for Tornado Cash. In a series of March 31 transfers,
+    the zkLend thief sent 100 Ether at a time to an address named Tornado.Cash: Router,
+    finishing with three deposits of 10 Ether.“Hello, I tried to move funds to a Tornado,
+    but I used a phishing website, and all the funds have been lost. I am devastated.
+    I am terribly sorry for all the havoc and losses caused,” the hacker said.The
+    hacker behind the zkLend exploit claims to have lost most of the funds to a phishing
+    website posing as a front-end for Tornado Cash. Source: Etherscan“All the 2,930
+    Eth have been taken by that site owners. I do not have coins. Please redirect
+    your efforts towards those site owners to see if you can recover some of the money,”
+    they added. zkLend responded to the message by asking the hacker to “Return all
+    the funds left in your wallets” to the zkLend wallet address. However, according
+    to Etherscan, another 25 Ether was then sent to a wallet listed as Chainflip1. Earlier,
+    another user warned the exploiter about the error, telling them, “don’t celebrate,”
+    because all the funds were sent to the scam Tornado Cash URL.“It is so devastating.
+    Everything gone with one wrong website,” the hacker replied.Another user warned
+    the zkLend exploiter about the mistake, but it was too late. Source: EtherscanHow
+    zkLend was exploited for $9.6 million zkLend suffered an empty market exploit
+    on Feb. 11 when an attacker used a small deposit and flash loans to inflate the
+    lending accumulator, according to the protocol’s Feb. 14 post-mortem. The hacker
+    then repeatedly deposited and withdrew funds, exploiting rounding errors that
+    became significant due to the inflated accumulator. The attacker bridged the stolen
+    funds to Ethereum and later failed to launder them through Railgun after protocol
+    policies returned them to the original address. Following the exploit, zkLend
+    proposed the hacker could keep 10% of the funds as a bounty and offered to release
+    the culprit from legal liability and scrutiny from law enforcement if the remaining
+    Ether was returned.Related: DeFi protocol SIR.trading loses entire $355K TVL in
+    ‘worst news’ possibleThe offer deadline of Feb. 14 passed with no public response
+    from either party. In a Feb. 19 update to X, zkLend said it was now offering a
+    $500,000 bounty for any verifiable information that could lead to the hacker being
+    arrested and the funds recovered.Losses to crypto scams, exploits and hacks totaled
+    over $33 million in March, according to blockchain security firm CertiK, but dropped
+    to $28 million after decentralized exchange aggregator 1inch successfully recovered
+    its stolen funds. Losses to crypto scams, exploits and hacks totaled nearly $1.53
+    billion in February. The $1.4 billion Feb. 21 attack on Bybit by North Korea’s
+    Lazarus Group made up the lion’s share and took the title for largest crypto hack
+    ever, doubling the $650 million Ronin bridge hack in March 2022. Magazine: Lazarus
+    Group’s favorite exploit revealed — Crypto hacks analysis\n\n            "
+  published: 2025-04-01 04:12:23.000000000 +01:00
+- title: " SIR.trading begs hacker to return $255K or ‘no chance for us to survive’ "
+  url: https://cointelegraph.com/news/sir-trading-founder-begs-hacker-return-funds-or-wont-survive?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The founder of the recently hacked decentralized finance protocol SIR.trading
+    has issued an emotional plea to the attacker, urging them to return approximately
+    70% of the stolen customer funds. Without the recovery of these funds, the protocol
+    is unlikely to survive.“Here is my proposal, keep $100k as a fair share for your
+    critical bug find, and return the remaining,” SIR.trading’s pseudonymous founder
+    “Xatarrer” wrote in a March 31 onchain message to the attacker following the $355,000
+    hack on March 30.“We’ll call it even. No legal games, no drama,” they added. Xatarrer
+    said that SIR.trading was built on the back of four years of late-night coding
+    and $70,000 from friends and believers without any additional venture capital
+    funding.“We grew to $400k TVL organically without any advertising. If you keep
+    100% of the funds, there is no chance for us to survive.”Xatarrer even praised
+    the hacker for the sophisticated hack, stating that it was “almost beautiful if
+    it wasn’t for all the funds people lost.”Source: SIR.tradingThe hacker hasn’t
+    responded and has already transferred the stolen funds through to Ethereum privacy
+    solution Railgun, according to data from Ethereum block explorer Etherscan.Xatarrer
+    initially said on March 30 that the SIR.trading team intended to keep the protocol
+    up and running despite the setback. “We’ve already started planning our next steps.
+    Those impacted by the hack will not be forgotten,” it said on March 31.Hack resulted
+    from feature added to Ethereum’s Dencun upgradeThe hacker targeted a callback
+    function used in the protocol’s “vulnerable contract Vault” which leverages Ethereum’s
+    transient storage feature. The hacker managed to replace the real Uniswap pool
+    address used in this callback function with an address under the hacker’s control,
+    allowing them to redirect the funds in the vault to their address by repeatedly
+    calling the callback function until all of the protocol’s total value locked was
+    drained.The transient storage feature was added to Ethereum in the March 2024
+    Dencun upgrade as a solution to offer users lower gas fees than gas typically
+    required for regular storage.Related: DeFi hacks drop 40% in 2024, CeFi breaches
+    surge to $694M — HackenSIR.trading’s documentation shows that it was billed as
+    “a new DeFi protocol for safer leverage” to address some of the challenges that
+    often occur in leveraged trading — such as volatility decay and liquidation risks.It
+    comes as crypto lost to exploits and scams fell to $28.8M in March, blockchain
+    security firm CertiK said in a March 31 X post. Around $4.8 million was subtracted
+    from that figure after hackers involved in the 1inch Resolver incident returned
+    the stolen funds.Crypto exploits and scams had one of their worst months in February,
+    headlined by the $1.4 billion Bybit hack.Magazine: Should crypto projects ever
+    negotiate with hackers? Probably\n\n            "
+  published: 2025-04-01 04:05:14.000000000 +01:00
 - title: " Privacy Pools launch on Ethereum, with Vitalik demoing the feature "
   url: https://cointelegraph.com/news/privacy-pools-launches-ethereum-support-vitalik-buterin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "A new semi-permissionless privacy tool, Privacy Pools, has launched on
@@ -9,11 +284,7 @@
     the platform. 0xbow.io said that it implements “Association Sets” to batch transactions
     into the anonymous Privacy Pools and that a screening test is conducted to ensure
     that those transactions aren’t linked to illicit actors, such as hackers, phishers
-    and scammers.gm Ethereum ☀️It is our great honor to announce the mainnet launch
-    of Privacy Pools!ETH users can now achieve on-chain privacy, while still dissociating
-    from illicit fundsIt is now up to all of us to Make Privacy Normal Again \U0001FAE1More
-    info in this thread \U0001F447 pic.twitter.com/3nJO0AxoD1— 0xbow.io (@0xbowio)
-    March 31, 2025The Association Sets are “dynamic” — meaning that if a transaction
+    and scammers.The Association Sets are “dynamic” — meaning that if a transaction
     is admitted but later found to be illicit, it can be removed from the set without
     disrupting any other deposits, 0xbow.io said.If a deposit is disqualified, the
     user can click the “ragequit” function to return the funds to their original deposit
@@ -21,29 +292,29 @@
     while also attempting to achieve regulatory compliance.  Privacy protocols have
     received considerable backlash from regulators in recent years due to their increasing
     use by illicit actors to launder funds. One of those privacy tools, Tornado Cash,
-    was sanctioned by the US Treasury’s Office of Foreign Assets Control (OFAC) between
-    August 2022 and March 2025 after it was linked to around $7 billion laundered
-    by the North Korean state-backed Lazarus Group.Tornado Cash has since been removed
-    from OFAC’s blacklist after a US appeals court said the sanctions were unlawful
-    in January 2025.0xbow.io noted that initial deposits are limited to 1 Ether (ETH)
+    was sanctioned by the US Treasury’s Office of Foreign Assets Control between August
+    2022 and March 2025 after it was linked to around $7 billion laundered by the
+    North Korean state-backed Lazarus Group.Tornado Cash has since been removed from
+    OFAC’s blacklist after a US appeals court said the sanctions were unlawful in
+    January 2025.0xbow.io noted that initial deposits are limited to 1 Ether (ETH)
     but that the limit would be raised once the privacy protocol is more battle-tested.Privacy
     Pools inspired by Buterin and othersOver 21 ETH has already been transferred into
     Privacy Pools from 69 deposits, including at least one from Buterin, 0xbow.io
     noted.Source: Vitalik ButerinIn addition to Buterin, 0xbow.io said it also received
     investment support from Number Group, BanklessVC, Public Works and several angel
     investors.Related: Privacy isn’t a luxury in crypto, it’s a necessity — Midnight
-    CEO0xbow.io also praised Buterin, Chainalysis Chief Scientist Jacob Illum, and
+    CEO0xbow.io also praised Buterin, Chainalysis chief scientist Jacob Illum and
     two academics at the University of Basel in Switzerland for crafting a September
-    2023 white paper outlining how Privacy Pools could be built. 0xbow.io strategic
-    adviser Ameen Soleimani also contributed to the paper, which has seen over 12,000
-    downloads and has been cited in nine other papers.The Privacy Pool code also passed
-    a successful audit from Audit Wizard. a smart contract auditing firm co-founded
-    by former Apple engineer Joe van Loon.More than $41 billion worth of illicit transfers
-    were made in 2024,  which made up 0.14% of total onchain volume for the year,
-    according to the Chainalysis 2025 Crypto Crime report published on Jan. 15.While
-    it marked around an 11% fall from 2023, Chainalysis said that figure could climb
-    to around $51 billion as more criminal-tied addresses are found.Magazine: What
-    are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
+    2023 white paper outlining how Privacy Pools could be built. 0xbow.io’s chief
+    technology officer Ameen Soleimani also contributed to the paper, which has seen
+    over 12,000 downloads and has been cited in nine other papers.The Privacy Pool
+    code also passed a successful audit from Audit Wizard. a smart contract auditing
+    firm co-founded by former Apple engineer Joe van Loon.More than $41 billion worth
+    of illicit transfers were made in 2024,  which made up 0.14% of total onchain
+    volume for the year, according to the Chainalysis 2025 Crypto Crime report published
+    on Jan. 15.While it marked around an 11% fall from 2023, Chainalysis said that
+    figure could climb to around $51 billion as more criminal-tied addresses are found.Magazine:
+    What are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
   published: 2025-04-01 02:11:53.000000000 +01:00
 - title: " Price analysis 3/31: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, TON "
   url: https://cointelegraph.com/news/price-analysis-3-31-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-ton?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -1308,255 +1579,3 @@
     director of the president’s Council of Advisers on Digital Assets.Magazine: SEC’s
     U-turn on crypto leaves key questions unanswered\n\n            "
   published: 2025-03-26 09:31:40.000000000 +00:00
-- title: " Custodia and Vantage Bank partner for ‘first bank-issued stablecoin’ "
-  url: https://cointelegraph.com/news/custodia-bank-helps-execute-first-bank-issued-stablecoin-transaction-in-us?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The crypto-friendly Custodia Bank has worked with Vantage Bank to complete
-    what the two firms say is “America’s first-ever bank-issued stablecoin” on a permissionless
-    blockchain.Custodia said on March 25 that it tokenized US dollar demand deposits
-    and facilitated the issuance, transfer and redemption of the stablecoin “Avit”
-    on Ethereum via the ERC-20 token standard.“A new US dollar payment rail has now
-    been activated inside the US banking system,” Custodia added.“We broke ground
-    on the legal/regulatory front, proving that US banks can collaborate to tokenize
-    demand deposits on a permissionless blockchain in a regulatorily-compliant manner,”
-    said Custodia CEO Caitlin Long.Source: Caitlin LongVantage Bank CEO and President
-    Jeff Sinnott said the event was a “pivotal moment in reshaping the financial landscape,
-    demonstrating how blockchain and stablecoins can revolutionize payments.”In a
-    series of posts on X, Long explained that the Avit stablecoin was a “real dollar”
-    and not a “synthetic” dollar, as Federal Reserve Board Governor Christopher Waller
-    called stablecoins in a Feb. 12 speech.“Real” US dollars, Long explained, can
-    only be issued by the Federal Reserve and a few legally authorized entities, including
-    Custodia Bank. She added that Avit is a “real dollar” as it tokenizes a bank’s
-    demand deposit — funds that customers can withdraw on-demand, such as money in
-    a checking account.Ethereum backers cheer Custodia’s chain choiceCustodia has
-    historically championed Bitcoin, and Ethereum advocates were quick to note that
-    the bank chose Ethereum for the stablecoin.“ETH fixed this. Bitcoin couldn’t,”
-    wrote Ethereum advocate Evan Van Ness. Ethereum educator Anthony Sassano also
-    posted to make clear the “permissionless blockchain” Custodia referred to in its
-    announcement.“Just in case it wasn’t obvious, this is built on Ethereum.”Source:
-    Matthew SigelRelated: Ethereum poised for record highs in Q1 2025, analysts predictEthereum
-    secures over $125.8 billion worth of stablecoins on its network, nearly doubling
-    the second-place Tron blockchain at $64.8 billion, DefiLlama data shows.Ethereum
-    also tokenizes over $3.6 billion worth of US Treasury bills — seven times more
-    than its next competitor, Stellar, at $465.7 million, according to RWA.xyz data.Magazine:
-    Comeback 2025: Is Ethereum poised to catch up with Bitcoin and Solana?\n\n            "
-  published: 2025-03-26 05:14:57.000000000 +00:00
-- title: " Bitcoin, Ethereum to end Q1 in the red, ‘vertical swing up’ unlikely "
-  url: https://cointelegraph.com/news/bitcoin-ether-performance-q1-2025-decline-rebound-unlikely-analysts?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin and Ethereum are poised to suffer their worst first quarter in
-    years unless they can pull off a huge rally in the next few days.Ether (ETH) has
-    dropped 37.98% so far over the first quarter of 2025, its worst Q1 decline since
-    2018, when it plunged 46.61%, according to CoinGlass data. Meanwhile, Bitcoin
-    (BTC) is down 6.49% so far over the quarter, which is slated to end on March 31
-    — marking its worst Q1 performance since 2020, when it saw a 10.83% decline. Crypto
-    market unlikely to flash green before end quarterSwyftx lead analyst Pav Hundal
-    told Cointelegraph that a “vertical swing up into the end of the quarter looks
-    unlikely.” Ether has posted an average return of 78.23% in the first quarter of
-    every year since 2017. Source: CoinGlassHundal said that the crypto market will
-    be “flying a little blind” until the middle of April when the broader market should
-    have better clarity on US President Donald Trump’s tariff plans.“The economic
-    data shows a global economy in decent shape,” he said. Some analysts say it may
-    only be a matter of weeks after that before Bitcoin sees its next significant
-    rally.Crypto commentator Colin Talks Crypto said in a March 19 X post that Bitcoin
-    may begin its “next major blast-off” around April 30. Meanwhile, Swan Bitcoin
-    CEO Cory Klippsten said earlier this month that there’s more than a 50% chance
-    Bitcoin will hit all-time highs before the end of June.The first quarter has historically
-    been Ether’s strongest and Bitcoin’s second-best. Since 2017, Ether has averaged
-    a 78.23% gain in Q1, while Bitcoin has seen an average return of 51.62% since
-    2013.At the time of publication, Bitcoin is trading at $87,558, while Ether is
-    trading at $2,059, up 5.08% and 5.88% over the past 24 hours, respectively.Meanwhile,
-    the ETH/BTC ratio — showing Ether’s relative strength to Bitcoin — is at its lowest
-    point since May 2020, sitting at 0.2348, according to TradingView data.The ETH/BTC
-    ratio is sitting at 0.02348 at the time of publication. Source: TradingViewThe
-    rest of the crypto market has followed the downtrend of the two largest cryptocurrencies
-    by market cap, with the entire crypto market capitalization declining 11.65% since
-    Jan. 1, sitting at $2.88 trillion at the time of publication, according to CoinMarketCap
-    data.Related: Bitcoin price has 75% chance of hitting new highs in 2025 — AnalystWhile
-    many in the crypto industry were highly optimistic going into Q1 2025 following
-    a strong end to 2024 after Bitcoin tapped $100,000 for the first time after Trump’s
-    November election win, unexpected macroeconomic conditions were largely to blame
-    for the crypto market’s downturn at the beginning of February.After Bitcoin retraced
-    below $100,000 in February, amid Trump’s imposed tariffs and uncertainty around
-    the future of the US federal interest rate, the broader market sentiment turned
-    fearful. The sentiment-tracking Crypto Fear & Greed Index was reading a “Neutral”
-    score of 47 as of March 26.Magazine: What are native rollups? Full guide to Ethereum’s
-    latest innovationThis article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-03-26 04:15:19.000000000 +00:00
-- title: " BlackRock’s BUIDL expands to Solana as tokenized money market fund nears
-    $2B "
-  url: https://cointelegraph.com/news/buidl-blackrock-securitize-solana-expansion?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "BlackRock’s tokenized money market fund has expanded to the Solana blockchain
-    as its market capitalization approaches the $2 billion mark.On March 25, Carlos
-    Domingo, the founder and CEO of real-world asset (RWA) tokenization platform Securitize,
-    welcomed the Solana network to the BlackRock USD Institutional Digital Liquidity
-    Fund (BUIDL). This marked the tokenized money market fund’s expansion to another
-    blockchain network. BlackRock launched BUIDL in March 2024 in partnership with
-    Securitize. In a Fortune report, Securitize chief operating officer Michael Sonnenshein
-    said the fund aims to make offchain assets “unboring.” The executive said they
-    are advancing some of the deficiencies of money markets in their traditional formats. BlackRock’s
-    BUIDL at $1.7 billion market capRWA data platform rwa.xyz shows that BlackRock
-    and Securitize’s BUIDL leads the Tokenized United States Treasurys in market capitalization.
-    The platform’s data shows that the fund has a market capitalization of $1.7 billion
-    and a nearly 34% market share. BlackRock's BUIDL reached a $1.7 billion market
-    cap. Source: RWA.xyzBUIDL dominates the Tokenized US Treasurys list as the leading
-    asset in its class. The tokenized product is followed by Hashnote, Franklin Templeton
-    and Ondo USDY. The fund has experienced significant growth in just seven months.
-    In July 2024, BUIDL’s market capitalization first reached $500 million. Its current
-    market capitalization represents 240% growth since July. BUIDL’s price is pegged
-    to the US dollar and pays daily accrued dividends to investors each month through
-    its Securitize partnership. As of August 2024, the fund had paid its holders $7
-    million in dividends. Related: Frax community approves frxUSD stablecoin backed
-    by BlackRock's BUIDLBUIDL’s Solana expansion comes over 1 year since launchThe
-    tokenized product’s expansion into the Solana ecosystem comes months after the
-    product started to go multichain. On Nov. 13, the tokenized money market fund,
-    which was initially launched on the Ethereum network, expanded to Aptos, Arbitrum,
-    Avalanche, Optimism and Polygon. The chain expansion was expected to attract more
-    investors to the product. While tokenized Treasurys have expanded to other blockchains,
-    Ethereum continues to dominate the asset class. According to RWA.xyz, Ethereum-based
-    treasuries have a market capitalization of $3.6 billion, 72% of the market. Tokenized
-    treasuries market capitalization by blockchain. Source: RWA.xyzMagazine: Memecoins
-    are ded — But Solana ‘100x better’ despite revenue plunge\n\n            "
-  published: 2025-03-25 13:51:17.000000000 +00:00
-- title: " ETH price to $1.2K? Ethereum&#039;s PoS ‘deflation’ ends with fees at all-time
-    lows "
-  url: https://cointelegraph.com/news/eth-price-1-2-k-ethereum-pos-deflation-fees-all-time-lows?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether’s (ETH) price printed a bear flag on the daily chart, a technical
-    chart formation associated with strong downward momentum. Could this bearish setup
-    and decreasing transaction fees signal the start of the second leg of ETH’s drop
-    toward $1,200?Ethereum’s network activity slumpsThe market drawdown, fueled by
-    US President Donald Trump’s tariff threats, saw Ether’s price drop by nearly 50%
-    from a high of $3,432 on Jan. 31 to a 16-month low of $1,750 on March 11.While
-    ETH has rebounded 18% since, it failed to produce a decisive break above $2,000
-    for a second time in less than 10 days.This weakness is reflected in onchain activity,
-    with Ethereum’s daily transaction count dropping to levels last seen in October
-    2024, before Donald Trump’s presidential election victory.Ethereum daily transaction
-    count. Source: CryptoQuantEthereum's average transaction fees also plummeted,
-    reaching an all-time low of 0.00025 ETH ($0.46) on March 24. Ethereum: Fee per
-    transaction. Source: Source: CryptoQuantLow transaction count and fees suggest
-    less demand for block space —whether for DeFi, NFTs or other DApps. It suggests
-    lower network activity, often correlating with diminished interest or market confidence.Historically,
-    Ether’s price has correlated with periods of high network activity. For example,
-    during the 2021 DeFi boom, fees spiked to as high as 0.015 ETH due to high demand. Conversely,
-    lower fees require less ETH, which puts downward pressure on price. ETH supply
-    inflation returnsOther key factors weighing down Ether’s performance are its declining
-    burn rate and rising supply.  With transaction fees declining, the daily ETH burn
-    rate has plunged to all-time lows, resulting in an inflationary trend. According
-    to data from Ultrasound.money, the projected ETH burn rate has declined to 25,000
-    ETH/year, and its supply growth has risen to an annual rate of 0.76%, bringing
-    the issuance rate to 945,000 ETH per year.ETH burn rate. Source: Ultrasound.moneyAs
-    a result, Ethereum’s supply has steadily increased since April 2024, reversing
-    the deflationary period ushered in by the switch to proof-of-stake (the Merge)
-    in September 2022. Ethereum’s total supply has now surpassed pre-Merge levels,
-    as shown in the chart below.Ethereum supply reclaims pre-Merge levels. Source:
-    Ultrasound.moneyThe Merge eliminated Ethereum’s mining-based issuance, which previously
-    had a high supply inflation rate. Ethereum also implemented the London hard fork
-    in August 2021, which introduced a mechanism that burns a portion of transaction
-    fees. Related: Ethereum down 57% from its all-time high, but it’s still worth
-    more than ToyotaWhen network activity is low, the amount of ETH burned is lower
-    than newly issued ETH, making the asset inflationary.Ether’s bear flag targets
-    $1,230The ETH/USD pair is positioned to resume its prevailing bearish momentum
-    despite the recovery from recent lows, as the chart shows a classic bearish pattern
-    in the making.Ether’s price action over the past 30 days has led to the formation
-    of a bear flag pattern on the daily chart, as shown in the figure below. A daily
-    candlestick close below the flag’s lower boundary at $2,000 would signal the start
-    of a massive breakdown.The target is set by the flagpole’s height, which comes
-    to about $1,230, an approximately 40% drop from the current price.ETH/USD daily
-    chart featuring bear flag pattern. Source: Cointelegraph/TradingViewDespite these
-    risks, some traders remain optimistic about Ether’s upside potential, with analyst
-    Jelle saying that the price is bouncing and trying to get back above the key support
-    level at $2,200.If this happens, “we’ll have a monster deviation on our hands,”
-    Jelle added.Fellow analyst Crypto Ceaser said that Ethereum is “heavily undervalued”
-    and is bottoming out at current levels.$ETH - #Ethereum is currently bottoming
-    out. It’s so heavily undervalued. In every bullcycle, there is a moment most of
-    the people think that Ethereum will never comeback after a big bearish event as
-    you can see on the chart. We just had a moment like that in my opinion. pic.twitter.com/wPrV7loxlR—
-    Crypto Caesar (@CryptoCaesarTA) March 25, 2025This article does not contain investment
-    advice or recommendations. Every investment and trading move involves risk, and
-    readers should conduct their own research when making a decision.\n\n            "
-  published: 2025-03-25 13:30:00.000000000 +00:00
-- title: " Security concerns slow crypto payment adoption worldwide — Survey "
-  url: https://cointelegraph.com/news/security-concerns-barrier-crypto-payment-adoption?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Security concerns remain the biggest obstacle to the mainstream adoption
-    of cryptocurrency payments, as hacks and phishing scams continue to damage the
-    industry’s legitimacy.More than 37% of investors identified security risks as
-    the main barrier to using cryptocurrency for payments, according to a survey of
-    4,599 users conducted by Bitget Wallet as part of its latest Onchain Report shared
-    with Cointelegraph.Still, 46% of users said they preferred crypto payments over
-    fiat for their speed and efficiency.Source: Bitget Wallet Onchain ReportBitget
-    Wallet has implemented multi-layered protection mechanisms to make security a
-    “top priority” and inspire more confidence in crypto payments, according to Alvin
-    Kan, chief operating officer of Bitget Wallet:“This includes MEV protection, which
-    is now enabled by default across major chains like Ethereum, BNB Chain, and Solana,
-    helping users avoid common risks like front-running and sandwich attacks. ““We
-    also introduced smart authorization detection via our GetShield engine, which
-    actively scans smart contracts, DApps, and URLs to flag malicious behavior before
-    users sign anything,” he told Cointelegraph.Bitget Wallet’s operations are backed
-    by a $300 million user protection fund as an additional layer of assurance in
-    case of an “asset loss due to platform-level issues.”Concerns over crypto payment
-    security by region. Source: Bitget Wallet Onchain ReportSecurity concerns have
-    plagued the industry, especially since the emergence of a new type of phishing
-    attack known as address poisoning or wallet poisoning scams, which involve tricking
-    victims into sending their digital assets to fraudulent addresses belonging to
-    scammers.Victims of address poisoning scams were tricked into willingly sending
-    over $1.2 million worth of funds to scammers in the first three weeks of March.While
-    Gen X users cite security as their top concern, Gen Z users prioritize usability
-    and cost-efficiency, Kan said.Related: DWF Labs launches $250M fund for mainstream
-    crypto adoptionAfrica and Southeast Asia lead in crypto payment adoptionBitget
-    Wallet’s report found that 52% of African respondents and 51% of Southeast Asian
-    respondents showed interest in crypto payments, driven by high remittance costs
-    and limited banking access.Interest in crypto payments by region. Source: Bitget
-    Wallet Onchain ReportTo help the world’s unbanked regions, Bitget Wallet offers
-    simplified onboarding with non-custodial wallets that don’t require a traditional
-    bank account, Kan said, adding:“With support for over 130 blockchains and stablecoins,
-    users can easily send and receive value globally, using assets that maintain purchasing
-    power.”“Local fiat on-ramps and multichain support ensure that users can tap into
-    crypto without needing deep technical knowledge or centralized platforms,” he
-    added.Related: Crypto security will always be a game of ‘cat and mouse’ — Wallet
-    execIn Latin America, high transaction costs associated with traditional wire
-    transfers are the main factor driving users to adopt crypto payments, Kan said.Such
-    remittance fees averaged 7.34% during 2024 if they involved bank account transfers,
-    according to Statista.Magazine: Fake Rabby Wallet scam linked to Dubai crypto
-    CEO and many more victims\n\n            "
-  published: 2025-03-25 09:45:30.000000000 +00:00
-- title: " Massive Bitcoin whale buys $200M in BTC, another wakes up after 8 years "
-  url: https://cointelegraph.com/news/billionaire-btc-whale-adds-to-stash-amid-other-whale-activity?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "A massive Bitcoin whale wallet holding has just added $200 million worth
-    of Bitcoin to its position after selling over 11,400 Bitcoin over the last few
-    months — coinciding with a recent rebound for the original cryptocurrency. The
-    Bitcoin (BTC) whale added 2,400 Bitcoin — worth over $200 million — to their stash
-    on March 24, blockchain analytics firm Arkham Intelligence said in an X post.Data
-    shared by the firm shows that despite some sales in February, after the latest
-    purchase, the whale holds over 15,000 Bitcoin in its wallet, worth over $1.3 billion,
-    at current prices. “A $1 billion Bitcoin Whale just withdrew $200 million of Bitcoin
-    this morning from Binance,” Arkham said.The whale started acquiring Bitcoin five
-    days ago after selling off its stash when Bitcoin’s price was between $100,000
-    and $86,000 in February. CoinGeck data shows on Feb. 1, Bitcoin was worth over
-    $104,000, but it steadily declined to hit a low of $78,940 on Feb. 28. Source:
-    Arkham IntelligenceThe whale movement comes amid a recent Bitcoin price rebound. Bitcoin
-    has been trading $81,000 and $88,000 in the last seven days, according to CoinGecko,
-    with a price surge of 3% on March 24, distancing itself from its $76,900 low on
-    March 11.Bitcoin whale wakes from slumber At the same time, another Bitcoin whale
-    has woken up after eight years of dormancy, moving over 3,000 Bitcoin, worth $250
-    million, in one transaction on March 22.“His Bitcoin stack went from $3M in early
-    2017 to over $250M today  — and he’s held Bitcoin on one address for over 8 years,”
-    Arkham said in a March 22 X post. Another huge Bitcoin holder, BlackRock, the
-    world’s largest asset manager with approximately $11.6 trillion in assets under
-    management, has been steadily accumulating more Bitcoin over the last week as
-    well, according to Arkham.Across 15 transactions, the asset manager bought an
-    extra 4,054 Bitcoin, giving it a total stash of 573,878, worth over $50 billion,
-    data on Bitbo’s Bitcoin treasury tracker shows. BlackRock’s iShares Bitcoin Trust
-    (IBIT) also led a rally of spot Bitcoin exchange-traded funds (ETFs) in the US,
-    snapping a five-week net outflow streak by clocking a net inflow of $744.4 million. The
-    bulk of net inflows came from BlackRock’s iShares, which recorded $537.5 million,
-    followed by Fidelity’s Wise Origin Bitcoin Fund (FBTC) with $136.5 million.Bitcoin
-    whales weren’t the only ones accumulating more crypto. Lookonchain used Arkham
-    data to track a lone Ether whale who added 7,074 Ether (ETH) to its stash on March
-    21, worth $13.8 million.Source: LookonchainEther has been moving between $1,876
-    and $2,097 in the last seven days, CoinGecko data shows. It’s still down over
-    57% from its all-time high of $4,878, which it hit in November 2021.However, its
-    open interest surged to a new all-time high on March 21, and the number of addresses
-    with at least $100,000 worth of Ether started rising at the beginning of March,
-    from just over 70,000 addresses on March 10 to over 75,000 on March 22.Magazine:
-    Crypto fans are obsessed with longevity and biohacking: Here’s why\n\n            "
-  published: 2025-03-25 03:18:31.000000000 +00:00
