@@ -1,123 +1,121 @@
 ---
+- title: Celebrate 50 years of Microsoft with the company's original source code
+  url: https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code
+  summary: Comments
+  published: 2025-04-03 21:49:04.000000000 +00:00
+- title: An image of an archeologist adventurer who wears a hat and uses a bullwhip
+  url: https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer
+  summary: Comments
+  published: 2025-04-03 17:55:20.000000000 +00:00
+- title: Build an 8-bit computer from scratch
+  url: https://eater.net/8bit/
+  summary: Comments
+  published: 2025-03-31 11:29:34.000000000 +00:00
+- title: 'Curl-impersonate: Special build of curl that can impersonate the major browsers'
+  url: https://github.com/lwthiker/curl-impersonate
+  summary: Comments
+  published: 2025-04-03 15:24:49.000000000 +00:00
+- title: The Slow Collapse of Critical Thinking in OSINT Due to AI
+  url: https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai
+  summary: Comments
+  published: 2025-04-03 18:21:32.000000000 +00:00
+- title: Overengineered Anchor Links
+  url: https://thirty-five.com/overengineered-anchoring
+  summary: Comments
+  published: 2025-04-03 14:36:41.000000000 +00:00
+- title: Senior Developer Skills in the AI Age
+  url: https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/
+  summary: Comments
+  published: 2025-04-03 18:47:24.000000000 +00:00
+- title: Supervisors often prefer rule breakers, up to a point
+  url: https://journals.aom.org/doi/10.5465/amd.2022.0280.summary
+  summary: Comments
+  published: 2025-04-02 10:13:48.000000000 +00:00
+- title: New nanoparticle therapies target two major killers
+  url: https://www.science.org/content/article/new-nanoparticle-therapies-target-two-major-killers
+  summary: Comments
+  published: 2025-03-31 14:18:52.000000000 +00:00
+- title: Was Houdini a Spy? (2021)
+  url: https://www.cia.gov/stories/story/was-houdini-a-spy/
+  summary: Comments
+  published: 2025-04-03 21:48:06.000000000 +00:00
+- title: 'AI cheats: Why you didn''t notice your teammate was cheating'
+  url: https://niila.fi/en/ai-cheats/
+  summary: Comments
+  published: 2025-04-03 20:25:04.000000000 +00:00
+- title: 'Show HN: Hatchet v1 – A task orchestration platform built on Postgres'
+  url: https://github.com/hatchet-dev/hatchet
+  summary: Comments
+  published: 2025-04-03 17:17:54.000000000 +00:00
+- title: The cultural evolution of distortion in music
+  url: https://royalsocietypublishing.org/doi/10.1098/rstb.2024.0014
+  summary: Comments
+  published: 2025-04-03 21:03:46.000000000 +00:00
+- title: Microsoft reports several bootloader vulnerabilities
+  url: https://www.microsoft.com/en-us/security/blog/2025/03/31/analyzing-open-source-bootloaders-finding-vulnerabilities-faster-with-ai/
+  summary: Comments
+  published: 2025-03-31 18:25:35.000000000 +00:00
+- title: Aviator (YC S21) is hiring engineers to build AI DevEx platform
+  url: https://www.ycombinator.com/companies/aviator/jobs
+  summary: Comments
+  published: 2025-04-03 21:08:31.000000000 +00:00
+- title: A university president makes a case against cowardice
+  url: https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice
+  summary: Comments
+  published: 2025-04-03 12:29:08.000000000 +00:00
+- title: Reasoning models don't always say what they think
+  url: https://www.anthropic.com/research/reasoning-models-dont-say-think
+  summary: Comments
+  published: 2025-04-03 16:50:08.000000000 +00:00
+- title: How Big Is VMS? – VMS Software, Inc
+  url: https://vmssoftware.com/resources/blog/2025-03-31-how-big-is-vms/
+  summary: Comments
+  published: 2025-04-03 18:46:20.000000000 +00:00
+- title: Binary Distribution Rebuilds
+  url: https://blog.josefsson.org/2025/03/31/on-binary-distribution-rebuilds/
+  summary: Comments
+  published: 2025-03-31 12:22:27.000000000 +00:00
+- title: AI 2027
+  url: https://ai-2027.com/
+  summary: Comments
+  published: 2025-04-03 16:13:02.000000000 +00:00
+- title: 'Show HN: GitMCP is an automatic MCP server for every GitHub repo'
+  url: https://gitmcp.io/
+  summary: Comments
+  published: 2025-04-03 18:28:44.000000000 +00:00
+- title: John Cage recital set to last 639 years recently witnessed a chord change
+  url: https://www.spectator.co.uk/article/what-were-we-all-doing-here-my-600-mile-trip-to-hear-an-organ-play-a-d-natural/
+  summary: Comments
+  published: 2025-03-31 15:10:04.000000000 +00:00
+- title: 'Show HN: Monkeys.zip – 3000 Monkeys on Typewriters'
+  url: https://monkeys.zip/
+  summary: Comments
+  published: 2025-04-03 18:06:32.000000000 +00:00
+- title: Dijkstra On the foolishness of "natural language programming"
+  url: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html
+  summary: Comments
+  published: 2025-04-03 03:30:30.000000000 +00:00
+- title: AnimeJs v4 Is Here
+  url: https://animejs.com/
+  summary: Comments
+  published: 2025-04-03 14:47:52.000000000 +00:00
+- title: InitWare, a portable systemd fork running on BSDs and Linux
+  url: https://github.com/InitWare/InitWare
+  summary: Comments
+  published: 2025-04-03 12:11:51.000000000 +00:00
+- title: Simple Denoising Diffusion
+  url: https://github.com/utkuozbulak/pytorch-simple-diffusion
+  summary: Comments
+  published: 2025-04-02 07:32:23.000000000 +00:00
+- title: How Servo Motors Work
+  url: https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html
+  summary: Comments
+  published: 2025-04-03 19:18:08.000000000 +00:00
 - title: Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline
   url: https://github.com/luskaner/ageLANServer
   summary: Comments
   published: 2025-04-02 23:10:55.000000000 +00:00
-- title: 'Tell HN: Announcing tomhow as a public moderator'
-  url: https://news.ycombinator.com/item?id=43558671
+- title: Intel, TSMC tentatively agree to form chipmaking joint venture
+  url: https://finance.yahoo.com/news/intel-tsmc-tentatively-agree-form-185938022.html
   summary: Comments
-  published: 2025-04-02 16:49:56.000000000 +00:00
-- title: TV Garden
-  url: https://tv.garden/
-  summary: Comments
-  published: 2025-03-30 14:25:26.000000000 +00:00
-- title: Pico.sh – SSH powered services for developers
-  url: https://pico.sh/
-  summary: Comments
-  published: 2025-04-02 20:02:09.000000000 +00:00
-- title: Minimal CSS-only blurry image placeholders
-  url: https://leanrada.com/notes/css-only-lqip/
-  summary: Comments
-  published: 2025-03-30 11:11:35.000000000 +00:00
-- title: An open source, self-hosted implementation of the Tailscale control server
-  url: https://github.com/juanfont/headscale
-  summary: Comments
-  published: 2025-04-03 00:23:29.000000000 +00:00
-- title: Animals Made from 13 Circles (2016)
-  url: https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html
-  summary: Comments
-  published: 2025-04-02 15:35:25.000000000 +00:00
-- title: Multi-Token Attention
-  url: https://arxiv.org/abs/2504.00927
-  summary: Comments
-  published: 2025-04-02 22:20:53.000000000 +00:00
-- title: MIT 6.5950 Secure Hardware Design – An open-source course on hardware attacks
-  url: https://shd.mit.edu/home/
-  summary: Comments
-  published: 2025-04-02 21:54:13.000000000 +00:00
-- title: 'Apple''s Cubify Anything: Scaling Indoor 3D Object Detection'
-  url: https://github.com/apple/ml-cubifyanything
-  summary: Comments
-  published: 2025-03-31 08:25:20.000000000 +00:00
-- title: Ploopy Classic 2 open source trackball
-  url: https://blog.ploopy.co/the-classic-2-is-here-186
-  summary: Comments
-  published: 2025-03-30 07:15:56.000000000 +00:00
-- title: Restructuring Announcement
-  url: https://automattic.com/2025/04/02/restructuring-announcement/
-  summary: Comments
-  published: 2025-04-02 18:34:22.000000000 +00:00
-- title: Matrix.org Will Migrate to MAS
-  url: https://matrix.org/blog/2025/04/matrix-auth-service/
-  summary: Comments
-  published: 2025-04-02 16:28:50.000000000 +00:00
-- title: 'Digital Archivists: Protecting Public Data from Erasure'
-  url: https://spectrum.ieee.org/digital-archive
-  summary: Comments
-  published: 2025-04-02 16:03:12.000000000 +00:00
-- title: 'Ask HN: Who is hiring? (April 2025)'
-  url: https://news.ycombinator.com/item?id=43547611
-  summary: Comments
-  published: 2025-04-01 15:01:11.000000000 +00:00
-- title: UpCodes (YC S17) Is Hiring SWEs and CSMs to make construction more productive
-  url: https://up.codes/careers?utm_source=HN
-  summary: Comments
-  published: 2025-04-02 21:01:48.000000000 +00:00
-- title: When Jorge Luis Borges met one of the founders of AI
-  url: https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of
-  summary: Comments
-  published: 2025-04-02 17:30:08.000000000 +00:00
-- title: Chronic ethanol produces sex-dependent impairments in striatum computations
-  url: https://www.science.org/doi/10.1126/sciadv.adt0200
-  summary: Comments
-  published: 2025-04-02 22:26:52.000000000 +00:00
-- title: Are people bad at their jobs or are the jobs just bad?
-  url: https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are
-  summary: Comments
-  published: 2025-04-02 21:54:50.000000000 +00:00
-- title: How Google built its Gemini robotics models
-  url: https://blog.google/products/gemini/how-we-built-gemini-robotics/
-  summary: Comments
-  published: 2025-04-02 14:47:38.000000000 +00:00
-- title: What, exactly, is an 'AI Agent'? Here's a litmus test
-  url: https://www.tines.com/blog/a-litmus-test-for-ai-agents/
-  summary: Comments
-  published: 2025-04-02 19:58:08.000000000 +00:00
-- title: The Carbon Bankroll 2.0 [pdf] (2024)
-  url: https://static1.squarespace.com/static/651da9cd0ad7706a768d14db/t/66024d827623d72ef543b545/1711426949213/The+Carbon+Bankroll+2.0+-+From+Awareness+to+Action+%28final%29.pdf
-  summary: Comments
-  published: 2025-03-30 21:42:27.000000000 +00:00
-- title: Hacking the call records of millions of Americans
-  url: https://evanconnelly.github.io/post/hacking-call-records/
-  summary: Comments
-  published: 2025-04-02 16:37:12.000000000 +00:00
-- title: 'Search-R1: Training LLMs to Reason and Leverage Search Engines with RL'
-  url: https://arxiv.org/abs/2503.09516
-  summary: Comments
-  published: 2025-04-03 00:02:16.000000000 +00:00
-- title: 'Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio
-    Code'
-  url: https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code
-  summary: Comments
-  published: 2025-04-02 16:33:53.000000000 +00:00
-- title: 'Switzerland''s vinyl turntable roundabout: Unique road art (2019)'
-  url: https://www.newlyswissed.com/turntable-roundabout-in-switzerland/
-  summary: Comments
-  published: 2025-04-02 22:39:46.000000000 +00:00
-- title: Mozilla launching “Thundermail” email service to take on Gmail, Microsoft
-    365
-  url: https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365
-  summary: Comments
-  published: 2025-04-02 20:01:01.000000000 +00:00
-- title: Dipping my toes in OpenBSD, in Amsterdam
-  url: https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/
-  summary: Comments
-  published: 2025-03-31 10:03:41.000000000 +00:00
-- title: Sailing from Berkeley to Hawaii in a 19ft Sailboat
-  url: https://potter-yachters.org/stories/teplow_to_hawaii.htm
-  summary: Comments
-  published: 2025-04-02 15:52:22.000000000 +00:00
-- title: PaperBench
-  url: https://openai.com/index/paperbench
-  summary: Comments
-  published: 2025-04-02 17:06:45.000000000 +00:00
+  published: 2025-04-04 01:06:07.000000000 +00:00

@@ -1,4 +1,343 @@
 ---
+- title: " EigenLayer to begin &#039;slashing&#039; restakers in April "
+  url: https://cointelegraph.com/news/eigenlayer-slashing-restakers-april?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "EigenLayer plans to start “slashing” restakers on April 17, resulting
+    in the Ethereum restaking protocol’s “first feature-complete iteration,” it said
+    in an April 2 announcement. Implementing slashing will mark EigenLayer’s final
+    step toward establishing the protocol as “infrastructure for a new generation
+    of verifiable apps and services built on the Verifiable Cloud,” it said in a post
+    on the X platform.In 2024, EigenLayer started distributing rewards — including
+    emissions of its native EIGEN token — to incentivize restakers. However, slashing
+    has so far been limited to EigenLayer’s testnets.Once slashing is live, node operators
+    and restakers will be able to voluntarily “opt-in,” resulting in a gradual transition
+    for users, EigenLayer said in a blog post.Slashing starts on EigenLayer’s mainnet
+    soon. Source: EigenLayerRelated: EigenLayer eyes consumer adoption post EIGEN
+    unlock, founder saysGradual roll-outLaunched in 2023, EigenLayer secures third-party
+    protocols — dubbed actively validated services (AVSs) — against a pool of “restaked”
+    cryptocurrencies used as collateral. Restaking involves taking a token that has
+    already been staked — posted as collateral with a validator in exchange for rewards
+    — and using it to secure other protocols simultaneously. Slashing is the primary
+    method for securing proof-of-stake protocols — including Ethereum as well as “restaking”
+    protocols such as EigenLayer — and involves penalizing a network’s node operators
+    for poor performance or misbehavior.“If Operators do not meet the conditions set,
+    the AVS may penalize them. But, if the Operator runs the service successfully,
+    AVSs can reward the Operator’s performance and incentivize specific activity,”
+    EigenLayer said in an April 3 blog post. This “allows for a free marketplace where
+    Operators can earn rewards for their work and AVSs can launch verifiable services,”
+    the post said. EigenLayer’s total value locked (TVL) over time. Source: DeFILlamaGrowing
+    ecosystemUpward of 30 AVSs are already live on EigenLayer’s mainnet, and dozens
+    more are being developed.They include EigenDA — run by EigenLayer developer Eigen
+    Labs — and ARPA Network, a protocol specializing in trustless randomization.In
+    October, EigenLayer unlocked its native token, EIGEN. It is designed as a more
+    flexible option for securing consensus-based protocols than other proof-of-stake
+    tokens, such as Ether, according to EigenLayer.EigenLayer is prioritizing onboarding
+    crypto-native apps in segments such as decentralized finance (DeFi) and gaming
+    before expanding beyond Web3, founder Sreeram Kannan told Cointelegraph in October. “We’re
+    starting with the inside-out approach, focusing on high-throughput consumer apps
+    like DeFi and gaming, but once we grow a little bigger and have critical mass,
+    we’ll go outside and start targeting broader consumer markets,” Kannan said.Magazine:
+    XRP win leaves Ripple a ‘bad actor’ with no crypto legal precedent set\n\n            "
+  published: 2025-04-03 22:43:35.000000000 +01:00
+- title: " How to sell crypto via MetaMask: A beginner’s guide to cashing out "
+  url: https://cointelegraph.com/news/how-to-sell-crypto-via-meta-mask?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Key takeawaysNot all tokens can be sold immediately. Airdropped or obscure
+    tokens may lack liquidity or could be scams, so it’s important to check before
+    attempting to cash out.Swapping and bridging may be required. To sell, you might
+    need to convert tokens to ETH or stablecoins and bridge them to the Ethereum mainnet.MetaMask
+    integrates fiat off-ramps. You can use the MetaMask Portfolio to sell ETH directly,
+    but be prepared for KYC with third-party providers.Non-KYC and P2P options exist.
+    Platforms like Bisq or LocalCoinSwap allow trading without ID, but they carry
+    more risk and require caution.There are plenty of ways you might end up with a
+    mix of different cryptocurrencies sitting in your MetaMask wallet.Maybe you work
+    in Web3 — as a developer, copywriter or designer — and your client paid you in
+    their project’s native token.Or maybe you’re part of a Bitcoin mining pool and
+    occasionally receive rewards straight to your wallet.You could be farming yield
+    in decentralized finance (DeFi), earning annual percentage yield (APY) on your
+    locked assets. Or, perhaps the most straightforward of all: You completed a few
+    SocialFi tasks and received some community tokens via an airdrop.Whatever the
+    case, you’ve got crypto in your MetaMask — and now you want to turn it into cash.In
+    this guide, you’ll learn all the ways you can sell your crypto and withdraw the
+    funds to your bank account or even in cash — whether you’re going through official
+    Know Your Customer (KYC) channels or sticking to more private, non-KYC routes.Things
+    to know before selling tokens on MetaMaskBefore you can turn your tokens into
+    cash, there are a few things you need to get sorted in MetaMask because “not all
+    tokens are created equal.” It’s not always as simple as hitting a “sell” button
+    — especially if you’ve just received tokens via an airdrop or from a lesser-known
+    project.1. Why some airdropped tokens can’t be sold (yet)Just because a token
+    shows up in your wallet doesn’t mean it’s ready to be sold. In fact, many airdropped
+    tokens aren’t listed on exchanges at all. That means there’s no market where you
+    can sell them — not yet, anyway. You might see a price attached to the token,
+    but without buyers or liquidity, that value isn’t something you can actually realize
+    right now. So, while it’s great to receive free tokens, they may end up sitting
+    idle in your wallet for a while.Did you know? If you see a “100% sell fee detected”
+    warning on a token, it’s likely a scam. Scammers airdrop these tokens, hoping
+    you’ll try to sell or interact with them. But when you do, the smart contract
+    takes the full amount — leaving you with nothing. Worse, some link to fake decentralized
+    applications (DApps) that ask you to “claim” or “unlock” the tokens. Connecting
+    your wallet or signing a transaction there can let scammers drain your real assets.2.
+    Adding missing tokens to your walletSometimes, you’ll receive tokens that don’t
+    even show up in MetaMask at first. That doesn’t mean they’re not there — it just
+    means MetaMask doesn’t recognize them by default. You’ll need to add them manually
+    by grabbing the token’s contract address (usually from the project’s official
+    site or Etherscan) and importing it into your wallet. Once you do that, your balance
+    will show up properly.Similarly, if you want to receive any asset other than Ether
+    (ETH), the “Import Tokens” option lets you manually add these missing tokens so
+    they show up in the assets list.3. Getting ready to swap or bridgeEven if your
+    tokens are visible in MetaMask and technically have value, that doesn’t always
+    mean you can sell them for cash right away. Many smaller or newer tokens don’t
+    have direct fiat trading pairs — so you won’t be able to exchange them straight
+    into dollars or euros. To get around this, you’ll usually need to swap them for
+    something more liquid, like ETH or a stablecoin such as USDC (USDC), which are
+    more commonly supported by fiat off-ramps.In some cases, your tokens might also
+    be sitting on a different blockchain — like Arbitrum, BNB Chain or Polygon — while
+    most fiat withdrawal options only support Ethereum mainnet. When that’s the case,
+    you’ll need to bridge your tokens over to Ethereum before you can sell them.One
+    way to handle both of these steps — swapping and bridging — is by using platforms
+    that combine them into a single flow. For example, with Symbiosis.finance, you
+    can swap a token on one chain and receive a more widely accepted token on Ethereum,
+    all in one transaction. This can save you a few steps and reduce the chance of
+    user error when hopping between tools.How to sell crypto with MetaMaskThe simplest
+    way to sell crypto that you hold on MetaMask is by using the application itself.
+    Here’s what to do:Open MetaMask portfolio: In your MetaMask extension or app,
+    click the “Buy & Sell” button. This will take you to the MetaMask Portfolio site,
+    where you can manage all your assets and begin the selling process.Start the sale
+    process: Click on “Move crypto” at the top of the page and select “Sell” from
+    the dropdown options.Choose your region and currency: MetaMask will ask for your
+    country of residence and preferred fiat currency. This step ensures you’re shown
+    accurate provider options and payout methods available in your area.Enter sale
+    amount: Select Ether and enter how much you’d like to convert.Pick a payout option:
+    Next, choose where you want the fiat to go. Depending on your region and provider
+    availability, you might be able to send it to a bank account, PayPal or another
+    method.Compare offers: MetaMask aggregates offers from several third-party providers
+    (like MoonPay, Transak, Sardine, etc.), showing you real-time exchange rates,
+    fees and estimated payout times. Take a moment to compare and pick the best option
+    for you.Complete the sale: Once you’ve chosen a provider, MetaMask will guide
+    you through sending the crypto. You’ll confirm the transaction in your wallet,
+    and the funds will be transferred to the provider, who handles the fiat payout.There
+    are two things to keep in mind when using the MetaMask application:Firstly, while
+    the application itself might not ask you for KYC, the third-party providers will.
+    So, expect to get your documents ready for this one.Secondly, MetaMask’s sell
+    feature only supports ETH on the Ethereum mainnet. This is where the bridging
+    will come in as was explained earlier.Withdrawing crypto via centralized exchangesIf
+    you’d rather cash out your crypto through a centralized exchange, Coinbase is
+    a popular option. It’s beginner-friendly, offers fiat withdrawals, and supports
+    a wide range of assets. Just note: You’ll need to complete KYC verification before
+    withdrawing any fiat.Here’s how to do it, step by step:1. Send crypto from MetaMask
+    to Coinbase First things first: You’ll need to move your funds from MetaMask to
+    Coinbase.Log in to your Coinbase account and hit “Send & Receive” at the top.Switch
+    to the “Receive” tab, pick the crypto you’re sending (like ETH or USDC), and copy
+    the wallet address Coinbase gives you.Make sure the network matches — for example,
+    if you’re sending ETH, it should be on the Ethereum (ERC-20) network.Now open
+    MetaMask:Click “Send,” paste in that Coinbase address, and enter how much you
+    want to transfer.Double-check the network — if you send it to the wrong one, your
+    funds could disappear.Hit “Confirm,” and your crypto should show up in Coinbase
+    after a few minutes.2. Sell crypto for fiat on CoinbaseOnce your funds land in
+    Coinbase, it’s time to cash out.Head to “Buy & Sell” at the top and switch to
+    the “Sell” tab.Choose the crypto you just received and decide how much you want
+    to sell.Pick where you want the money to go — like your linked bank account, PayPal
+    or your Coinbase balance.Review the details (including any fees), then hit “Sell.”Did
+    you know? When withdrawing via centralized exchanges, be cautious of minimum withdrawal
+    amounts and any associated fees. Check these details in advance to make sure the
+    limits and costs are acceptable to you before committing to this route.Peer-to-peer
+    with KYCWith peer-to-peer (P2P), you’re not selling your crypto to the exchange.
+    Instead, you’re selling it to another user. You choose a buyer based on their
+    offer and preferred payment method (like bank transfer, Revolut, Wise, etc.).
+    Once they send the money to your account, you release the crypto to them. The
+    platform holds your crypto in escrow during the process, so no one can just disappear
+    with your funds.With centralized exchanges, you’ll have to complete KYC before
+    you’re able to trade in this manner. Selling via P2P on BinanceGo to Trade > P2P.Choose
+    the coin you want to sell and browse the list of available buyers.Select a deal,
+    confirm the order, and wait for the buyer to make the payment.Once the payment
+    has arrived in your account, confirm it and release the crypto from escrow.Did
+    you know? Some peer-to-peer (P2P) cryptocurrency exchanges offer a “cash by mail”
+    option, allowing users to send physical cash through postal services or couriers
+    to settle transactions.Cashing out of your MetaMask wallet without KYCFor those
+    looking to convert cryptocurrency from their MetaMask wallet to fiat currency
+    without undergoing Know Your Customer (KYC) verification, there are still a few
+    viable paths.Decentralized P2P platforms let you trade directly with other users,
+    much like their centralized counterparts, though often with minimal or no KYC
+    requirements. LocalCoinSwap: A non-custodial P2P marketplace that supports a wide
+    range of cryptocurrencies and payment methods, including cash. It offers escrow
+    protection and emphasizes privacy.Bisq: A fully decentralized exchange that supports
+    a variety of cryptocurrencies, including Bitcoin and Monero (XMR). It runs on
+    a peer-to-peer protocol and doesn’t require user accounts or KYC.However, without
+    KYC, you’re responsible for vetting the person you’re trading with. Check their
+    reputation, review any available trade history, and always follow platform safety
+    guidelines.Using cryptocurrency ATMs to withdraw crypto from MetaMaskWithdrawing
+    funds from your MetaMask wallet using cryptocurrency ATMs — often referred to
+    as Bitcoin ATMs — is an option that allows you to convert your digital assets
+    into cash. Here’s how you can approach this method:Locate a cryptocurrency ATM:
+    Begin by finding a cryptocurrency ATM in your vicinity. Websites like CoinATMRadar
+    provide directories of Bitcoin ATM locations worldwide, detailing the services
+    they offer and the cryptocurrencies they support.Prepare your MetaMask wallet:
+    Ensure that the cryptocurrency you intend to withdraw is supported by the ATM.
+    Bitcoin ATMs predominantly support Bitcoin (BTC), so you may need to use a decentralized
+    exchange (DEX) to swap your current tokens for BTC within your MetaMask wallet.
+    Be mindful of transaction fees and exchange rates during this process.Initiate
+    the withdrawal process: At the ATM, select the option to withdraw cash. The machine
+    will prompt you to specify the amount you wish to withdraw and provide a QR code
+    representing the ATM’s wallet address.Transfer funds from MetaMask: Using your
+    MetaMask wallet, scan the QR code provided by the ATM to input the recipient address
+    accurately. Enter the exact amount of cryptocurrency required and confirm the
+    transaction. Be aware that network congestion can affect transaction times.Collect
+    your cash: Once the blockchain confirms the transaction, the ATM will dispense
+    the equivalent amount in cash, minus any applicable fees. This process can take
+    anywhere from a few minutes to longer, depending on network conditions.When using
+    crypto ATMs, you should expect very high fees, and while small transactions don’t
+    usually require KYC, larger ones still might.Are MetaMask crypto transactions
+    taxable?Taxes aren’t the most exciting topic, but they matter when converting
+    crypto from a MetaMask wallet into fiat. Selling crypto, whether through MetaMask,
+    an exchange or a P2P deal, may trigger a taxable event, and understanding the
+    applicable rules is essential.Selling crypto = possibly taxableIn most countries,
+    including the US, selling crypto for fiat (like US dollars, euros, etc.) is treated
+    like selling property. That means if you bought ETH at $1,000 and sold it later
+    for $1,500, you’ve made a $500 capital gain — and that’s usually taxable.Even
+    swapping one crypto for another (say, ETH for USDC) can trigger the same kind
+    of tax obligation, even if no fiat is involved. So, yeah, it’s not just cashing
+    out that counts — any trade can be reportable.To stay on top of it, keep a record
+    of:When you bought and sold each assetHow much you bought and/or soldWhat it was
+    worth in fiat at the timeAny fees paid along the way.These details make life way
+    easier when tax season rolls around — or if your accountant gives you that look.Know
+    your local rulesCrypto laws aren’t one-size-fits-all. Every country has its own
+    stance, and even within the same country, rules can vary depending on how you’re
+    using crypto.In the US, for example, selling crypto could fall under capital gains
+    tax rules or even money transmission laws, depending on how you’re moving the
+    funds. Other countries might have more lenient — or much stricter — regulations.So,
+    here’s what to do:Look up your local crypto tax laws (even if they seem vague
+    or outdated).Stay current — regulations are evolving fast.Talk to a pro if you’re
+    unsure. A crypto-savvy accountant or legal adviser can help you avoid nasty surprises.Even
+    if you’re using non-KYC methods or decentralized tools, tax authorities may still
+    expect a full report. Being proactive about it will save you headaches later —
+    and might even save you money.Happy cashing out!\n\n            "
+  published: 2025-04-03 21:02:47.000000000 +01:00
+- title: " Here’s what happened in crypto today "
+  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Today in crypto, President Donald Trump’s pick for US Securities and Exchange
+    Commission (SEC) chair passed a key committee vote, the US Office of Foreign Assets
+    Control (OFAC) sanctioned eight crypto addresses linked to Russian crypto exchange
+    Garantex and the Yemeni political and military organization the Houthis, and the
+    US House Financial Services Committee voted through a stablecoin bill. Paul Atkins’
+    SEC nomination passes committee votePaul Atkins is one step closer to securing
+    the top position at the US Securities and Exchange Commission after the Senate
+    Banking Committee voted to advance his nomination. In an April 3 banking committee
+    session, lawmakers voted 13 to 11 for Atkins to serve two consecutive terms as
+    a commissioner at the government agency, effectively taking over former Chair
+    Gary Gensler’s term.Atkins’ nomination is expected to go to a full Senate vote
+    in the near future. Senator Tim Scott speaks at the committee hearing. Source:
+    US Senate Banking CommitteeBefore the vote, committee chair Tim Scott said Atkins
+    would bring “much-needed clarity” to the cryptocurrency sector. Donald Trump selected
+    Atkins to replace Gensler as the SEC head in December, roughly one month after
+    winning the presidential election.  At the time, Trump praised Atkins’ track record
+    as a former SEC commissioner and for his expertise in digital assets.US sanctions
+    8 crypto wallets tied to Garantex exchange and Yemeni HouthisThe US Treasury Department
+    sanctioned eight cryptocurrency wallet addresses linked to Russian crypto exchange
+    Garantex and the Yemeni political and military organization the Houthis.The United
+    States Office of Foreign Assets Control (OFAC) sanctioned eight crypto addresses
+    that data from blockchain forensic firms Chainalysis and TRM Labs had linked to
+    the organizations. Two are deposit addresses at major crypto platforms, while
+    the other six are privately controlled.Visualization of transaction flow related
+    to OFAC sanctions. Source: ChainalysisThe addresses in question reportedly moved
+    nearly $1 billion worth of funds linked to sanctioned entities. Most of the transactions
+    funded Houthi operations in Yemen and the Red Sea region.US House committee passes
+    stablecoin-regulating STABLE ActThe US House Financial Services Committee passed
+    a Republican-backed stablecoin framework bill with a 32-17 vote on April 2, with
+    six Democrats voting in favor.The bill, the Stablecoin Transparency and Accountability
+    for a Better Ledger Economy, or STABLE Act, will now head to the House floor for
+    a full vote. It aims to provide rules around payment stablecoins and ensure issuers
+    give information about their business and how they back their tokens.Last month,
+    the US Senate Banking Committee voted through a similar GOP-backed bill, the Guiding
+    and Establishing National Innovation for US Stablecoins, or GENIUS Act, which
+    lays out oversight and reserve rules for issuers.Source: Financial Services GOPBoth
+    bills will now wait until debate time on the floor of the House and Senate, respectively,
+    before they head for a floor vote.Crypto journalist Eleanor Terrett reported on
+    X, citing crypto lobbyists, that there is likely to be “a coordinated push behind
+    the scenes over the next few weeks to get the two bills to mirror each other,”
+    which would avoid the House and Senate having to “negotiate to create a final
+    version of the bill everyone agrees on.”\n\n            "
+  published: 2025-04-03 20:12:39.000000000 +01:00
+- title: " CEX listings outperform Nasdaq and Dow IPOs with 80% average returns "
+  url: https://cointelegraph.com/news/crypto-token-listings-outperform-stocks-80-roi?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Cryptocurrency listings have outperformed the average of traditional stock
+    listings, despite recent community criticism regarding the manipulation potential
+    of token listings on centralized exchanges.Token listing procedures on centralized
+    cryptocurrency exchanges (CEXs) drew significant controversy after Changpeng “CZ”
+    Zhao, co-founder and former CEO of Binance, called the process flawed after disappointing
+    performances of some token listings.Despite the criticism, crypto exchanges have
+    outperformed traditional stock exchanges in terms of listings with positive returns
+    on investment (ROI) and average ROI, according to an April 3 CoinMarketCap report
+    shared exclusively with Cointelegraph.Over the past 180 days, crypto exchange
+    listings had an average return of over 80%, outperforming the largest traditional
+    stock indexes such as the Nasdaq and Dow Jones, as well as Bitcoin (BTC) and Ether
+    (ETH).CEX listings, top indexes, average ROI. Source: CoinMarketCapThe 80% return
+    refers to the average performance of all listed tokens by the seven major exchanges,
+    including Binance, Bybit, Coinbase, OKX, Bitget, Gate and KuCoin.Moreover, 68%
+    of crypto exchange listings boasted a positive ROI, outperforming the New York
+    Stock Exchange’s (NYSE) 54% and the Nasdaq’s 51%.Source: CoinMarketCap“This data
+    suggests that crypto exchanges have made progress in refining their listing,”
+    the report said.Related: 70% chance of crypto bottoming before June amid trade
+    fears: NansenCryptocurrencies listed on CEXs generally see high demand from investors
+    as the exchanges provide significant new liquidity that can boost the coins’ price
+    performances after listing.Token-listing criteria on CEXs started garnering attention
+    in November 2024, after Tron founder Justin Sun claimed that Coinbase allegedly
+    asked for $330 million in total fees to list Tron (TRX), a surprising allegation
+    since Coinbase claims to charge no fees for listing new cryptocurrencies.Related:
+    Trump-linked crypto ventures may complicate US stablecoin policyToken listing
+    performance still depends on broader market conditions: BinanceRecent investor
+    disappointment with some token listings may stem from historic profit expectations
+    due to the significant upside of numerous CEX-listed tokens.Still, the returns
+    of a cryptocurrency after listing depend on the wider market appetite, a Binance
+    spokesperson told Cointelegraph, adding:“Outcomes can vary depending on broader
+    market conditions. As the industry matures, we’re seeing reduced volatility compared
+    to earlier cycles — a shift that reflects greater stability and long-term sustainability
+    in the crypto market.”“Crypto investors’ expectations for new listings to perform
+    well are understandable and often shaped by the historic success” of CEX listings,
+    added the spokesperson.Binance, the world’s largest crypto exchange, listed 77
+    cryptocurrencies throughout 2023 and 2024, with a 0% delisting rate.Binance announced
+    a community voting mechanism for token listings on March 9, to make the listing
+    process more decentralized.Magazine: Memecoins are ded — But Solana ‘100x better’
+    despite revenue plunge\n\n            "
+  published: 2025-04-03 13:00:00.000000000 +01:00
+- title: " Crypto donations top $1B in 2024, gain traction after Myanmar, Thailand
+    quake "
+  url: https://cointelegraph.com/news/cz-donates-1000-bnb-thailand-myanmar-earthquake-relief?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Binance co-founder Changpeng “CZ” Zhao donated over half a million dollars
+    worth of crypto to the earthquake disaster relief effort in Thailand and Myanmar,
+    in another testament to the growing utility of blockchain-based emergency charity
+    efforts.Zhao donated 1,000 BNB (BNB) tokens worth almost $600,000 to the disaster
+    relief funds for the region on March 3, blockchain data shows.Zhao donates 1,000
+    BNB. Source: BscScan“Sent 1000 BNB for the donation for Myanmar and Thailand,”
+    wrote Zhao in an April 3 X post.The crypto donation comes after Thailand and Myanmar
+    were hit by a 7.7 magnitude earthquake on March 28, causing severe damage to buildings
+    and widespread flooding.Related: 70% chance of crypto bottoming before June amid
+    trade fears: NansenAt least 2,719 people have been confirmed dead in Myanmar and
+    18 in Thailand, with 76 people still unaccounted for, according to the latest
+    figures shared by Reuters.The $600,000 donation comes nearly a week after Zhao
+    pledged to donate 500 BNB for the relief efforts, an initial commitment that he
+    doubled. Cryptocurrency-based donations have emerged as a significant lifeline
+    for the region, due to banking restrictions caused by damaged infrastructure.Source:
+    The Giving BlockCrypto donations exceeded $1 billion in 2024, spurred by increasing
+    digital asset valuations and growing crypto regulatory clarity. About 16% of the
+    donations went toward education, while 14% went toward medicine and health-related
+    efforts.The Giving Block has launched a crypto-based emergency relief effort for
+    Myanmar and Thailand to raise $500,000 for the devastated region.Source: TheGivingBlockThe
+    organization expects crypto donations to reach $2.5 billion in 2025 on growing
+    crypto wealth generation and increasing adoption due to a more favorable political
+    landscape.Related: Trump-linked crypto ventures may complicate US stablecoin policyCrypto
+    donations gain traction for emergency relief effortsZhao’s donation is a testament
+    to the growing role of cryptocurrency in humanitarian aid, according to Anndy
+    Lian, author and intergovernmental blockchain expert.“Crypto donations, compared
+    to traditional fiat contributions, offer unique advantages, especially in emergencies,”
+    Lian told Cointelegraph, adding:“Speed is a key factor—transactions on blockchain
+    networks can settle in minutes, bypassing the delays of banks or intermediaries,
+    which is critical when time saves lives.”“In disaster-stricken areas like Myanmar
+    or Thailand, where infrastructure might be compromised, crypto can reach recipients
+    directly via digital wallets, no SWIFT codes or wire transfers required,” Lian
+    explained.Source: Anndy LianLian also donated 44 BNB tokens to the relief efforts
+    in Myanmar and Thailand, a move that was publicly praised by Zhao.Ethereum co-founder
+    Vitalik Buterin has been known for his crypto donations. In October, Buterin donated
+    over $180,000 in Ether (ETH) to the biotech charity Kanro.Magazine: GUN token’s
+    $69M milestone, Pudgy Penguins go to LOL Land: Web3 Gamer\n\n            "
+  published: 2025-04-03 11:37:45.000000000 +01:00
 - title: " ‘National emergency’ as Trump’s tariffs dent crypto prices "
   url: https://cointelegraph.com/news/national-emergency-trump-tariffs-dent-crypto-prices?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Crypto markets dipped after US President Donald Trump's declaration of
@@ -33,8 +372,8 @@
     Daan Crypto TradesShe added that if China or the European Union “hit back hard,”
     expect another round of panic selling.US Treasury Secretary Scott Bessent urged
     US trading partners in an April 2 interview with Bloomberg against taking retaliatory
-    steps, arguing this is the high end of the number” for tariffs if they don't try
-    to add more levies in response, which could provide a “ceiling” and certainty
+    steps, arguing “this is the high end of the number” for tariffs if they don't
+    try to add more levies in response, which could provide a “ceiling” and certainty
     for markets.David Hernandez, a crypto investment specialist at crypto asset manager 
     21Shares, told Cointelegraph that markets experienced significant volatility during
     Trump’s speech, but the clarity could be a good thing in the long term. “Although
@@ -64,68 +403,25 @@
     transactions on Ethereum and wait out the challenging period, leading to faster
     transaction finality.No such feature is present with zero-knowledge rollups, meaning
     that a transaction becomes final as soon as it is added into a Nightfall block,
-    EY said. It is the fourth major update to Nightfall since EY launched the business-focused
-    Ethereum layer 2 in 2019.Nightfall enables the firm’s business partners to transfer
-    tokens privately using Ethereum’s security while being cheaper than the base network.
-    It also uses a technology that binds a verified identity to a public key through
-    digital signatures to try to stem counterparty risk.Nixed Tornado Cash sanctions
-    “helped people feel comfortable”Brody said the US Treasury’s Office of Foreign
-    Assets Control (OFAC) sanctions on the crypto mixing service Tornado Cash “had
-    a chilling effect on legitimate business user interest.”“Even though we long ago
-    took steps to make Nightfall unattractive to bad actors, since it cannot be used
-    anonymously, the removal of OFAC sanctions has really helped people feel comfortable
-    that using a privacy technology will not be risky,” he added.Nightfall’s code
-    is open source on GitHub but remains a permissioned blockchain for EY’s customer
-    base, competing with the likes of the IBM-backed Hyperledger Fabric, R3 Corda
-    and the Consensus-built Quorum.Brody said that EY’s blockchain team is working
-    toward “a single environment that supports payments, logic, and composability.”Currently,
-    the firm requires Nightfall and Starlight, a tool that can change smart contract
-    code to enable zero-knowledge proofs “to enable complex multiparty business agreements
-    under privacy,” he added.“We’ll spend some time supporting Nightfall_4 deployments
-    initially,” Brody said. “Then we’ll move on to the development of Nightfall_5.”Magazine:
-    What are native rollups? Full guide to Ethereum’s latest innovation \n\n            "
+    EY said. Nightfall enables the firm’s business partners to transfer tokens privately
+    using Ethereum’s security while being cheaper than the base network. It also uses
+    a technology that binds a verified identity to a public key through digital signatures
+    to try to stem counterparty risk.Nixed Tornado Cash sanctions “helped people feel
+    comfortable”Brody said the US Treasury’s Office of Foreign Assets Control (OFAC)
+    sanctions on the crypto mixing service Tornado Cash “had a chilling effect on
+    legitimate business user interest.”“Even though we long ago took steps to make
+    Nightfall unattractive to bad actors, since it cannot be used anonymously, the
+    removal of OFAC sanctions has really helped people feel comfortable that using
+    a privacy technology will not be risky,” he added.While Nightfall’s code is open
+    source on GitHub, Nightfall_4 has not gone live yet.Brody said that EY’s blockchain
+    team is working toward “a single environment that supports payments, logic, and
+    composability.”Currently, the firm requires Nightfall and Starlight, a tool that
+    can change smart contract code to enable zero-knowledge proofs “to enable complex
+    multiparty business agreements under privacy,” he added.“We’ll spend some time
+    supporting Nightfall_4 deployments initially,” Brody said. “Then we’ll move on
+    to the development of Nightfall_5.”Magazine: What are native rollups? Full guide
+    to Ethereum’s latest innovation \n\n            "
   published: 2025-04-03 00:00:00.000000000 +01:00
-- title: " Here’s what happened in crypto today "
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, First Digital’s stablecoin depegged after Justin Sun’s
-    claims of insolvency. Meanwhile, VanEck became the first company to propose a
-    potential BNB exchange-traded fund in the United States and stablecoin issuer
-    Circle filed for a public listing on Wall Street. FDUSD stablecoin depegs following
-    insolvency claims by Justin SunThe First Digital US dollar-pegged stablecoin FDUSD
-    depegged on April 2 following claims of insolvency from Tron network founder Justin
-    Sun, who said that the issuer of the tokenized fiat equivalent, First Digital,
-    is insolvent.First Digital responded to the claims by assuring users they are
-    completely solvent and said that FDUSD is still fully backed and redeemable with
-    the US dollar on a 1:1 basis.The firm also said that the ongoing dispute is with
-    TrueUSD (TUSD), another stablecoin. The firm wrote in an April 2 X post:\"Every
-    dollar backing FDUSD is completely secure, safe, and accounted for with US-backed
-    Treasury Bills. The exact ISIN numbers of all of the reserves of FDUSD are set
-    out in our attestation report and clearly accounted for.\"First Digital also indicated
-    they would be taking legal action against Sun for making the claims on social
-    media. \"This is a typical Justin Sun smear campaign to try to attack a competitor
-    to his business,\" spokespeople for First Digital wrote.FDUSD loses dollar peg:
-    Source: CoinMarketCapVanEck eyes BNB ETF with latest Delaware trust filingInvestment
-    company VanEck filed to register a Delaware trust company for an exchange-traded
-    fund (ETF) tracking Binance-linked BNB cryptocurrency.VanEck, on March 31, registered
-    a new entity under the name VanEck BNB ETF in Delaware, according to public records
-    on the official Delaware state website.VanEck BNB ETF trust registration in Delaware.
-    Source: Delaware.govIn filing 10148820, the entity is registered as a trust corporate
-    service company in Delaware, hinting at a potential spot BNB (BNB) ETF in the
-    United States.Circle files for Initial Public Offering planned for AprilUSDC (USDC)
-    stablecoin issuer Circle Internet Group filed with the US Securities and Exchange
-    Commission on April 1 to go public later this month on the New York Stock Exchange
-    under the ticker “CRCL.”Its Form S-1 registration statement didn’t detail the
-    number of shares it would offer or what its initial public offering target price
-    would be, but it did shed some light on the firm’s financials.The filing shows
-    Circle’s revenue last year was $1.67 billion in revenue for 2024, a 16% year-on-year
-    bump, while its 2024 net income was $155.6 million — a 41.8% fall from 2023.Circle’s
-    financials over the last three years ended Dec. 31. Source: SECOver 99% of Circle’s
-    revenue in 2024 came from its stablecoin reserves. The company issues the second-largest
-    stablecoin by market cap behind only Tether (USDT) and generates part of its income
-    by holding yield-bearing Treasury bills.Circle attempted to go public via a Special
-    Purpose Acquisition Company (SPAC) merger in 2021— which it abandoned in December
-    2022 — and again in January 2024 via a confidential filing with the SEC.\n\n            "
-  published: 2025-04-02 23:00:26.000000000 +01:00
 - title: " Curve Finance clocks $35B trading volume in Q1 2025 "
   url: https://cointelegraph.com/news/curve-finance-clocks-record-trading-volume-q1-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Curve Finance, a decentralized lending protocol and exchange, notched
@@ -1361,208 +1657,3 @@
     collectively hold nearly $58 billion of Bitcoin as of March 27, the data shows. Magazine: SEC’s
     U-turn on crypto leaves key questions unanswered\n\n            "
   published: 2025-03-27 18:59:54.000000000 +00:00
-- title: " Why is the crypto market down today? "
-  url: https://cointelegraph.com/news/why-is-the-crypto-market-down-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The cryptocurrency market is down on March 27, with the total market capitalization
-    dropping by 0.91% to about $2.77 trillion. At its week-to-date high, the market
-    cap was at around $2.86 trillion.TOTAL crypto market capitalization daily performance
-    chart. Source: TradingVewSeveral factors have contributed to the latest drop in
-    crypto prices, including:The latest trade war escalation and its impact on broader
-    risk sentiment.Liquidations of overleveraged futures positions.A prevailing bearish
-    technical setup.Trump tariffs return to hurt crypto sentimentRising global trade
-    tensions are at the heart of the current cryptocurrency market decline.What to
-    know:On March 25, the US government announced that it would impose 25% tariffs
-    on auto imports and other goods from Canada, Mexico, and China beginning April
-    3.These protectionist measures have reignited concerns of a global economic slowdown,
-    weighing on market sentiment across asset classes.The S&P 500, for instance, has
-    declined by nearly 1.85% since the announcement.S&P 500 daily performance chart.
-    Source: TradingViewFears of renewed inflation are intensifying, as the tariffs
-    are expected to raise consumer prices on key goods, according to St. Louis Fed
-    President Alberto Musalem.Higher rates are leading to lowering rate cut bets in
-    the futures market, with odds of a 25 basis point rate decrease now down to 58%
-    compared to 62.50% a week ago.Target rate potential for June 18, 2025 Fed meeting.
-    Source: CMEAs a result, top cryptocurrencies like Bitcoin (BTC) and Ether (ETH),
-    which typically trade in tandem with risk markets, are seeing heightened selling
-    pressure.Long liquidations overpower shortsAlmost all top cryptocurrencies have
-    suffered larger long liquidations versus shorts in their respective markets, thus
-    amplifying the sell-off.Key points:Bitcoin, which makes up over 61% of the total
-    crypto market cap, has witnessed $62.45 million in net liquidations in the last
-    24 hours, out of which $48.94 million were long positions.Crypto market liquidation
-    heat map (24-hour). Source: CoinglassSimilarly, Ether, the second-largest cryptocurrency
-    by market cap, suffered over $43 million in long liquidations of a total of $51.76
-    million in the same period.Overall, the total crypto market liquidations come
-    in at $257.35 million in the last 24 hours, of which $198.11 million are longs.Why
-    this amplifies the sell-off:In recent weeks, most traders entered long positions
-    on Bitcoin, Ether, and other top cryptocurrencies, anticipating a continuation
-    of the uptrend amid improving macro signals like Fed dovishness or ETF inflows
-    earlier this year.The surprise tariff announcement and renewed inflation concerns
-    caught the market off-guard, triggering a sharp reversal in sentiment.Related:
-    Bitcoin price prediction markets bet BTC won't go higher than $138K in 2025As
-    prices dropped, these long positions hit their liquidation thresholds —automatically
-    selling off at market price to cover losses.Crypto market nearing another breakdownCrypto
-    markets may be gearing up for another leg down, with a classic rising wedge pattern
-    flashing warning signs on the charts.Key takeaways:A rising wedge has formed on
-    the crypto total market cap chart, a pattern that typically signals a bearish
-    reversal, especially during downtrends.The market cap is hovering below $2.78
-    trillion, with wedge support at around $2.75 trillion acting as a crucial breakdown
-    trigger.TOTAL crypto market daily price chart. Source: TradingViewA confirmed
-    breakdown from this wedge could send the total crypto market cap tumbling toward
-    $2.54 trillion, the projected downside target based on the wedge’s height.Volume
-    is declining as the wedge progresses indicating weakening bullish momentum, a
-    textbook setup for a bearish breakdown.The 50-day EMA ($2.88T) and 200-day EMA
-    ($2.86T) are converging above, forming a strong resistance barrier that bulls
-    have repeatedly failed to break.Unless bulls reclaim the EMAs with strong volume,
-    the path of least resistance is to the downside.This article does not contain
-    investment advice or recommendations. Every investment and trading move involves
-    risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-03-27 15:13:11.000000000 +00:00
-- title: " Bitget CEO slams Hyperliquid’s handling of ‘suspicious’ incident involving
-    JELLY token "
-  url: https://cointelegraph.com/news/bitget-ceo-slams-hyperliquid-jelly-perps-delisting?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Gracy Chen, CEO of cryptocurrency exchange Bitget, criticized Hyperliquid’s
-    handling of a March 26 incident on its perpetual exchange, saying it put the network
-    at risk of becoming “FTX 2.0.”On March 26, Hyperliquid, a blockchain network specializing
-    in trading, said it delisted perpetual futures contracts for the JELLY token and
-    would reimburse users after identifying “evidence of suspicious market activity”
-    tied to the instruments. The decision, which was reached by consensus among Hyperliquid’s
-    relatively small number of validators, flagged existing concerns about the popular
-    network’s perceived centralization.“Despite presenting itself as an innovative
-    decentralized exchange with a bold vision, Hyperliquid operates more like an offshore
-    [centralized exchange],” Chen said, after saying “Hyperliquid may be on track
-    to become FTX 2.0.”FTX was a cryptocurrency exchange run by Sam Bankman-Fried,
-    who was convicted of fraud in the US after FTX’s abrupt collapse in 2022. Chen
-    did not accuse Hyperliquid of specific legal infractions, instead emphasizing
-    what she considered to be Hyperliquid’s “immature, unethical, and unprofessional”
-    response to the event.“The decision to close the $JELLY market and force settlement
-    of positions at a favorable price sets a dangerous precedent,” Chen said. “Trust—not
-    capital—is the foundation of any exchange […] and once lost, it’s almost impossible
-    to recover.”Source: Gracy ChenRelated: Hyperliquid delists JELLY perps, citing
-    ‘suspicious’ activityJELLY incidentThe JELLY token was launched in January by
-    Venmo co-founder Iqram Magdon-Ismail as part of a Web3 social media project dubbed
-    JellyJelly. It initially reached a market capitalization of roughly $250 million
-    before falling to the single digit millions in the ensuing weeks, according to
-    DexScreener. On March 26, JELLY’s market cap soared to around $25 million after
-    Binance, the world’s most popular crypto exchange, launched its own perpetual
-    futures tied to the token. The same day, a Hyperliquid trader “opened a massive
-    $6M short position on JellyJelly” and then “deliberately self-liquidated by pumping
-    JellyJelly’s price on-chain,” Abhi, founder of Web3 company AP Collective, said
-    in an X post.BitMEX founder Arthur Hayes said initial reactions to Hyperliquid’s
-    JELLY incident overestimated the network’s potential reputational risks.“Let’s
-    stop pretending hyperliquid is decentralised. And then stop pretending traders
-    actually [care],” Hayes said in an X post. “Bet you $HYPE is back where [it] started
-    in short order cause degens gonna degen.”Binance launched JELLY perps on March
-    26. Source: BinanceGrowing painsOn March 12, Hyperliquid grappled with a similar
-    crisis caused by a whale who intentionally liquidated a roughly $200 million long
-    Ether (ETH) position. The trade cost depositors into Hyperliquid’s liquidity pool,
-    HLP, roughly $4 million in losses after forcing the pool to unwind the trade at
-    unfavorable prices. Since then, Hyperliquid has increased collateral requirements
-    for open positions to “reduce the systemic impact of large positions with hypothetical
-    market impact upon closing.” Hyperliquid operates the most popular leveraged perpetuals
-    trading platform, controlling roughly 70% of market share, according to a January
-    report by asset manager VanEck. Perpetual futures, or “perps,” are leveraged futures
-    contracts with no expiry date. Traders deposit margin collateral, such as USDC,
-    to secure open positions.According to L2Beat, Hyperliquid has two main validator
-    sets, each comprising four validators. By comparison, rival chains such as Solana
-    and Ethereum are supported by approximately 1,000 and 1 million validators, respectively. More
-    validators generally lessen the risk of a small group of insiders manipulating
-    a blockchain. Magazine: What are native rollups? Full guide to Ethereum’s latest
-    innovation\n\n            "
-  published: 2025-03-26 20:39:50.000000000 +00:00
-- title: " Bitcoin mining stocks down after Microsoft scraps data center plans "
-  url: https://cointelegraph.com/news/bitcoin-mining-stocks-down-after-microsoft-reportedly?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Update (March 26 at 8:48 PM UTC): This article has been updated to include
-    commentary from Benchmark stock analyst Mark Palmer.Bitcoin (BTC) mining stocks
-    are down after tech giant Microsoft reportedly scrapped plans to invest in new
-    artificial intelligence data centers in the US and Europe, citing a potential
-    oversupply, according to a report by Bloomberg and data from Google Finance.Shares
-    of crypto miners Bitfarms, CleanSpark, Core Scientific, Hut 8, Marathon Digital
-    and Riot dropped between 4% and 12% in tandem with the news, the data showed.The
-    stock price retrenchments highlight cryptocurrency miners’ increased dependence
-    on business from artificial intelligence models after the Bitcoin network’s April
-    2024 “halving” cut into mining revenues.According to Benchmark stock analyst Mark
-    Palmer, investors already anticipated Microsoft’s data center cuts. In his view,
-    the share price pullback \"appears to be driven more by stagnation in the price
-    of bitcoin than any other factor, potentially combined with investor fatigue settling
-    over the space as mining difficulty remains near record levels,” Palmer told Cointelegraph.CORZ
-    intraday performance on the Nasdaq. Source: Google FinanceMiners are “diversifying
-    into AI data-center hosting as a way to expand revenue and repurpose existing
-    infrastructure for high-performance computing,” Coin Metrics said in a March report.For
-    example, in June 2024, Core Scientific pledged 200 megawatts of hardware capacity
-    to support CoreWeave’s artificial intelligence workloads.In August 2024, asset
-    manager VanEck said Bitcoin mining stocks could collectively see a roughly $37
-    billion bump to market capitalizations if they invest heavily in supporting AI.Nevertheless,
-    miners have struggled this year as declining crypto prices worsen pressures on
-    businesses already impacted by April’s halving, JPMorgan said in March. Waning
-    demand for AI data centers could add further strain.Bitcoin miners could see gains
-    in valuation from pivoting to AI. Source: VanEckRelated: Bet more on the Bitcoin
-    miners cashing in on AICutting back on computeOn March 26, analysts at TD Cowen
-    said Microsoft had abandoned plans to build several new data centers that would
-    have generated some 2 gigawatts of power, according to Bloomberg. The analysts
-    reportedly attributed Microsoft’s pullback to a perceived oversupply of computing
-    capacity for AI models, as well as the tech giant’s decision to forgo some planned
-    collaborations with ChatGPT maker OpenAI. In the past six months, Microsoft has
-    canceled various data center leases and delayed plans to onboard more capacity,
-    according to Bloomberg. Microsoft’s data center investments are expected to slow
-    further in the second half of 2025 as the company finishes $80 billion in planned
-    buildouts and pivots to outfitting existing centers with hardware and equipment,
-    Bloomberg said. Magazine: Memecoins are ded — But Solana ‘100x better’ despite
-    revenue plunge\n\n            "
-  published: 2025-03-26 19:20:00.000000000 +00:00
-- title: " Ethereum’s (ETH) path back to $2.5K depends on 3 key factors "
-  url: https://cointelegraph.com/news/ethereum-s-eth-path-back-to-2-5-k-depends-on-3-key-factors?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether (ETH) price reclaimed the $2,000 support on March 24 but remains
-    18% below the $2,500 level seen three weeks ago. Data shows Ether has underperformed
-    the altcoin market by 14% over the past 30 days, leading traders to question whether
-    the altcoin can regain bullish momentum and which factors might drive a trend
-    reversal.Ether/USD (left) vs. total altcoin capitalization, USD (right). Source:
-    TradingView / CointelegraphEther appears well-positioned to attract institutional
-    demand and significantly reduce the FUD that has limited its upside potential.
-    Critics have long argued that the Ethereum ecosystem lags behind competitors in
-    overall user experience and still offers limited base-layer scalability, which
-    has negatively impacted network fees and transaction efficiency. Will the Ethereum
-    Pectra upgrade impact ETH price?Many of the Ethereum network’s challenges are
-    expected to be addressed in the upcoming Pectra network upgrade, scheduled for
-    late April or early June. Among the proposed changes is a doubling of the data
-    that can be included in each block, which should help lower fees for rollups and
-    privacy-focused mechanisms.Additionally, the cost of call data will increase,
-    encouraging developers to adopt blobs—a more efficient method for data storage.Another
-    notable improvement in the upcoming upgrade is the introduction of smart accounts,
-    which allow wallets to function like smart contracts during transactions. This
-    enables gas fee sponsorship, passkey authentication, and batch transactions.Additionally,
-    several other enhancements focus on optimizing staking deposits and withdrawals,
-    providing greater flexibility, and extending block history for smart contracts
-    that rely on past data.Arthur Hayes, co-founder of BitMEX, set a $5,000 price
-    target for ETH on March 25, stating that it should significantly outperform competitor
-    Solana (SOL).Source: CryptoHayesRegardless of the rationale behind Arthur’s price
-    prediction, ETH options traders do not share the same bullish sentiment. The Sept.
-    26 call (buy) option with a $5,000 strike price costs only $35.40, implying extremely
-    low odds.However, Ethereum remains the undisputed leader in smart contract deposits
-    and is the only altcoin with a spot exchange-traded fund (ETF) in the US, currently
-    holding $8.9 billion in assets under management.Ethereum TVL growth and reduced
-    ETH supply on exchangesEthereum’s network boasts a total value locked (TVL) of
-    $52.5 billion, significantly surpassing Solana’s $7 billion. More importantly,
-    deposits on the Ethereum network grew 10% over the past 30 days, reaching 25.4
-    million ETH, while Solana saw an 8% decline over the same period.Notable highlights
-    on Ethereum include Sky (formerly Maker), which saw a 17% increase in deposits,
-    and Ethena, whose TVL surged by 38% in 30 days.Ether balance on exchanges, ETH.
-    Source: GlassnodeThe Ether supply on exchanges stood at 16.9 million ETH on March
-    25, just 3.5% above its five-year low of 16.32 million ETH, according to Glassnode
-    data. This trend suggests that investors are withdrawing from exchanges, signaling
-    a long-term capital commitment.Similarly, flows into spot Ether ETFs remained
-    relatively muted on March 24 and March 25, in contrast to the $316 million in
-    net outflows accumulated since March 10.Related: Ethereum devs prepare final Pectra
-    test before mainnet launchLastly, the Ethereum network is gaining momentum in
-    the Real World Asset (RWA) industry, particularly after the BlackRock BUILD fund
-    surpassed $1.5 billion in capitalization.The Ethereum ecosystem, including its
-    layer-2 scalability solutions, accounts for over 80% of this market, according
-    to RWA.XYZ data, underscoring Ethereum’s dominance in the decentralized finance
-    (DeFi) space.Ether’s price drop below $1,900 on March 10 likely reflected overly
-    bearish expectations. However, the tide appears to have turned as the Ethereum
-    network demonstrated resilience, and traders continued to withdraw from exchanges,
-    setting the stage for a potential rally toward $2,500.This article is for general
-    information purposes and is not intended to be and should not be taken as legal
-    or investment advice. The views, thoughts, and opinions expressed here are the
-    author’s alone and do not necessarily reflect or represent the views and opinions
-    of Cointelegraph.\n\n            "
-  published: 2025-03-26 19:11:00.000000000 +00:00
