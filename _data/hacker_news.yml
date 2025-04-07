@@ -1,121 +1,123 @@
 ---
-- title: Apple's Darwin OS and XNU Kernel Deep Dive
-  url: https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/
+- title: Let's Ban Billboards
+  url: https://iambateman.com/articles/billboards
   summary: Comments
-  published: 2025-04-05 23:46:19.000000000 +00:00
-- title: Ten Rules for Negotiating a Job Offer
-  url: https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
+  published: 2025-04-07 00:54:10.000000000 +00:00
+- title: Rsync replaced with openrsync on macOS Sequoia
+  url: https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/
   summary: Comments
-  published: 2025-04-05 21:15:00.000000000 +00:00
-- title: The Llama 4 herd
-  url: https://ai.meta.com/blog/llama-4-multimodal-intelligence/
+  published: 2025-04-06 21:14:09.000000000 +00:00
+- title: Glamorous Toolkit
+  url: https://gtoolkit.com//
   summary: Comments
-  published: 2025-04-05 18:33:56.000000000 +00:00
-- title: North America Is Dripping from Below, Geoscientists Discover
-  url: https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/
+  published: 2025-04-06 23:47:21.000000000 +00:00
+- title: After 'coding error' triggers firings, top NIH scientists called back to
+    work
+  url: https://www.science.org/content/article/after-coding-error-triggers-firings-top-nih-scientists-called-back-work
   summary: Comments
-  published: 2025-04-05 20:24:09.000000000 +00:00
-- title: 'Show HN: I built a word game. My mom thinks it''s great. What do you think?'
-  url: https://www.whatsit.today/
+  published: 2025-04-07 00:42:13.000000000 +00:00
+- title: 'Capital Trades: Tracking Stock Market Transactions of Politicians'
+  url: https://www.capitoltrades.com/
   summary: Comments
-  published: 2025-04-05 14:26:02.000000000 +00:00
-- title: Erica Synths DIY Eurorack Modules
-  url: https://github.com/erica-synths/diy-eurorack
+  published: 2025-04-06 19:06:58.000000000 +00:00
+- title: Why Lotus Domino?
+  url: http://www.moohar.com/blog/why_domino
   summary: Comments
-  published: 2025-04-05 23:48:21.000000000 +00:00
-- title: 'Faster interpreters in Go: Catching up with C++'
-  url: https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp
+  published: 2025-04-06 23:54:02.000000000 +00:00
+- title: Baby Steps into Genetic Programming
+  url: https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html
   summary: Comments
-  published: 2025-04-05 17:59:55.000000000 +00:00
-- title: We are still using 88x31 buttons
-  url: https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons
+  published: 2025-04-06 23:06:26.000000000 +00:00
+- title: The “S” in MCP Stands for Security
+  url: https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b
   summary: Comments
-  published: 2025-04-05 20:26:36.000000000 +00:00
-- title: 'The ADHD Body Double: A Unique Tool for Getting Things Done'
-  url: https://add.org/the-body-double/
+  published: 2025-04-06 09:42:28.000000000 +00:00
+- title: Apple's mouse is so bad Tim Cook uses another brand at work
+  url: https://glassalmanac.com/apples-mouse-is-so-bad-tim-cook-uses-another-brand-at-work/
   summary: Comments
-  published: 2025-04-05 22:45:03.000000000 +00:00
-- title: Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture
-  url: https://chipsandcheese.com/p/dynamic-register-allocation-on-amds
+  published: 2025-04-07 01:34:08.000000000 +00:00
+- title: Reinventing Feathering for the Vectorian Era
+  url: https://rive.app/blog/how-rive-reinvented-feathering-for-the-vectorian-era
   summary: Comments
-  published: 2025-04-05 17:51:49.000000000 +00:00
-- title: Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'
-  url: https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941
+  published: 2025-04-04 01:13:11.000000000 +00:00
+- title: Charging electric vehicles 5x faster in subfreezing temps
+  url: https://news.umich.edu/charging-electric-vehicles-5x-faster-in-subfreezing-temps/
   summary: Comments
-  published: 2025-04-05 15:54:01.000000000 +00:00
-- title: A Vision for WebAssembly Support in Swift
-  url: https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060
+  published: 2025-04-05 00:38:20.000000000 +00:00
+- title: The booming, high-stakes arms race of airline safety videos
+  url: https://thehustle.co/originals/the-booming-high-stakes-arms-race-of-airline-safety-videos
   summary: Comments
-  published: 2025-04-05 13:58:18.000000000 +00:00
-- title: Diagnosing bugs preventing sleep on Windows
-  url: https://peteronprogramming.wordpress.com/2025/04/02/diagnosing-bugs-preventing-sleep-on-windows/
+  published: 2025-04-04 12:51:39.000000000 +00:00
+- title: Data centers contain 90% crap data
+  url: https://gerrymcgovern.com/data-centers-contain-90-crap-data/
   summary: Comments
-  published: 2025-04-02 10:40:33.000000000 +00:00
-- title: What If We Made Advertising Illegal?
-  url: https://simone.org/advertising/
+  published: 2025-04-06 22:58:40.000000000 +00:00
+- title: 'Standard Ebooks: liberated ebooks, carefully produced for the true book
+    lover'
+  url: https://standardebooks.org
   summary: Comments
-  published: 2025-04-05 17:57:46.000000000 +00:00
-- title: 'Show HN: Owl, a Spaced Repetition App'
-  url: https://owl.cards
+  published: 2025-04-06 07:36:12.000000000 +00:00
+- title: Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock
+  url: https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/
   summary: Comments
-  published: 2025-04-03 18:20:59.000000000 +00:00
-- title: Five Nurses who work on the same floor at hospital have brain tumors
-  url: https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798
+  published: 2025-04-06 22:39:30.000000000 +00:00
+- title: 'Microcomputers – The First Wave: Responding to Altair'
+  url: https://technicshistory.com/2025/04/06/microcomputers-the-first-wave-responding-to-altair/
   summary: Comments
-  published: 2025-04-06 00:20:54.000000000 +00:00
-- title: Open Source Coalition Announces 'Model-Signing' to Strengthen ML Supply Chain
-  url: https://pypi.org/project/model-signing/
+  published: 2025-04-06 21:30:33.000000000 +00:00
+- title: Journey to Optimize Cloudflare D1 Database Queries
+  url: https://gist.github.com/rxliuli/be31cbded41ef7eac6ae0da9070c8ef8
   summary: Comments
-  published: 2025-04-05 20:24:03.000000000 +00:00
-- title: Emulating an iPhone in QEMU
-  url: https://eshard.com/posts/emulating-ios-14-with-qemu
+  published: 2025-04-03 17:00:21.000000000 +00:00
+- title: Use the Gemini API with OpenAI Fallback in TypeScript
+  url: https://sometechblog.com/posts/try-gemini-api-with-openai-fallback/
   summary: Comments
-  published: 2025-04-05 10:57:00.000000000 +00:00
-- title: Identifying a defective RAM IC on laptops with soldered memory
-  url: https://blog.piernov.org/identifying-defective-ram-ic/
+  published: 2025-04-04 09:41:13.000000000 +00:00
+- title: 'SciOp torrents: download, seed erased US Gov sites and datasets'
+  url: https://sciop.net/uploads/
   summary: Comments
-  published: 2025-04-02 08:49:44.000000000 +00:00
-- title: Getting the Firmware of a VTech/LeapFrog LeapStart/Magibook
-  url: https://leloubil.prose.sh/leapstart-1
+  published: 2025-04-06 23:09:15.000000000 +00:00
+- title: Neutron Stars Hint at Another Dimension
+  url: https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/
   summary: Comments
-  published: 2025-04-03 21:15:03.000000000 +00:00
-- title: Rich Text, Poor Text (2013)
-  url: https://laemeur.sdf.org/words/D29.html
+  published: 2025-04-06 11:41:26.000000000 +00:00
+- title: AEgIS turns phone sensors into antimatter camera of unprecedented resolution
+  url: https://home.cern/news/news/experiments/aegis-transforms-smartphone-sensors-antimatter-camera-unprecedented
   summary: Comments
-  published: 2025-04-02 23:15:25.000000000 +00:00
-- title: Loader's Number
-  url: https://googology.fandom.com/wiki/Loader%27s_number
+  published: 2025-04-03 23:08:56.000000000 +00:00
+- title: Foundry (YC F24) Is Hiring
+  url: https://www.ycombinator.com/companies/foundry/jobs/WvDDlqc-founding-fullstack-engineer-building-the-future-of-browser-agents
   summary: Comments
-  published: 2025-04-05 16:18:12.000000000 +00:00
-- title: Great Question (YC W21) Is Hiring Applied AI Engineers
-  url: https://www.ycombinator.com/companies/great-question/jobs/AtPa8pe-ai-engineer
+  published: 2025-04-06 17:01:00.000000000 +00:00
+- title: 'QVQ-Max: Think with Evidence'
+  url: https://qwenlm.github.io/blog/qvq-max-preview/
   summary: Comments
-  published: 2025-04-05 17:00:21.000000000 +00:00
-- title: 'Compilers: Incrementally and Extensibly (2024)'
-  url: https://okmij.org/ftp/tagless-final/Compiler/index.html
+  published: 2025-04-03 14:55:17.000000000 +00:00
+- title: Recent AI model progress feels mostly like bullshit
+  url: https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit
   summary: Comments
-  published: 2025-04-05 12:55:00.000000000 +00:00
-- title: 'Show HN: iPhone 2005 weird "Blob Keyboard" simulator'
-  url: https://news.ycombinator.com/item?id=43595442
+  published: 2025-04-06 18:01:59.000000000 +00:00
+- title: Blacksmithing and Lisp
+  url: http://funcall.blogspot.com/2025/04/blacksmithing-and-lisp.html
   summary: Comments
-  published: 2025-04-05 18:20:49.000000000 +00:00
-- title: Jumping Spiders
-  url: https://digital.tnconservationist.org/publication/?i=663361&article_id=3697028&view=articleBrowser
+  published: 2025-04-03 08:34:11.000000000 +00:00
+- title: Breaking computers taught me to build them
+  url: https://danielsada.tech/blog/carreer-part-1-the-foundation-years/
   summary: Comments
-  published: 2025-04-01 17:33:13.000000000 +00:00
-- title: The Importance of Fact-Checking
-  url: https://lithub.com/on-the-episode-that-changed-ira-glasss-this-american-life-forever/
+  published: 2025-04-03 04:06:57.000000000 +00:00
+- title: Pitfalls of Safe Rust
+  url: https://corrode.dev/blog/pitfalls-of-safe-rust/
   summary: Comments
-  published: 2025-04-01 18:20:56.000000000 +00:00
-- title: Recreating Daft Punk's Something About Us
-  url: https://thoughts-and-things.ghost.io/recreating-daft-punks-something-about-us/
+  published: 2025-04-04 17:55:58.000000000 +00:00
+- title: Max severity RCE flaw discovered in widely used Apache Parquet
+  url: https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/
   summary: Comments
-  published: 2025-04-05 05:31:45.000000000 +00:00
-- title: OpenVertebrate Presents a Database of 13,000 3D Scans of Specimens
-  url: https://www.openculture.com/2024/03/openvertebrate-presents-a-massive-database-of-13000-3d-scans-of-vertebrate-specimens.html
+  published: 2025-04-06 17:21:54.000000000 +00:00
+- title: 'Show HN: I built a Rust crate for running unsafe code safely'
+  url: https://github.com/brannondorsey/mem-isolate
   summary: Comments
-  published: 2025-04-05 02:15:35.000000000 +00:00
-- title: 'Show HN: OCR pipeline for ML training (tables, diagrams, math, multilingual)'
-  url: https://github.com/ses4255/Versatile-OCR-Program
+  published: 2025-04-06 13:28:48.000000000 +00:00
+- title: New Theoretical Research Trends in Cartography
+  url: https://www.researchgate.net/publication/26467883_NEW_THEORETICAL_RESEARCH_TRENDS_IN_CARTOGRAPHY
   summary: Comments
-  published: 2025-04-05 05:22:33.000000000 +00:00
+  published: 2025-04-04 18:23:20.000000000 +00:00
