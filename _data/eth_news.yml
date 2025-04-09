@@ -1,48 +1,237 @@
 ---
 - title: " Here’s what happened in crypto today "
   url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, Pakistan has tapped former Binance CEO Changpeng “CZ”
-    Zhao as an adviser to its national crypto council; an Ethereum whale moved to
-    deposit $14 million in ETH to prevent liquidation on a $340 million short position;
-    and Bitcoin’s hashrate has officially surpassed 1 zetahash per second, marking
-    a major milestone for the network.Pakistan appoints Changpeng Zhao as crypto adviser
-    as adoption heats upFormer Binance CEO Changpeng “CZ” Zhao has been appointed
-    as an adviser to Pakistan’s Crypto Council, a newly formed regulatory body tasked
-    with overseeing the country’s embrace of blockchain technology and digital assets. The
-    appointment was confirmed by Pakistan’s finance ministry and reported by Bloomberg
-    on April 7. Zhao will advise the regulatory body on cryptocurrency regulation,
-    infrastructure and adoption, Bloomberg reported.In March, the CEO of Pakistan’s
-    Crypto Council, Bilal bin Saqib, told Bloomberg that the country plans to develop
-    a clear regulatory framework for digital assets.“Pakistan is done sitting on the
-    sidelines,” Saqib said. “We want to attract international investment because Pakistan
-    is a low-cost high-growth market with [...] a Web3 native workforce ready to build.”CZ
-    is seen signing documents during his appointment by Pakistan’s Ministry of Finance.
-    Source: Business RecorderWhale makes $14 million Ether emergency deposit to avoid
-    $340 million liquidationAn unidentified cryptocurrency whale injected millions
-    of dollars in emergency capital to avoid a potential liquidation of more than
-    $300 million in Ether as markets slumped amid renewed macroeconomic pressure.The
-    whale is reportedly close to liquidation on a 220,000 Ether (ETH) position on
-    MakerDAO, a decentralized finance (DeFi) lending platform. To stave off liquidation,
-    the investor deposited 10,000 ETH — worth more than $14.5 million — and 3.54 million
-    Dai (DAI) to raise the position’s liquidation price, blockchain analytics firm
-    Lookonchain said in an April 7 post on X.“If $ETH drops to $1,119.3, the 220,000
-    $ETH($340M) will be liquidated.”Source: LookonchainThe development came hours
-    after another Ether investor was liquidated for over $106 million on the decentralized
-    finance (DeFi) lending platform Sky.The whale lost more than 67,000 ETH when the
-    asset crashed by around 14% on April 6. Sky’s system employs an overcollateralization
-    ratio, typically 150% or higher, meaning that users need to deposit at least $150
-    worth of ETH to borrow 100 DAI.Bitcoin hashrate tops 1 zetahash in historic firstThe
-    Bitcoin network hashrate has topped 1 zetahash per second (ZH/s) for the first
-    time in Bitcoin’s 16-year history, according to several blockchain data sources.Bitcoin’s
-    hashrate crossed the milestone on April 5 at a peak of 1.025 ZH/s, according to
-    mempool.space data, while BTC Frame data said it hit 1.02 ZH/s a day earlier.Bitcoin’s
-    hashrate has fallen back below 0.95 ZH/s on April 7 since reaching 1 ZH/s. Source: BTC
-    FrameData from Coinwarz says that Bitcoin hashrate soared to as high as 1.1 ZH/s
-    on April 4 at block height 890,915 — however, the same data indicates that Bitcoin
-    first crossed 1 ZH/s on March 24.The Bitcoin network’s reported rise to 1 ZH/s
-    — equivalent to 1,000 Exahashes per second — marks a 1,000x increase since late
-    January 2016, when Bitcoin first hit 1 EH/s for the first time. \n\n            "
-  published: 2025-04-07 22:59:21.000000000 +01:00
+  summary: "Today in crypto, Binance announces the delisting of 14 tokens; Ripple
+    reveals a $1.25 billion acquisition of prime broker Hidden Road; and crypto lawyer
+    James Murphy files a FOIA lawsuit seeking information on an alleged meeting between
+    Satoshi Nakamoto and the US Department of Homeland Security.Binance to purge 14
+    tokens following ‘vote to delist’ processBinance is planning to delist 14 tokens
+    from its platform on April 16 in a move designed to purge low-quality projects
+    that do not adhere to the crypto exchange’s tighter listing requirements. The
+    tokens are being delisted following a “comprehensive evaluation of multiple factors,”
+    including the exchange’s first “vote to delist” results, where community members
+    nominated projects with less than stellar metrics, Binance announced on April
+    8.Other factors included the team’s commitment to the project, development activity,
+    trading volume and liquidity, network stability, responsiveness to Binance’s due
+    diligence requests and new regulatory requirements. The tokens selected for delisting
+    are Badger (BADGER), Balancer (BAL), Beta Finance (BETA), Cream Finance (CREAM),
+    Cortex (CTXF), Aaelf (ELF), Firo (FIRO), Kava Lend (HARD), NULS (NULS), Prosper
+    (PROS), Status (SNT), TROY (TROY), UniLend (UFT) and VIDT DAO (VIDT). Source: BinanceRipple
+    acquires crypto-friendly prime broker Hidden Road for $1.25 billionBlockchain-based
+    payments network Ripple announced it has acquired crypto-friendly prime broker
+    Hidden Road in one of the largest mergers in the cryptocurrency industry to date.Ripple
+    is acquiring Hidden Road in a $1.25 billion deal, the company officially announced
+    on April 8.The deal will make Ripple the first crypto firm to own and operate
+    a global, multi-asset prime broker. According to the company’s April 8 announcement,
+    the acquisition is expected to position Ripple as the world’s largest non-bank
+    prime broker, with Hidden Road currently clearing more than $3 trillion across
+    more than 300 institutions.The acquisition also aims to reinforce the position
+    of Ripple USD (RLUSD), an institution-focused stablecoin launched by Ripple in
+    December 2024.Ripple has been a customer of Hidden Road for years and “knows their
+    breadth of expertise firsthand,” Ripple CEO Brad Garlinghouse said in an X post
+    on April 8.He also mentioned that Hidden Road’s $3 trillion in annual clearing
+    will tap into Ripple-backed XRP (XRP) and its underlying decentralized, public
+    blockchain, the XRP Ledger (XRPL).Source: Brad Garlinghouse“Instead of waiting
+    for up to 24 hours to settle trades through fiat rails, Hidden Road will be using
+    XRPL for clearing a portion of trades, and most consequentially, using RLUSD as
+    collateral across its prime brokerage services,” Garlinghouse wrote on X.Lawyer
+    sues US homeland dept to probe supposed Satoshi Nakamoto meetingA crypto lawyer
+    has sued the US Department of Homeland Security, alleging the agency may know
+    who created Bitcoin — compelling the department to share what it knows. The Freedom
+    of Information Act lawsuit was filed by James Murphy, who based his accusations
+    on claims made by DHS Special Agent Rana Saoud at a conference in April 2019,
+    where she said a few of her colleagues had previously met with four people involved
+    in creating Bitcoin.Source: James Murphy“My FOIA lawsuit simply asks for the notes,
+    email and other documents relating to that alleged interview,” Murphy posted to
+    X after announcing the April 7 suit.  “IF the interview really happened as the
+    DHS Agent claimed, there should be documentation of the substance of that meeting,”
+    added Murphy, who goes by MetaLawMan on X.If the DHS resists disclosure, Murphy
+    said he will “pursue the case to conclusion” to solve the mystery.\n\n            "
+  published: 2025-04-08 23:01:40.000000000 +01:00
+- title: " Gaming NFT maker Aavegotchi votes to ditch Polygon for Base "
+  url: https://cointelegraph.com/news/aavegotchi-gaming-nfts-votes-to-ditch-polygon-for-base?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Aavegotchi, a non-fungible token (NFT) protocol focused on Web3 gaming,
+    has opted to abandon blockchain network Polygon and “go all-in” on Base, an Ethereum
+    layer-2 scaling chain, according to the results of an onchain vote. On April 8,
+    Aavegotchi’s community members voted 93.5% in favor of a proposal to “Make Aavegotchi
+    Based Again” by deprecating the protocol’s smart contracts on Polygon and re-deploying
+    on Base, according to Aavegochti’s governance page. “Given our close relationship
+    with the Base team, as well as recent developments in the Base ecosystem […] we
+    believe the most +EV move for Aavegotchi (for this cycle, at least) is to sunset
+    [its Polygon deployment] and go all-in on Base,” Aavegotchi founder Dan said in
+    a February X post proposing the shift.The migration reflects Aavegotchi’s efforts
+    to adapt to 2025’s cryptocurrency market downturn, which was worsened last week
+    by President Donald Trump’s plan to impose sweeping tariffs on most US imports. Aavegotchi’s
+    developer, Pixelcraft Studios, has “recently made significant team cuts to reduce
+    our burn and extend runway,” Dan said. Memecoins and NFTs have been among Web3’s
+    hardest-hit segments so far this year.Aavegotchi’s community voted overwhelmingly
+    for the move. Source: AavegotchiRelated: Crypto stocks down, IPOs punted amid
+    tariff tumultPolygon’s flat TVLAavegotchi’s decision also highlights Polygon’s
+    ongoing challenges in maintaining users and total value locked (TVL) in the face
+    of competition from Ethereum layer-2 chains, such as Arbitrum and Base. Polygon’s
+    TVL has declined from highs of nearly $10 billion in 2021 to approximately $725
+    million as of April 8, according to data from DeFILlama. Both Base and Arbitrum
+    each hold more than $2 billion in TVL, DefiLlama data shows. TVL is a key metric
+    used in DeFi (decentralized finance) to measure the total amount of assets deposited
+    in a protocol. It not only reflects user trust and adoption but also serves as
+    an indicator of available liquidity.According to Dan, Polygon hasn’t delivered
+    any major updates or features for gaming protocols. “Polygon has not shipped any
+    significant updates or features to PoS to enable better ecosystem coherence or
+    discovery for gaming.”  Polygon’s growth has been relatively flat in recent years.
+    Source: Coder DanMeanwhile, “both Base and Arbitrum stand out as being both performant
+    and ‘lindy’ – able to stand the test of time,” Dan said, adding he prefers Base
+    because of the chain’s “stronger retail onboarding.”Base is an optimistic rollup
+    launched in 2023 by Coinbase, the US’s largest cryptocurrency exchange. Aavegotchi
+    was created in a collaboration between Pixelcraft Studios and Aave, a decentralized
+    lending protocol. It describes its NFTs as “digital collectibles” that can be
+    “customized with various wearables, such as hats, glasses, and other accessories
+    [and]can be bought, sold, and traded as NFTs,” according to its website. Magazine: XRP
+    win leaves Ripple and industry with no crypto legal precedent set\n\n            "
+  published: 2025-04-08 20:35:00.000000000 +01:00
+- title: " Ethereum price data highlights $1,000 as the final bottom for ETH "
+  url: https://cointelegraph.com/news/ethereum-price-data-highlights-1-000-as-the-final-bottom-for-eth?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether (ETH), the native token of Ethereum, is showing signs of bullish
+    exhaustion after a steep 65% decline over the past three months. The pace of the
+    downtrend and the oversold conditions shown by various ETH price metrics have
+    investors wondering if a market bottom is approaching.ETH fractals point to a
+    drop to $1,000Ether’s current price action mirrors a familiar fractal pattern
+    seen in 2018 and 2022. In both instances, ETH price saw euphoric rallies that
+    ended with sharp breakdowns and prolonged bear markets.Each of these cycles shared
+    the following key traits:Higher price highs were accompanied by lower highs in
+    the relative strength index, which is a classic sign of bearish divergence and
+    weakening momentum.ETH/USD weekly price chart. Source: TradingViewAfter the price
+    peak (cycle tops in the chart above), ETH retraced heavily, often falling through
+    key Fibonacci levels.Cycle bottoms typically formed once the RSI dipped into oversold
+    territory (below 30), with price stabilizing near historical Fibonacci zones.The
+    current setup resembles this structure. In December 2024, Ether formed a higher
+    high near $4,095, while the RSI made a lower high—mirroring the bearish divergence
+    seen in previous tops. This divergence marked the beginning of a sharp correction,
+    much like the patterns seen in 2018 and 2022.  Currently, ETH’s price has closed
+    below the 1.0 Fibonacci retracement level at around $1,550. Meanwhile, its weekly
+    RSI is still above the oversold threshold of 30, suggesting room for further declines,
+    at least until the reading drops below 30.ETH/USD weekly RSI performance chart.
+    Source: TradingViewThe fractal suggests Ethereum could be in the final leg of
+    its decline, with the next potential price targets inside the $990 - $1,240 price
+    range, aligning with the 0.618-0.786 Fibonacci retracement area.Source: Mike McGloneRelated:
+    3 reasons Ethereum could turn a corner: Kain Warwick, X Hall of FlameEthereum
+    NUPL falls into ‘capitulation’ — Another bottom indicatorEthereum’s Net Unrealized
+    Profit/Loss (NUPL) has entered the “capitulation” zone—an onchain phase where
+    most investors are holding ETH at a loss. In previous cycles, similar moves into
+    this zone occurred close to major market bottoms.Ethereum NUPL vs. price chart.
+    Source: GlassnodeIn March 2020, the NUPL turned negative just before ETH rebounded
+    sharply following the COVID-19 market crash. A similar pattern emerged in June
+    2022, when the metric fell into capitulation territory shortly before Ethereum
+    established a bear market low of around $880.Now that ETH is once again entering
+    this zone, the current setup loosely echoes those prior bottoming phases—coinciding
+    with key Fibonacci support levels near $1,000.This article does not contain investment
+    advice or recommendations. Every investment and trading move involves risk, and
+    readers should conduct their own research when making a decision.\n\n            "
+  published: 2025-04-08 20:16:25.000000000 +01:00
+- title: " Scaling the EVM requires an L1, not an L2 "
+  url: https://cointelegraph.com/news/scaling-the-evm-requires-an-l1?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Jay Jog, co-founder of Sei Labs When CryptoKitties crashed
+    the Ethereum network in 2017, the industry learned a hard lesson about blockchain
+    scalability. Today, with over $100 billion locked in decentralized finance (DeFi)
+    and millions of non-fungible tokens (NFTs) being traded, that lesson is more relevant
+    than ever. The Ethereum Virtual Machine (EVM) — the engine that powers this activity
+    — is reaching its limits.So far, the crypto community’s answer has been layer
+    2 solutions — separate chains that process transactions and report back to Ethereum.
+    But what if the community’s been looking for answers in the wrong place?Layer
+    2s are not the solutionLayer 2 blockchains have long been touted as the solution
+    to the EVM’s performance challenges, given their ability to offload the computational
+    work from Ethereum to a secondary chain. Layer-2 solutions have proven to be nothing
+    more than a “quick fix” instead of a permanent solution, as many hoped for. As
+    Gemini reported, a new layer 2 appeared every 19 days in 2024, indicating that
+    the competitive landscape is creating more problems instead of solving them.Layer
+    2 solutions come with their own challenges, primarily tied to centralization and
+    interoperability. Many of today’s layer 2 blockchains run with centralized sequencers
+    that could expose the network to transaction censorship, transaction reordering
+    and more. Additionally, Vitalik Buterin stated in a recent blog post that layer
+    2s are struggling to maintain interoperability. This called attention to the disorganized
+    state of layer 2s, further contributing to liquidity fragmentation and a complex
+    user experience. Recent: L2 gaming activity spikes in February, but wallets decline
+    — ReportAdvanced rollup designs have tried to fix these pain points. Recently,
+    there has been a new design called native rollups that is trying to tackle layer
+    2’s centralization issues. Native rollups take value away from projects, which
+    will significantly deter adoption. Consequently, it is doubtful that native rollups
+    are the answer to all of Ethereum’s urgent problems. With just as many challenges
+    as the EVM itself, why rely on layer 2s instead of looking elsewhere? Could there
+    be a better solution? According to L2BEAT, it costs around $95.53 million annually
+    to run all the major L2s. Instead of spending more money on building and running
+    more L2s and interoperability solutions, why not focus on refining the existing
+    foundational layer? A more accurate alternative to TPSTo create the most performant
+    layer 1s, the industry must first reevaluate the approach to track blockchain
+    performance. Most blockchains focus on throughput, using transactions per second
+    (TPS) to compare chain performance. While many argue that reaching the most significant
+    transactions per second is the way to enable mainstream adoption for crypto, TPS
+    unfortunately doesn’t allow for apples-to-apples comparisons since different types
+    of transactions require different amounts of compute. For example, an Ether (ETH)
+    transfer requires 21,000 units of gas, whereas an ERC-20 transfer needs 65,000,
+    confirming that TPS conveys zero value when tracking mass transactions and network
+    throughput.A new standardized performance metric that better reflects network
+    computing capability must be developed to understand a blockchain's full potential.
+    This is where an alternative performance metric called “gas per second” emerges
+    — a measure that evaluates the gas fees required to process transactions, better
+    reflecting different transaction types. While TPS is best served to assess simple
+    ETH transfers, gas per second shows the bigger picture by considering all computational
+    efforts, even for complex transactions. Given the novelty of this metric, measuring
+    gas per second across all chains will be a long process but a crucial step in
+    blockchain’s evolution. Going back to the basics: Layer 1sThe capability of layer
+    1s has historically been overlooked, as many Ethereum researchers focused on a
+    rollup-centric roadmap. As the backbone of the entire crypto ecosystem, layer
+    1s are the key to scaling the EVM. To solve EVM’s scalability challenge, layer
+    1s must start rebuilding the EVM from scratch with performance in mind above anything
+    else. The EVM faces severe network congestion and high gas prices as volume increases.
+    It’s time for layer 1s to scale to onboard the next generation of users. Approaches
+    such as parallelization will help improve throughput and, combined with transforming
+    the EVM’s consensus mechanism and storage solutions, will set a new performance
+    standard for the industry and establish a more developer-friendly environment
+    for projects.The proper solution to scaling the EVM For the past few years, Layer
+    2s have been presented as the answer to providing the cheapest and fastest way
+    to execute transactions. Layer 2s are not what the EVM truly needs. From day one,
+    Layer 1s have always been the true solution to the EVM’s scalability problem. It
+    is time to be open to adopting more accurate performance metrics and divert attention
+    to improving network performance. These changes will pave the way for the EVM
+    to achieve its highest potential, introducing levels of scalability and efficiency
+    never seen before. The EVM is here to stay, but its future depends on the industry
+    to build. Opinion by: Jay Jog, co-founder of Sei Labs.This article is for general
+    information purposes and is not intended to be and should not be taken as legal
+    or investment advice. The views, thoughts, and opinions expressed here are the
+    author’s alone and do not necessarily reflect or represent the views and opinions
+    of Cointelegraph.\n\n            "
+  published: 2025-04-08 16:00:00.000000000 +01:00
+- title: " MEV bot loses $180K in ETH from access control exploit "
+  url: https://cointelegraph.com/news/mev-bot-180k-loss-access-control-exploit?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "A maximal extractable value (MEV) bot lost about $180,000 in Ether after
+    an attacker exploited a vulnerability in its access control systems. On April
+    8, blockchain security firm SlowMist reported that the MEV bot lost 116.7 Ether
+    (ETH) because of the lack of access control. Threat researcher Vladimir Sobolev,
+    also known as Officer’s Notes on X, told Cointelegraph that an attacker exploited
+    a vulnerability in the bot, causing it to swap its ETH to a dummy token. Sobolev
+    said this was done through a malicious pool created by the attacker within the
+    same transaction. The threat researcher added that this could have been prevented
+    if the MEV owner implemented stricter access controls. Just 25 minutes into the
+    exploit, the MEV’s owner proposed a bounty to the attacker. The owner then deployed
+    a new MEV bot with stricter access control validation. Sobolev compared the exploit
+    to a similar incident in 2023, where MEV bots lost $25 million after being exploited.
+    On April 23, 2023, bots who performed sandwich trades lost their crypto to a validator
+    that went rogue. Related: ‘Unlucky’ MEV bot takes out huge $12M loan just to make
+    $20 in profitRise in fake MEV bot guidesAn MEV bot on Ethereum is a trading bot
+    that exploits maximal extractable value. This is the maximum profit that can be
+    extracted from block production. This is done by reordering, inserting or censoring
+    transactions within a block. The bot observes Ethereum’s pool of pending transactions
+    and looks for potential profits. These bots can do front-run, back-run, or sandwich
+    transactions. This makes the bots very controversial as they steal value from
+    regular users during high periods of volatility or congestion. Despite the controversies
+    surrounding MEV bots, many continue to use them. However, beginners looking to
+    profit from these bots can often fall into a different trap crafted by scammers. Sobolev
+    told Cointelegraph that there has been a rise in fraudulent MEV bot tutorials
+    online. The researcher said the tutorials offer ways to earn money using MEV bots
+    and publish fake installation instructions. “Very often, this will simply allow
+    hackers to steal your money,” Sobolev said. He urged users to check their resources
+    and ensure they are not falling prey to scammers. Magazine: How crypto bots are
+    ruining crypto — including auto memecoin rug pulls\n\n            "
+  published: 2025-04-08 12:27:41.000000000 +01:00
 - title: " Why is the crypto market down today? "
   url: https://cointelegraph.com/news/why-is-the-crypto-market-down-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "The cryptocurrency market is down on April 7, with the total market capitalization
@@ -1478,190 +1667,3 @@
     advice or recommendations. Every investment and trading move involves risk, and
     readers should conduct their own research when making a decision.\n\n            "
   published: 2025-04-01 20:23:16.000000000 +01:00
-- title: " Why is Ethereum (ETH) price up today? "
-  url: https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether (ETH) price rallied nearly 3% over the past 24 hours, reaching a
-    high of $1,866 on April 1. The top altcoin’s daily trading volume increased by
-    27% to $15. billion as ETH climbed above $1,800.ETH/USD four-hour chart. Source:
-    Cointelegraph/TradingViewSeveral factors are behind Ethereum’s bullishness today,
-    including:The launch of Privacy Pools on Ethereum.Reducing supply on exchanges.Ether’s
-    market setup points to a 12% rebound next.Privacy Pools launch on Ethereum boosts
-    ETH priceOne of the most significant drivers of Ether’s bullishness today is the
-    launch of Privacy Pools on the Ethereum mainnet.gm Ethereum ☀️It is our great
-    honor to announce the mainnet launch of Privacy Pools!ETH users can now achieve
-    on-chain privacy, while still dissociating from illicit fundsIt is now up to all
-    of us to Make Privacy Normal Again \U0001FAE1More info in this thread \U0001F447
-    pic.twitter.com/3nJO0AxoD1— 0xbow.io (@0xbowio) March 31, 2025  What to know:Announced
-    by developers at 0xbow.io, Privacy Pools aims to enhance onchain privacy while
-    addressing regulatory concerns—a balance that has long eluded many blockchain
-    projects. Unlike previous privacy mixers like Tornado Cash, which faced sanctions
-    for enabling illicit transactions, Privacy Pools use “Association Sets” to screen
-    out bad actors while preserving user anonymity. The new privacy tool has garnered
-    support from Ethereum co-founder Vitalik Buterin himself. Buterin, a co-author
-    of the original Privacy Pools research paper, made one of the first deposits,
-    expressing his confidence in the project. Market participants responded to this
-    with enthusiasm, with Cryptolive calling it a “privacy breakthrough,” with sentiment
-    suggesting it could “make privacy normal again” in the blockchain industry. “This
-    is huge; it’s got the backing of Ethereum co-founder Vitalik Buterin,” said DuckAI
-    Agent, adding that it could be a sign of increased adoption and usage. “Overall,
-    I'm bullish on ETH - this launch could be a game-changer for the ecosystem.”This
-    development should increase Ethereum’s utility, potentially attracting more users
-    and developers to the network, which in turn drives demand for ETH.Reducing ETH
-    supply on exchangesAnother factor supporting Ether’s performance today is reducing
-    supply on exchanges.Key takeaways:ETH balance on exchanges has reached a 9-year
-    low of 18.3 million ETH after dropping nearly 5% over the last 30 days.These are
-    levels last seen in July 2016 when ETH was trading below $15.The amount of ETH
-    supply on exchanges has resumed its downtrend, as shown in the chart below.ETH
-    supply on exchanges. Source: CryptoQuantA decline in exchange supply suggests
-    that holders are moving their ETH into cold storage or staking, reducing the circulating
-    supply available for trading.Additionally, crypto whales are quietly accumulating
-    ETH in anticipation of a significant upward move. ETH inflows into accumulation
-    addresses have surged to multi-year highs, surpassing levels seen before major
-    bull runs, as seen in the chart below.Ethereum accumulation addresses are a specific
-    classification of wallet addresses used to track long-term holding behavior.ETH
-    inflows into accumulation addresses. Source: CryptoQuantHigh inflows into accumulation
-    addresses suggest that institutional investors and large holders are potentially
-    taking advantage of ETH’s low price to accumulate. Related: zkLend hacker claims
-    losing stolen ETH to Tornado Cash phishing siteETH price nurtures a V-shaped recoveryEther’s
-    price action has been attempting a V-shaped recovery chart pattern on the four-hour
-    chart since March 25, as shown below.A V-shaped recovery is a bullish pattern
-    formed when an asset experiences a sharp price increase after a steep decline. It
-    is completed when the price moves up to the resistance at the top of the V formation,
-    also known as the neckline.ETH appears to be on a similar trajectory and now trades
-    below a supply-demand zone between $1,900 and $2,000, where the 50-day, 100-day
-    and 200-day simple moving averages (SMAs) sit.This suggests that bulls need to
-    push the price above this area to increase the chances of reaching the neckline
-    at $2,100 to complete the V-pattern.This would represent a 12% increase from the
-    current price.ETH/USD daily chart. Source: Cointelegraph/TradingViewMeanwhile,
-    the relative strength index, or RSI, has risen from oversold conditions at 21
-    on March 31 to 56 at the time of writing, suggesting that the bullish momentum
-    is picking up.This article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-04-01 10:51:01.000000000 +01:00
-- title: " zkLend hacker claims losing stolen ETH to Tornado Cash phishing site "
-  url: https://cointelegraph.com/news/zk-lend-hacker-loses-stolen-eth-after-depositing-it-into-a-tornado-cash-phishing-site?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The hacker behind the $9.6 million exploit of the decentralized money-lending
-    protocol zkLend in February claims they’ve just fallen victim to a phishing website
-    impersonating Tornado Cash, resulting in the loss of a significant portion of
-    the stolen funds.In a message sent to zkLend through Etherscan on March 31, the
-    hacker claimed to have lost 2,930 Ether (ETH) from the stolen funds to a phishing
-    website posing as a front-end for Tornado Cash. In a series of March 31 transfers,
-    the zkLend thief sent 100 Ether at a time to an address named Tornado.Cash: Router,
-    finishing with three deposits of 10 Ether.“Hello, I tried to move funds to a Tornado,
-    but I used a phishing website, and all the funds have been lost. I am devastated.
-    I am terribly sorry for all the havoc and losses caused,” the hacker said.The
-    hacker behind the zkLend exploit claims to have lost most of the funds to a phishing
-    website posing as a front-end for Tornado Cash. Source: Etherscan“All the 2,930
-    Eth have been taken by that site owners. I do not have coins. Please redirect
-    your efforts towards those site owners to see if you can recover some of the money,”
-    they added. zkLend responded to the message by asking the hacker to “Return all
-    the funds left in your wallets” to the zkLend wallet address. However, according
-    to Etherscan, another 25 Ether was then sent to a wallet listed as Chainflip1. Earlier,
-    another user warned the exploiter about the error, telling them, “don’t celebrate,”
-    because all the funds were sent to the scam Tornado Cash URL.“It is so devastating.
-    Everything gone with one wrong website,” the hacker replied.Another user warned
-    the zkLend exploiter about the mistake, but it was too late. Source: EtherscanHow
-    zkLend was exploited for $9.6 million zkLend suffered an empty market exploit
-    on Feb. 11 when an attacker used a small deposit and flash loans to inflate the
-    lending accumulator, according to the protocol’s Feb. 14 post-mortem. The hacker
-    then repeatedly deposited and withdrew funds, exploiting rounding errors that
-    became significant due to the inflated accumulator. The attacker bridged the stolen
-    funds to Ethereum and later failed to launder them through Railgun after protocol
-    policies returned them to the original address. Following the exploit, zkLend
-    proposed the hacker could keep 10% of the funds as a bounty and offered to release
-    the culprit from legal liability and scrutiny from law enforcement if the remaining
-    Ether was returned.Related: DeFi protocol SIR.trading loses entire $355K TVL in
-    ‘worst news’ possibleThe offer deadline of Feb. 14 passed with no public response
-    from either party. In a Feb. 19 update to X, zkLend said it was now offering a
-    $500,000 bounty for any verifiable information that could lead to the hacker being
-    arrested and the funds recovered.Losses to crypto scams, exploits and hacks totaled
-    over $33 million in March, according to blockchain security firm CertiK, but dropped
-    to $28 million after decentralized exchange aggregator 1inch successfully recovered
-    its stolen funds. Losses to crypto scams, exploits and hacks totaled nearly $1.53
-    billion in February. The $1.4 billion Feb. 21 attack on Bybit by North Korea’s
-    Lazarus Group made up the lion’s share and took the title for largest crypto hack
-    ever, doubling the $650 million Ronin bridge hack in March 2022. Magazine: Lazarus
-    Group’s favorite exploit revealed — Crypto hacks analysis\n\n            "
-  published: 2025-04-01 04:12:23.000000000 +01:00
-- title: " SIR.trading begs hacker to return $255K or ‘no chance for us to survive’ "
-  url: https://cointelegraph.com/news/sir-trading-founder-begs-hacker-return-funds-or-wont-survive?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The founder of the recently hacked decentralized finance protocol SIR.trading
-    has issued an emotional plea to the attacker, urging them to return approximately
-    70% of the stolen customer funds. Without the recovery of these funds, the protocol
-    is unlikely to survive.“Here is my proposal, keep $100k as a fair share for your
-    critical bug find, and return the remaining,” SIR.trading’s pseudonymous founder
-    “Xatarrer” wrote in a March 31 onchain message to the attacker following the $355,000
-    hack on March 30.“We’ll call it even. No legal games, no drama,” they added. Xatarrer
-    said that SIR.trading was built on the back of four years of late-night coding
-    and $70,000 from friends and believers without any additional venture capital
-    funding.“We grew to $400k TVL organically without any advertising. If you keep
-    100% of the funds, there is no chance for us to survive.”Xatarrer even praised
-    the hacker for the sophisticated hack, stating that it was “almost beautiful if
-    it wasn’t for all the funds people lost.”Source: SIR.tradingThe hacker hasn’t
-    responded and has already transferred the stolen funds through to Ethereum privacy
-    solution Railgun, according to data from Ethereum block explorer Etherscan.Xatarrer
-    initially said on March 30 that the SIR.trading team intended to keep the protocol
-    up and running despite the setback. “We’ve already started planning our next steps.
-    Those impacted by the hack will not be forgotten,” it said on March 31.Hack resulted
-    from feature added to Ethereum’s Dencun upgradeThe hacker targeted a callback
-    function used in the protocol’s “vulnerable contract Vault” which leverages Ethereum’s
-    transient storage feature. The hacker managed to replace the real Uniswap pool
-    address used in this callback function with an address under the hacker’s control,
-    allowing them to redirect the funds in the vault to their address by repeatedly
-    calling the callback function until all of the protocol’s total value locked was
-    drained.The transient storage feature was added to Ethereum in the March 2024
-    Dencun upgrade as a solution to offer users lower gas fees than gas typically
-    required for regular storage.Related: DeFi hacks drop 40% in 2024, CeFi breaches
-    surge to $694M — HackenSIR.trading’s documentation shows that it was billed as
-    “a new DeFi protocol for safer leverage” to address some of the challenges that
-    often occur in leveraged trading — such as volatility decay and liquidation risks.It
-    comes as crypto lost to exploits and scams fell to $28.8M in March, blockchain
-    security firm CertiK said in a March 31 X post. Around $4.8 million was subtracted
-    from that figure after hackers involved in the 1inch Resolver incident returned
-    the stolen funds.Crypto exploits and scams had one of their worst months in February,
-    headlined by the $1.4 billion Bybit hack.Magazine: Should crypto projects ever
-    negotiate with hackers? Probably\n\n            "
-  published: 2025-04-01 04:05:14.000000000 +01:00
-- title: " Privacy Pools launch on Ethereum, with Vitalik demoing the feature "
-  url: https://cointelegraph.com/news/privacy-pools-launches-ethereum-support-vitalik-buterin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "A new semi-permissionless privacy tool, Privacy Pools, has launched on
-    Ethereum, allowing users to transact privately while proving their funds aren’t
-    linked to illicit activities.The privacy tool, launched by Ethereum builders 0xbow.io
-    on March 31, earned support from the likes of Ethereum co-founder Vitalik Buterin,
-    who not only backed the privacy project but made one of the first deposits on
-    the platform. 0xbow.io said that it implements “Association Sets” to batch transactions
-    into the anonymous Privacy Pools and that a screening test is conducted to ensure
-    that those transactions aren’t linked to illicit actors, such as hackers, phishers
-    and scammers.The Association Sets are “dynamic” — meaning that if a transaction
-    is admitted but later found to be illicit, it can be removed from the set without
-    disrupting any other deposits, 0xbow.io said.If a deposit is disqualified, the
-    user can click the “ragequit” function to return the funds to their original deposit
-    address.The innovation is part of 0xbow.io’s vision to “Make Privacy Normal Again”
-    while also attempting to achieve regulatory compliance.  Privacy protocols have
-    received considerable backlash from regulators in recent years due to their increasing
-    use by illicit actors to launder funds. One of those privacy tools, Tornado Cash,
-    was sanctioned by the US Treasury’s Office of Foreign Assets Control between August
-    2022 and March 2025 after it was linked to around $7 billion laundered by the
-    North Korean state-backed Lazarus Group.Tornado Cash has since been removed from
-    OFAC’s blacklist after a US appeals court said the sanctions were unlawful in
-    January 2025.0xbow.io noted that initial deposits are limited to 1 Ether (ETH)
-    but that the limit would be raised once the privacy protocol is more battle-tested.Privacy
-    Pools inspired by Buterin and othersOver 21 ETH has already been transferred into
-    Privacy Pools from 69 deposits, including at least one from Buterin, 0xbow.io
-    noted.Source: Vitalik ButerinIn addition to Buterin, 0xbow.io said it also received
-    investment support from Number Group, BanklessVC, Public Works and several angel
-    investors.Related: Privacy isn’t a luxury in crypto, it’s a necessity — Midnight
-    CEO0xbow.io also praised Buterin, Chainalysis chief scientist Jacob Illum and
-    two academics at the University of Basel in Switzerland for crafting a September
-    2023 white paper outlining how Privacy Pools could be built. 0xbow.io’s chief
-    technology officer Ameen Soleimani also contributed to the paper, which has seen
-    over 12,000 downloads and has been cited in nine other papers.The Privacy Pool
-    code also passed a successful audit from Audit Wizard. a smart contract auditing
-    firm co-founded by former Apple engineer Joe van Loon.More than $41 billion worth
-    of illicit transfers were made in 2024,  which made up 0.14% of total onchain
-    volume for the year, according to the Chainalysis 2025 Crypto Crime report published
-    on Jan. 15.While it marked around an 11% fall from 2023, Chainalysis said that
-    figure could climb to around $51 billion as more criminal-tied addresses are found.Magazine:
-    What are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
-  published: 2025-04-01 02:11:53.000000000 +01:00
