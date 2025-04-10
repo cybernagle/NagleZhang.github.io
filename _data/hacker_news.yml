@@ -1,125 +1,123 @@
 ---
-- title: Apache ECharts
-  url: https://echarts.apache.org/en/index.html
+- title: The Columbian Orator taught nineteenth-century Americans how to speak
+  url: https://www.neh.gov/article/columbian-orator-taught-nineteenth-century-americans-how-speak
   summary: Comments
-  published: 2025-04-08 17:23:29.000000000 +00:00
-- title: 'PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)'
-  url: https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth
+  published: 2025-04-10 00:00:34.000000000 +00:00
+- title: 'GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound
+    better'
+  url: https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/
   summary: Comments
-  published: 2025-04-09 00:00:15.000000000 +00:00
-- title: Obituary for Cyc
-  url: https://yuxi-liu-wired.github.io/essays/posts/cyc/
+  published: 2025-04-09 18:07:14.000000000 +00:00
+- title: 'Ironwood: The first Google TPU for the age of inference'
+  url: https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/
   summary: Comments
-  published: 2025-04-08 19:13:50.000000000 +00:00
-- title: 'Dockerfmt: A Dockerfile Formatter'
-  url: https://github.com/reteps/dockerfmt
+  published: 2025-04-09 12:24:19.000000000 +00:00
+- title: Nix Derivations, Without Guessing
+  url: https://bernsteinbear.com/blog/nix-by-hand/
   summary: Comments
-  published: 2025-04-09 01:21:22.000000000 +00:00
-- title: Framework stops selling some laptops in the US in response to tariffs
-  url: https://liliputing.com/framework-stops-selling-some-laptops-in-the-us-in-response-to-tariffs/
+  published: 2025-04-07 03:25:13.000000000 +00:00
+- title: How University Students Use Claude
+  url: https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude
   summary: Comments
-  published: 2025-04-09 01:17:58.000000000 +00:00
-- title: Brazil's government-run payments system has become dominant
-  url: https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant
+  published: 2025-04-09 15:41:38.000000000 +00:00
+- title: Photographs of 19th Century Japan
+  url: https://cosmographia.substack.com/p/photographs-of-old-japan
   summary: Comments
-  published: 2025-04-08 10:59:26.000000000 +00:00
-- title: How Netflix Accurately Attributes eBPF Flow Logs
-  url: https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc
+  published: 2025-04-09 12:20:06.000000000 +00:00
+- title: Parser Combinators Beat Regexes
+  url: https://entropicthoughts.com/parser-combinators-beat-regexes
   summary: Comments
-  published: 2025-04-08 18:21:49.000000000 +00:00
-- title: Tailscale has raised $160M
-  url: https://tailscale.com/blog/series-c
+  published: 2025-04-09 21:53:05.000000000 +00:00
+- title: How much do you think it costs to make a pair of Nike shoes in Asia?
+  url: https://twitter.com/dieworkwear/status/1909741170953273353
   summary: Comments
-  published: 2025-04-08 10:36:07.000000000 +00:00
-- title: 'Show HN: DrawDB – open-source online database diagram editor (a retro)'
-  url: https://www.drawdb.app/
+  published: 2025-04-09 12:58:39.000000000 +00:00
+- title: The Agent2Agent Protocol (A2A)
+  url: https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/
   summary: Comments
-  published: 2025-04-09 00:20:18.000000000 +00:00
-- title: The Barium Experiment
-  url: https://tomscii.sig7.se/2025/04/The-Barium-Experiment
+  published: 2025-04-09 12:38:20.000000000 +00:00
+- title: Baking the Y Combinator from Scratch
+  url: https://the-nerve-blog.ghost.io/baking-the-y-combinator-from-scratch-part-1/
   summary: Comments
-  published: 2025-04-09 00:44:22.000000000 +00:00
-- title: Solving a “Layton Puzzle” with Prolog
-  url: https://buttondown.com/hillelwayne/archive/a48fce5b-8a05-4302-b620-9b26f057f145/
+  published: 2025-04-09 19:04:12.000000000 +00:00
+- title: Uncovering a 0-Click RCE in the SuperNote Nomad E-Ink Tablet
+  url: https://www.prizmlabs.io/post/remote-rootkits-uncovering-a-0-click-rce-in-the-supernote-nomad-e-ink-tablet
   summary: Comments
-  published: 2025-04-08 19:11:41.000000000 +00:00
-- title: How to Recognize Woodpeckers by Their Drumming Sounds
-  url: https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/
+  published: 2025-04-07 20:51:02.000000000 +00:00
+- title: BS 1363 British Plugs and Sockets
+  url: https://www.plugsocketmuseum.nl/British1.html
   summary: Comments
-  published: 2025-04-08 20:00:22.000000000 +00:00
-- title: Decomposing factorial of 300K as the product of 300K factors larger than
-    100K
-  url: http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html
+  published: 2025-04-10 00:26:31.000000000 +00:00
+- title: The chroot Technique – a Swiss army multitool for Linux systems
+  url: https://livesys.se/posts/the-chroot-technique/
   summary: Comments
-  published: 2025-04-08 18:28:06.000000000 +00:00
-- title: Analytic Combinatorics – A Worked Example
-  url: https://grossack.site/2025/04/08/analytic-combinatorics-example.html
+  published: 2025-04-09 14:12:47.000000000 +00:00
+- title: 'Show HN: Aqua Voice 2 – Fast Voice Input for Mac and Windows'
+  url: https://withaqua.com
   summary: Comments
-  published: 2025-04-08 17:29:29.000000000 +00:00
-- title: Better typography with text-wrap pretty
-  url: https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/
+  published: 2025-04-09 16:31:06.000000000 +00:00
+- title: Do Charity Bookshops Drive Out Other Second-Hand Bookshops?
+  url: http://wormwoodiana.blogspot.com/2025/04/do-charity-bookshops-drive-out-other.html
   summary: Comments
-  published: 2025-04-08 15:10:29.000000000 +00:00
-- title: 'Show HN: Coroot – eBPF-based, open source observability with actionable
-    insights'
-  url: https://github.com/coroot/coroot
+  published: 2025-04-09 20:51:35.000000000 +00:00
+- title: 'Show HN: Obelisk – a WASM-based deterministic workflow engine'
+  url: https://obeli.sk/
   summary: Comments
-  published: 2025-04-08 16:49:40.000000000 +00:00
-- title: 'No elephants: Breakthroughs in image generation'
-  url: https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image
+  published: 2025-04-09 19:24:40.000000000 +00:00
+- title: Quality-of-Life in Tetris Games
+  url: https://jcarlosroldan.com/post/355
   summary: Comments
-  published: 2025-04-05 03:51:51.000000000 +00:00
-- title: 'Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The
-    Atlantic'
-  url: https://www.theatlantic.com/games/bracket-city/
+  published: 2025-04-09 13:10:44.000000000 +00:00
+- title: Firebase Studio
+  url: https://firebase.studio
   summary: Comments
-  published: 2025-04-08 15:11:26.000000000 +00:00
-- title: An Overwhelmingly Negative and Demoralizing Force
-  url: https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney
+  published: 2025-04-09 18:39:03.000000000 +00:00
+- title: Whistleblower tells senators that Meta undermined U.S. security, interests
+  url: https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/
   summary: Comments
-  published: 2025-04-08 09:22:23.000000000 +00:00
-- title: Owner fills restaurant with fresh water to beat Kentucky flooding
-  url: https://www.cnn.com/2025/04/07/weather/video/louisville-restaurant-kentucky-flooding-digvid
+  published: 2025-04-09 20:34:49.000000000 +00:00
+- title: 'Show HN: I turned GitHub contributions into a retro battle game'
+  url: https://epicdevbattlesofhistory.com
   summary: Comments
-  published: 2025-04-09 01:38:30.000000000 +00:00
-- title: 'Ask HN: Do you still use search engines?'
-  url: https://news.ycombinator.com/item?id=43619768
+  published: 2025-04-07 10:29:16.000000000 +00:00
+- title: Antiviral chewing gum to reduce influenza and herpes simplex virus transmission
+  url: https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission
   summary: Comments
-  published: 2025-04-08 09:23:18.000000000 +00:00
-- title: 'Show HN: Soundscapes and Lofi Player'
-  url: https://www.noisefill.com/
+  published: 2025-04-09 19:09:27.000000000 +00:00
+- title: 'Show HN: I built an app to generate story relationships using Mermaidjs'
+  url: https://github.com/herol3oy/austen
   summary: Comments
-  published: 2025-04-07 17:26:51.000000000 +00:00
-- title: Intelligence Evolved at Least Twice in Vertebrate Animals
-  url: https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/
+  published: 2025-04-09 15:34:27.000000000 +00:00
+- title: 'Show HN: Comparing product rankings by OpenAI, Anthropic, and Perplexity'
+  url: https://productrank.ai/
   summary: Comments
-  published: 2025-04-08 08:36:23.000000000 +00:00
-- title: The Treachery of Image Files (2020)
-  url: http://beyondloom.com/blog/images.html
+  published: 2025-04-09 14:53:01.000000000 +00:00
+- title: Hardening the Firefox Front End with Content Security Policies
+  url: https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html
   summary: Comments
-  published: 2025-04-06 19:02:58.000000000 +00:00
-- title: The Greatest Motorcycle Photo
-  url: https://www.life.com/arts-entertainment/the-greatest-motorcycle-photo-ever/
+  published: 2025-04-09 09:34:16.000000000 +00:00
+- title: SpacetimeDB
+  url: https://spacetimedb.com/
   summary: Comments
-  published: 2025-04-05 17:41:35.000000000 +00:00
-- title: The Decline of the U.S. Machine-Tool Industry and Prospects for Recovery
-    (1994)
-  url: https://www.rand.org/pubs/research_briefs/RB1500.html
+  published: 2025-04-09 13:27:30.000000000 +00:00
+- title: Visual Reasoning Is Coming Soon
+  url: http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/
   summary: Comments
-  published: 2025-04-04 22:21:39.000000000 +00:00
-- title: Reflections on the Mirror Stage
-  url: https://lareviewofbooks.org/blog/essays/reflections-mirror-stage/
+  published: 2025-04-09 15:58:30.000000000 +00:00
+- title: 'Show HN: LLM Based Spark Profiler'
+  url: https://datasre.ai/
   summary: Comments
-  published: 2025-04-06 17:28:23.000000000 +00:00
-- title: 'Show HN: HNSW index for vector embeddings in approx 500 LOC'
-  url: https://github.com/dicroce/hnsw
+  published: 2025-04-09 20:42:45.000000000 +00:00
+- title: 'Keeping it Old-Tool: REPL habits of a grug-brained Clojure programmer'
+  url: https://www.evalapply.org/posts/demo-clojure-workflow-scicloj/index.html
   summary: Comments
-  published: 2025-04-08 15:43:14.000000000 +00:00
-- title: 'Show HN: Connecting an IBM 3151 terminal to a mainframe [video]'
-  url: https://www.youtube.com/watch?v=V14ac9cRi9Q
+  published: 2025-04-09 19:44:50.000000000 +00:00
+- title: 'Show HN: Git Game Show – Multiplayer Game in Your Repo'
+  url: https://justinpaulson.github.io/git_game_show/
   summary: Comments
-  published: 2025-04-08 12:36:53.000000000 +00:00
-- title: Middle-aged man trading cards go viral in rural Japan town
-  url: https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/
+  published: 2025-04-09 21:44:36.000000000 +00:00
+- title: 'Show HN: I turned my kid''s worksheet into a math game in 10 minutes with
+    Claude'
+  url: https://mattsayar.com/how-i-vibe-coded-a-math-game-in-ten-minutes/
   summary: Comments
-  published: 2025-04-07 21:03:16.000000000 +00:00
+  published: 2025-04-06 17:43:02.000000000 +00:00
