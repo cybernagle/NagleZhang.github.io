@@ -1,58 +1,391 @@
 ---
 - title: " Here’s what happened in crypto today "
   url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, the US Federal Reserve says it's ready to use its monetary
-    policy tools to support liquidity if necessary, a New York lawmaker has proposed
-    legislation allowing state agencies to accept cryptocurrency payments, and US
-    President Donald Trump has signed a repeal of the IRS’s DeFi broker rule.US Fed
-    'absolutely' ready to step in if liquidity dries up — Voting memberThe US Federal
-    Reserve is prepared to use its vast arsenal of monetary policy tools to prevent
-    financial and economic conditions from deteriorating rapidly but will do so only
-    if liquidity dries up or markets become disorderly, a top central banker said.In
-    an interview with the Financial Times, Boston Fed President Susan Collins said
-    the central bank “would absolutely be prepared” to backstop markets if needed.While
-    it is generally understood that the Fed is always prepared to act quickly to stave
-    off market chaos, Collins’ remarks come on the heels of asset selloffs across
-    stocks and bonds, which have raised concerns about the health of the US financial
-    system.Overall, however, the Fed is “not seeing liquidity concerns,” said Collins.
-    If that were to change, policymakers would have “tools to address concerns about
-    markets functioning or liquidity,” she said.The Fed’s Collins pictured in a December
-    interview with Bloomberg. Source: Bloomberg TelevisionFor investors, Collins’
-    comments may carry extra weight because she’s a voting member of this year’s Federal
-    Open Market Committee (FOMC) — the 12-person panel responsible for setting interest
-    rates.While Collins and her fellow FOMC members voted to keep interest rates steady
-    at their March meeting, the biggest takeaway was the central bank’s easing off
-    on quantitative tightening by reducing the redemption cap on Treasurys by 80%.New
-    York bill proposes legalizing Bitcoin, crypto for state paymentsAssembly Bill
-    A7788, introduced by Assemblyman Clyde Vanel, seeks to amend state financial law
-    to allow New York state agencies to accept cryptocurrencies as a form of payment.It
-    would permit state agencies to accept payments in Bitcoin (BTC), Ether (ETH),
-    Litecoin (LTC) and Bitcoin Cash (BCH), according to the bill’s text.Source: Nysenate.govAccording
-    to the bill, state offices could authorize crypto payments for “fines, civil penalties,
-    rent, rates, taxes, fees, charges, revenue, financial obligations or other amounts,”
-    as well as penalties, special assessments and interest.Cryptocurrency legislation
-    is becoming a focal point in New York, with Bill A7788 marking the state’s second
-    crypto-focused legislation in a little over a month.In March, New York introduced
-    Bill A06515, aiming to establish criminal penalties to prevent cryptocurrency
-    fraud and protect investors from rug pulls.Crypto-focused legislation has gathered
-    momentum since President Donald Trump took office on Jan. 20, with Trump signaling
-    during his campaign that his administration intends to make crypto policy a national
-    priority, as well as making the US a global hub for blockchain innovation.Trump
-    signs resolution killing IRS DeFi broker ruleUS President Donald Trump signed
-    a joint congressional resolution on April 10 that overturned a Biden-era rule
-    requiring decentralized finance (DeFi) protocols to report transactions to the
-    Internal Revenue Service (IRS)The so-called IRS DeFi broker rule was set to take
-    effect in 2027 and twould have expanded the tax authority’s existing reporting
-    requirements to include DeFi platforms, requiring them to disclose gross proceeds
-    from crypto sales, including information regarding taxpayers involved in the transactions.Representative
-    Mike Carey, who backed the resolution, said it was the the first time a president
-    has signed a crypto bill into law.Source: Mike CareyCritics of the rule claimed
-    it would lump decentralized platforms with too onerous rules, hampering crypto
-    innovation, while supporters said killing the rule would create a loophole for
-    wealthy tax cheats.Trump was widely expected to sign the bill, as White House
-    AI and crypto czar David Sacks said in March that the president supported killing
-    the measure.\n\n            "
-  published: 2025-04-11 22:59:01.000000000 +01:00
+  summary: "Today in crypto, Trump exempts select electronics from trade tariffs,
+    former Binance CEO Changpeng Zhao denied reports that he agreed to testify against
+    Justin Sun, calling them baseless and politically motivated, and acting Chair
+    of the US Securities and Exchange Commission, Mark Uyeda, proposed a temporary
+    crypto framework in the US.Select electronics spared from reciprocal tariffsSelect
+    electronic products, including smartphones, processing chips, and computers are
+    exempt from ‘reciprocal’ tariffs under President Trump’s sweeping tariff order,
+    a relief to US tech companies and shareholders.According to a release from the
+    US Customs and Border Protection, other consumer electronics such as internet
+    modems, storage devices, and components such as semiconductors are also exempt
+    from the additional reciprocal tariffs.Notice exempting select electronics from
+    reciprocal trade tariffs. Source: US Customs and Border ProtectionThe price of
+    Bitcoin (BTC) surged by approximately 2.5% on the same day of the announcement
+    and broke the $85,000 level. Bitcoin's price reaction could signal that at least
+    some investors are entering the market again as risk appetite rebounds on positive
+    macro headlines.CZ claps back against “baseless” US plea deal allegationsChangpeng
+    “CZ” Zhao, former CEO of Binance, has denied claims that he agreed to provide
+    evidence against Tron founder Justin Sun as part of a plea deal with the United
+    States Department of Justice (DOJ).In an April 11 report, The Wall Street Journal
+    cited unnamed sources alleging that CZ had agreed to testify against Sun under
+    the terms of his settlement with US prosecutors.“As part of Zhao’s plea deal,
+    he agreed to give evidence on Sun to prosecutors,” an “arrangement” that “hasn’t
+    previously been reported,” the WSJ report stated, citing sources familiar with
+    the matter.“WSJ is really TRYING here. They seem to have forgotten who went to
+    prison and who didn't,” Zhao wrote in an April 12 X post. “People who become gov
+    witnesses don’t go to prison. They are protected. I heard someone paid WSJ employees
+    to smear me.”Source: Changpeng ZhaoCZ was sentenced to four months in prison in
+    April 2024 for Anti-Money Laundering (AML) violations. He walked free from federal
+    prison on Sept. 27 as the wealthiest person to ever serve a US prison sentence,
+    with a $60 billion net worth at the time.In a separate April 11 post, CZ claimed
+    multiple individuals had warned him about the Journal’s intentions to publish
+    what he described as a “hit piece.”US crypto industry needs band-aid now, “long-term
+    solution” later — UyedaA fast-tracked temporary crypto regulatory framework could
+    bolster innovation within the US crypto industry while permanent regulations are
+    still in the works, says acting US Securities and Exchange Commission (SEC) chair
+    Mark Uyeda.“A time-limited, conditional exemptive relief framework for registrants
+    and non-registrants could allow for greater innovation with blockchain technology
+    within the United States in the near term,” Uyeda said at the SEC’s April 11 Crypto
+    Task Force roundtable titled “Between a Block and a Hard Place: Tailoring Regulation
+    for Crypto Trading.”Uyeda said this might be the short-term answer as the SEC
+    works toward a “long-term solution,” at the roundtable with SEC members and crypto
+    industry executives, including Uniswap Labs’ Katherine Minarik, Cumberland DRW’s
+    Chelsea Pizzola, and Coinbase’s Gregory Tusar.\n\n            "
+  published: 2025-04-12 23:25:19.000000000 +01:00
+- title: " Trump exempts select tech products from tariffs, crypto to benefit? "
+  url: https://cointelegraph.com/news/trump-exempts-select-tech-products-tariffs-crypto-benefit?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "United States President Donald Trump has exempted an array of tech products
+    including, smartphones, chips, computers, and select electronics from reciprocal
+    tariffs, giving the tech industry a much-needed respite from trade pressures.According
+    to the US Customs and Border Protection, storage cards, modems, diodes, semiconductors,
+    and other electronics were also excluded from the  ‘reciprocal’ trade tariffs.
+    \"Large-cap technology companies will ultimately come out ahead when this is all
+    said and done,\" The Kobeissi letter wrote in an April 12 X post.US Customs and
+    Border Protection announces tariff exemptions on select tech products. Source:
+    US Customs and Border ProtectionThe tariff relief will take the pressure off of
+    tech stocks, which were one of the biggest casualties of the trade war. Crypto
+    markets are correlated with tech stocks and could also rally as risk appetite
+    increases on positive trade war headlines.Following news of the tariff exemptions,
+    the price of Bitcoin (BTC) broke past $85,000 on April 12, a signal that crypto
+    markets are already responding to the latest macroeconomic development.Related:
+    Billionaire investor would ‘not be surprised’ if Trump postpones tariffsMarkets
+    hinge on Trump's every word during macroeconomic uncertaintyPresident Trump walked
+    back the sweeping tariff policies on April 9 by initiating a 90-day pause on the
+    reciprocal tariffs and lowering tariff rates to 10% for countries that did not
+    respond with counter-tariffs on US goods.Bitcoin surged by 9% and the S&P 500
+    surged by over 10% on the same day that Trump issued the tariff pause.Macroeconomic
+    trader Raoul Pal said the tariff policies were a negotiation tool to establish
+    a US-China trade deal and characterized the US administration's trade rhetoric
+    as \"posturing.\"Bitcoin advocate Max Keiser argued that exempting select tech
+    products from import tariffs would not reduce bond yields or further the Trump
+    administration's goal of lowering interest rates.Yield on the 10-year US government
+    bond spikes following sweeping trade policies from the Trump administration. Source:
+    TradingViewThe yield on the 10-year US Treasury Bond shot up to a local high of
+    approximately 4.5% on April 11 as bond investors reacted to the macroeconomic
+    uncertainty of a protracted trade war.\"The concession just given to China for
+    tech exports won’t reverse the trend of rates going higher. Confidence in US bonds
+    and the US Dollar has been eroding for years and won’t stop now,\" Keiser wrote
+    on April 12.This article does not contain investment advice or recommendations.
+    Every investment and trading move involves risk, and readers should conduct their
+    own research when making a decision.Magazine: Trump’s crypto ventures raise conflict
+    of interest, insider trading questions\n\n            "
+  published: 2025-04-12 18:12:09.000000000 +01:00
+- title: " Asia holds crypto liquidity, but US Treasurys will unlock institutional
+    funds "
+  url: https://cointelegraph.com/news/asia-holds-crypto-liquidity?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Jack Lu, CEO of BounceBitFor years, crypto has promised a
+    more open and efficient financial system. A fundamental inefficiency remains:
+    the disconnect between US capital markets and Asia’s liquidity hubs.The United
+    States dominates capital formation, and its recent embrace of tokenized treasuries
+    and real-world assets signals a significant step toward blockchain-based finance.
+    Meanwhile, Asia has historically been a global crypto trading and liquidity hub
+    despite evolving regulatory shifts. These two economies operate, however, in silos,
+    limiting how capital can move seamlessly into digital assets.This isn’t just an
+    inconvenience — it’s a structural weakness preventing crypto from becoming a true
+    institutional asset class. Solving it will cause a new era of structured liquidity,
+    making digital assets more efficient and attractive to institutional investors.The
+    capital bottleneck holding crypto backInefficiency between US capital markets
+    and Asian crypto hubs stems from regulatory fragmentation and a lack of institutional-grade
+    financial instruments.US firms hesitate to bring tokenized treasuries onchain
+    because of evolving regulations and compliance burdens. Meanwhile, Asian trading
+    platforms operate in a different regulatory paradigm, with fewer barriers to trading
+    but limited access to US-based capital. Without a unified framework, cross-border
+    capital flow remains inefficient.Stablecoins bridge traditional finance and crypto
+    by providing a blockchain-based alternative to fiat. They are not enough. Markets
+    require more than just fiat equivalents. To function efficiently, they need yield-bearing,
+    institutionally trusted assets like US Treasurys and bonds. Without these, institutional
+    capital remains largely absent from crypto markets.Crypto needs a universal collateral
+    standardCrypto must evolve beyond simple tokenized dollars and develop structured,
+    yield-bearing instruments that institutions can trust. Crypto needs a global collateral
+    standard that links traditional finance with digital assets. This standard must
+    meet three core criteria.First, it must offer stability. Institutions will not
+    allocate meaningful capital to an asset class that lacks a robust foundation.
+    Therefore, collateral must be backed by real-world financial instruments that
+    provide consistent yield and security.Recent: Hong Kong crypto payment firm RedotPay
+    wraps $40M Series A funding roundSecond, it must be widely adopted. Just as Tether’s
+    USDt (USDT) and USDC (USDC) became de facto standards for fiat-backed stablecoins,
+    widely accepted yield-bearing assets are necessary for institutional liquidity.
+    Market fragmentation will persist without standardization, limiting crypto’s ability
+    to integrate with broader financial systems.Third, it must be DeFi-native. These
+    assets must be composable and interoperable across blockchains and exchanges,
+    allowing capital to move freely. Digital assets will remain locked in separate
+    liquidity pools without onchain integration, preventing efficient market growth.Without
+    this infrastructure, crypto will continue to operate as a fragmented financial
+    system. To ensure that both US and Asian investors can access tokenized financial
+    instruments under the same security and governance standard, institutions require
+    a seamless, compliant pathway for capital deployment. Establishing a structured
+    framework that aligns crypto liquidity with institutional financial principles
+    will determine whether digital assets can truly scale beyond their current limitations.The
+    rise of institutional-grade crypto liquidityA new generation of financial products
+    is beginning to solve this issue. Tokenized treasuries, like BUIDL and USYC, function
+    as stable-value, yield-generating assets, offering investors an onchain version
+    of traditional fixed-income products. These instruments provide an alternative
+    to traditional stablecoins, enabling a more capital-efficient system that mimics
+    traditional money markets.Asian exchanges are beginning to incorporate these tokens,
+    providing users access to yields from US capital markets. Beyond mere access,
+    however, a more significant opportunity lies in packaging crypto exposure alongside
+    tokenized US capital market assets in a way that meets institutional standards
+    while remaining accessible in Asia. This will allow for a more robust, compliant
+    and scalable system that connects traditional and digital finance.Bitcoin is also
+    evolving beyond its role as a passive store of value. Bitcoin-backed financial
+    instruments enable Bitcoin (BTC) to be restaked as collateral, unlocking liquidity
+    while generating rewards. For Bitcoin to function effectively within institutional
+    markets, however, it must be integrated into a structured financial system that
+    aligns with regulatory standards, making it accessible and compliant for investors
+    across regions.Centralized decentralized finance (DeFi), or “CeDeFi,” is the hybrid
+    model that integrates centralized liquidity with DeFi’s transparency and composability,
+    and is another key piece of this transition. For this to be widely adopted by
+    institutional players, it must offer standardized risk management, clear regulatory
+    compliance and deep integration with traditional financial markets. Ensuring that
+    CeDeFi-based instruments — e.g., tokenized treasuries, BTC restaking or structured
+    lending — operate within recognized institutional frameworks will be critical
+    for unlocking large-scale liquidity.The key shift is not just about tokenizing
+    assets. It’s about creating a system where digital assets can serve as effective
+    financial instruments that institutions recognize and trust.Why this matters nowThe
+    next phase of crypto’s evolution depends on its ability to attract institutional
+    capital. The industry is at a turning point: Unless crypto establishes a foundation
+    for seamless capital movement between traditional markets and digital assets,
+    it will struggle to gain long-term institutional adoption.Bridging US capital
+    with Asian liquidity is not just an opportunity — it is a necessity. The winners
+    in this next phase of digital asset growth will be the projects that solve the
+    fundamental flaws in liquidity and collateral efficiency, laying the groundwork
+    for a truly global, interoperable financial system.Crypto was designed to be borderless.
+    Now, it’s time to make its liquidity borderless, too.Opinion by: Jack Lu, CEO
+    of BounceBit. This article is for general information purposes and is not intended
+    to be and should not be taken as legal or investment advice. The views, thoughts,
+    and opinions expressed here are the author’s alone and do not necessarily reflect
+    or represent the views and opinions of Cointelegraph.\n\n            "
+  published: 2025-04-12 16:00:00.000000000 +01:00
+- title: " Bitcoin still on track for $1.8M in 2035, says analyst "
+  url: https://cointelegraph.com/news/bitcoin-to-1-8-m-2035-trump-trade-war-analyst?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin remains on track to surpass $1.8 million by 2035 despite recent
+    price corrections and waning investor appetite caused by ongoing global trade
+    tensions, according to Joe Burnett, director of market research at Unchained.Speaking
+    during Cointelegraph’s Chainreaction live show on X, Burnett said that Bitcoin
+    is still in a long-term bullish cycle and could potentially rival or surpass gold’s
+    $21 trillion market capitalization within the next decade.Despite tariff uncertainty
+    limiting risk appetite among investors, research analysts remain optimistic about
+    Bitcoin’s (BTC) long-term prospects for the next decade.“When I think about where
+    Bitcoin will be in 10 years, there are two models I admire,” Burnett said. “One
+    is the parallel model, which suggests that Bitcoin will be about $1.8 million
+    in 2035.” “The other is Michael Saylor’s Bitcoin 24 model, which suggests Bitcoin
+    will be $2.1 million by 2035.” Burnett emphasized that both are “good base cases,”
+    adding that Bitcoin’s trajectory could exceed these predictions depending on broader
+    macroeconomic factors.\U0001F399Could Bitcoin really hit $10m by Q1 2035? Perhaps.But
+    first, we need to unravel the tangled web of the markets this week, and for both
+    discussions, @rkbaggs and @gazza_jenks are joined today by Joe Burnett (@IIICapital)
+    on the #CHAINREACTION show! https://t.co/hfyEwGUCsh— Cointelegraph (@Cointelegraph)
+    April 11, 2025Related: Bitcoin price can hit $250K in 2025 if Fed shifts to QE:
+    Arthur HayesBitcoin outlook remains long-term bullish“The automobile industry
+    is significantly more valuable than the horse and buggy industry,” Burnett said,
+    adding that Bitcoin’s more advanced technological properties will make it surpass
+    the $21 trillion market capitalization of gold. He added:“The gold market is an
+    estimated $21 trillion market. If Bitcoin just hit $21 trillion and had Bitcoin-gold
+    parity, Bitcoin would be $1 million per coin today.”Since US President Donald
+    Trump’s Jan. 20 inauguration, global markets have been under pressure due to heightened
+    trade war fears. Hours after taking office, Trump threatened to impose sweeping
+    import tariffs aimed at reducing the country’s trade deficit, weighing on risk
+    sentiment across both equities and crypto.While Bitcoin’s role as a safe-haven
+    asset may reemerge amid ongoing trade war concerns, physical gold and tokenized
+    gold remain the current winners.Top tokenized gold assets, trading volume. Source:
+    CoinGecko, Cex.ioTariff fears led tokenized gold trading volume to surge to a
+    two-year high this week, topping $1 billion for the first time since the US banking
+    crisis in 2023, Cointelegraph reported on April 10.Related: Bitcoin’s 24/7 liquidity:
+    Double-edged sword during global market turmoilStrong hands hold during drawdownsBitcoin’s
+    volatility is falling during both bear and bull markets, signaling its growing
+    maturity as an asset class.While another 80% drawdown during future bear markets
+    is still possible, this will act as a robust acquisition period for the “strongest”
+    holders, Burnett said, adding:“The highs bring [Bitcoin] attention, and the deep,
+    dark bear markets move coins into the hands of the strongest, most convicted holders,
+    as fast as possible.”Arthur Hayes, co-founder of BitMEX and chief investment officer
+    at Maelstrom, predicted Bitcoin could climb to $250,000 by the end of 2025 if
+    the US Federal Reserve formally enters a quantitative easing cycle.Despite the
+    optimistic predictions, investors remain cautious and continue “rebalancing their
+    portfolios” but are unlikely to take on significant positions in the next 90 days
+    before markets gain more clarity on global tariff negotiations, Enmanuel Cardozo,
+    market analyst at real-world asset tokenization platform Brickken, told Cointelegraph.“With
+    money flowing out of Bitcoin ETFs, investors are looking for safer spots to hold
+    their cash right now, including strong currencies. Gold’s a traditional vehicle
+    in these cases and a go-to when markets are uncertain,” he added.BTC, gold, year-to-date
+    chart. Source: Cointelegraph/TradingViewSince the beginning of 2025, the price
+    of gold has risen over 23%, outperforming Bitcoin, which has fallen by more than
+    10% year-to-date, TradingView data shows.Magazine: Bitcoin’s odds of June highs,
+    SOL’s $485M outflows, and more: Hodler’s Digest, March 2 – 8\n\n            "
+  published: 2025-04-12 11:45:14.000000000 +01:00
+- title: " How to mine Bitcoin at home in 2025 "
+  url: https://cointelegraph.com/news/how-to-mine-bitcoin-at-home?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key takeawaysLottery mining is cheap and fun, but don’t count on hitting
+    a block.Solo ASIC mining gives you complete control, but it’s a long-odds game.Pool
+    mining is the most practical way to earn steady payouts at home.Cloud mining saves
+    you the hassle but usually isn’t worth the cost.Bitcoin is rapidly gaining legitimacy,
+    and you couldn’t be blamed for wanting to peek behind the curtain to see how it’s
+    made.Throughout 2024 and into 2025, you've seen a whirlwind of institutional investment
+    from companies like Strategy, which continues to aggressively accumulate Bitcoin
+    (BTC), and Metaplanet, Japan’s listed company that recently adopted BTC as a treasury
+    reserve asset. Moreover, on the regulatory front, the return of a US President
+    Donald Trump administration signals a friendlier stance toward crypto, with talk
+    of rolling back SEC overreach and possibly supporting US-based mining. Across
+    the Atlantic, the MiCA (Markets in Crypto-Assets) regulation has gone into effect
+    in the EU, offering clearer guidelines and reducing regulatory uncertainty for
+    retail investors and miners alike.Then there's the price. Bitcoin finally broke
+    the long-anticipated $100,000 resistance level in early 2025, following a post-halving
+    supply shock and increased ETF-driven demand. As institutions pour in and supply
+    tightens, more individuals are re-evaluating how to get involved.Whatever your
+    motivation, one thing’s certain: You want to mine from the comfort of your home. This
+    article will explain four realistic ways to mine Bitcoin at home in 2025, what
+    gear you’ll need, how much it might cost, and what kind of returns you can expect.Did
+    you know? Bitcoin mining has developed into a sizable industry, with revenues
+    growing by over 6,700% from 2021 to 2025. Option 1: Lottery mining – Low power,
+    high risk, rare rewardsIf you’re working with a limited budget but still want
+    to try Bitcoin mining, lottery mining offers an interesting — if highly unpredictable
+    — way.In July 2024, a solo miner using just three TH/s of hash power — roughly
+    what you’d get from two small USB devices — successfully mined an entire Bitcoin
+    block. The reward was 3.192 BTC, worth over $200,000 at the time. Statistically,
+    that kind of result should take thousands of years. But with some luck and help
+    from the Solo CKPool platform, it actually happened.These wins are extremely rare,
+    but they do happen. And that’s what keeps some people interested.Most lottery
+    miners use small, low-power devices like the Bitaxe HEX, an open-source miner
+    built with actual Antminer chips. It runs at around three TH/s, costs about $600
+    and pairs easily with a Raspberry Pi. Another popular option is the GekkoScience
+    R909, a USB miner running at 1.5 TH/s and a favorite among hobbyists. These devices
+    aren’t built for steady income. They’re closer to digital slot machines, but ones
+    that still contribute to securing the Bitcoin network.So why do people do it?Three
+    main reasons:Running an independent node supports the health and resilience of
+    the Bitcoin network.It’s a good way to get familiar with how mining works.A single
+    successful block can be worth a lot, and it’s all yours if it happens.For most,
+    it’s not about making money. It’s about the challenge and the curiosity, like
+    building a custom PC or restoring a vintage radio. And yes, it also looks great
+    plugged in on a shelf, blinking quietly under a glowing Bitcoin lamp.Next up:
+    ASICs, the heavy-duty hardware of serious miners.Did you know? Solo CKPool is
+    designed for independent miners who want to submit their shares directly to the
+    Bitcoin network. Unlike traditional mining pools, if you’re successful here, the
+    entire reward goes to you (minus a small pool fee). There’s no revenue sharing,
+    no splitting blocks.Option 2: ASIC mining – Solo mining with real hardwareIf lottery
+    mining is like buying a single ticket and hoping for a lucky break, solo mining
+    with an ASIC is showing up with a small stack. Your chances improve, but it’s
+    still a long shot.ASICs — application-specific integrated circuits — are purpose-built
+    for Bitcoin mining. In 2025, high-end models like the Antminer S21 Hydro deliver
+    impressive performances, reaching around 400 terahashes per second with improved
+    energy efficiency over previous generations.Let’s look at the numbers.The Bitcoin
+    network currently runs at around 500 exahashes per second. With one S21 Hydro,
+    you’d control roughly 0.00008% of the total hashrate. That gives you odds of about
+    one in 8.6 billion of finding a block on any given day. It's still extremely unlikely,
+    but it's far better than what you’d get with low-power USB miners.To meaningfully
+    improve your chances, you’d need to scale up.Running 20 ASICs could put you past
+    eight petahashes per second, enough, in theory, to find a block about once a year.
+    But that setup requires significant capital, proper ventilation or immersion cooling
+    and a reliable energy supply. Even then, outcomes are unpredictable. The Bitcoin
+    network might find several blocks in an hour or none at all.Still, some miners
+    go this route. The appeal is simple: If you do find a block on your own, you keep
+    the entire reward, currently over three BTC, plus transaction fees. There is no
+    need to split the payout with anyone else.But for most people, even those with
+    top-tier ASICs, solo mining remains a high-risk approach with uncertain rewards.Did
+    you know? The cost of the latest mining equipment has significantly decreased,
+    with prices around $16 per terahash in 2025, compared to $80 per terahash in 2022,
+    enhancing mining efficiency.That’s why many home miners eventually turn to a more
+    consistent and scalable model:Joining a mining pool.Option 3: Pool mining – Strength
+    in numbersIf solo mining is a long shot, pool mining is the practical alternative.
+    It’s how most home miners approach Bitcoin mining in 2025 – and with good reason.By
+    joining a mining pool, you combine your hashrate with thousands of other participants.
+    When the pool successfully mines a block, the reward is split based on each miner’s
+    contribution. You’re no longer chasing a rare solo win, but earning smaller, steady
+    payouts. It’s more predictable, less risky and not so dependent on luck.For example,
+    if you’re running an Antminer S21 Hydro at 400 TH/s, that hash power earns you
+    a proportional share of the pool’s rewards. You’ll likely see consistent daily
+    income tied directly to your contribution.The largest pools today — Foundry USA,
+    Antpool, ViaBTC, F2Pool — handle thousands of blocks every month. Many offer FPPS
+    (Full Pay Per Share) models, where you’re paid for every valid share you submit,
+    regardless of whether a block is found that day. Others use PPLNS (Pay Per Last
+    N Shares), which only pays out when a block is discovered, but can result in slightly
+    higher returns over time. The choice depends on how much payout fluctuation you're
+    comfortable with.Setting things up is straightforward:Create an account with your
+    chosen pool.Point your ASIC miner to the pool’s server.Add your Bitcoin payout
+    address.Monitor your stats from the pool’s web dashboard.The returns won’t be
+    massive, but they’ll be consistent, and for many miners, that’s exactly the goal.But
+    what if you want to skip the hardware, the setup and the electricity costs altogether?
+    What if you want exposure to mining without running a machine?That’s where cloud
+    mining comes in.Option 4: Cloud mining – Mining without the machinesCloud mining
+    lets you rent hash power from a remote provider, who runs the hardware on your
+    behalf. You don’t have to manage equipment, deal with heat or noise, or worry
+    about electricity costs. You simply buy a contract, and if all goes well, you
+    will receive a portion of the mining rewards.On paper, it sounds straightforward.
+    You select a provider, choose how much hash power you want to rent, and pay either
+    upfront or through a subscription. The provider takes care of the infrastructure,
+    including maintenance and cooling. In return, you earn a share of the Bitcoin
+    mined, proportional to your rented power.But there are trade-offs – and risks.Cloud
+    mining has gained a mixed reputation. Over the years, the space has been flooded
+    with questionable operators, unrealistic return promises and outright scams. Many
+    contracts turn out to be unprofitable once you factor in service fees, maintenance
+    costs and the increasing difficulty of mining. You're effectively trusting a third
+    party to operate machines you'll never see.That said, there are a few reputable
+    providers. Platforms like NiceHash, BitDeer and ECOS have remained active in the
+    space and offer flexible, transparent options. Some let you choose specific coins
+    or pools. Still, even with these more established names, margins tend to be very
+    thin, especially during bear markets or when global hashrates spike.Cloud mining
+    may be worth considering if:You have limited access to cheap electricity or space
+    for equipment.You’re looking for a low-effort way to get exposure to mining.You
+    view it more as a speculative bet than a reliable income stream.However, if your
+    goal is consistent returns or hands-on experience, then running your own gear
+    or just buying and holding Bitcoin is likely a better use of resources.The bottom
+    lineThere’s no single right way to mine Bitcoin at home in 2025. It comes down
+    to what you’re after. Lottery mining is fun and cheap, but the odds are long.
+    Going solo with an ASIC gives you full control and full risk. Mining pools are
+    the go-to for steady, reliable payouts. Cloud mining offers convenience but not
+    much certainty.If you're in it for the learning, the experience, or to slowly
+    stack sats over time, there’s a setup that’ll fit. Just know what you’re getting
+    into and why you’re doing it. \n\n            "
+  published: 2025-04-12 11:10:00.000000000 +01:00
+- title: " US crypto industry needs band-aid now, ‘long-term solution’ later — Uyeda "
+  url: https://cointelegraph.com/news/mark-uyeda-crypto-temporary-framework-sec-roundtable-crypto-task-force?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "A fast-tracked temporary crypto regulatory framework could bolster innovation
+    within the US crypto industry while permanent regulations are still in the works,
+    says acting US Securities and Exchange Commission (SEC) Chair Mark Uyeda.“A time-limited,
+    conditional exemptive relief framework for registrants and non-registrants could
+    allow for greater innovation with blockchain technology within the United States
+    in the near term,” Uyeda said at the SEC’s April 11 Crypto Task Force roundtable
+    titled “Between a Block and a Hard Place: Tailoring Regulation for Crypto Trading.”Relief
+    measures may address immediate challengesUyeda said this might be the short-term
+    answer as the SEC works toward a “long-term solution” at the roundtable with SEC
+    members and crypto industry executives, including Uniswap Labs’ Katherine Minarik,
+    Cumberland DRW’s Chelsea Pizzola and Coinbase’s Gregory Tusar.He flagged state-by-state
+    regulation of crypto trading as a concern, warning it could lead to a “patchwork
+    of state licensing regimes.” Uyeda said that a favorable federal regulatory framework
+    would ease the burden for market participants wishing to offer tokenized securities
+    and non-security crypto assets, allowing them to operate under a single SEC license
+    instead of navigating “fifty different state licenses.”He urged crypto market
+    participants to share feedback on areas where “exemptive relief” could be appropriate.Source:
+    US Securities and Exchange CommissionUyeda also reiterated the benefits of blockchain
+    technology in financial markets during the roundtable discussion.  “Blockchain
+    technology offers the potential to execute and clear securities transactions in
+    ways that may be more efficient and reliable than current processes,” Uyeda said.Uyeda
+    to fill chair position until Atkins is sworn in“Blockchains can be used to manage
+    and mobilize collateral in tokenized form to increase capital efficiency and liquidity,”
+    he added.Uyeda will continue serving as acting SEC chair until US President Donald
+    Trump’s nominee, Paul Atkins, is officially sworn in.On April 10, the US Senate
+    confirmed Atkins as chair of the SEC in a 52-44 vote largely along party lines. Related:
+    SEC, Ripple file joint motion to pause appeals in XRP caseUyeda has served as
+    acting SEC chair since Jan. 20, succeeding former chair and crypto skeptic Gary
+    Gensler. He’s been widely seen within the industry as a pro-crypto advocate.On
+    March 18, Cointelegraph reported that Uyea said the SEC could change or scrap
+    a rule proposed under the Biden administration that would tighten crypto custody
+    standards for investment advisers.“I have asked the SEC staff to work closely
+    with the crypto task force to consider appropriate alternatives, including its
+    withdrawal,” Uyeda said.Magazine: Memecoin degeneracy is funding groundbreaking
+    anti-aging research\n\n            "
+  published: 2025-04-12 03:26:42.000000000 +01:00
 - title: " US Senate bill threatens crypto, AI data centers with fees — Report "
   url: https://cointelegraph.com/news/us-bill-threatens-crypto-ai-data-centers-fees-report?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Draft legislation in the US Senate threatens to hit data centers serving
@@ -1433,233 +1766,6 @@
     become law.Magazine: Financial nihilism in crypto is over — It’s time to dream
     big again\n\n            "
   published: 2025-04-11 03:54:27.000000000 +01:00
-- title: " North Carolina lawmaker introduces Digital Asset Freedom Act "
-  url: https://cointelegraph.com/news/north-carolina-lawmaker-introduces-digital-asset-freedom-act?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "North Carolina (NC) representative Neal Jackson introduced the North Carolina
-    Digital Asset Freedom Act on April 10. The bill proposes that qualifying \"digital
-    assets\" be accepted as a legally recognized form of payment and for taxes.Although
-    the language of the bill does not specifically mention Bitcoin (BTC), there are
-    several provisions laid out that make BTC uniquely qualified under the bill's
-    definition of a \"digital asset.\"These stipulations include a minimum market
-    capitalization of $750 billion and a daily trading volume of over $10 billion,
-    a market history of 10 years or more, proven censorship resistance, proof-of-work
-    consensus, lack of a central authority, 99.98% or more network uptime, and a maximum
-    supply cap. The bill read:\"The General Assembly further finds that decentralized
-    digital assets, which are not governed by any central entity or foundation, align
-    with the economic principles of limited, noninflationary money and are capable
-    of ensuring the security and integrity of transactions.\"Jackson's bill is merely
-    the latest in state-led Bitcoin strategic reserve legislation in the United States
-    amid inflation concerns, high US federal debt and a depreciating currency.NC Digital
-    Asset Freedom Act. Source: North Carolina LegislatureRelated: North Carolina bills
-    would add crypto to state’s retirement systemNorth Carolina takes a firm stance
-    against CBDCsFormer North Carolina Governor Roy Cooper vetoed a bill banning a
-    central bank digital currency (CBDC) in July 2024. At the time, Cooper characterized
-    the bill as \"premature, vague, and reactionary\" to threats that have not yet
-    materialized.In August 2024, the North Carolina House of Representatives overrode
-    Cooper's veto in a definitive and bipartisan 73-41 vote.The North Carolina Senate
-    followed suit by overriding Cooper's veto in a 27-17 vote and passed the anti-CBDC
-    legislation into law in September 2024.North Carolina’s anti-CBDC legislation.
-    Source: North Carolina Legislature Dan Spuller, the head of industry affairs at
-    crypto advocacy organization the Blockchain Association, applauded the action
-    taken by NC lawmakers to push back against the tide of CBDCs.\"This bill should
-    have never been vetoed, and Governor Cooper blew an opportunity to send a strong
-    message to the Federal Reserve that NC stands united against CBDCs,\" Spuller
-    wrote in a Sept. 9 X post.Magazine: Bitcoiner sex trap extortion? BTS firm’s blockchain
-    disaster: Asia Express\n\n            "
-  published: 2025-04-10 22:16:12.000000000 +01:00
-- title: " Tariffs, capital controls could fragment blockchain networks — Execs "
-  url: https://cointelegraph.com/news/tariffs-capital-controls-could-disrupt-blockchains-including-bitcoin-execs?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Escalating geopolitical tensions threaten to balkanize blockchain networks
-    and restrict users' access, crypto executives told Cointelegraph. On April 9,
-    US President Donald Trump announced a pause in the rollout of tariffs imposed
-    on certain countries — but the prospect of a global trade war still looms, especially
-    because Trump still wants to charge a 125% levy on Chinese imports. Industry executives
-    said they fear a litany of potential consequences if tensions worsen, including
-    disruptions to blockchain networks’ physical infrastructure, regulatory fragmentation,
-    and censorship. “Aggressive tariffs and retaliatory trade policies could create
-    obstacles for node operators, validators, and other core participants in blockchain
-    networks,” Nicholas Roberts-Huntley, CEO of Concrete & Glow Finance, told Cointelegraph. “In
-    moments of global uncertainty, the infrastructure supporting crypto, not just
-    the assets themselves, can become collateral damage.”According to data from CoinMarketCap,
-    cryptocurrency’s total market capitalization dropped approximately 4% on April
-    10 as traders weighed conflicting messages from the White House on tariffs amid
-    a backdrop of macroeconomic unease. Crypto’s market cap retraced on April 10.
-    Source: CoinMarketCapRelated: Trade tensions to speed institutional crypto adoption
-    — ExecsBitcoin’s vulnerabilitiesBitcoin (BTC) is especially vulnerable to a trade
-    war since the network depends on specialized hardware for Bitcoin mining, such
-    as the ASIC chips used to solve the network’s cryptographic proofs. “Tariffs disrupt
-    established ASIC supply chains,” David Siemer, CEO of Wave Digital Assets, told
-    Cointelegraph. Chinese manufacturers such as Bitmain are key suppliers for miners.However,
-    “the greater threat is the erosion of blockchain’s core value proposition—its
-    global, permissionless infrastructure,” Siemer said. This could be especially
-    problematic for everyday crypto holders. “If global trade breaks down and capital
-    controls tighten, it may become harder for citizens in restrictive countries to
-    acquire bitcoin,” said Joe Kelly, CEO of Unchained. “Governments could crack down
-    on exchanges and on-ramps, making accumulation and usage more difficult,” Kelly
-    added.Bitcoin’s performance versus stocks. Source: 21SharesIronically, these types
-    of fears also underscore the importance of cryptocurrencies and decentralized
-    blockchain networks, the executives said. Bitcoin has already shown “signs of
-    resilience” amid the market turbulence, highlighting the coin’s role in hedging
-    against geopolitical risks. “While the environment is challenging, it also creates
-    an opening for crypto to prove its long-term value and utility on the global stage,”
-    noted Fireblocks’ executive Neil Chopra.Magazine: Memecoin degeneracy is funding
-    groundbreaking anti-aging research\n\n            "
-  published: 2025-04-10 20:50:00.000000000 +01:00
-- title: " Bitcoin traders’ sentiment shift points to next step in BTC halving cycle "
-  url: https://cointelegraph.com/news/bitcoin-traders-sentiment-shift-points-to-next-step-in-btc-halving-cycle?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin’s (BTC) four-year cycle, anchored around its halving events, is
-    widely recognized as a key factor in BTC’s year-over-year price growth. Within
-    this larger framework, traders have come to expect distinct phases: accumulation,
-    parabolic rallies, and eventual crashes. Throughout the four-year period, shorter-duration
-    cycles also emerge, often driven by shifts in market sentiment and the behavior
-    of long- and short-term holders. These cycles, shaped by the psychological patterns
-    of market participants, can provide insights into Bitcoin’s next moves.Bitcoin
-    whales eat as markets retreatLong-term Bitcoin holders — those holding for three
-    to five years — are often considered the most seasoned participants. Typically
-    wealthier and more experienced, they can weather extended bear markets and tend
-    to sell near local tops. According to recent data from Glassnode, long-term holders
-    distributed over 2 million BTC in two distinct waves during the current cycle.
-    Both waves were followed by strong reaccumulation, which helped absorb sell-side
-    pressure and contributed to a more stable price structure. Currently, long-term
-    Bitcoin holders are in the new accumulation period. Since mid-February, this cohort’s
-    wealth increased sharply by almost 363,000 BTC.Total BTC supply held by long-term
-    holders. Source: GlassnodeAnother cohort of Bitcoin holders often seen as more
-    seasoned than the average market participant are whales—addresses holding over
-    1,000 BTC. Many of them are also long-term holders. At the top of this group are
-    the mega-whales holding more than 10,000 BTC. Currently, there are 93 such addresses,
-    according to BitInfoCharts, and their recent activity points to ongoing accumulation.Glassnode
-    data shows that large whales briefly reached a perfect accumulation score (~1.0)
-    in early April, indicating intense buying over a 15-day period. The score has
-    since eased to ~0.65 but still reflects consistent accumulation. These large holders
-    appear to be buying from smaller cohorts—specifically wallets with less than 1
-    BTC and those with under 100 BTC—whose accumulation scores have dipped toward
-    0.1–0.2. This divergence signals growing distribution from retail to large holders
-    and marks potential for future price support (whales tend to hold long-time).
-    Oftentimes, it also precedes bullish periods.The last time mega-whales hit a perfect
-    accumulation score was in August 2024, when Bitcoin was trading near $60,000.
-    Two months later, BTC raced to $108,000.BTC trend accumulation score by cohort.
-    Source: GlassnodeShort-term holders are heavily impacted by market sentimentShort-term
-    holders, usually defined as those holding BTC for 3 to 6 months, behave differently.
-    They're more prone to selling during corrections or periods of uncertainty. This
-    behavior also follows a pattern. Glassnode data shows that spending levels tend
-    to rise and fall approximately every 8 to 12 months. Currently, short-term holders’
-    spending activity is at a historically low point despite the turbulent macro environment.
-    This suggests that so far, many newer Bitcoin buyers are choosing to hold rather
-    than panic-sell. However, if the Bitcoin price drops further, short-term holders
-    may be the first to sell, potentially accelerating the decline.BTC short-term
-    holders’ spending activity. Source: GlassnodeMarkets are driven by people. Emotions
-    like fear, greed, denial, and euphoria don’t just influence individual decisions
-    — they shape entire market moves. This is why we often see familiar patterns:
-    bubbles inflate as greed takes hold, then collapse under the weight of panic selling. CoinMarketCap’s
-    Fear & Greed Index illustrates this rhythm well. This metric, based on several
-    market indicators, typically cycles every 3 to 5 months, swinging from neutral
-    to either greed or fear.Since February, market sentiment has remained in the fear
-    and extreme fear territory, now worsened by US President Donald Trump’s trade
-    war and the collapse in global stock market prices. However, human psychology
-    is cyclical, and the market might see a potential return to a “neutral” sentiment
-    within the next 1-3 months.Fear & Greed Index chart. Source: CoinMarketCapPerhaps
-    the most fascinating aspect of market cycles is how they can become self-fulfilling.
-    When enough people believe in a pattern, they start acting on it, taking profits
-    at expected peaks and buying dips at expected bottoms. This collective behavior
-    reinforces the cycle and adds to its persistence.Bitcoin is a prime example. Its
-    cycles may not run on precise schedules, but they rhyme consistently enough to
-    shape expectations — and, in turn, influence reality.This article does not contain
-    investment advice or recommendations. Every investment and trading move involves
-    risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-04-10 20:34:42.000000000 +01:00
-- title: " Spot Bitcoin ETFs see $772M outflow as investors prepare for tariff-driven
-    inflation "
-  url: https://cointelegraph.com/news/spot-bitcoin-etfs-see-772-m-outflow-as-investors-prepare-for-tariff-driven-inflation?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) spot exchange-traded funds (ETFs) faced significant pressure
-    amid uncertainty caused by the ongoing global trade war. Between March 28 and
-    April 8, these ETFs experienced net outflows totaling $595 million, according
-    to Farside Investors data. Notably, even after most US import tariffs were temporarily
-    lifted on April 9, the funds still recorded an additional $127 million in net
-    outflows.This situation has left traders questioning the reasons behind the continued
-    outflows and why Bitcoin's rally to $82,000 on April 9 failed to boost confidence
-    among ETF investors.Spot Bitcoin ETF net flows. Source: Farside InvestorsCorporate
-    credit risk could be driving investors away from BTCOne factor contributing to
-    diminished interest is the rising likelihood of an economic recession. \"What
-    you can clearly observe is that liquidity on the credit side has dried up,\" Lazard
-    Asset Management global fixed income co-head Michael Weidner told Reuters. Essentially,
-    investors are shifting toward safer assets like government bonds and cash holdings,
-    a trend that could ultimately lead to a credit crunch.A credit crunch is a sharp
-    decline in loan availability, leading to reduced business investment and consumer
-    spending. It can happen regardless of US Treasury yields because heightened borrower
-    risk perceptions may independently restrict credit supply.RW Baird strategist
-    Ross Mayfield noted that even if the US Federal Reserve decides to cut interest
-    rates in an effort to stabilize turbulent markets, any relief for companies might
-    be short-lived. Mayfield reportedly stated: \"In a stagflationary environment
-    from tariffs, you'll see both investment grade and high yield corporate borrowers
-    struggle as their costs of debt rise.\" Despite the 10-year US Treasury yield
-    remaining flat compared to the previous month, investor appetite for corporate
-    debt remains weak.ICE Bank of America Corporate Index option-adjusted spread.
-    Source: TradingView / CointelegraphDan Krieter, director of fixed income strategy
-    at BMO Capital Markets, told Reuters that corporate bond spreads have experienced
-    their largest one-week widening since the regional banking crisis in March 2023.
-    Corporate bond spreads measure the difference in interest rates between corporate
-    bonds and government bonds, reflecting the additional risk investors take when
-    lending to companies.Related: Bitwise doubles down on $200K Bitcoin price prediction
-    amid trade tensionTrade war takes center stage, limiting investor interest in
-    BTCInvestors remain concerned that even if the US Federal Reserve cuts interest
-    rates, it may not be enough to restore confidence in the economy. This sentiment
-    also explains why the US Consumer Price Index (CPI) for March—at 2.8%, its slowest
-    annual increase in four years — failed to positively impact stock markets. \"This
-    is the last clean print we're going to see before we get those tariff-induced
-    inflation increases,” Joe Brusuelas, RSM chief economist, told Yahoo Finance.Traders
-    appear to be waiting for stabilization in the corporate bond market before regaining
-    confidence in Bitcoin ETF inflows. As long as recession risks remain elevated,
-    investors will likely favor safer assets such as government bonds and cash holdings.
-    Breaking this correlation would require a shift in perception toward Bitcoin’s
-    fixed monetary policy and censorship resistance. However, potential catalysts
-    for such a change remain unclear and could take months or even years.This article
-    is for general information purposes and is not intended to be and should not be
-    taken as legal or investment advice. The views, thoughts, and opinions expressed
-    here are the author’s alone and do not necessarily reflect or represent the views
-    and opinions of Cointelegraph.\n\n            "
-  published: 2025-04-10 19:44:13.000000000 +01:00
-- title: " Meanwhile raises $40M to bring BTC life insurance to inflation-prone economies "
-  url: https://cointelegraph.com/news/meanwhile-raises-40-million-bitcoin-life-insurance?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Crypto startup Meanwhile has raised $40 million to scale its Bitcoin-denominated
-    life insurance business, targeting so-called “inflation-prone economies” where
-    policyholders may seek alternatives to traditional fiat-based payouts.The Series
-    A investment round was led by Framework Ventures and Fulgur Ventures, with additional
-    participation from Xapo founder Wences Casares, the company disclosed on April
-    10. Meanwhile previously secured $20.5 million in seed funding backed by OpenAI
-    CEO Sam Altman and others.Source: MeanwhilelifeRegulated by the Bermuda Monetary
-    Authority, Meanwhile offers a whole life insurance policy denominated in Bitcoin
-    (BTC), giving policyholders the ability to safeguard the value of their life insurance
-    against currency debasement. Policyholders can access the value of their life
-    insurance anytime through loans and tax-free partial withdrawals. Meanwhile co-founder
-    Zac Townsend told Fortune that the company’s life insurance policies operate similarly
-    to typical life insurance policies, but monthly premiums are paid in Bitcoin.
-    When a policyholder passes away, their family receives the value of the claim
-    entirely in BTC. The company’s policies are geared toward clients living in regions
-    with high inflation or currency instability, Townsend said. Given the inflationary
-    tendencies of Western economies and the extreme currency fluctuations in emerging
-    markets, Meanwhile has cast a very wide net on its addressable market. Related:
-    Bitcoin price could rally even as global trade war rages on — Here’s whyBitcoin
-    and the inflation problemBitcoin’s deflationary design has made it a popular store
-    of value for early cryptocurrency adopters, but its role as an inflation hedge
-    in the traditional sense is subject to debate. A 2025 study that appeared in the
-    Journal of Economics and Business determined that Bitcoin’s inflation-hedging
-    abilities have weakened in recent years due to rising institutional adoption.
-    The study referenced Bitcoin’s 60% drop in 2022 when US inflation surged to a
-    40-year high above 9%.However, some analysts may counter that claim by arguing
-    that investors purchased Bitcoin during the pandemic on expectations that inflation
-    would rise due to massive government stimulus.During this period, “Investors saw
-    that inflation was coming, so they began buying bitcoin hand-over-fist,” said
-    investor and analyst Anthony Pompliano.Regardless of whether Bitcoin meets the
-    technical definition of an inflation hedge, the asset has significantly outperformed
-    inflation, or the debasement of currency, since its inception. The Bitcoin price
-    dipped below $80,000 on April 10 after the latest US inflation data triggered
-    renewed volatility in the market. Nevertheless, the report showed a sharp deceleration
-    in annual inflation in March, with the Consumer Price Index falling to 2.4% from
-    2.8% in February. The Bitcoin price experienced heavy intraday volatility following
-    the latest US CPI data. Source: CointelegraphRelated: As Trump tanks Bitcoin,
-    PMI offers a roadmap of what comes next\n\n            "
-  published: 2025-04-10 17:20:00.000000000 +01:00
 - title: " Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug
     for 5 Years "
   url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound

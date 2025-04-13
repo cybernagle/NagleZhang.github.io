@@ -1,122 +1,121 @@
 ---
-- title: You might not need WebSockets
-  url: https://hntrl.io/posts/you-dont-need-websockets/
+- title: Experimental release of GrapheneOS for Pixel 9a
+  url: https://grapheneos.social/@GrapheneOS/114327666433966529
   summary: Comments
-  published: 2025-04-11 22:27:16.000000000 +00:00
-- title: Vacheron Constantin breaks the world record for most complicated wristwatch
-  url: https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria
+  published: 2025-04-13 01:05:31.000000000 +00:00
+- title: BPS is a GPS alternative that nobody's heard of
+  url: https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard
   summary: Comments
-  published: 2025-04-11 22:26:41.000000000 +00:00
-- title: A 32-bit processor made with an atomically thin semiconductor
-  url: https://arstechnica.com/science/2025/04/researchers-build-a-risc-v-processor-using-a-2d-semiconductor/
+  published: 2025-04-13 01:31:38.000000000 +00:00
+- title: Nice Things with SVG
+  url: https://fuma-nama.vercel.app/blog/svg-art
   summary: Comments
-  published: 2025-04-08 13:08:49.000000000 +00:00
-- title: Fedora change aims for 99% package reproducibility
-  url: https://lwn.net/Articles/1014979/
+  published: 2025-04-12 17:40:09.000000000 +00:00
+- title: Anubis Works
+  url: https://xeiaso.net/notes/2025/anubis-works/
   summary: Comments
-  published: 2025-04-11 13:40:26.000000000 +00:00
-- title: Once lush Sahara was home to a surprisingly unique group of humans
-  url: https://www.sciencealert.com/once-lush-sahara-was-home-to-a-surprisingly-unique-group-of-humans
+  published: 2025-04-12 22:32:19.000000000 +00:00
+- title: 'YAML: The Norway Problem (2022)'
+  url: https://www.bram.us/2022/01/11/yaml-the-norway-problem/
   summary: Comments
-  published: 2025-04-10 13:16:25.000000000 +00:00
-- title: Erlang's not about lightweight processes and message passing (2023)
-  url: https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html
+  published: 2025-04-12 22:10:35.000000000 +00:00
+- title: WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser
+  url: https://webtui.ironclad.sh
   summary: Comments
-  published: 2025-04-11 15:50:49.000000000 +00:00
-- title: Blue Prince is a roguelike puzzle masterpiece
-  url: https://mssv.net/2025/04/07/a-puzzle-designer-on-blue-prince-a-roguelike-puzzle-masterpiece/
+  published: 2025-04-12 22:02:58.000000000 +00:00
+- title: Emacs Lisp Elements
+  url: https://protesilaos.com/emacs/emacs-lisp-elements
   summary: Comments
-  published: 2025-04-09 01:27:48.000000000 +00:00
-- title: Intentionally Making Close Friends (2021)
-  url: https://www.neelnanda.io/blog/43-making-friends
+  published: 2025-04-12 15:09:14.000000000 +00:00
+- title: 'Show HN: memEx, a personal knowledge base inspired by zettlekasten and org-mode'
+  url: https://gitea.bubbletea.dev/shibao/memex
   summary: Comments
-  published: 2025-04-08 06:54:36.000000000 +00:00
-- title: AI Coding and the Peanut Butter and Jelly Problem
-  url: https://iamcharliegraham.substack.com/p/ai-coding-and-the-peanut-butter-and
+  published: 2025-04-12 19:02:26.000000000 +00:00
+- title: Open source and self hostable/private file converter
+  url: https://vert.sh
   summary: Comments
-  published: 2025-04-11 21:26:36.000000000 +00:00
-- title: 'Show HN: Omiword – A daily, sector-based word puzzle'
-  url: https://www.omiword.com/
+  published: 2025-04-12 12:40:13.000000000 +00:00
+- title: CERN releases report on the feasibility of a possible Future Circular Collider
+  url: https://home.cern/news/news/accelerators/cern-releases-report-feasibility-possible-future-circular-collider
   summary: Comments
-  published: 2025-04-11 14:42:16.000000000 +00:00
-- title: 'Datastar: Web Framework for the Future?'
-  url: https://chrismalek.me/posts/data-star-first-impressions/
+  published: 2025-04-09 14:52:46.000000000 +00:00
+- title: Why is there a "small house" in IBM's Code page 437?
+  url: https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/
   summary: Comments
-  published: 2025-04-11 16:53:20.000000000 +00:00
-- title: Adobe deletes Bluesky posts after backlash
-  url: https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/
+  published: 2025-04-12 18:55:17.000000000 +00:00
+- title: Ambient music on iOS 18.4 and the return to the Apple's Music app
+  url: https://manualdousuario.net/en/ambient-music-ios-18-4/
   summary: Comments
-  published: 2025-04-11 14:01:06.000000000 +00:00
-- title: A recent study suggests that insects branched out from crustaceans
-  url: https://www.smithsonianmag.com/science-nature/you-might-think-of-shrimp-as-bugs-of-the-sea-but-a-remarkable-discovery-shows-the-opposite-bugs-are-actually-shrimp-of-the-land-180986303/
+  published: 2025-04-10 12:26:05.000000000 +00:00
+- title: 'Tunarr: Create and configure live TV channels from media on your servers'
+  url: https://tunarr.com/
   summary: Comments
-  published: 2025-04-11 20:19:39.000000000 +00:00
-- title: Germany creates 'super–high-tech ministry' for research, technology, aerospace
-  url: https://www.science.org/content/article/germany-creates-super-high-tech-ministry-research-technology-and-aerospace
+  published: 2025-04-12 15:26:25.000000000 +00:00
+- title: How to Structure a B2B Marketplace Venture
+  url: https://sloanreview.mit.edu/article/how-to-structure-a-b2b-marketplace-venture/
   summary: Comments
-  published: 2025-04-11 20:16:13.000000000 +00:00
-- title: Key principles on in-game virtual currencies in the EU
-  url: https://tiendil.org/en/posts/eu-key-principles-on-in-game-virtual-currencies
+  published: 2025-04-12 23:51:41.000000000 +00:00
+- title: 'ArkType: Ergonomic TS validator 100x faster than Zod'
+  url: https://arktype.io/
   summary: Comments
-  published: 2025-04-11 20:52:39.000000000 +00:00
-- title: 'Dev Tools Honeytrap: Why We Can''t Stop Building Tools Nobody Buys'
-  url: https://substack.com/home/post/p-161145826
+  published: 2025-04-12 16:01:34.000000000 +00:00
+- title: Shadertoys Ported to Rust GPU
+  url: https://rust-gpu.github.io/blog/2025/04/10/shadertoys/
   summary: Comments
-  published: 2025-04-11 23:37:45.000000000 +00:00
-- title: Bilinear interpolation on a quadrilateral using Barycentric coordinates
-  url: https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/
+  published: 2025-04-12 20:27:28.000000000 +00:00
+- title: 'Show HN: AI quiz generator from any topic or book in seconds'
+  url: https://www.wiyomi.com
   summary: Comments
-  published: 2025-04-11 15:25:13.000000000 +00:00
-- title: Pinball Brothers – A Swedish-Italian Pinball Company
-  url: https://www.pinballbrothers.com/
+  published: 2025-04-10 05:27:52.000000000 +00:00
+- title: Learning Assembly for Fun, Performance and Profit
+  url: https://thechipletter.substack.com/p/learning-assembly-for-fun-and-profit
   summary: Comments
-  published: 2025-04-09 05:29:59.000000000 +00:00
-- title: Modern 6502
-  url: https://www.mikekohn.net/micro/modern_6502.php
+  published: 2025-04-10 15:02:09.000000000 +00:00
+- title: Zod v4 Beta
+  url: https://v4.zod.dev/v4
   summary: Comments
-  published: 2025-04-11 18:01:33.000000000 +00:00
-- title: Bonobos use a kind of syntax once thought to be unique to humans
-  url: https://www.newscientist.com/article/2474993-bonobos-use-a-kind-of-syntax-once-thought-to-be-unique-to-humans/
+  published: 2025-04-12 21:03:17.000000000 +00:00
+- title: 'Demystifying Development: Does It Pencil?'
+  url: https://www.ternercenter.app/demystifying-development-math#simulation
   summary: Comments
-  published: 2025-04-07 15:51:21.000000000 +00:00
-- title: Why I Program in Lisp
-  url: http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html
+  published: 2025-04-10 13:47:19.000000000 +00:00
+- title: Mammoth genetic diversity throughout the last million years
+  url: https://www.sciencedaily.com/releases/2025/04/250409114704.htm
   summary: Comments
-  published: 2025-04-11 08:26:14.000000000 +00:00
-- title: Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on
-    Meta
-  url: https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta
+  published: 2025-04-09 23:15:34.000000000 +00:00
+- title: The 5 levels of configuration languages
+  url: https://beza1e1.tuxen.de/config_levels.html
   summary: Comments
-  published: 2025-04-11 16:24:58.000000000 +00:00
-- title: But what if I want a faster horse?
-  url: https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse
+  published: 2025-04-12 20:00:12.000000000 +00:00
+- title: Hunger shifts attention towards less healthy food options, study finds
+  url: https://medicalxpress.com/news/2025-03-hunger-shifts-attention-healthy-food.html
   summary: Comments
-  published: 2025-04-11 11:39:18.000000000 +00:00
-- title: Mosaic (YC W25) is building a general purpose agent for video editing
-  url: https://www.ycombinator.com/companies/mosaic-2/jobs/ru8Nwdq-founding-engineer
+  published: 2025-04-13 00:33:47.000000000 +00:00
+- title: Trump exempts phones, computers, chips from 'reciprocal' tariffs
+  url: https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs
   summary: Comments
-  published: 2025-04-11 17:00:43.000000000 +00:00
-- title: Lead is still bad for your brain
-  url: https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/
+  published: 2025-04-12 13:18:04.000000000 +00:00
+- title: 'Artie (YC S23) Is Hiring Engineer #3'
+  url: https://www.ycombinator.com/companies/artie/jobs/7kGvDVC-founding-product-engineer
   summary: Comments
-  published: 2025-04-11 08:15:57.000000000 +00:00
-- title: Awe – Modern compiler for Algol W
-  url: https://github.com/glynawe/awe
+  published: 2025-04-12 17:00:38.000000000 +00:00
+- title: Battle of the Mallocators
+  url: http://smalldatum.blogspot.com/2025/04/battle-of-mallocators.html
   summary: Comments
-  published: 2025-04-12 00:28:46.000000000 +00:00
-- title: WebRTC for the Curious
-  url: https://webrtcforthecurious.com
+  published: 2025-04-12 22:15:56.000000000 +00:00
+- title: Rebuilding Prime Video UI with Rust and WebAssembly
+  url: https://www.infoq.com/presentations/prime-video-rust/
   summary: Comments
-  published: 2025-04-11 15:18:21.000000000 +00:00
-- title: Strengths Are Your Weaknesses
-  url: https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/
+  published: 2025-04-10 06:19:42.000000000 +00:00
+- title: 'Ask HN: How do you monetize personal code if it''s not an "app"?'
+  url: https://news.ycombinator.com/item?id=43667887
   summary: Comments
-  published: 2025-04-11 09:27:08.000000000 +00:00
-- title: Windows 2000 Server named peak Microsoft
-  url: https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/
+  published: 2025-04-12 20:56:48.000000000 +00:00
+- title: New urinal designs prevent 265,000 gallons of urine splashing onto the floor
+  url: https://www.livescience.com/technology/engineering/new-urinal-designs-could-prevent-up-to-265-000-gallons-of-urine-from-spilling-onto-the-floor-each-day
   summary: Comments
-  published: 2025-04-11 13:16:46.000000000 +00:00
-- title: Firecracker Entropy for VM Clones
-  url: https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/random-for-clones.md
+  published: 2025-04-13 00:10:57.000000000 +00:00
+- title: Google will let companies run Gemini models in their own data centers
+  url: https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html
   summary: Comments
-  published: 2025-04-11 22:46:25.000000000 +00:00
+  published: 2025-04-09 13:47:27.000000000 +00:00
