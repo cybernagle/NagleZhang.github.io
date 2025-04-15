@@ -1,122 +1,124 @@
 ---
-- title: I bought a Mac
-  url: https://loganius.org/2025/04/i-bought-a-mac/
+- title: Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation
+  url: https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025
   summary: Comments
-  published: 2025-04-14 01:11:19.000000000 +00:00
-- title: Everything wrong with MCP
-  url: https://blog.sshh.io/p/everything-wrong-with-mcp
+  published: 2025-04-14 21:59:13.000000000 +00:00
+- title: GPT-4.1 in the API
+  url: https://openai.com/index/gpt-4-1/
   summary: Comments
-  published: 2025-04-13 23:53:35.000000000 +00:00
-- title: Open guide to equity compensation
-  url: https://github.com/jlevy/og-equity-compensation
+  published: 2025-04-14 17:01:45.000000000 +00:00
+- title: Meta antitrust trial kicks off in federal court
+  url: https://www.axios.com/pro/tech-policy/2025/04/14/ftc-meta-antitrust-trial-kicks-off-in-federal-court
   summary: Comments
-  published: 2025-04-13 19:13:37.000000000 +00:00
-- title: 'NoProp: Training Neural Networks without Back-propagation or Forward-propagation'
-  url: https://arxiv.org/abs/2503.24322
+  published: 2025-04-14 13:18:19.000000000 +00:00
+- title: Tomb Engine
+  url: https://tombengine.com/
   summary: Comments
-  published: 2025-04-14 00:03:51.000000000 +00:00
-- title: Quick Primer on MCP Using Ollama and LangChain
-  url: https://www.polarsparc.com/xhtml/MCP.html
+  published: 2025-04-14 22:22:52.000000000 +00:00
+- title: The path to open-sourcing the DeepSeek inference engine
+  url: https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine
   summary: Comments
-  published: 2025-04-13 21:43:36.000000000 +00:00
-- title: Writing Cursor rules with a Cursor rule
-  url: https://www.adithyan.io/blog/writing-cursor-rules-with-a-cursor-rule
+  published: 2025-04-14 15:03:10.000000000 +00:00
+- title: A hackable AI assistant using a single SQLite table and a handful of cron
+    jobs
+  url: https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs
   summary: Comments
-  published: 2025-04-11 21:40:43.000000000 +00:00
-- title: Docker Model Runner
-  url: https://www.docker.com/blog/introducing-docker-model-runner/
+  published: 2025-04-14 13:52:58.000000000 +00:00
+- title: 'The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing'
+  url: https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization
   summary: Comments
-  published: 2025-04-10 14:10:28.000000000 +00:00
-- title: Math 13 – An Introduction to Abstract Mathematics [pdf]
-  url: https://www.math.uci.edu/~ndonalds/math13/notes.pdf
+  published: 2025-04-14 23:33:38.000000000 +00:00
+- title: What Is Entropy?
+  url: https://jasonfantl.com/posts/What-is-Entropy/
   summary: Comments
-  published: 2025-04-13 19:43:11.000000000 +00:00
-- title: Shadertoys Ported to Rust GPU
-  url: https://rust-gpu.github.io/blog/2025/04/10/shadertoys/
+  published: 2025-04-14 18:32:08.000000000 +00:00
+- title: AI used for skin cancer checks at London hospital
+  url: https://www.bbc.com/news/articles/czd3ygd7mrno
   summary: Comments
-  published: 2025-04-12 09:01:29.000000000 +00:00
-- title: Writing my own dithering algorithm in Racket
-  url: https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket
+  published: 2025-04-12 07:43:47.000000000 +00:00
+- title: 'AudioX: Diffusion Transformer for Anything-to-Audio Generation'
+  url: https://zeyuet.github.io/AudioX/
   summary: Comments
-  published: 2025-04-13 19:43:03.000000000 +00:00
-- title: 'Show HN: I made a free tool that analyzes SEC filings and posts detailed
-    reports'
-  url: https://www.signalbloom.ai/news/
+  published: 2025-04-14 17:35:11.000000000 +00:00
+- title: The Wisconsin cartographer who mapped Tolkien's fantasy world
+  url: https://www.wpr.org/news/wisconsin-cartographer-karen-wynn-fonstad-mapped-tolkien-fantasy-world-oshkosh
   summary: Comments
-  published: 2025-04-13 19:33:24.000000000 +00:00
-- title: Why-everything-in-the-universe-turns-more-complex
-  url: https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/
+  published: 2025-04-11 17:26:49.000000000 +00:00
+- title: 'Stripe''s payment API: The first 10 years (2020)'
+  url: https://stripe.com/blog/payment-api-design
   summary: Comments
-  published: 2025-04-14 01:25:57.000000000 +00:00
-- title: Implementing DeepSeek R1's GRPO algorithm from scratch
-  url: https://github.com/policy-gradient/GRPO-Zero
+  published: 2025-04-12 07:14:47.000000000 +00:00
+- title: 'DolphinGemma: How Google AI is helping decode dolphin communication'
+  url: https://blog.google/technology/ai/dolphingemma/
   summary: Comments
-  published: 2025-04-13 18:33:05.000000000 +00:00
-- title: Why Fennel?
-  url: https://fennel-lang.org/rationale
+  published: 2025-04-14 13:12:00.000000000 +00:00
+- title: Hassabis Says Google DeepMind to Support Anthropic's MCP for Gemini and SDK
+  url: https://techcrunch.com/2025/04/09/google-says-itll-embrace-anthropics-standard-for-connecting-ai-models-to-data/
   summary: Comments
-  published: 2025-04-13 15:37:05.000000000 +00:00
-- title: 'Philip K. Dick: Stanisław Lem Is a Communist Committee (2015)'
-  url: https://culture.pl/en/article/philip-k-dick-stanislaw-lem-is-a-communist-committee
+  published: 2025-04-10 17:34:40.000000000 +00:00
+- title: How I Don't Use LLMs
+  url: https://www.gleech.org/llms
   summary: Comments
-  published: 2025-04-12 01:31:45.000000000 +00:00
-- title: The dark side of the Moomins
-  url: https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson
+  published: 2025-04-15 01:06:20.000000000 +00:00
+- title: Podman Quadlets with Podman Desktop
+  url: https://podman-desktop.io/blog/podman-quadlet
   summary: Comments
-  published: 2025-04-13 13:15:57.000000000 +00:00
-- title: Transformer Lab
-  url: https://transformerlab.ai/
+  published: 2025-04-14 17:16:51.000000000 +00:00
+- title: SQLite File Format Viewer
+  url: https://sqlite-internal.pages.dev
   summary: Comments
-  published: 2025-04-12 02:58:26.000000000 +00:00
-- title: What can we take away from the ‘stochastic parrot’ saga?
-  url: https://inferencemagazine.substack.com/p/the-parrot-is-dead
+  published: 2025-04-14 14:55:57.000000000 +00:00
+- title: Understanding Aggregate Trends for Apple Intelligence Using Differential
+    Privacy
+  url: https://machinelearning.apple.com/research/differential-privacy-aggregate-trends
   summary: Comments
-  published: 2025-04-11 16:39:39.000000000 +00:00
-- title: 'Exwm: Emacs X Window Manager'
-  url: https://github.com/emacs-exwm/exwm
+  published: 2025-04-14 20:04:58.000000000 +00:00
+- title: 'Show HN: ClipCapsule – A Clipboard Manager for Linux (Built with Go and
+    Wails)'
+  url: https://github.com/Victor-Evogor/clipcapsule
   summary: Comments
-  published: 2025-04-13 17:08:49.000000000 +00:00
-- title: How much oranger do red orange bags make oranges look?
-  url: https://alexanderell.is/posts/orange/
+  published: 2025-04-14 21:52:49.000000000 +00:00
+- title: 'Behind the 6-digit code: Building HOTP and TOTP from scratch'
+  url: https://blog.dogac.dev/how-do-one-time-passwords-work/
   summary: Comments
-  published: 2025-04-13 16:02:28.000000000 +00:00
-- title: Lotka–Volterra Equations
-  url: https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations
+  published: 2025-04-11 13:06:17.000000000 +00:00
+- title: KaiPod Learning (YC S21) Is Hiring a PM
+  url: https://www.ycombinator.com/companies/kaipod-learning/jobs/TgR2OZg-senior-product-manager
   summary: Comments
-  published: 2025-04-10 19:28:05.000000000 +00:00
-- title: GeoDeep's AI Detection on Maxar's Satellite Imagery
-  url: https://tech.marksblogg.com/geodeep-maxar-ai-detection.html
+  published: 2025-04-14 17:59:11.000000000 +00:00
+- title: W65C832 in an FPGA
+  url: https://www.mikekohn.net/micro/w65c832_fpga.php
   summary: Comments
-  published: 2025-04-11 12:34:31.000000000 +00:00
-- title: Are Plants Farming Us?
-  url: https://inleo.io/@gentleshaid/are-plants-farming-us-a-thoughtful-look-at-natures-silent-masters-jx9
+  published: 2025-04-11 20:52:32.000000000 +00:00
+- title: Lost City of the Samurai
+  url: https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/
   summary: Comments
-  published: 2025-04-13 01:30:23.000000000 +00:00
-- title: Wasting Inferences with Aider
-  url: https://worksonmymachine.substack.com/p/wasting-inferences-with-aider
+  published: 2025-04-12 06:11:43.000000000 +00:00
+- title: Censors Ignore Unencrypted HTTP/2 Traffic (2024)
+  url: https://upb-syssec.github.io/blog/2024/http2/
   summary: Comments
-  published: 2025-04-13 13:36:17.000000000 +00:00
-- title: Whenever – typed and DST-safe datetimes for Python
-  url: https://github.com/ariebovenberg/whenever
+  published: 2025-04-14 18:23:30.000000000 +00:00
+- title: SSD1306 display drivers and font rendering
+  url: https://subalpinecircuits.com/ssd1306-and-font-rendering/
   summary: Comments
-  published: 2025-04-13 09:12:19.000000000 +00:00
-- title: Unlocking Sudoku's Secrets
-  url: https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/
+  published: 2025-04-14 17:08:24.000000000 +00:00
+- title: 'Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs'
+  url: https://github.com/nathanhleung/protobuf-ts-types
   summary: Comments
-  published: 2025-04-11 16:06:55.000000000 +00:00
-- title: A balanced review of Math Academy
-  url: https://newsletter.ozwrites.com/p/a-balanced-review-of-math-academy
+  published: 2025-04-14 15:41:03.000000000 +00:00
+- title: Meilisearch – search engine API bringing AI-powered hybrid search
+  url: https://github.com/meilisearch/meilisearch
   summary: Comments
-  published: 2025-04-11 17:49:32.000000000 +00:00
-- title: Mistakes and cool things to do with arena allocators
-  url: https://zylinski.se/posts/dynamic-arrays-and-arenas/
+  published: 2025-04-14 12:46:45.000000000 +00:00
+- title: The Whimsical Investor
+  url: https://fi-le.net/stonks/
   summary: Comments
-  published: 2025-04-10 17:08:50.000000000 +00:00
-- title: 'The Manicule: The little hand that''s everywhere'
-  url: https://www.messynessychic.com/2025/03/07/the-secret-history-of-the-manicule-little-hand-thats-everywhere/
+  published: 2025-04-14 07:43:12.000000000 +00:00
+- title: Evelyn Waugh’s Decadent Redemption
+  url: https://libertiesjournal.com/online-articles/evelyn-waughs-decadent-redemption/
   summary: Comments
-  published: 2025-04-10 01:01:43.000000000 +00:00
-- title: 'A tricky Commodore PET repair: tracking down 6 1/2 bad chips'
-  url: http://www.righto.com/2025/04/commodore-pet-repair.html
+  published: 2025-04-11 15:29:10.000000000 +00:00
+- title: 'Monte Carlo Crash Course: Sampling'
+  url: https://thenumb.at/Sampling/
   summary: Comments
-  published: 2025-04-13 16:15:00.000000000 +00:00
+  published: 2025-04-14 14:54:51.000000000 +00:00

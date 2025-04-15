@@ -1,48 +1,593 @@
 ---
-- title: " Here’s what happened in crypto today "
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, the price of the Mantra token collapses, a non-fungible
-    token (NFT) trader could face up to six years in prison after pleading guilty
-    to underreporting nearly $13 million in profits from trading CryptoPunks, crypto
-    gaming and gambling campaigns are proving tougher to onboard crypto users than
-    other sectors of the industry.Mantra token collapses by 90% but retraces some
-    value following statements from teamThe price of the Mantra token collapsed by
-    over 90% on April 13 but regained some lost value following statements from the
-    Mantra team and co-founder JP Mullin.Mantra's (OM) price collapsed to a low of
-    approximately $0.38 before crossing back over $1, and is currently at that level.Mantra
-    token price and overview. Source: CoinGeckoAccording to the Mantra team, OM's
-    price decline was due to \"reckless liquidations\" that the Mantra team is investigating.\"One
-    thing we want to be clear on: this was not our team. We are looking into it and
-    will share more details about what happened as soon as we can,\" the team wrote
-    in an April 13 X post. NFT trader faces prison for $13 million tax fraud on CryptoPunk
-    profitsA non-fungible token (NFT) trader could face up to six years in prison
-    after pleading guilty to underreporting nearly $13 million in profits from trading
-    CryptoPunks, according to the US Attorney’s Office for the Middle District of
-    Pennsylvania.Waylon Wilcox, 45, admitted to filing false income tax returns for
-    the 2021 and 2022 tax years. The former CryptoPunk investor pleaded guilty on
-    April 9 to two counts of filing false individual income tax returns, federal prosecutors
-    said in an April 11 press release.Back in April 2022, Wilcox filed a false individual
-    income tax return for the tax year 2021, which underreported his income tax by
-    roughly $8.5 million and reduced his tax due by approximately $2.1 million.In
-    October 2023, Wilcox filed another false individual tax income return for the
-    fiscal year of 2022, underreporting his income tax by an estimated $4.6 million
-    and reducing his tax due by nearly $1.1 million.Wilcox pleads guilty to false
-    tax filing, press release. Source: Attorney’s Office for the Middle District of
-    Pennsylvania“The total maximum penalty under federal law for these offenses is
-    up to six years of imprisonment, a term of supervised release following imprisonment,
-    and a fine,” according to the statement. However, the exact details and timing
-    of his sentence remain unclear.Crypto gaming and gambling ads “most expensive”
-    for onboarding usersCrypto gaming and gambling campaigns are the most expensive
-    way to acquire users with existing crypto wallets, ranking highest in cost among
-    all sectors of the crypto industry, recent data shows.“Gaming and gambling campaigns
-    are the most expensive, with a median CPW of $8.74 and a lower quartile of $3.40,”
-    Web3 marketing firm Addressable co-founder Asaf Nadler said in a recent report
-    posted on X. CPW results across various sectors of the crypto industry. Source: Asaf
-    NadlerCPW, or cost per wallet, is deemed a higher “quality” metric because it
-    tracks the cost of website visitors with a crypto wallet already installed in
-    their browser.Nadler previously told Cointelegraph that their analysis data showed
-    that users with a wallet are more likely to convert to crypto products.\n\n            "
-  published: 2025-04-13 23:31:18.000000000 +01:00
+- title: " Tether partners with OCEAN mining pool to decentralize Bitcoin block-building "
+  url: https://cointelegraph.com/news/tether-partners-ocean-mining-pool-make-bitcoin-more-decentralized?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Stablecoin issuer Tether has announced it intends to deploy its existing
+    and future Bitcoin hashrate to OCEAN’s Bitcoin mining pool in an effort to strengthen
+    the network’s decentralization.“Deploying hashrate to OCEAN aligns with both our
+    mining investments and our broader mission to fortify Bitcoin against centralizing
+    forces,” Tether’s CEO Paolo Ardoino said in an April 15 statement.Source: OCEAN
+    MiningWhile Bitcoin hashrate is decentralized, the block-building process conducted
+    by mining pools is mostly centralized by a few dominant actors — most notably
+    Foundry USA, AntPool and ViaBTC.The OCEAN protocol attempts to decentralize this
+    process by empowering miners to build their own block templates using their open-source
+    DATUM protocol, reducing dependency on centralized intermediaries and enhancing
+    censorship resistance, Tether said.Tether’s deployment would leverage OCEAN’s
+    DATUM software across all of its mining operations worldwide, including in rural
+    areas in Africa. “By enabling on-site generation of unique block templates and
+    aggregating thousands of rig connections with low-latency performance, DATUM ensures
+    global competitiveness while promoting geographic and operational diversity,”
+    Tether said.Related: Inside the Trump-backed Bitcoin mining mega-deal with Hut
+    8Tether currently deploys Bitcoin hashrate at sites in Uruguay, Paraguay and El
+    Salvador, where the $144 billion stablecoin issuer is also headquartered.Those
+    initiatives emerged around the time Tether announced it would invest $500 million
+    into Bitcoin mining in late 2023.OCEAN was created by Bitcoin core developer Luke
+    Dashjr in 2023 and has been backed by the likes of Block CEO Jack Dorsey. OCEAN
+    also relocated its headquarters to El Salvador in May 2024.Dashjr sparked controversy
+    in December 2023 when he slammed Bitcoin Ordinals users for clogging the network
+    with “spam.” However, he refuted claims that OCEAN censored the non-fungible token-like
+    transactions.OCEAN still has a lot of market share to captureThe OCEAN protocol
+    currently mines between 0.2% to 1% of Bitcoin blocks, according to mempool.space
+    data.It has mined nine blocks over the last week, including two in a row at 892342
+    and 892343 on April 14.However, OCEAN’s output remains a fraction of that seen
+    by Foundry USA, AntPool and ViaBTC, which have mined 331, 199 and 161 Bitcoin
+    blocks, respectively, over the same timeframe — accounting for over 66% of all
+    blocks.The Tether partnership would likely provide a much-needed boost to OCEAN’s
+    hashrate, which has amounted to 18.3 exahashes per second (EH/s) over the last
+    24 hours.OCEAN protocol’s Bitcoin mining statistics. Source: mempool.spaceBy comparison,
+    Foundry USA’s hashrate over the same timeframe has exceeded 298 EH/s, leveraging
+    hashrate from the likes of Bitcoin mining firms Hut 8, Bitdeer and Bitfarms.Magazine:
+    Financial nihilism in crypto is over — It’s time to dream big again\n\n            "
+  published: 2025-04-15 01:58:22.000000000 +01:00
+- title: " Bitcoin takes back seat as Trump, Bukele focus on trade and immigration "
+  url: https://cointelegraph.com/news/bitcoin-takes-back-seat-trump-bukele-trade-immigration?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "US President Donald Trump hosted El Salvador’s President Nayib Bukele
+    at the White House on April 14, with talks centered on trade and immigration,
+    excluding Bitcoin from the public agenda.Pressing issues of migration and bilateral
+    security cooperation set the tone of Bukele's first official meeting at the White
+    House during Trump's second term. According to a livestream shared by Bukele’s
+    office on X, Trump raised the possibility of transferring US citizens convicted
+    of crimes to prisons in El Salvador, urging Bukele to expand the country’s prison
+    system to house more prisoners. “I said homegrowns are next, the homegrowns. You
+    gotta build about five more places.” Source: Nayib BukeleSince taking office,
+    the Trump administration has deported hundreds of alleged foreign criminal individuals
+    to El Salvador under a $6 million deal between the countries.Trump also addressed
+    the ongoing trade war unleashed by his administration on April 2, suggesting a
+    potential temporary exemption for automakers aimed at easing the transition of
+    their supply chains.“I’m looking at something to help some of the car companies
+    with it,” Trump told reporters present at the meeting, adding that the US auto
+    industry “need[s] a little bit of time” to relocate production to the country. The
+    meeting did not touch on digital assets and Bitcoin (BTC) policy — a flagship
+    initiative of both presidents’ administrations. El Salvador adopted Bitcoin as
+    legal tender in 2021, pioneering the Bitcoin strategic reserve approach later
+    followed by Trump. The US president positioned himself as a pro-crypto candidate
+    during the 2024 election. On March 6, Trump signed an executive order to create
+    a Bitcoin strategic reserve and digital asset stockpile in the United States.
+    The US holds nearly 198,000 BTC, valued at over $17 billion as of March. The reserve
+    is primarily formed of Bitcoin seized in criminal and civil cases, including significant
+    amounts from the Silk Road and Bitfinex hack cases.Related: How much Bitcoin does
+    the US hold, and where did it come from?El Salvador's BTC plans face IMF oppositionEl
+    Salvador signed off in December a $1.4 billion loan agreement with the International
+    Monetary Fund (IMF), which included commitments to unwind Bitcoin-related initiatives
+    and reduce public sector involvement with digital assets.While the Salvadoran
+    Congress amended its Bitcoin laws in January to comply with the deal, the government
+    has continued its daily purchases of BTC. The country’s National Bitcoin Office’s
+    tracker shows it currently holds 6,147.18 BTC, worth about $520.7 million at this
+    writing. Related: Tether will relocate HQ to El Salvador after securing license\n\n
+    \           "
+  published: 2025-04-14 23:12:44.000000000 +01:00
+- title: " Bitcoin bucks downtrend with rally to $85.8K — Are BTC bulls really back? "
+  url: https://cointelegraph.com/news/bitcoin-bucks-downtrend-with-rally-to-85-8-k-are-btc-bulls-really-back?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin (BTC) reclaimed the $84,500 level on April 14, and the recovery
+    appears partially fueled by the announcement of partial import tariff relief by
+    US President Donald Trump. However, traders’ optimism faded on April 13 when it
+    became apparent that the relaxation was temporary and that tariffs on the electronics
+    supply chain could be revisited.Uncertainty surrounding the ongoing trade tensions
+    between the US and China impacted Bitcoin markets, causing traders to lose some
+    of their regained confidence. This explains why Bitcoin’s price failed to break
+    above $86,000 and why BTC derivatives showed limited short-term potential, potentially
+    setting the tone for the next few days.Bitcoin 2-month futures annualized premium.
+    Source: Laevitas.chThe premium on Bitcoin monthly futures contracts peaked at
+    6.5% on April 11 but has since dropped to 5%, which is near a neutral to bearish
+    threshold. Sellers typically require a 5% to 10% annualized premium for longer
+    settlement periods, so anything below this range indicates reduced interest from
+    leveraged buyers.Bitcoin sentiment dims as stock market ties dent bullish momentumTraders’
+    brief excitement can be linked to President Trump’s April 13 announcement that
+    tariffs on imported semiconductors would be reviewed during the week. This suggests
+    that exemptions for smartphones and computers are not final, according to Yahoo
+    Finance. Trump reportedly said: “We want to make our chips and semiconductors
+    and other things in our country.”Bitcoin traders experienced emotional swings
+    during this period of fluctuating expectations. The performance of broader markets,
+    particularly large technology companies reliant on global trade, appears to have
+    influenced Bitcoin sentiment. The strong intraday correlation between Bitcoin
+    and stock markets has dampened bullish enthusiasm, leaving open questions about
+    whether this effect is limited to BTC futures.S&P 500 futures (left) vs. Bitcoin/USD
+    (right). Source: TradingView / CointelegraphTo determine whether Bitcoin traders’
+    sentiment is merely mirroring trends in the S&P 500, it is helpful to examine
+    the BTC options markets. If professional traders anticipate a significant price
+    drop, the 25% delta skew indicator will rise above 6%, as put (sell) options become
+    more expensive than call (buy) options.Bitcoin 30-day options 25% delta skew (put-call)
+    at Deribit. Source: Laevitas.chOn April 13, the Bitcoin options delta skew briefly
+    dipped below 0%, signaling mild optimism. However, this momentum did not hold
+    on April 14, reinforcing data from Bitcoin futures that show no significant bullish
+    sentiment despite prices recovering from the $74,440 lows.Weak spot Bitcoin ETF
+    inflows also behind traders’ limited optimismAnother way to gauge market sentiment
+    is by analyzing stablecoin demand in China. Strong retail interest in cryptocurrencies
+    usually pushes stablecoins to trade at a premium of 2% or more above the official
+    US dollar rate. In contrast, a premium below 0.5% often indicates fear as traders
+    move away from crypto markets.Related: Crypto markets ‘relatively orderly’ despite
+    Trump tariff chaos: NYDIGUSDT Tether (USDT/CNY) vs. US dollar/CNY. Source: OKXBetween
+    April 6 and April 11, Tether (USDT) in China traded at a 1.2% premium, reflecting
+    moderate enthusiasm. However, this trend reversed, with the premium now at just
+    0.5%, suggesting that the earlier excitement has dissipated. Hence, traders remain
+    cautious and show little confidence in Bitcoin surpassing $90,000 in the near
+    term.The announcement of Strategy’s $286 million Bitcoin acquisition at $82,618
+    failed to boost sentiment, as investors suspect that the recent temporary decoupling
+    from stock market trends was largely driven by this purchase. Similarly, Bitcoin
+    spot exchange-traded funds (ETFs) saw $277 million in outflows between April 9
+    and April 11, further weakening any potential improvement in trader confidence.This
+    article is for general information purposes and is not intended to be and should
+    not be taken as legal or investment advice. The views, thoughts, and opinions
+    expressed here are the author’s alone and do not necessarily reflect or represent
+    the views and opinions of Cointelegraph.\n\n            "
+  published: 2025-04-14 21:15:00.000000000 +01:00
+- title: " Bitcoin surge to $137K by Q3 possible if US Treasury continues liquidity
+    injections — Analysts "
+  url: https://cointelegraph.com/news/bitcoin-surge-to-137-k-by-q3-possible-if-us-treasury-continues-liquidity-injections-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The US Treasury has injected $500 billion into financial markets since
+    February by drawing liquidity from its Treasury General Account (TGA), funding
+    government operations after a $36 trillion debt ceiling was hit on Jan. 2, 2025.Macroeconomic
+    financial analyst Tomas said that this liquidity surge boosted the net Federal
+    Reserve liquidity to $6.3 trillion, and it may support Bitcoin’s (BTC) price in
+    the future, even though risk assets have reflected minimal growth so far. US Treasury
+    General Account’s expected liquidity flow. Source: X.comThe TGA represents the
+    government’s checking account at the Federal Reserve, holding capital for daily
+    operations like paying bills or collecting taxes. A decrease in TGA capital means
+    the balance has been deployed into the broader economy, boosting available cash
+    in the markets. Tomas explained that The TGA drawdown commenced on Feb. 12, following
+    the exhaustion of \"extraordinary measures\" after the debt ceiling was reached.
+    The TGA balance has dropped from $842 to roughly $342 billion, releasing liquidity
+    into the system, and the targeted liquidity is expected to rise up to $600 billion
+    by the end of April. The analyst added that the current tax season will temporarily
+    drain liquidity, but the drawdown is expected to resume in May. If debt ceiling
+    talks extend to August, net liquidity could hit a multi-year high of $6.6 trillion,
+    which could cause a bullish tailwind for Bitcoin. Bitcoin’s correlation with global
+    liquidity. Source: Lynalden.comAccording to a study by financial analyst Lyn Alden,
+    Bitcoin has historically moved 83% of the time in line with global liquidity in
+    a given 12-month period. The research termed “Bitcoin a Global Liquidity Barometer”
+    compared Bitcoin to other major asset classes such as SPX, gold and VT, and BTC
+    topped the correlation index with respect to global liquidity. Past TGA drawdowns
+    in 2022 and 2023 have fueled speculative assets like Bitcoin. Thus, a $600 billion
+    boost, plus billions more added over Q2-Q3, could lift BTC’s value if market conditions
+    remain stable. Related: Bitcoin traders target $90K as apparent tariff exemptions
+    ease US Treasury yieldsBitcoin eyes $137,000 by Q2-Q3, says analystAnonymous crypto
+    trader Titan of Crypto shared a bullish outlook for Bitcoin, predicting that BTC
+    could surge to a new all-time high of $137,000 by July-August 2025. In a recent
+    X post, the analyst pointed out a bullish pennant pattern on the daily chart,
+    with the price potentially heading toward a positive breakout. Bitcoin bullish
+    pennant by Titan of Crypto. Source: X.comHowever, before pushing chips into a
+    long conviction play, BTC must break and retain a position above its 200-day exponential
+    moving average (EMA). As illustrated in the chart, Bitcoin faces resistance from
+    all three key EMAs, namely, the 50-day, 100-day and 200-day indicators. A collective
+    reclaim above each moving average on a higher time frame chart could further strengthen
+    the bullish case, allowing the crypto to retest its six-figure targets. Bitcoin
+    1-day chart analysis. Source: Cointelegraph/TradingViewRelated: Bybit integrates
+    Avalon through CeFi to DeFi bridge for Bitcoin yieldThis article does not contain
+    investment advice or recommendations. Every investment and trading move involves
+    risk, and readers should conduct their own research when making a decision.\n\n
+    \           "
+  published: 2025-04-14 20:23:03.000000000 +01:00
+- title: " Price analysis 4/14: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LEO "
+  url: https://cointelegraph.com/news/price-analysis-4-14-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-leo?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin (BTC) bulls are trying to start the week on a positive note by
+    pushing the price above $85,000. Michael Saylor’s Strategy has used the recent
+    dip to buy 3,459 Bitcoin for $285.5 million at an average price of $82,618. That
+    boosts the total holding of the firm to 531,644 Bitcoin purchased at an average
+    price of $67,556.However, not everyone is bullish in the near term. Several institutional
+    investors seem to have trimmed their holdings. CoinShares reported on April 14
+    that digital asset exchange-traded products (ETPs) witnessed $795 million in outflows
+    last week. The $7.2 billion in outflows since February have reversed nearly all
+    year-to-date inflows, now at just $165 million.Daily cryptocurrency market performance.
+    Source: Coin360Although Bitcoin seems to have bottomed out in the short term,
+    a roaring bull market rally is unlikely to start in a hurry. The tariff headlines
+    and the outcome of the tariff talks between the United States and other countries
+    could dictate the price action.Could Bitcoin build upon the recovery, pulling
+    altcoins higher? Let’s analyze the charts to find out.S&P 500 Index price analysisThe
+    S&P 500 Index (SPX) witnessed a hugely volatile week, but a positive sign is that
+    lower levels attracted solid buying by the bulls.SPX daily chart. Source: Cointelegraph/TradingViewAfter
+    the massive volatility of the past few days, the index could enter a quieter phase.
+    Sellers are likely to sell the rallies near 5,500, while the bulls are expected
+    to buy the dips to the 5,119 support. That signals a possible range-bound action
+    between 5,500 and 5,119 for some time.The next trending move is expected to begin
+    after buyers push the price above 5,500 or sink below 4,950. If the 5,500 level
+    gets taken out, the index could surge to 5,800.US Dollar Index price analysisThe
+    US Dollar Index (DXY) has been in a freefall since turning down from the 20-day
+    exponential moving average (102.81) on April 10.DXY daily chart. Source: Cointelegraph/TradingViewBuyers
+    defended the 99.57 level on a closing basis on April 11, but the bears renewed
+    their selling on April 14. If the price closes below 99.57, the index could tumble
+    to 97.50 and, after that, to 95. The longer the price remains below 99.57, the
+    greater the risk of starting a new downtrend.If buyers want to prevent a downward
+    move, they will have to swiftly push the price back above 99.57. That could start
+    a recovery to 101.Bitcoin price analysisBitcoin broke above the resistance line
+    on April 12, and the bulls successfully held the retest of the breakout level
+    on April 13.BTC/USDT daily chart. Source: Cointelegraph/TradingViewThe 20-day
+    EMA ($82,979) has flattened out, and the RSI is near the midpoint, suggesting
+    that the selling pressure is reducing. The BTC/USDT pair could climb to $89,000,
+    which is likely to act as a stiff resistance. If the price turns down sharply
+    from $89,000 and breaks below the 20-day EMA, it will indicate a range formation.
+    The pair may oscillate between $89,000 and $73,777 for a few days.If sellers want
+    to trap the aggressive bulls and retain control, they will have to quickly pull
+    the price back below the 20-day EMA. If they do that, the pair may descend to
+    $78,500 and subsequently to the vital support at $73,777.Ether price analysisEther
+    (ETH) is facing selling at the 20-day EMA ($1,722), as seen from the long wick
+    on the April 14 candlestick.ETH/USDT daily chart. Source: Cointelegraph/TradingViewIf
+    the price plummets below $1,546, the ETH/USDT pair could retest the $1,368 support.
+    This is a crucial level for the bulls to defend because a break below $1,368 could
+    start the next leg of the downtrend toward $1,150.Conversely, if buyers propel
+    the price above the 20-day EMA, it signals that the bears are losing their grip.
+    There is resistance at the 50-day SMA ($1,955), but it is likely to be crossed.
+    The pair may then ascend to the solid resistance at $2,111.XRP price analysisXRP
+    (XRP) turned down from the 50-day SMA ($2.24) on April 13, indicating that sellers
+    are active at higher levels.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    20-day EMA ($2.10) has flattened out, and the RSI is near the midpoint, indicating
+    a balance between supply and demand. A break below $2 will tilt the advantage
+    in favor of the bears. The XRP/USDT pair could drop to $1.72 and later to $1.61.Buyers
+    will gain the upper hand if they push and maintain the price above the 50-day
+    SMA. If they can pull it off, the pair could rally to the resistance line. Sellers
+    are expected to aggressively defend the resistance line because a break above
+    it signals a potential trend change.BNB price analysisBNB (BNB) is facing resistance
+    at the downtrend line, but a minor positive is that the bulls have not ceded much
+    ground to the bears. BNB/USDT daily chart. Source: Cointelegraph/TradingViewThat
+    increases the likelihood of a break above the downtrend line. If that happens,
+    the BNB/USDT pair could ascend to $645. Sellers will try to guard the $645 level,
+    but it is likely to be crossed.This positive view will be invalidated in the near
+    term if the price turns down sharply from the downtrend line and breaks below
+    $566. That could keep the pair stuck inside the triangle for a while longer.Solana
+    price analysisSellers are trying to defend the 50-day SMA ($130) in Solana (SOL),
+    but the bulls have kept up the pressure.SOL/USDT daily chart. Source: Cointelegraph/TradingViewIf
+    the price closes above the 50-day SMA, the SOL/USDT pair could rise to the $147
+    to $153 resistance zone. Sellers are expected to vigorously defend this zone,
+    but if the bulls prevail, the pair could surge to $180.The first support on the
+    downside is the 20-day EMA ($123). A bounce off the 20-day EMA will keep the positive
+    momentum intact, while a break below it could sink the pair to $110 and eventually
+    to $95.Related: Solana rallies 20% against Ethereum, but is $300 SOL price within
+    reach?Dogecoin price analysisBuyers are trying to start a recovery in Dogecoin
+    (DOGE) but are expected to face stiff resistance from the bears at the moving
+    averages.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewIf the price
+    turns down from the moving averages, the bears will again attempt to sink the
+    DOGE/USDT pair below $0.14. If they manage to do that, the selling could accelerate,
+    and the pair may slump to $0.10.Contrarily, if buyers propel the price above the
+    moving averages, the pair could rally to $0.20. This is an important near-term
+    level to watch out for because a break above it will complete a double-bottom
+    pattern. The pair could then climb toward the pattern target of $0.26.Cardano
+    price analysisBuyers are struggling to push Cardano (ADA) above the 20-day EMA
+    ($0.65), indicating that demand dries up at higher levels.ADA/USDT daily chart.
+    Source: Cointelegraph/TradingViewIf the price turns down from the 20-day EMA,
+    the next support on the downside is $0.58 and then $0.50. Buyers are expected
+    to fiercely defend the $0.50 level because a break below it could sink the ADA/USDT
+    pair to $0.40.On the upside, buyers will have to drive and maintain the price
+    above the 50-day SMA ($0.71) to signal that the downtrend could be over. That
+    could propel the pair to $0.83 and subsequently to $1.03.UNUS SED LEO price analysisBuyers
+    are trying to push UNUS SED LEO (LEO) above the 20-day EMA ($9.39), but the bears
+    are posing a substantial challenge.LEO/USD daily chart. Source: Cointelegraph/TradingViewThe
+    flattening 20-day EMA and the RSI near the midpoint suggest a balance between
+    supply and demand. That could keep the LEO/USD pair stuck between $9.90 and $8.79
+    for a few days.The next trending move could begin on a break above $9.90 or below
+    $8.79. If buyers kick the price above $9.90, the pair will complete a bullish
+    ascending triangle pattern. This bullish setup has a target objective of $12.04.On
+    the downside, a break below $8.70 could signal the start of a deeper correction
+    toward $8.30.This article does not contain investment advice or recommendations.
+    Every investment and trading move involves risk, and readers should conduct their
+    own research when making a decision.\n\n            "
+  published: 2025-04-14 19:37:11.000000000 +01:00
+- title: " Bitcoin traders target $90K as apparent tariff exemptions ease US Treasury
+    yields "
+  url: https://cointelegraph.com/news/bitcoin-traders-target-90-k-as-apparent-tariff-exemptions-ease-us-treasury-yields?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The 2-year and 10-year US Treasury yields dipped on Monday, April 14,
+    after Bitcoin (BTC) closed its best weekly performance since the second week of
+    January. Bitcoin gained 6.79% over the past week, but are enough factors aligned
+    to support continued price upside? The 10-year treasury yield declined by 8.2
+    basis points to 4.40% during the New York trading session, while the 2-year treasury
+    saw an 8 basis point slip to 3.88%. The drop in yields occurred on the back of
+    possible tariff exemptions on smartphones, computers, and semiconductors, which
+    were introduced to give US companies time to move production domestically. However,
+    US President Donald Trump emphasized these exemptions were temporary in nature.US
+    10-year treasury bond yields chart. Source: Cointelegraph/TradingViewThe tariff
+    exemptions announced on April 12 came at the end of a bullish week for Bitcoin.
+    After forming new yearly lows at $74,500, BTC price jumped 15% to $86,100 between
+    April 9-13. Easing US treasury yields could be a double-edged sword for Bitcoin.
+    Lower yields reduce the appeal for fixed-income assets, improving capital injection
+    into risk-on assets like BTC. Still, the uncertainty of “temporary exemptions”
+    and the ongoing trade war with China keeps Bitcoin susceptible to further price
+    volatility. As an “inflation hedge,” Bitcoin continues to draw mixed opinions,
+    but recent uncertainty over trade policies increases inflation fears, improving
+    BTC’s store of value narrative. Yet, recent US inflation data suggested a cooling
+    trend, as the Consumer Price Index (CPI) for March 2025 indicated a year-over-year
+    inflation rate of 2.4%, down from 2.8% in February, marking the lowest since February
+    2023, which could be indirectly bearish for Bitcoin in the short term.Related:
+    Trade war vs record M2 money supply: 5 things to know in Bitcoin this weekBitcoin
+    price hurdles present at $88K to $90KTrading resource Material Indicators noted
+    that Bitcoin retained a bullish position above its 50-weekly moving average and
+    quarterly open at $82,500. A strong weekly close implied a higher possibility
+    that Bitcoin is less likely to re-visit its previous weekly lows anytime soon.
+    The analysis added, “Bitcoin bulls now face strong technical and liquidity-based
+    resistance between the trend line and the 200-day MA. Expecting “Spoofy” to move
+    asks at $88k and $92k before they get filled.”Likewise, Alphractal founder Joao
+    Wedson suggested that Bitcoin may be nearing a bullish reversal, as the Perpetual-Spot
+    Gap on Binance—a key indicator tracking the price difference between Bitcoin’s
+    perpetual futures and spot markets, has been narrowing since late 2024.Bitcoin
+    Perpetual-spot price gap chart. Source: X.comIn a recent X post, Wedson highlighted
+    that this shrinking gap, currently negative, signals fading bearish sentiment,
+    with historical trends from 2020–2021 and 2024 showing that a positive gap often
+    leads to a Bitcoin rally. Wedson noted that a flip to a positive gap could indicate
+    returning buyer momentum. However, he cautioned that such negative gaps persisted
+    during the 2022–2023 bear market.Related: Michael Saylor’s Strategy buys $285M
+    Bitcoin amid market uncertaintyThis article does not contain investment advice
+    or recommendations. Every investment and trading move involves risk, and readers
+    should conduct their own research when making a decision.\n\n            "
+  published: 2025-04-14 17:56:08.000000000 +01:00
+- title: " Michael Saylor’s Strategy buys $285M Bitcoin amid market uncertainty "
+  url: https://cointelegraph.com/news/michael-saylor-strategy-buys-285-m-bitcoin-83k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Michael Saylor’s digital asset firm, Strategy, purchased 3,459 Bitcoin
+    for $285.5 million, signaling continued confidence in Bitcoin even as global markets
+    face trade-related headwinds.Strategy acquired the 3,459 Bitcoin (BTC) for $285.5
+    million at an average price of $82,618 per BTC. The purchase brings Strategy’s
+    total Bitcoin holdings to 531,644 BTC, acquired for a cumulative $35.92 billion
+    at an average price of $67,556 per coin, achieving an over 11.4% yield since the
+    beginning of 2025, Saylor wrote in an April 14 X post.Source: Michael SaylorThe
+    $285 million purchase marks Strategy’s first Bitcoin investment since March 31,
+    when the company acquired $1.9 billion worth of Bitcoin, Cointelegraph reported.According
+    to data from Saylortracker, the firm is currently sitting on more than $9.1 billion
+    in unrealized profit, representing a 25% gain on its total Bitcoin position as
+    of 12:20 pm UTC.Strategy total Bitcoin holdings. Source: Saylortracker Strategy’s
+    continued accumulation comes despite a broader market pullback and declining appetite
+    for risk assets. The downturn has been largely attributed to global trade policy
+    uncertainty after US President Donald Trump announced a new round of tariffs.Trump
+    announced a 90-day pause on higher reciprocal tariffs on April 9, reverting the
+    tariffs to the 10% baseline for most countries, except for China, which currently
+    faces a 145% import tariff.Related: New York bill proposes legalizing Bitcoin,
+    crypto for state paymentsCrypto markets open with “cautious strength” ahead of
+    key economic releasesDespite continued uncertainty around the outcome of trade
+    negotiations, Bitcoin staged an over 10% recovery in the past seven days to above
+    $85,000 as of 1:10 pm UTC, Cointelegraph Markets Pro data shows.BTC/USD, 1-year
+    chart. Source: Cointelegraph“Crypto markets opened the week with cautious strength,
+    continuing a broad recovery from last Monday’s tariff-induced sell-off,” Stella
+    Zlatareva, dispatch editor at digital asset investment platform Nexo, told Cointelegraph,
+    adding:“Bitcoin trades above $84,000, marking a robust rebound despite the global
+    macro background. While investor focus remains fixed on US-China trade dynamics,
+    crypto’s relative stability stands out.”“This week’s calendar includes key data
+    from China, Fed commentary and updates on retail sales, all of which could shape
+    the next leg of risk asset performance,” she added.Related: Bitcoin ‘more likely’
+    to hit $110K before $76.5K — Arthur HayesDespite the tariff-related uncertainty,
+    some analysts, including Jamie Coutts, predicted that the growing money supply
+    could push Bitcoin’s price above $132,000 before the end of 2025.Zooming out to
+    the next decade, Bitcoin remains on track to surpass $1.8 million by 2035, in
+    a development that may see Bitcoin surpass gold’s $21 trillion market capitalization
+    as the superior savings technology, Joe Burnett, director of market research at
+    Unchained, told Cointelegraph.Magazine: Bitcoin ATH sooner than expected? XRP
+    may drop 40%, and more: Hodler’s Digest, March 23 – 29\n\n            "
+  published: 2025-04-14 13:39:38.000000000 +01:00
+- title: " Crypto investment products nearly wipe 2025 gains as outflows hit $7.2B "
+  url: https://cointelegraph.com/news/crypto-etps-7-billion-outflows-since-february?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Digital asset exchange-traded products (ETPs) saw almost $800 million
+    in outflows last week, marking their third consecutive week, according to a report
+    from crypto asset manager CoinShares. On April 14, CoinShares reported that crypto
+    ETPs saw $795 million in outflows last week, with Bitcoin (BTC)-based products
+    accounting for $751 million, while Ether (ETH) products followed with $37.6 million. While
+    the major tokens saw increased outflows, some altcoins went against the flow,
+    seeing small gains. These included XRP, Ondo Finance, Algorand and Avalanche. According
+    to CoinShares, the total outflows of crypto ETPs since February have reached $7.2
+    billion, nearly wiping out the year-to-date (YTD) inflows from the investment
+    products. Tariff activity weighs in on crypto ETPsCoinShares head of research
+    James Butterfill attributed the outflows to the recent tariff-related activities
+    initiated by United States President Donald Trump. On April 2, Trump signed an
+    executive order imposing a 10% baseline tariff on all imports from all countries.
+    The president also set reciprocal tariffs for countries that charge tariffs on
+    US imports. The Trump administration then continued flip-flopping over tariff
+    policy, bringing market uncertainty. Butterfill wrote that the “wave of negative
+    sentiment” that started in February has resulted in record outflows of $7.2 billion.
+    The outflows have nearly wiped out all the YTD inflows, now amounting to $165
+    million.In addition to Bitcoin and Ether-based products, altcoins like Solana,
+    Aave and Sui also collectively saw outflows of over $6 million last week. While
+    Bitcoin-related products have also seen huge outflows, its YTD gains still stand
+    at $545 million. Furthermore, short-Bitcoin products also saw outflows totaling
+    $4.6 million. Related: This year’s top ETF strategy? Shorting Ether — Bloomberg
+    IntelligenceBlackRock’s iShares lead crypto ETP outflows BlackRock’s iShares exchange-traded
+    funds (ETFs) had the most outflows among ETP providers. CoinShares data shows
+    that BlackRock’s ETFs saw $342 million in outflows last week, putting its total
+    month-to-date outflows at $412 million. Crypto ETP flows chart by asset provider.
+    Source: CoinSharesEven though BlackRock had massive outflows this month, the ETF
+    issuer still has about $2.8 billion in YTD inflows. The asset manager also holds
+    over $49.6 billion in assets under management (AUM).Magazine: Memecoin degeneracy
+    is funding groundbreaking anti-aging research\n\n            "
+  published: 2025-04-14 13:02:29.000000000 +01:00
+- title: " Why is Bitcoin price stuck? "
+  url: https://cointelegraph.com/news/why-is-bitcoin-price-stuck?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin (BTC) price has been consolidating within a roughly $3,000 range
+    since April 9 as the 200-day SMA trendline remains a stubborn barrier.Data from
+    Cointelegraph Markets Pro and Bitstamp shows that BTC price oscillates within
+    a tight range between $83,000 and $86,000, as shown in the chart below.BTC/USD
+    four-hour chart. Cointelegraph/TradingViewKey factors behind Bitcoin’s flat price
+    action include:Trump’s mixed signals on technology tariffs.Buy and sell pressure
+    equilibrium with BTC price trapped between two key levels. Trump tariffs breed
+    market uncertaintyOne significant factor contributing to Bitcoin price flatlining
+    is the White House’s semiconductor and technology tariff inconsistency.Key points:Bitcoin
+    price rallied on April 11 after US President Trump announced tariff exemptions
+    for an array of tech products, including smartphones, chips, computers, and semiconductors.On
+    April 13, Commerce Secretary Howard Lutnick walked back on this announcement,
+    saying that the tariff relief on electronics was temporary.This was later confirmed
+    by President Trump, who stated that the tariff rate would be announced next week,
+    adding that there would be flexibility for some companies in the sector.This flip-flopping
+    breeds uncertainty, as tariffs could disrupt supply chains for tech firms, many
+    of which are intertwined with crypto infrastructure like mining and blockchain
+    companies.According to capital markets commentator The Kobeissi Letter, the \"Clarification
+    of Exceptions Under Executive Order 14257\" note published by the White House
+    on April 11 did not present a “new list of exemptions.”Rather, it was a clarification
+    that the “goods were never actually intended to be subject to 145% tariffs,” The
+    Kobeissi Letter explained in an April 14 post on X. “It appears that the news
+    and most investors, along with customs enforcement themselves, never truly understood
+    what was being tariffed to begin with. This was a complete misunderstanding by
+    almost everyone involved.”As a result, market participants have taken a wait-and-see
+    approach, as clarity on policy could either ignite a rally or trigger a sell-off.Related:
+    Trade war vs. record M2 money supply: 5 things to know in Bitcoin this weekBTC
+    price trapped between two key trendlinesAnother reason why Bitcoin price remains
+    stuck in limbo is that it trades within two significant levels, as shown in the
+    chart below:BTC price trades between the 50-day simple moving average (SMA) at
+    $84,400 and the 200-day SMA at $87,500.This confirms the 200 SMA as resistance
+    and the 50 SMA as support on the daily candle chart.The value of the RSI close
+    to the midline at 52 suggests that there is a tug-of-war between the bears and
+    the bulls.Bitcoin needs to break the 200 SMA trendline and confront resistance
+    at the $90,000 psychological level. Falling below the 50-day SMA will likely lead
+    to a deeper correction.BTC/USD daily chart. Source: Cointelegraph/TradingViewMeanwhile,
+    the Bitcoin liquidation heatmap reveals heavy ask orders around the 200-day SMA
+    and bid positions just below the 50-day SMA, as shown in the figure below. This
+    further highlights the liquidity clusters that are currently containing BTC prices
+    within the current market structure.Bitcoin liquidation heatmap. Source: CoinGlassThis
+    article does not contain investment advice or recommendations. Every investment
+    and trading move involves risk, and readers should conduct their own research
+    when making a decision.\n\n            "
+  published: 2025-04-14 10:57:24.000000000 +01:00
+- title: " Trade war vs record M2 money supply: 5 things to know in Bitcoin this week "
+  url: https://cointelegraph.com/news/tariffs-vs-record-m2-money-supply-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin (BTC) is holding down the fort as the US trade war rages on into
+    the third week of April.BTC price action attempts to overcome a long-term resistance
+    trend line without success as trade war concerns dictate traders’ expectations.Tariffs
+    are the key macroeconomic topic of the week as risk assets brace for potential
+    surprise headlines.Bitcoin ETFs lost almost $800 million in a week, while Strategy
+    indicates it has purchased the dip.Despite tariff pressures, the weakness of the
+    US dollar could be a blessing in disguise for Bitcoin and risky assets.Global
+    M2 money supply is at an all-time high and rising; will Bitcoin follow history
+    and replicate its past?Bulls battle a key BTC price resistance lineWith traders
+    on the lookout for tariff-related volatility this week, BTC price analysis is
+    zooming out.BTC/USD closed last week up 6.7%, data from Cointelegraph Markets
+    Pro and TradingView confirms.BTC/USD 1-hour chart. Source: Cointelegraph/TradingViewNext,
+    however, comes the real test, breaking beyond a downward-sloping trend line that
+    has capped the upside for months.$BTC - #Bitcoin: I’m watching this chart closely.
+    We might be ready. pic.twitter.com/Dtv1jkrzkP— Crypto Caesar (@CryptoCaesarTA)
+    April 12, 2025“Rejected at key resistance, following the trendline perfectly,”
+    trader Bitbull wrote in his latest post on the topic on X. “If the breakdown continues,
+    eyes on the $70K-$72K support zone for a possible bounce.”BTC/USD 12-hour chart.
+    Source: Bitbull/XFellow trader and analyst Rekt Capital is also eyeing the trend
+    line as a breakout proves hard to confirm.“Bitcoin has Daily Closed above the
+    Downtrend. Thus, breakout confirmation is underway,” he told X followers over
+    the weekend.“However BTC has previously Daily Closed above the Downtrend but failed
+    its retest (a few of the red circles). Retest needs to be successful and it is
+    in progress.”BTC/USD 1-day chart. Source: Rekt Capital/XPopular trader AK47 on
+    X posted separate upside and downside BTC price targets, depending on the outcome
+    of the trend line retest.“$BTC might push to $88K — but don’t get too comfy,”
+    he cautioned.“Could be a fakeout, grabbing liquidity before dipping to $81K for
+    that inverse head & shoulders setup. If that plays out, $95K–$100K isn’t far.”BTC/USDT
+    4-hour chart. Source: AK47/XTariff talk keeps markets on edgeA quieter week for
+    US macroeconomic data leaves initial jobless claims as the highlight while the
+    ongoing trade war continues to dominate.With China in focus, risk assets and crypto
+    face flash volatility should more surprises involving trade tariffs surface.The
+    weekend saw snap relief in that respect as US President Donald Trump announced
+    a pause on tariffs for key tech products. As a result, Bitcoin climbed to 11-day
+    highs above $86,000.Subsequent indications that the measures would be temporary
+    then put renewed pressure on stocks’ futures, while BTC/USD retreated to circle
+    $84,000 at the time of writing.“We think the ‘tariff exemptions’ announced this
+    weekend were originally intended to be temporary,” trading resource The Kobeissi
+    Letter wrote in part of an X reaction. “The goal was to bring treasury yields
+    back down before resuming the trade war.”S&P 500 1-hour chart. Source: Cointelegraph/TradingViewKobeissi
+    suggested that markets had originally considered the move as a signal that the
+    trade war might end completely, only to be disappointed a day later.“Bonds will
+    likely still rally along with stocks, but uncertainty has only grown. The bond
+    market is king,” it added.Continuing, trading firm Mosaic Asset agreed that bonds
+    may have been crucial in altering policy trajectory last week.“It’s the volatility
+    in other areas of the markets like currencies and Treasury bonds that might have
+    forced a quick pivot on trade and tariff policy,” it summarized in the latest
+    edition of its regular newsletter, “The Market Mosaic,” on April 13.“The uncertainty
+    around tariffs has become a binary and unpredictable event for the stock market.
+    Signs of tensions fuel further downside, while an easing of tensions sends stocks
+    sharply in the other direction.”Bitcoin ETF outflow “barely registers”A sign of
+    how turbulent last week was came in the form of net flows from the US spot Bitcoin
+    exchange-traded funds (ETFs).In one of the worst weeks ever for the ETF products
+    since their debut in early 2024, total outflows passed $750 million.For network
+    economist Timothy Peterson, however, there is little to worry about.Zooming out,
+    he noted that even a nine-figure drawdown such as this makes hardly any difference
+    to the overall investment pool that the ETFs have created in little more than
+    a year.“Last week, US Bitcoin ETFs had their 5th worst week ever (in terms of
+    outflows). Over $700 million. Yet it barely registers as a blip on the chart,”
+    he told X followers. “That's how big Bitcoin has become. That's how sticky these
+    investments are.”US spot Bitcoin ETF balances. Source: Timothy Peterson/XAmong
+    major investors seeking to “buy the dip,” meanwhile, was business intelligence
+    firm Strategy (formerly MicroStrategy), whose co-founder Michael Saylor hinted
+    that it was upping its BTC exposure this weekend.“No Tariffs on Orange Dots,”
+    he wrote in an X post alongside a chart of Strategy’s acquisitions. Strategy Bitcoin
+    holdings data. Source: Michael SaylorWhether Bitcoin will emerge as an attractive
+    proposition for the institutional investor cohort while trade war uncertainty
+    continues is dubious.A survey by Bank of America in late March showed that respondents
+    overwhelmingly favored gold as a volatility hedge, with 58% choosing it.“This
+    compares to just 9% for 30-year Treasury Bonds and 3% for Bitcoin,” Kobeissi wrote
+    while reporting on the findings. “Throw in the US deficit spending crisis and
+    gold quickly becomes the only global safe haven asset.”BoA survey results. Source:
+    The Kobeissi Letter/XDollar dive gives risk assets hope of reliefThe US dollar
+    may yet provide some light at the end of the tunnel for wary risk-asset traders
+    this week.The trade war has taken its toll on the greenback, and when measured
+    against major trading partner currencies, its weakness is plain to see.The US
+    Dollar Index (DXY) fell to three-year lows last week and, at the time of writing,
+    is challenging those lows once more.Markets selling dollar even lower Monday.
+    DXY fell through 100 and also the 2023 low over last few hours, now at lowest
+    in 3 years pic.twitter.com/MJ8wvvJuY2— David Ingles (@DavidInglesTV) April 14,
+    2025While far from constant, Bitcoin’s relationship with dollar strength tends
+    to show that gains occur after major DXY losses, albeit with a delay of several
+    months.To that end, popular analytics account Bitcoindata21 is eyeing a repeat
+    of events from 2017, resulting in BTC/USD all-time highs at the end of the year.US
+    Dollar Index (DXY) fractal. Source: Bitcoindata21/XAnother chart uploaded to X
+    over the weekend showed the relationship between DXY, Bitcoin and the S&P 500,
+    providing ideal conditions for a long-term bottom in the latter.The last time
+    such a signal came was around one month before the pit of the Bitcoin bear market
+    in late 2022.“I got 99 problems but the DXY aint 1,” Bitcoindata21 summarized.BTC/USD
+    vs. S&P 500 vs. DXY chart. Source: Bitcoindata21/XA bull market rebound in the
+    making?On longer timeframes, an equally promising trend is playing out for Bitcoin
+    bulls.Related: Bollinger Bands creator says Bitcoin forming ‘classic’ floor near
+    $80KThe global M2 money supply, with which Bitcoin price action is positively
+    correlated, is seeking to break out beyond all-time highs.“Global M2 has remained
+    at an ATH for 3 days in a row,” analyst Colin Talks Crypto noted in a dedicated
+    X post on the phenomenon this weekend. “This is a fantastic sign for what it signals
+    will be coming into risk assets in ~108 days.”BTC/USD vs global M2 supply. Source:
+    Colin Talks Crypto/XThe post refers to a chain reaction in which sharp moves in
+    global M2 spark copycat behavior for Bitcoin once the latency period expires.Before
+    that, however, there may be a final opportunity to “buy the dip.”“Global M2 (with
+    a 108-day offset) doesn’t show a blast-off for another ~2 1/2 weeks, and actually
+    shows a slow bleed into next week until around April 16th or 17th,” Colin Talks
+    Crypto acknowledged.Earlier this month, the analyst predicted a “big M2 influx”
+    incoming, with a corresponding BTC price rebound beginning in May.This article
+    does not contain investment advice or recommendations. Every investment and trading
+    move involves risk, and readers should conduct their own research when making
+    a decision.\n\n            "
+  published: 2025-04-14 09:52:22.000000000 +01:00
+- title: " Mechanism Capital founder doubles Bitcoin position with a $200M long "
+  url: https://cointelegraph.com/news/mechanism-capital-founder-doubles-bitcoin-position-200-million-long?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Andrew Kang, founder of the crypto venture firm Mechanism Capital, has
+    seemingly doubled down on his bet that Bitcoin will gain in price with a $200
+    million long position, onchain data shows. “Andrew Kang just doubled his Bitcoin
+    position,” crypto analytics firm Arkham said in an April 12 X post. It explained
+    a crypto address tied to Kang made another $100 million long bet on Bitcoin (BTC)
+    with an expected profit, or loss, of $6.8 million.On April 9, Arkham noted that
+    the Kang-tied wallet had put on a $100 million leverage-long bet on Bitcoin after
+    US President Donald Trump posted to his Truth Social platform earlier the same
+    day that “THIS IS A GREAT TIME TO BUY!!! DJT.”Source: ArkhamJust hours later,
+    the Trump administration announced a 90-day pause on its global hiked tariff regime,
+    which sent crypto and stocks rallying. The tariffs, first unveiled on April 2,
+    had gone live just hours earlier and had tanked most financial markets.Kang said
+    in an April 12 X post that trade war capitulation and a “Trump put”  — the belief
+    that the president will work to bump the stock market — “are the perfect combination
+    for BTC to reverse a multi month downtrend.”Kang noted Trump’s April 9 Truth Social
+    post could be a sign of the so-called “Trump put.” Source: Andrew KangMeanwhile,
+    Senate Democrats called on the Securities and Exchange Commission in an April
+    11 letter to launch an insider trading and market manipulation probe into Trump
+    and his affiliates over the post, which they said “appears to have previewed his
+    plans” to pause the tariffs.Bitcoin choppy on tariff confusionBitcoin has seen
+    an over 2% swing over the past 24 hours as the Trump administration went back
+    and forth on tariff exemptions for Chinese electronic goods.Related: NFT trader
+    faces prison for $13M tax fraud on CryptoPunk profitsBitcoin hit a 24-hour low
+    of $83,197, wiping most of the gains it made before the weekend, but it has since
+    recovered to trade flat over the past day at around $85,000 after briefly hitting
+    a top of $85,315, CoinGecko data shows.Trump posted to Truth Social on April 13
+    that “there was no tariff ‘exception’ announced on Friday,” April 11, but that
+    levies on Chinese electronics are “moving to a different Tariff ‘bucket’” of 20%.Asia
+    Express: Bitcoiner sex trap extortion? BTS firm’s blockchain disaster \n\n            "
+  published: 2025-04-14 07:15:54.000000000 +01:00
 - title: " Bitcoin rallies amid macroeconomic concerns — Are HYPE, ONDO, RNDR and
     KAS next? "
   url: https://cointelegraph.com/news/bitcoin-rallies-amid-macroeconomic-concerns-are-hype-ondo-rndr-and-kas-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
@@ -167,7 +712,7 @@
     price of Bitcoin remained relatively stable amid a $5 trillion sell-off in the
     stock market, lending credence to Bitcoin's use case as a store-of-value asset
     as opposed to a risk-on investment.Speaking with Cointelegraph at Paris Blockchain
-    Week 2025, Cypherpunk and CEO of digital asset infrastructure company Blockstream,
+    Week 2025, cypherpunk and CEO of digital asset infrastructure company Blockstream,
     Adam Back said the macroeconomic pressures from a prolonged trade war would make
     Bitcoin an increasingly attractive store of value.Back forecasted inflation to
     surge to 10-15% in the next decade, making real investment returns on traditional
@@ -440,7 +985,7 @@
     Bitcoin’s (BTC) long-term prospects for the next decade.“When I think about where
     Bitcoin will be in 10 years, there are two models I admire,” Burnett said. “One
     is the parallel model, which suggests that Bitcoin will be about $1.8 million
-    in 2035.” “The other is Michael Saylor’s Bitcoin 24 model, which suggests Bitcoin
+    in 2035. The other is Michael Saylor’s Bitcoin 24 model, which suggests Bitcoin
     will be $2.1 million by 2035.” Burnett emphasized that both are “good base cases,”
     adding that Bitcoin’s trajectory could exceed these predictions depending on broader
     macroeconomic factors.\U0001F399Could Bitcoin really hit $10m by Q1 2035? Perhaps.But
@@ -702,7 +1247,7 @@
     is available to anyone willing to learn — making it more democratic and inclusive,
     particularly for people in developing nations who lack access to traditional banking.
     Lomond sees Bitcoin as a perfect real-world case study in economics, computing,
-    ethics, and innovation.\"The school has no plans to accept other cryptocurrencies,
+    ethics, and innovation.\"The school has no plans to accept other cryptocurrencies
     and will convert the BTC to fiat currency immediately, according to the announcement.
     It might establish a BTC treasury in the future, pending input from the Lomond
     community.Lomond's announcement highlights the growing tide of institutions adopting
@@ -1095,687 +1640,6 @@
     or more stable.” Related: Weaker yuan is 'bullish for BTC' as Chinese capital
     flocks to crypto — Bybit CEO\n\n            "
   published: 2025-04-11 17:53:07.000000000 +01:00
-- title: " Price analysis 4/11: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, LEO, LINK, AVAX "
-  url: https://cointelegraph.com/news/price-analysis-4-11-btc-eth-xrp-bnb-sol-doge-ada-leo-link-avax?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) is showing strength as buyers have pushed the price above
-    $82,500, but higher levels are likely to attract solid selling from the bears.
-    CryptoQuant analysts said in a recent market report that Bitcoin could face resistance
-    around $84,000, but if the level is surpassed, the next stop may be $96,000.Although
-    trade tensions between the United States and China have flared up, institutional
-    crypto investment firm Bitwise remains bullish on Bitcoin. Bitwise chief investment
-    officer Matt Hougan said in a post on X that the firm’s previously predicted year-end
-    target of $200,000 for Bitcoin remains in play.Crypto market data daily view.
-    Source: Coin360However, market participants remain cautious in the near term.
-    The US-listed spot Bitcoin exchange-traded funds continued to witness outflows
-    on April 9 and April 10, according to Farside Investors data. Could Bitcoin break
-    and sustain above the overhead resistance? Will altcoins follow Bitcoin higher?
-    Let’s analyze the charts of the top 10 cryptocurrencies to find out.Bitcoin price
-    analysisBitcoin’s recovery from the $73,777 support has reached near the resistance
-    line, which is a critical level to watch out for in the near term.BTC/USDT daily
-    chart. Source: Cointelegraph/TradingViewThe 20-day exponential moving average
-    ($82,435) is turning down, but the relative strength index (RSI) has risen close
-    to the midpoint, indicating that the bearish momentum is weakening. The BTC/USDT
-    pair is expected to face intense selling at the resistance line, but if the bulls
-    prevail, the rally could reach $89,000 and then $95,000.Sellers are likely to
-    have other plans. They will try to defend the resistance line and pull the price
-    below the immediate support at $78,500. If they manage to do that, the pair could
-    retest the vital support at $73,777.Ether price analysisEther (ETH) rebounded
-    off the $1,368 support on April 9, but the bulls are struggling to sustain the
-    higher levels.ETH/USDT daily chart. Source: Cointelegraph/TradingViewThe downsloping
-    moving averages and the RSI in the negative territory suggest that the bears hold
-    the edge. Sellers will try to sink the ETH/USDT pair below $1,368. If they can
-    pull it off, the selling could accelerate, and the pair may tumble to $1,150.If
-    buyers want to prevent the breakdown, they will have to quickly push the price
-    above $1,754. That clears the path for a rally to the breakdown level of $2,111.
-    This is an essential level for the bears to defend because a break above $2,111
-    suggests a short-term trend change.XRP price analysisXRP (XRP) rose back above
-    the breakdown level of $2 on April 9, but the recovery is facing selling at the
-    20-day EMA ($2.09).XRP/USDT daily chart. Source: Cointelegraph/TradingViewIf the
-    price turns down from the 20-day EMA, the bears will try to sink the XRP/USDT
-    pair to the critical support at $1.61. Buyers are expected to fiercely defend
-    the $1.61 level because a break below it may clear the path for a decline to $1.27.Alternatively,
-    if the price rises above the 20-day EMA, it suggests that the markets have rejected
-    the breakdown below $2. The pair could rally to the resistance line, where the
-    bears are expected to mount a strong defense.BNB price analysisBNB (BNB) has reached
-    the 20-day EMA ($590), which is an important near-term resistance to watch out
-    for.BNB/USDT daily chart. Source: Cointelegraph/TradingViewSellers will try to
-    defend the zone between the 20-day EMA and the downtrend line, but if the bulls
-    do not give up much ground, it improves the prospects of a break above the overhead
-    resistance zone. The BNB/USDT pair could then ascend to $644.Contrary to this
-    assumption, if the price turns down sharply from the overhead resistance, it suggests
-    that the bears have not given up. That could keep the pair stuck inside the triangle
-    for a while longer.Solana price analysisSolana (SOL) rose above the breakdown
-    level of $110 on April 9, but the bulls are facing resistance at the 20-day EMA
-    ($121).SOL/USDT daily chart. Source: Cointelegraph/TradingViewA minor advantage
-    in favor of the bulls is that the bears did not allow the price to slip back below
-    $110 on April 10. That shows buying on dips. If the bulls kick the price above
-    the 20-day EMA, the SOL/USDT pair may rally to the 50-day SMA ($133) and then
-    to $153.This positive view will be invalidated in the short term if the price
-    turns down sharply from the 20-day EMA and breaks below $110. The pair could then
-    retest the April 7 intraday low of $95. Dogecoin price analysisBuyers have successfully
-    defended the $0.14 in Dogecoin (DOGE) but are yet to clear the moving averages.DOGE/USDT
-    daily chart. Source: Cointelegraph/TradingViewIf the price turns down sharply
-    from the moving averages, it suggests that the sentiment remains negative and
-    traders are selling on rallies. That increases the likelihood of a break below
-    $0.14. The DOGE/USDT pair could then plummet toward the next significant support
-    at $0.10.Conversely, a break and close above the moving averages will be the first
-    sign of strength. There is resistance at $0.20, but if the bulls overcome it,
-    the pair will complete a double-bottom pattern. The pair could march to $0.24
-    and subsequently to $0.26.Cardano price analysisCardano (ADA) has reached the
-    20-day EMA ($0.65), which is a strong near-term resistance to watch out for.ADA/USDT
-    daily chart. Source: Cointelegraph/TradingViewIf the price breaks above the 20-day
-    EMA, the ADA/USDT pair could reach the 50-day SMA ($0.71). This level may again
-    pose a strong challenge, but if the buyers prevail, the pair could rally to $0.83.On
-    the contrary, if the price turns down sharply from the 20-day EMA, it signals
-    that the bears are selling on every minor rally. That heightens the risk of a
-    break below the $0.50 support. If that happens, the pair could slide to $0.40.Related:
-    Bollinger Bands creator says Bitcoin forming 'classic' floor near $80KUNUS SED
-    LEO price analysisUNUS SED LEO (LEO) rose back above the uptrend line on April
-    9, signaling solid demand at lower levels.LEO/USD daily chart. Source: Cointelegraph/TradingViewThe
-    20-day EMA ($9.38) is flattening out, and the RSI is near the midpoint, suggesting
-    a balance between supply and demand. If the price breaks above the 20-day EMA,
-    the LEO/USD pair could reach the overhead resistance at $9.90. If the price turns
-    down from the 20-day EMA, it suggests that the bears continue to sell on rallies.
-    The bears will then make one more attempt to sink the pair below $8.79. If they
-    succeed, the decline could extend to $8.30.Chainlink price analysisChainlink (LINK)
-    has been trading inside a descending channel pattern for several days. The rebound
-    on April 9 shows that the bulls are trying to defend the support line.LINK/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe moving averages are expected
-    to act as a stiff resistance on the way up. If buyers propel the price above the
-    moving averages, the LINK/USDT pair could pick up momentum and rally to $16 and
-    later to $17.50.Contrarily, if the price turns down from the moving averages,
-    it suggests that the bears are active at higher levels. The bears will then make
-    one more attempt to sink the pair below the support line.Avalanche price analysisAvalanche
-    (AVAX) rebounded sharply off the $15.27 support on April 9, indicating solid buying
-    at lower levels.AVAX/USDT daily chart. Source: Cointelegraph/TradingViewThere
-    is resistance in the zone between the 50-day SMA ($20) and the downtrend line,
-    but if the buyers overcome it, the AVAX/USDT pair could surge to $23.50.Sellers
-    are expected to aggressively defend the $23.50 level because a break and close
-    above it will complete a double bottom pattern. This reversal setup has a target
-    objective of $31.73.Instead, if the price turns down from the overhead resistance,
-    it suggests that the pair could remain range-bound between $15.27 and $23.50 for
-    some time.This article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-04-11 17:37:34.000000000 +01:00
-- title: " Bitcoin holds $82K as US dollar falls to 3-year low and PPI inflation drops
-    sharply "
-  url: https://cointelegraph.com/news/bitcoin-holds-82-k-as-us-dollar-falls-to-3-year-low-and-ppi-inflation-drops-sharply?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) sought higher levels around the April 11 Wall Street open
-    as the week’s final US inflation data gave bulls hope.BTC/USD 1-hour chart. Source:
-    Cointelegraph/TradingViewAnalyst: PPI undershoot “great” for US trade warData
-    from Cointelegraph Markets Pro and TradingView showed BTC/USD reaching highs of
-    $83,245 as US Producer Price Index (PPI) data came in below expectations.The Index
-    came in at 2.7% versus the anticipated 3.3%, while the core PPI print also surprised
-    to the downside.An official news release from the US Bureau of Labor Statistics
-    (BLS) added:“In March, over 70 percent of the decrease in the index for final
-    demand can be traced to prices for final demand goods, which fell 0.9 percent.
-    The index for final demand services declined 0.2 percent.”US PPI for final demand.
-    Source: BLSReacting, trading resource The Kobeissi Letter was among those noting
-    the rapid pace at which US inflation appeared to be slowing.“We just saw the first
-    month-over-month decline in PPI inflation, down -0.4%, since March 2024,” it told
-    followers in part of a post on X. “Both CPI and PPI inflation are down SHARPLY.”S&P
-    500 4-hour chart. Source: Cointelegraph/TradingViewRisk-asset performance, however,
-    failed to reflect the notionally positive inflation developments. The S&P 500
-    was 0.2% lower on the day, while the Nasdaq Composite index was flat.As Cointelegraph
-    reported, after stocks fell precipitously the day prior despite bullish inflation
-    numbers, commentators explained that macro data was helping to fuel the ongoing
-    US trade war.Continuing, crypto trader, analyst and entrepreneur Michaël van de
-    Poppe saw a repeat playing out post-PPI. “PPI comes in significantly lower. That's
-    great for Trump and his strategy,” he argued, referring to trade tariffs implemented
-    by US President Donald Trump. “The only thing that needs to be resolved is the
-    on-going Trade War, but the ingredients are building up.”Bitcoin gets key bullish
-    dollar triggerAnother macro development failing to provide its standard risk-asset
-    tailwind came in the form of multiyear lows in US dollar strength.Related: Bollinger
-    Bands creator says Bitcoin forming 'classic' floor near $80KThe US Dollar Index
-    (DXY), which measures the dollar against a basket of US trading partner currencies,
-    fell below the psychological 100 mark for the first time since 2022.US dollar
-    index (DXY) 1-week chart. Source: Cointelegraph/TradingViewAs Cointelegraph reported,
-    long-term lows on DXY have historically sparked a delayed BTC price bull run.“Traditionally,
-    DXY going down is very bullish for $BTC, we now have a massive bearish divergence
-    for DXY, which may suggest it goes to 90,” popular crypto analyst Venturefounder
-    observed in part of an X post on the topic this week.“Last 2 times this happened
-    triggered a Bitcoin parabolic bullrun in final phase of the bullmarket (lasting
-    12 months).”US Dollar Index (DXY) vs. BTC/USD chart with RSI data. Source: Venturefounder/XAn
-    accompanying chart examined relative strength index (RSI) data for the DXY monthly
-    chart, showing it retesting a downward-sloping trend line as support from above.This
-    article does not contain investment advice or recommendations. Every investment
-    and trading move involves risk, and readers should conduct their own research
-    when making a decision.\n\n            "
-  published: 2025-04-11 17:08:26.000000000 +01:00
-- title: " Memecoins, markets and Trump: Cointelegraph’s Q1 crypto editorial roundtable "
-  url: https://cointelegraph.com/news/memecoins-market-momentum-and-trump-crypto-s-q1-cointelegraph-editorial-roundtable?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "The year 2025 kicked off with a bang and a meme. Just weeks into the New
-    Year, a frenzy of politically fueled memecoins sent Crypto Twitter into overdrive,
-    while lawmakers on both sides of the Atlantic turned up the heat on stablecoins,
-    securities laws and tokenized assets, usually with different approaches.It was
-    a whirlwind first quarter, shaped by Bitcoin’s dominance in the crypto market
-    and a US political climate that put digital assets back in the spotlight. Q1 delivered
-    no shortage of storylines.Who better to break it all down than the journalists
-    tracking it in real time? In the latest episode of Decentralize with Cointelegraph,
-    editorial team members sit down for an unfiltered newsroom roundtable.Savannah
-    Fortis, head of podcasts and EU reporter, is joined by Gareth Jenkinson, chief
-    of multimedia; Zoltan Vardai, breaking news reporter on the EU news team; and
-    Vince Quill, US news reporter, to reflect on Q1’s biggest stories and what they
-    signal for the months ahead.Memecoins, power and perceptionAs memecoins surged
-    in early 2025, questions regarding their legitimacy and political entanglement
-    intensified. For Cointelegraph’s editorial team, the frenzy wasn’t just a market
-    quirk, it revealed deep tensions among innovation, opportunism and influence.Jenkinson
-    was first to comment on what the impact of US President Donald Trump and greater
-    political memecoin frenzies may mean for the industry in the long term, saying,
-    “I struggle to still trust what the Trump administration and his group of advisers
-    are doing, when they are launching things like memecoins...”“Yes, we’ve seen a
-    much more favorable approach to the wider crypto industry, and that’s been really
-    great. But a lot of the lobbying, from Ripple, Circle and others, was about making
-    sure their cryptocurrencies were included in this bundle of assets the US wants
-    to hold.”Related: Bitcoin may hit a wall at $84K if bullish conditions don’t pick
-    up: CryptoQuantThe team acknowledged that while regulatory clarity and institutional
-    support have created a more stable environment for crypto companies in general
-    since the new administration took office, that progress risks being overshadowed
-    by spectacle.More memes…Trump’s big moves seem to domino into other political
-    figures, namely Argentina’s President Javier Milei, to become entangled in a high-profile
-    memecoin controversy that rippled far beyond national politics.For an industry
-    seeking legitimacy, this kind of involvement by world leaders sends a mixed message.
-    “It’s terrible for the industry,” Jenkinson added. “Milei was supposed to be a
-    savior for Argentina after years of hyperinflation. And now he’s launching a memecoin
-    with a known rug puller.”Still, the roundtable remained hopeful. “I’m an eternal
-    optimist,” he continued. “At least we got the affirmation for Bitcoin. People
-    now understand what it is, governments are starting to hold it. That’s how good
-    the fundamentals are.”Stablecoins and the altcoin falloutWhile much attention
-    has centered on Bitcoin’s institutional glow-up and the memecoin spectacle, several
-    members of the Cointelegraph team voiced deeper concerns around emerging stablecoin
-    legislation and the quiet moves behind it.“One thing that I think kind of flew
-    under the radar is that the Trump-linked World Liberty Forum actually launched
-    a US dollar-backed stablecoin in March,” Vardai pointed out. “These stablecoins
-    would fall completely in line with both requirements in the Genius Act and Stable
-    Act... but it could really be interpreted as Trump trying to pass stablecoin legislation
-    while having a vested interest. His World Liberty Financial is launching a lot
-    of crypto-related products.”The fallout from politically aligned memecoins has
-    also weighed heavily on the broader crypto markets, particularly altcoins. “Altcoins
-    aren’t really winning at all this quarter,” Vardai also noted.“Memecoins have
-    had this premature rally, and they’ve been rallying independently from other cryptocurrencies.
-    A lot of people are concerned whether Bitcoin’s rise is going to come before Ether’s,
-    and before any altcoin rise.”So what defined Q1 of 2025? Tune in to the full episode
-    to hear all of the insights! Listen to the full episode of Decentralize with Cointelegraph
-    on Cointelegraph’s podcast page, Spotify, Apple Podcasts or your podcast platform
-    of choice. And don’t forget to check out Cointelegraph’s full lineup of other
-    shows!Magazine: Memecoin degeneracy is funding groundbreaking anti-aging research\n\n
-    \           "
-  published: 2025-04-11 14:30:00.000000000 +01:00
-- title: " StarkWare researchers propose smart contracts for Bitcoin with ColliderVM "
-  url: https://cointelegraph.com/news/starkware-bitcoin-smart-contracts-collidervm?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Sidechain developer StarkWare and Weizmann Institute of Science researchers
-    claim to have created a workaround for multiple Bitcoin script limitations.According
-    to a recent research paper, the new design claims to allow the deployment of complex
-    smart contracts on Bitcoin in a more capital-efficient manner. The new system
-    may also be vastly more efficient from a computing standpoint.ColliderVM is a
-    protocol designed to enable stateful computation on Bitcoin, allowing multi-step
-    processes to be securely executed over multiple transactions. Traditionally, Bitcoin
-    script output is not accessible to other scripts, making complex calculations
-    nearly impossible.The researchers argue that ColliderVM could allow the use of
-    Scalable Transparent Arguments of Knowledge (STARKs) — a type of zero-knowledge
-    proof — on Bitcoin without requiring consensus-level changes to the network. The
-    architecture would let Bitcoin verify complex offchain computations with minimal
-    onchain data.ColliderVM targets Bitcoin limitationsEach Bitcoin block can contain
-    up to 4 million OPCodes (commands) across all transactions, and a single Bitcoin
-    script can contain up to 1,000 stack elements (data entries). Furthermore, stateless
-    execution means that each script executes without memory of previous state or
-    intermediate computations from earlier transactions, making complex computations
-    impractical.The BitVM implementation from a 2023 paper by Robin Linus from Bitcoin
-    research firm ZeroSync allowed for complex smart contracts on Bitcoin but required
-    fraud proofs. Fraud proofs are cryptographic proofs that prove a particular transaction
-    or computation was performed incorrectly, possibly triggering corrective actions.Fraud-proof
-    implementation typically requires operators to front capital for potential corrective
-    actions. In BitVM, operators pay an advance to cover potentially fraudulent transactions,
-    recovering the capital after the fraud-proof window closes.The new system is also
-    more efficient from a computing point of view, compared with previous implementations,
-    but still expensive. Previous implementations used cryptographic one-time signatures
-    (Lamport and Winternitz) that were notably computationally heavy.ColliderVM draws
-    from the November 2024 ColliderScript paper by researchers from StarkWare, web
-    services firm Cloudflare and Bitcoin sidechain developer Blockstream. This system
-    relies on a hash collision-based commitment setting a challenge to produce an
-    input that, when run through a hash function, produces an output with pre-determined
-    features.Related: A beginner’s guide to the Bitcoin Taproot upgradeThis setup
-    requires significantly fewer computing resources from honest operators than from
-    malicious actors.Computational resources needed by honest and malicious actors
-    depending on collision difficulty. Source: ColliderVM paperHash, but no food or
-    weedA hash is a non-reversible mathematical function that can be run on arbitrary
-    data, producing a fixed-length alphanumeric string. Non-reversible means that
-    it is impossible to run the computation in reverse to obtain the original data
-    from a hash.This results in a sort of data ID identifying data to the bit, without
-    containing any underlying data.Hash function examples. Source: WikimediaThis system
-    — somewhat resembling Bitcoin (BTC) mining — requires significantly fewer hash
-    operations compared to BitVM, reducing both script size and processing time. ColliderVM
-    researchers claim to have reduced the number of those operations even further,
-    by at least a factor of 10,000.The researchers seemingly suggest that this implementation
-    is nearly making a STARKs-based Bitcoin sidechain practical. The paper reads:“We
-    estimate that the Bitcoin script length for STARK proof verification becomes nearly
-    practical, allowing it to be used alongside other, pairing-based proof systems
-    common today in applications.”STARKs are a ZK-proof system recognized for their
-    scalability and trustless nature (no trusted setup is needed). ZK-proofs are a
-    cryptographic system that allows users to prove a particular feature of a piece
-    of data without revealing the underlying data.Many early ZK-proof systems necessitated
-    a one-time secure setup that relied on “toxic waste” data. If a party were to
-    keep hold of the toxic waste, it would allow them to forge signatures and generate
-    fraudulent proofs. STARKs do not rely on such a setup, making them trustless.Traditional
-    implementation of STARK verifiers would require scripts that exceed Bitcoin’s
-    limits. Now, researchers behind ColliderVM argue that their more efficient system
-    approaches make an onchain verification script for STARK-proofs “nearly practical.”Related:
-    Bitcoin sidechains will drive BTCfi growthBitcoin-based trustless sidechains?Bitcoin
-    is widely considered the most secure and reliable blockchain, but its critics
-    raise issues with its feature set being significantly more limited when compared
-    to many altcoins. Sidechains such as Blockstream’s Liquid exist, but are not trustless.Director
-    of research at blockchain firm Blockstream and mathematician Andrew Poelstra told
-    Cointelegraph as far back as 2020 that ZK-proof-based systems are “one of the
-    most exciting areas of development” in the cryptography space. Cypherpunk, a developer
-    cited in the Bitcoin white paper and Blockstream founder, explained in a 2014
-    paper that more work was needed to implement trustless ZK-proof-based sidechains
-    on Bitcoin.Still, even 10 years later, a system based on ColliderVM would be trust-minimized
-    rather than trustless. This is because users would still need to trust that at
-    least a minimal subset of network participants will act honestly to ensure the
-    correct functioning of the system.The study’s lead authors include Eli Ben-Sasson,
-    co-founder of StarkWare, along with researchers Lior Goldberg and Ben Fisch. Ben-Sasson
-    is one of the original developers of STARKs and has long advocated for the use
-    of zero-knowledge proofs to improve blockchain scalability.In a recent interview
-    with Cointelegraph, StarkWare co-founder Ben-Sasson noted that a real Bitcoin
-    layer-2 solution would need to have “the security of Bitcoin itself.” Instead,
-    current solutions rely on trust in signers or fraud-proof-based economic incentives.
-    Still, he recognized the Lightning Network:“We should also acknowledge there’s,
-    of course, today, lightning networks, which have the security of Bitcoin.“Magazine:
-    ‘Bitcoin layer 2s’ aren’t really L2s at all: Here’s why that matters\n\n            "
-  published: 2025-04-11 14:13:05.000000000 +01:00
-- title: " New York bill proposes legalizing Bitcoin, crypto for state payments "
-  url: https://cointelegraph.com/news/new-york-bill-legalize-bitcoin-crypto-payments?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "A New York lawmaker has introduced legislation that would allow state
-    agencies to accept cryptocurrency payments, signaling growing political momentum
-    for digital asset integration in public services.Assembly Bill A7788, introduced
-    by Assemblyman Clyde Vanel, seeks to amend state financial law to allow New York
-    state agencies to accept cryptocurrencies as a form of payment.It would permit
-    state agencies to accept payments in Bitcoin (BTC), Ether (ETH), Litecoin (LTC)
-    and Bitcoin Cash (BCH), according to the bill’s text.Source: Nysenate.govAccording
-    to the bill, state offices could authorize crypto payments for “fines, civil penalties,
-    rent, rates, taxes, fees, charges, revenue, financial obligations or other amounts,”
-    as well as penalties, special assessments and interest.Related: Trump’s tariff
-    escalation exposes ‘deeper fractures’ in global financial systemCryptocurrency
-    legislation is becoming a focal point in New York, with Bill A7788 marking the
-    state’s second crypto-focused legislation in a little over a month.In March, New
-    York introduced Bill A06515, aiming to establish criminal penalties to prevent
-    cryptocurrency fraud and protect investors from rug pulls.Crypto-focused legislation
-    has gathered momentum since President Donald Trump took office on Jan. 20, with
-    Trump signaling during his campaign that his administration intends to make crypto
-    policy a national priority, as well as making the US a global hub for blockchain
-    innovation.Related: Illinois Senate passes crypto bill to fight fraud and rug
-    pullsNew York may mandate state “service fee” on crypto paymentsIf passed, the
-    bill would mark a significant shift in how New York handles digital assets. It
-    would allow state entities to integrate cryptocurrency into the payment infrastructure
-    used for collecting public funds.The proposal also includes a clause allowing
-    the state to impose a service fee on those choosing to pay with crypto. According
-    to the text, the state may require “a service fee not exceeding costs incurred
-    by the state in connection with the cryptocurrency payment transaction.” This
-    could include transaction costs or fees owed to crypto issuers.Assembly Bill A7788
-    has been referred to the Assembly Committee for review and may advance to the
-    state Senate as the next step.New York’s legislation comes shortly after the state
-    of Illinois passed a crypto bill to fight fraud and rug pulls after the recent
-    wave of insider schemes related to memecoins, Cointelegraph reported on April
-    11.Magazine: XRP win leaves Ripple and industry with no crypto legal precedent
-    set\n\n            "
-  published: 2025-04-11 12:55:16.000000000 +01:00
-- title: " BlackRock reports $3B in digital asset inflows during Q1 "
-  url: https://cointelegraph.com/news/blackrock-3-billion-inflows-crypto-asset-products-q1-2025?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "BlackRock, the world’s largest asset manager with $11.6 trillion in assets
-    under management, reported $84 billion in total net inflows in the first quarter
-    of 2025, marking a 3% annualized growth in assets under management.The firm’s
-    strong performance was led by a record first quarter for iShares exchange-traded
-    funds (ETFs) alongside continued strength in private markets and net inflows,
-    according to BlackRock’s Q1 earnings released on April 11.Of the $107 billion
-    in net inflows to iShares ETFs, $3 billion, or 2.8% of the total ETF inflows,
-    was directed to digital asset products in Q1, BlackRock said.BlackRock’s net flow
-    data in Q1 2025 (in billions of US dollars). Source: BlackRockAlternative investments
-    also played a significant role in Q1, with private market inflows totaling $9.3
-    billion.Digital assets remain small segmentAs of March 31, digital assets accounted
-    for $34 million in base fees or less than 1% of BlackRock’s long-term revenue.By
-    the end of the first quarter, BlackRock’s total digital assets under management
-    amounted to $50.3 billion, which represents about 0.5% of the firm’s $11.6 trillion
-    in total assets under management.BlackRock’s business results in Q1 2025 (in millions
-    of US dollars). Source: BlackRockBlackRock’s financial results suggest that digital
-    assets still make up a modest share of the company’s business.Despite that, BlackRock’s
-    $3 billion in digital asset inflows is notable given widespread liquidations in
-    the Bitcoin ETF market earlier this year. The company’s figures suggest that investor
-    interest in crypto-backed ETFs remains steady.Base fee growth shows “best start
-    to a year since 2021,” CEO saysDespite BlackRock recording a 70% drop in net inflows
-    in the first quarter of 2025 compared to the previous quarter, with inflows falling
-    from $281 billion in Q4 2024 to $84 billion, BlackRock CEO Larry Fink pointed
-    to the company’s solid fee growth as a major indicator of success.“We delivered
-    6% organic base fee growth in the first quarter, representing our best start to
-    a year since 2021 and secular strength against a complex market backdrop,” Fink
-    said in the report.Related: Bitcoin could reduce dominance of US dollar — BlackRockFink
-    also mentioned that the company is focused on helping clients navigate market
-    and policy changes while also providing insights on “long-term structural growth
-    opportunities,” adding:“The goal for us is to keep our clients focused on the
-    long-term, and help them achieve any near-term allocation or liquidity changes
-    they need within the BlackRock platform.”While BlackRock saw $3 billion in crypto
-    asset inflows in Q1 2025, some other Bitcoin ETF issuers have suffered massive
-    outflows.Flows by issuer (in millions of US dollars). Source: CoinSharesAccording
-    to CoinShares data, Grayscale saw roughly $1.4 billion in outflows from its crypto
-    ETFs year-to-date as of April 4.Magazine: Bitcoin heading to $70K soon? Crypto
-    baller funds SpaceX flight: Hodler’s Digest, March 30 – April 5 \n\n            "
-  published: 2025-04-11 12:15:51.000000000 +01:00
-- title: " Swedish MP proposes Bitcoin reserve to finance minister "
-  url: https://cointelegraph.com/news/swedish-mp-bitcoin-reserve-finance-minister?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "A member of Sweden’s parliament proposed adding Bitcoin to the country’s
-    foreign exchange reserves, suggesting increased openness to cryptocurrency adoption
-    in Europe following recent moves by the United States.Swedish MP Rickard Nordin
-    issued an open letter urging Finance Minister Elisabeth Svantesson to consider
-    adopting Bitcoin (BTC) as a national reserve asset.“Sweden has a tradition of
-    a conservative and carefully managed foreign exchange reserve, mainly consisting
-    of foreign currencies and gold,” Nordin wrote in a letter registered on April
-    8, adding:“At the same time, there is a rapid development in digital assets, and
-    several international players regard bitcoin as a custodian and a hedge against
-    inflation. In many parts of the world, bitcoin is used as a means of payment and
-    as security against rising inflation.”“It is also an important way for freedom
-    fighters to handle payments when under the oppression of authoritarian regimes,”
-    he added.Open letter from MP Rickard Nordin. Source: Riksdagen.seRelated: US Bitcoin
-    reserve marks’ real step’ toward global financial integrationThe Swedish proposal
-    echoes a recent move by the United States. In March, President Donald Trump signed
-    an executive order to create a national Bitcoin reserve funded by cryptocurrency
-    seized in criminal investigations rather than purchased through market channels.The
-    order authorized the Treasury and Commerce secretaries to develop “budget-neutral
-    strategies” to buy more Bitcoin for the reserve, provided there were no additional
-    costs to taxpayers.The governor of the Czech National Bank has also considered
-    Bitcoin as part of a potential diversification strategy for the country’s foreign
-    reserves, Cointelegraph reported on Jan. 7.Related: Bitcoin reserve backlash signals
-    unrealistic industry expectationsEuropean lawmakers silent on Bitcoin legislation
-    amid CBDC pushEuropean lawmakers have remained mostly silent on Bitcoin legislation
-    despite Trump’s historic executive order and Bitcoin’s economic model favoring
-    the early adopters.The lack of Bitcoin-related statements may stem from Europe’s
-    focus on the launch of the digital euro, a central bank digital currency (CBDC),
-    James Wo, the founder and CEO of venture capital firm DFG, told Cointelegraph,
-    adding:“This highlights the EU’s greater emphasis on the digital euro, though
-    the recent outage in the ECB’s Target 2 (T2) payment system, which caused significant
-    transaction delays, raised concerns about its ability to oversee a digital currency
-    when it struggles with daily operations.”ECB President Christine Lagarde is pushing
-    ahead with the digital euro’s rollout, expected in October. Lagarde has emphasized
-    that the CBDC will coexist with cash and offer privacy protections to address
-    concerns about government overreach.“The European Union is looking to launch the
-    digital euro, our central bank digital currency, by October this year,” Lagarde
-    said during a news conference, adding:“We are working to ensure that the digital
-    euro coexists with cash, addressing privacy concerns by making it pseudonymous
-    and cash-like in nature.”Source: CointelegraphThis is in stark contrast to the
-    approach of the US, where Trump has taken a firm stance against CBDCs, prohibiting
-    “the establishment, issuance, circulation, and use” of a US dollar-based CBDC.Magazine:
-    SCB tips $500K BTC, SEC delays Ether ETF options, and more: Hodler’s Digest, Feb.
-    23 –March. 1\n\n            "
-  published: 2025-04-11 11:50:47.000000000 +01:00
-- title: " What is a bear raid, and how do whales use them in crypto trading? "
-  url: https://cointelegraph.com/news/what-is-a-bear-raid-and-how-do-whales-use-them-in-crypto-trading?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Key takeawaysBear raids involve deliberate efforts by whales to drive
-    down crypto prices using short-selling, FUD and large-scale sell-offs to trigger
-    panic and profit from the dip.These raids create volatility, trigger liquidations
-    and damage retail confidence. However, they can also expose weak or fraudulent
-    projects.Signs include sudden price drops, high trading volume, absence of news
-    and quick recoveries, indicating price manipulation rather than natural market
-    trends.Traders can guard against bear raids by using stop-loss orders, diversifying
-    portfolios, monitoring whale activity and trading on reputable, regulated platforms.Not
-    all market moves are organic in the dynamic world of crypto trading; some are
-    engineered to make quick profits. One such tactic is the bear raid, often driven
-    by powerful market players known as whales. These traders strategically use short-selling,
-    where they borrow and sell assets at current prices, aiming to repurchase them
-    cheaper once the price drops. So, how exactly does this tactic play out? This
-    article dives into what a bear raid is and how it functions. It also covers how
-    bear raids impact the crypto market, what the signs are and how retail investors
-    can protect their interests. What is a bear raid?A bear raid is a deliberate strategy
-    to drive down the price of an asset, typically through aggressive selling and
-    the spread of fear, uncertainty and doubt (FUD). The tactic dates back to the
-    early days of traditional stock markets, where influential traders would collaborate
-    to manipulate prices for profit.Execution of a bear raid involves selling large
-    volumes of a targeted asset to flood the market. The sharp increase in supply
-    creates downward pressure on the price. At the same time, the perpetrators circulate
-    negative rumors or sentiments, often through media, to amplify fear and uncertainty.
-    As panic sets in, smaller or retail investors often sell off their holdings, further
-    accelerating the price drop.Bear raids differ from natural market downturns. While
-    both lead to falling prices, a bear raid is orchestrated and intentional, meant
-    to benefit those holding short positions. Natural downturns are driven by broader
-    economic trends, market corrections or legitimate changes in investor sentiment.Bear
-    raids are generally considered a form of market manipulation. Regulatory agencies
-    monitor trading activities, investigate suspicious patterns and penalize fraudulent
-    practices such as pump-and-dump schemes or wash trading. To enhance transparency,
-    they require exchanges to implement compliance measures, including KYC (Know Your
-    Customer) and AML (Anti-Money Laundering) protocols. By imposing fines, bans,
-    or legal action, regulators work to maintain fair markets and protect investors. Regulators
-    attempt to deter cryptocurrency market manipulation by enforcing strict rules
-    and oversight. In the US, the Securities and Exchange Commission (SEC) focuses
-    on crypto assets that qualify as securities, while the Commodity Futures Trading
-    Commission (CFTC) regulates commodities and their derivatives. Under the Markets
-    in Crypto-Assets Regulation (MiCA) law, enforcement in the EU is the responsibility
-    of financial regulators in the member states. Did you know? In 2022, over 50%
-    of Bitcoin’s daily trading volume was influenced by just 1,000 addresses — commonly
-    called whales — highlighting their market-shaking power.Who executes bear raids?In
-    the crypto world, “whales” are big investors capable of executing bear raids.
-    Because of their substantial holdings of cryptocurrencies, whales can influence
-    market trends and price movements in ways smaller retail traders cannot.Compared
-    to other traders, whales operate on a different scale, thanks to their access
-    to more capital and advanced tools. While you might be looking for short-term
-    gains or simply following trends, whales often use strategic buying or selling
-    to create price shifts that benefit their long-term positions. Their moves are
-    carefully planned and can affect the market without you even realizing it.If you
-    are a regular crypto trader, you might be aware of the massive crypto movement
-    between wallets. Such large-scale transfer of crypto causes panic or excitement
-    in the cryptocurrency community. For example, when a whale transfers a large amount
-    of Bitcoin (BTC) to an exchange, it may signal a potential sell-off, causing prices
-    to dip. Conversely, removing coins from exchanges to self-custodial wallets might
-    suggest long-term holding, which can lead to a price upswing.The relatively low
-    liquidity of crypto markets gives whales such influence over crypto trading. With
-    fewer buyers and sellers compared to traditional financial markets, a single large
-    trade can dramatically swing prices. This means whales can manipulate market conditions,
-    intentionally or not, often leaving retail traders struggling to keep up.Did you
-    know? Bear raids often trigger automated liquidations in leveraged positions,
-    sometimes causing crypto prices to nosedive by over 20% in minutes.Real-world
-    examples of whales profiting from falling pricesIn crypto, cases of bear raids
-    are generally hard to confirm due to anonymity. Nevertheless, these examples of
-    incidents when whales made profits from falling cryptocurrency prices will help
-    you understand how such scenarios work:Terra Luna collapse (May 2022)A Bank for
-    International Settlements (BIS) report disclosed that during the 2022 crypto market
-    crash, triggered by the collapse of Terra (LUNA), whales made a profit at the
-    expense of retail investors. Smaller retail investors predominantly purchased
-    cryptocurrencies at lower prices, whereas whales primarily sold off their holdings,
-    profiting from the downturn.In May 2022, the Terra blockchain was briefly suspended
-    following the failure of its algorithmic stablecoin TerraUSD (UST) and the associated
-    cryptocurrency LUNA, resulting in a loss of nearly $45 billion in market value
-    in one week. The company behind Terra filed for bankruptcy on Jan. 21, 2024. FTX
-    collapse (November 2022)In November 2022, close financial ties between FTX and
-    Alameda Research set off a chain reaction: a bank run, failed acquisition deals,
-    FTX's bankruptcy and criminal charges for founder Sam Bankman-Fried.Yet again,
-    as FTX collapsed, retail investors rushed to buy the dip. Whales, however, sold
-    crypto in bulk right before the steep price decline, according to the same BIS
-    report that discussed the fall of Terra Luna.Graph 1.B illustrates a transfer
-    of wealth, where larger investors liquidated their holdings, disadvantaging smaller
-    investors. Furthermore, Graph 1.C reveals that following market shocks, large
-    Bitcoin holders (whales) reduced their positions, while smaller holders (referred
-    to as krill in the report) increased theirs. The price trends indicate that whales
-    sold their Bitcoin to krill before significant price drops, securing profits at
-    the krill's expense.Bitconnect (BCC) shutdown (January 2018)Bitconnect, a cryptocurrency
-    promising unusually high returns via an alleged trading bot, experienced a dramatic
-    collapse in early 2018. Despite reaching a peak valuation of over $2.6 billion,
-    the platform was widely suspected of operating as a Ponzi scheme. The token suffered
-    a steep fall of over 90% in value within hours. While this was not a classic bear
-    raid, the sudden exit of insiders and whale sell-offs, combined with negative
-    publicity, created a cascading effect that devastated retail investors.Did you
-    know? Whale wallets are tracked so closely that some platforms offer real-time
-    alerts for their trades, helping retail traders anticipate possible bear raids.How
-    whales execute bear raids in crypto, key stepsIn the crypto space, whales can
-    execute bear raids by leveraging their massive holdings to trigger sharp price
-    drops and profit from the following panic. These tactics typically unfold in a
-    few steps:Step 1: Accumulating a position: Whales begin by taking positions that
-    will benefit from falling prices, such as shorting a cryptocurrency or preparing
-    to buy large quantities once the price drops. Step 2: Initiating the raid: Next,
-    the whale triggers the sell-off by dumping large volumes of the targeted crypto
-    asset. This sudden surge in supply causes the price to drop sharply, shaking market
-    confidence.Step 3: Spreading FUD: To maximize the impact, whales may spread FUD
-    using coordinated social media campaigns or fake news. Rumors like adverse regulatory
-    action or insolvency can spread quickly, prompting retail traders to sell in panic.Step
-    4: Triggering sell-offs: The combination of visible large sell orders and negative
-    sentiment induces other investors to sell their holdings, amplifying the downward
-    pressure on the asset's price.Step 5: Profiting from the dip: Once the price plunges,
-    the whale steps in to either buy back the asset at a lower price or close their
-    short positions for a profit.The whales’ playbook: How do they manipulate the
-    market? Crypto whales use sophisticated tactics to carry out bear raids and manipulate
-    the market to their advantage. These tactics give whales an edge over retail traders,
-    enabling them to manipulate prices and profit while the latter are left to deal
-    with the chaos:Trading bots and algorithms: Advanced bots allow whales to execute
-    large sell orders in milliseconds, triggering sharp price drops. Before the market
-    can react, the whales turn the situation in their favor.Leverage and margin trading:
-    Whales rely (to a large extent) on leverage and margin trading to make profits.
-    Borrowing funds enables them to increase their position size and amplify the sales
-    pressure. It triggers stronger market reactions than would be possible with their
-    holdings.Low liquidity on certain exchanges: Whales can place large sell orders
-    in illiquid markets with fewer participants and a low volume of trades, causing
-    disproportionate price drops. They may even manipulate order books by placing
-    and canceling large fake orders, known as spoofing, to trick other traders.Collaborate
-    with other whales: Whales may collaborate with other large holders or trading
-    groups to coordinate attacks, making the bear raid more effective and harder to
-    trace.Impact of bear raids on the crypto market Bear raids can significantly disrupt
-    the crypto market. Here is how they impact different players and the broader ecosystem: Effects
-    on retail traders: Retail investors tend to react overwhelmingly during a bear
-    raid. The sudden price drop and spread of fear often lead to panic selling, resulting
-    in heavy losses for the investors who exit at the bottom. Most retail traders
-    sell emotionally, not realizing they are playing into the whale’s strategy. Broader
-    market consequences: Bear raids increase market volatility, making it riskier
-    for new and existing investors. These events can shake overall confidence in the
-    crypto space, leading to reduced trading activity and investor hesitation. In
-    extreme cases, they can even trigger liquidations across multiple platforms. Potential
-    positive outcomes: Bear raids can sometimes have cleansing effects on the crypto
-    market. Market corrections induced by such raids remove overvalued assets from
-    unsustainable highs. In some cases, these raids may expose weak or fraudulent
-    projects, forcing investors to reassess their choices.Signs of crypto bear raidsBear
-    raids are misleading market moves that resemble genuine downturns, often tricking
-    traders into selling too soon. A quick drop in price may look like the start of
-    a bearish trend, leading to impulsive decisions by retail traders. Often, these
-    dips are short-lived and followed by a swift recovery once the whales take their
-    profits. Recognizing the signs of crypto bear raids is key to avoiding losses.Here
-    are a few signs of crypto bear raids:A sudden price drop that seems to break support
-    levels Spike in trading volume during a market declineQuick rebound after the
-    dipNegative sentiment causing trader panic No major news to explain the dropHow
-    to protect yourself from crypto bear raids​To safeguard your investments from
-    crypto bear raids, you can use the following strategies:​Conduct thorough technical
-    analysis: Regularly analyze price charts and indicators to discern genuine market
-    trends from manipulative movements. ​Implement stop-loss orders: Set predetermined
-    sell points to automatically exit positions if prices fall to a certain level,
-    limiting potential losses during sudden downturns. ​Diversify your portfolio:
-    Spread investments across various assets to mitigate risk. A well-diversified
-    portfolio is less vulnerable to the impact of a bear raid on any single asset.
-    ​Stay informed: Monitor market news and developments to better anticipate and
-    respond to potential manipulative activities. Use reputable exchanges: Engage
-    with trading platforms that have robust measures against market manipulation,
-    ensuring a fairer trading environment.The ethical debate: Crypto market manipulation
-    vs free market dynamicsThe principles of free market dynamics starkly contrast
-    to market manipulation tactics, such as bear raids. Proponents of free markets
-    favor minimal regulatory intervention, arguing that it fosters innovation and
-    self-regulation. A free market is an economic system in which supply and demand
-    determine the prices of goods and services. Still, the decentralized and often
-    unregulated nature of crypto markets has made them susceptible to manipulative
-    practices. Bear raids require coordinated efforts by perpetrators to drive down
-    asset prices, misleading investors and undermining market integrity. Such tactics
-    bring losses to retail investors and erode trust in the financial system. Critics
-    point out that without adequate oversight, these manipulative strategies can proliferate,
-    leading to unfair advantages and potential economic harm. While free market dynamics
-    are valued for promoting efficiency and innovation, the implications of unchecked
-    market manipulation in the cryptocurrency space can be disastrous. Incidents like
-    bear raids highlight the need for balanced regulation to ensure fairness and protect
-    investors.Crypto regulations worldwide for market manipulation tacticsCryptocurrency
-    market manipulation, including tactics like bear raids, has prompted varied regulatory
-    responses worldwide. In the US, the Commodity Futures Trading Commission (CFTC)
-    classifies digital currency as commodities and actively pursues fraudulent schemes,
-    including market manipulation practices such as spoofing and wash trading. The
-    Securities and Exchange Commission (SEC) has also taken action against individuals
-    who have manipulated digital asset markets. The European Union has implemented
-    the Markets in Crypto-Assets (MiCA) regulation to establish a comprehensive framework
-    addressing market manipulation and ensure consumer protection regarding stablecoins.These
-    efforts notwithstanding, the decentralized and borderless nature of cryptocurrencies
-    presents challenges for regulators. Global cooperation and adaptive regulatory
-    frameworks are essential to effectively combat market manipulation and safeguard
-    investors in the evolving landscape of digital finance.Progression articlesLong
-    and short positions in crypto, explainedA beginner’s guide on how to short Bitcoin
-    and other cryptocurrenciesWhat is a bear trap in trading and how to avoid it?This
-    article does not contain investment advice or recommendations. Every investment
-    and trading move involves risk, and readers should conduct their own research
-    when making a decision.\n\n            "
-  published: 2025-04-11 11:45:23.000000000 +01:00
-- title: " Bollinger Bands creator says Bitcoin forming &#039;classic&#039; floor
-    near $80K "
-  url: https://cointelegraph.com/news/bollinger-band-creator-bitcoin-forming-classic-floor-below-80k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) is exhibiting familiar “bottom” behavior at current prices,
-    according to one of its best-known leading indicators. In an X post on April 10,
-    John Bollinger, creator of the Bollinger Bands volatility metric, offered potentially
-    good news to Bitcoin bulls.Bollinger bands %b metric teases BTC price comebackBitcoin
-    may already be establishing a long-term bottom, the latest Bollinger Bands data
-    suggests.Analyzing weekly timeframes, Bollinger drew attention to one of his proprietary
-    indicators, known as “%b,” which offers further clues about market trend reversals.The
-    indicator %b measures an asset’s closing price relative to Bollinger Band position,
-    employing standard deviation around a 20-period simple moving average (SMA). Among
-    its insights is the “W” bottom formation, where a first low beneath zero is followed
-    by a higher low retest later, something that could now be in play for BTC/USD.Bollinger
-    confirmed to X followers:“Classic Bollinger Band W bottom setting up in $BTCUSD.
-    Sill needs confirmation.”BTC/USD 1-week chart with Bollinger Bands data. Source:
-    John Bollinger/XOn both weekly and daily timeframes, Bollinger Bands show no trend
-    shift has yet taken place. Data from Cointelegraph Markets Pro and TradingView
-    shows that the daily chart continues to walk down the lower band, with the middle
-    SMA acting as resistance.BTC/USD 1-day chart with Bollinger Bands data. Source:
-    Cointelegraph/TradingViewTurning to stocks, with which BTC/USD has become increasingly
-    correlated, Jurrien Timmer, director of global macro at Fidelity Investments,
-    drew similar conclusions.“Revisiting the Bollinger Bands, we have gone from 2
-    standard deviations above-trend to on-trend to now almost 2 standard deviations
-    below-trend,” he said in reference to the S&P 500 on April 9. “Again, oversold
-    but not at an historic extreme.”Bitcoin bounce may follow 10% Nasdaq plungeAs
-    Cointelegraph continues to report, BTC price bottom targets increasingly center
-    around the $70,000 mark.Related: Bitcoin, stocks shun CPI print win and give up
-    tariff relief gains — Will BTC whales save the day?That level is significant for
-    several reasons, including as a psychological barrier and its status as a liquidity
-    magnet.Network economist Timothy Peterson, whose Lowest Price Forward metric previously
-    offered 95% odds that $69,000 would stay intact as support, now sees Bitcoin reversing
-    only after stocks find their own floor.“Bitcoin led NASDAQ on this decline  As
-    the asset perceived to be at the top of the risk pyramid, I would expect NASDAQ
-    to rally first, and then Bitcoin  Just something to look for,” he revealed this
-    week. “But I think NASDAQ has another -10% to fall.”Bitcoin vs Nasdaq comparison.
-    Source: Timothy Peterson/XThis article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-04-11 10:55:23.000000000 +01:00
-- title: " Grayscale and Osprey end 2-year legal fight over Bitcoin ETF promotion "
-  url: https://cointelegraph.com/news/grayscale-osprey-lawsuit-connecticut-court-bitcoin-etf?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Asset managers Osprey Funds and Grayscale Investments agreed to settle
-    a lawsuit over alleged violations of Connecticut law in the advertising and promotion
-    of Grayscale’s Bitcoin exchange-traded fund (ETF). According to an April 9 court
-    filing, the parties agreed to settle the two-year-old case and are finalizing
-    documentation and settlement terms. The filing noted that once those steps are
-    completed, Osprey will withdraw its appeal.“Soon after this appeal was filed,
-    the parties reached a settlement of this case,” the motion stated. “It is expected
-    that all these tasks can be done within 45 days, and it is uncertain whether a
-    shorter extension would suffice.”Details of the settlement have not been made
-    public. Grayscale and Osprey reach settlementThe legal battle between the two
-    firms started on Jan. 30, 2023, when Osprey filed a suit in the Connecticut Superior
-    Court. Osprey claimed it was Grayscale’s only competitor in the over-the-counter
-    Bitcoin (BTC) trust market and that Grayscale had maintained its market share
-    through deceit. Osprey claimed Grayscale promoted its Grayscale Bitcoin Trust
-    (GBTC) as a means to access a spot Bitcoin ETF through a conversion. Osprey argued
-    that the conversion was presented as a certainty, despite regulatory uncertainty
-    at the time.Grayscale’s application to convert GBTC into a spot ETF was approved
-    by the US Securities and Exchange Commission in January 2024. An August 2023 ruling
-    compelled the SEC to reconsider its rejection of Grayscale’s application to convert
-    the fund into an ETF. The SEC’s approval allowed GBTC to transition into a spot
-    ETF and begin trading on the NYSE Arca exchange.Related: Crypto ETPs shed $240M
-    last week amid US trade tariffs — CoinSharesLawsuit settlement follows Osprey
-    appeal On Feb. 7, Judge Mark Gould sided with Grayscale, ruling that Osprey’s
-    claims against the asset manager were exempted from the Connecticut Unfair Trade
-    Practices Act. Osprey responded by filing a motion for reargument on Feb. 10.
-    The fund claimed that Gould’s ruling came “before the close of discovery,” which
-    is the formal evidence-gathering phase of a lawsuit.The fund claimed that the
-    ruling overlooked the differences between how the Federal Trade Commission and
-    Connecticut courts treat deceptive advertising. The settlement ended one of the
-    more prominent legal clashes among crypto asset managers competing for early ETF
-    dominance. Grayscale’s GBTC remains one of the largest Bitcoin investment vehicles
-    in the United States.Magazine: Illegal arcade disguised as … a fake Bitcoin mine?
-    Soldier scams in China: Asia Express\n\n            "
-  published: 2025-04-11 09:51:28.000000000 +01:00
 - title: " Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug
     for 5 Years "
   url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
