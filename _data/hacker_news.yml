@@ -1,124 +1,121 @@
 ---
-- title: Zoom outage caused by accidental 'shutting down' of the zoom.us domain
-  url: https://status.zoom.us/incidents/pw9r9vnq5rvk
+- title: Gemini 2.5 Flash
+  url: https://developers.googleblog.com/en/start-building-with-gemini-25-flash/
   summary: Comments
-  published: 2025-04-17 00:55:49.000000000 +00:00
-- title: Jellyfin as a Spotify alternative
-  url: https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/
+  published: 2025-04-17 19:03:39.000000000 +00:00
+- title: Potatoes in the Mail
+  url: https://facts.usps.com/mailing-potatoes/
   summary: Comments
-  published: 2025-04-17 00:10:51.000000000 +00:00
-- title: Demolishing the Fry's Electronics in Burbank
-  url: https://www.latimes.com/00000196-230a-d4c4-abd7-fb5a95770000-123
+  published: 2025-04-17 21:35:45.000000000 +00:00
+- title: I Analyzed Chord Progressions in 680k Songs
+  url: https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in
   summary: Comments
-  published: 2025-04-14 03:43:55.000000000 +00:00
-- title: 'OpenAI Codex CLI: Lightweight coding agent that runs in your terminal'
-  url: https://github.com/openai/codex
+  published: 2025-04-17 22:44:11.000000000 +00:00
+- title: What do I think about Lua after shipping a project with 60k lines of code?
+  url: https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733
   summary: Comments
-  published: 2025-04-16 17:24:50.000000000 +00:00
-- title: Darwin's children drew all over the “On the Origin of Species” manuscript
-    (2014)
-  url: https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species
+  published: 2025-04-17 22:55:55.000000000 +00:00
+- title: An intro to DeepSeek's distributed file system
+  url: https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/
   summary: Comments
-  published: 2025-04-16 14:28:36.000000000 +00:00
-- title: '12-factor Agents: Patterns of reliable LLM applications'
-  url: https://github.com/humanlayer/12-factor-agents
+  published: 2025-04-17 12:50:37.000000000 +00:00
+- title: CN Tower, Behind the Scenes (2014)
+  url: https://site.roadwolf.ca/categories/ue/cntower/
   summary: Comments
-  published: 2025-04-15 22:38:04.000000000 +00:00
-- title: Damn Vulnerable MCP Server
-  url: https://github.com/harishsg993010/damn-vulnerable-MCP-server
+  published: 2025-04-17 22:55:36.000000000 +00:00
+- title: 'Decreased CO2 during breathwork: emergence of altered states of consciousness'
+  url: https://www.nature.com/articles/s44271-025-00247-0
   summary: Comments
-  published: 2025-04-16 16:00:21.000000000 +00:00
-- title: TLS certificate lifetimes will officially reduce to 47 days
-  url: https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days
+  published: 2025-04-15 16:23:40.000000000 +00:00
+- title: The Size of Packets
+  url: https://www.potaroo.net/ispcol/2024-10/packet-sizes.html
   summary: Comments
-  published: 2025-04-15 15:09:22.000000000 +00:00
-- title: Man who built ISP instead of paying Comcast expands to hundreds of homes
-    (2022)
-  url: https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/
+  published: 2025-04-18 00:59:06.000000000 +00:00
+- title: Kagi Assistant is now available to all users
+  url: https://blog.kagi.com/assistant-for-all
   summary: Comments
-  published: 2025-04-16 20:06:50.000000000 +00:00
-- title: 'Query Engines: Push vs. Pull (2021)'
-  url: https://justinjaffray.com/query-engines-push-vs.-pull/
+  published: 2025-04-18 01:14:35.000000000 +00:00
+- title: Memory Size Matters to PostgreSQL
+  url: https://pgdba.org/post/2025/04/size_matter/
   summary: Comments
-  published: 2025-04-14 06:15:59.000000000 +00:00
-- title: Astronomers Detect a Possible Signature of Life on a Distant Planet
-  url: https://www.nytimes.com/2025/04/16/science/astronomy-exoplanets-habitable-k218b.html
+  published: 2025-04-17 22:37:12.000000000 +00:00
+- title: HDR‑Infused Emoji
+  url: https://sharpletters.net/2025/04/16/hdr-emoji/
   summary: Comments
-  published: 2025-04-16 23:20:31.000000000 +00:00
-- title: Unix files have (at least) two sizes
-  url: https://utcc.utoronto.ca/~cks/space/blog/unix/UnixFilesTwoSizes
+  published: 2025-04-17 14:42:07.000000000 +00:00
+- title: Milwaukee M18 Battery Reverse Engineering
+  url: https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering
   summary: Comments
-  published: 2025-04-14 10:18:12.000000000 +00:00
-- title: How a Forgotten Battle Created a More Peaceful World
-  url: https://worldhistory.substack.com/p/how-a-forgotten-battle-created-a
+  published: 2025-04-17 16:07:21.000000000 +00:00
+- title: A new ChatGPT version just dropped and GeoGuesser is now a solved problem
+  url: https://flausch.social/@piegames/114352447253793517
   summary: Comments
-  published: 2025-04-16 22:21:14.000000000 +00:00
-- title: OneSignal (YC S11) Is Hiring Engineers
-  url: https://onesignal.com/careers
+  published: 2025-04-17 23:36:57.000000000 +00:00
+- title: Is it possible to write plain C iOS app in 2025?
+  url: https://news.ycombinator.com/item?id=43682984
   summary: Comments
-  published: 2025-04-16 21:00:11.000000000 +00:00
-- title: OpenAI o3 and o4-mini
-  url: https://openai.com/index/introducing-o3-and-o4-mini/
+  published: 2025-04-14 16:21:29.000000000 +00:00
+- title: Google is illegally monopolizing online advertising tech, judge rules
+  url: https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html
   summary: Comments
-  published: 2025-04-16 17:01:54.000000000 +00:00
-- title: '"Vivarium": The keeper of a lab''s animals stumbles onto a secret [fiction]'
-  url: https://jsomers.net/vivarium/
+  published: 2025-04-17 14:47:46.000000000 +00:00
+- title: Mux (YC W16) is hiring engineering managers for video at scale
+  url: https://mux.com/jobs?j=em
   summary: Comments
-  published: 2025-04-16 21:46:10.000000000 +00:00
-- title: 'Kermit: A typeface for kids'
-  url: https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/
+  published: 2025-04-17 21:01:06.000000000 +00:00
+- title: Unauthenticated Remote Code Execution in Erlang/OTP SSH
+  url: https://nvd.nist.gov/vuln/detail/CVE-2025-32433
   summary: Comments
-  published: 2025-04-16 12:57:13.000000000 +00:00
-- title: How Nintendo bled Atari games to death
-  url: https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/
+  published: 2025-04-17 13:29:44.000000000 +00:00
+- title: What my stroke taught me (2017)
+  url: https://nautil.us/what-my-stroke-taught-me-236544/
   summary: Comments
-  published: 2025-04-16 12:33:33.000000000 +00:00
-- title: Warren Buffett holds enough cash to buy 476 companies in the S&P 500
-  url: https://www.mitrade.com/insights/news/live-news/article-3-762059-20250416
+  published: 2025-04-14 19:17:16.000000000 +00:00
+- title: Shell-secrets – GPG-encrypted environment variables
+  url: https://github.com/waj/shell-secrets
   summary: Comments
-  published: 2025-04-17 01:43:49.000000000 +00:00
-- title: 'eInk Mode: Making web pages easier to read'
-  url: https://jackscogito.blogspot.com/2025/04/e-ink-mode-making-web-pages-easier-to.html
+  published: 2025-04-17 19:39:42.000000000 +00:00
+- title: SQLite transactions and virtual tables
+  url: https://misfra.me/2025/sqlite-transactions-and-virtual-tables/
   summary: Comments
-  published: 2025-04-15 09:52:18.000000000 +00:00
-- title: Breaking the Llama Community License
-  url: https://notes.victor.earth/youre-probably-breaking-the-llama-community-license/
+  published: 2025-04-17 17:28:31.000000000 +00:00
+- title: Discord's face scanning age checks 'start of a bigger shift'
+  url: https://www.bbc.com/news/articles/cjr75wypg0vo
   summary: Comments
-  published: 2025-04-13 22:15:08.000000000 +00:00
-- title: Nix Trigonometric Math Library from Ground Zero
-  url: https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/
+  published: 2025-04-17 12:34:38.000000000 +00:00
+- title: 'Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex'
+  url: https://github.com/coder/agentapi
   summary: Comments
-  published: 2025-04-13 02:23:48.000000000 +00:00
-- title: Reproducing Hacker News writing style fingerprinting
-  url: https://antirez.com/news/150
+  published: 2025-04-17 16:54:58.000000000 +00:00
+- title: On Jane Jacobs (2017)
+  url: https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs
   summary: Comments
-  published: 2025-04-16 13:57:42.000000000 +00:00
-- title: RakuAST Grant Report
-  url: https://niner.name/blog/rakuast_grant_report/index.html
+  published: 2025-04-17 17:35:33.000000000 +00:00
+- title: "'Enough Is Enuf' Review: A Dream of Simpler Spelling"
+  url: https://www.wsj.com/arts-culture/books/enough-is-enuf-review-a-dream-of-simpler-spelling-6fadf4d2
   summary: Comments
-  published: 2025-04-16 18:55:12.000000000 +00:00
-- title: Tech workers are leaving notes in robot taxis seeking workers and lovers
-  url: https://www.washingtonpost.com/technology/2025/04/12/waymo-handwritten-notes-jobs-ads/
+  published: 2025-04-15 18:11:14.000000000 +00:00
+- title: A cute proof that makes e natural
+  url: https://www.poshenloh.com/e/
   summary: Comments
-  published: 2025-04-13 15:20:55.000000000 +00:00
-- title: Microsoft researchers developed a hyper-efficient AI model that can run on
-    CPUs
-  url: https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/
+  published: 2025-04-17 16:19:43.000000000 +00:00
+- title: 'Marching Events: What does iCalendar have to do with ray marching?'
+  url: https://pwy.io/posts/marching-events/
   summary: Comments
-  published: 2025-04-16 22:57:54.000000000 +00:00
-- title: CVE Foundation
-  url: https://www.thecvefoundation.org/home
+  published: 2025-04-16 12:10:33.000000000 +00:00
+- title: MCP Run Python
+  url: https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
   summary: Comments
-  published: 2025-04-16 12:16:35.000000000 +00:00
-- title: Sony Unveils the Smallest and Lightest Lidar Depth Sensor
-  url: https://petapixel.com/2025/04/15/sony-unveils-the-worlds-smallest-and-lightest-lidar-depth-sensor/
+  published: 2025-04-15 11:09:30.000000000 +00:00
+- title: There are two types of dishwasher people
+  url: https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/
   summary: Comments
-  published: 2025-04-17 01:19:41.000000000 +00:00
-- title: A high-throughput parser for the Zig programming language
-  url: https://github.com/Validark/Accelerated-Zig-Parser
+  published: 2025-04-14 23:43:54.000000000 +00:00
+- title: 'Stainless steel strengthened: Twisting creates submicron ''anti-crash wall'''
+  url: https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html
   summary: Comments
-  published: 2025-04-16 14:11:53.000000000 +00:00
-- title: Dirty tricks 6502 programmers use (2019)
-  url: https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html
+  published: 2025-04-17 14:28:07.000000000 +00:00
+- title: 'UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli'
+  url: https://lpiccinelli-eth.github.io/pub/unik3d/
   summary: Comments
-  published: 2025-04-16 13:58:36.000000000 +00:00
+  published: 2025-04-17 19:38:08.000000000 +00:00
