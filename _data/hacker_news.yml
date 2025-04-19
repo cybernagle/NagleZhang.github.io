@@ -1,121 +1,121 @@
 ---
-- title: Gemini 2.5 Flash
-  url: https://developers.googleblog.com/en/start-building-with-gemini-25-flash/
+- title: Cozy video games can quell stress and anxiety
+  url: https://www.reuters.com/business/retail-consumer/cozy-video-games-can-quell-stress-anxiety-2025-01-27/
   summary: Comments
-  published: 2025-04-17 19:03:39.000000000 +00:00
+  published: 2025-04-19 00:21:13.000000000 +00:00
+- title: 15,000 lines of verified cryptography now in Python
+  url: https://jonathan.protzenko.fr/2025/04/18/python.html
+  summary: Comments
+  published: 2025-04-18 19:28:44.000000000 +00:00
+- title: Full Text Search of US Court records
+  url: https://www.judyrecords.com/
+  summary: Comments
+  published: 2025-04-18 20:24:09.000000000 +00:00
+- title: 'Show HN: I made a Doom-like game fit inside a QR code'
+  url: https://github.com/Kuberwastaken/backdooms
+  summary: Comments
+  published: 2025-04-18 16:40:25.000000000 +00:00
+- title: I passionately hate hype, especially the AI hype
+  url: https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html
+  summary: Comments
+  published: 2025-04-18 21:32:04.000000000 +00:00
+- title: 'Hydrogen vs. Battery Buses: A European Transit Reality Check'
+  url: https://cleantechnica.com/2025/04/14/hydrogen-vs-battery-buses-a-european-transit-reality-check/
+  summary: Comments
+  published: 2025-04-16 11:26:27.000000000 +00:00
+- title: Hypertext TV
+  url: https://hypertext.tv/
+  summary: Comments
+  published: 2025-04-18 23:29:04.000000000 +00:00
+- title: Understanding the Origins and the Evolution of Vi and Vim
+  url: https://pikuma.com/blog/origins-of-vim-text-editor
+  summary: Comments
+  published: 2025-04-15 10:33:02.000000000 +00:00
+- title: Hextraction, a free and open source board game
+  url: https://www.playhextraction.com/
+  summary: Comments
+  published: 2025-04-18 20:50:18.000000000 +00:00
+- title: Principles for Building One-Shot AI Agents
+  url: https://edgebit.io/blog/automated-dependency-updates-with-ai/
+  summary: Comments
+  published: 2025-04-16 16:30:53.000000000 +00:00
+- title: UML diagram for the DDD example in Evans' book
+  url: https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book
+  summary: Comments
+  published: 2025-04-18 19:40:06.000000000 +00:00
+- title: Judge Rules Blanket Search of Cell Tower Data Unconstitutional
+  url: https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/
+  summary: Comments
+  published: 2025-04-18 18:16:27.000000000 +00:00
+- title: Jupiter, it's mushballs all the way down
+  url: https://www.sciencedaily.com/releases/2025/04/250415183433.htm
+  summary: Comments
+  published: 2025-04-16 14:46:47.000000000 +00:00
+- title: A New ASN.1 API for Python
+  url: https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/
+  summary: Comments
+  published: 2025-04-18 14:11:40.000000000 +00:00
+- title: There's Life Inside Earth's Crust
+  url: https://www.noemamag.com/theres-life-inside-earths-crust/
+  summary: Comments
+  published: 2025-04-18 18:35:05.000000000 +00:00
+- title: 'Cyberpunk 1958: The Early Days of the Polish IT Industry'
+  url: https://culture.pl/en/article/cyberpunk-1958-the-early-days-of-the-polish-it-industry
+  summary: Comments
+  published: 2025-04-15 21:01:02.000000000 +00:00
+- title: 'How a yacht works: sailboat physics and design'
+  url: https://www.onemetre.net/Design/Design.htm
+  summary: Comments
+  published: 2025-04-15 21:19:33.000000000 +00:00
+- title: Ink and Switch Constraint System (2023)
+  url: https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/
+  summary: Comments
+  published: 2025-04-18 17:09:53.000000000 +00:00
+- title: The most famous carbon dioxide absorber
+  url: https://www.howequipmentworks.com/apollo_13/
+  summary: Comments
+  published: 2025-04-14 23:56:34.000000000 +00:00
+- title: 'Show HN: (bits) of a Libc, Optimized for Wasm'
+  url: https://github.com/ncruces/go-sqlite3/tree/main/sqlite3/libc
+  summary: Comments
+  published: 2025-04-18 18:06:25.000000000 +00:00
+- title: 'Defold: cross-platform game engine'
+  url: https://defold.com
+  summary: Comments
+  published: 2025-04-18 08:15:20.000000000 +00:00
+- title: 'Loglan''82: programming language for object-oriented and distributed programming'
+  url: https://lem12.uksw.edu.pl/wiki/Loglan%2782_project
+  summary: Comments
+  published: 2025-04-18 18:55:24.000000000 +00:00
+- title: 'Show HN: Attune - Build and publish APT repositories in seconds'
+  url: https://github.com/attunehq/attune
+  summary: Comments
+  published: 2025-04-18 16:14:18.000000000 +00:00
+- title: Dot (YC S21) is hiring a sales engineer to automate analytics (fully remote)
+  url: https://www.ycombinator.com/companies/dot/jobs/XSmklFa-customer-success-sales-engineer-remote
+  summary: Comments
+  published: 2025-04-18 17:00:27.000000000 +00:00
+- title: The Good Karma Kit
+  url: https://archivebox.github.io/good-karma-kit/
+  summary: Comments
+  published: 2025-04-18 18:52:40.000000000 +00:00
+- title: 'College Towns: Urbanism from a Past Era'
+  url: https://www.governance.fyi/p/college-towns-urbanism-from-a-past
+  summary: Comments
+  published: 2025-04-18 16:31:11.000000000 +00:00
 - title: Potatoes in the Mail
   url: https://facts.usps.com/mailing-potatoes/
   summary: Comments
   published: 2025-04-17 21:35:45.000000000 +00:00
-- title: I Analyzed Chord Progressions in 680k Songs
-  url: https://www.cantgetmuchhigher.com/p/i-analyzed-chord-progressions-in
+- title: AMP and why emails are not (and should never be) interactive
+  url: https://buttondown.com/blog/whatever-happened-to-amp-email
   summary: Comments
-  published: 2025-04-17 22:44:11.000000000 +00:00
-- title: What do I think about Lua after shipping a project with 60k lines of code?
-  url: https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733
+  published: 2025-04-18 07:31:04.000000000 +00:00
+- title: OpenAI's new reasoning AI models hallucinate more
+  url: https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/
   summary: Comments
-  published: 2025-04-17 22:55:55.000000000 +00:00
-- title: An intro to DeepSeek's distributed file system
-  url: https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/
+  published: 2025-04-18 22:43:12.000000000 +00:00
+- title: PDCurses – for environments that don't fit the termcap/terminfo model
+  url: https://github.com/wmcbrine/PDCurses
   summary: Comments
-  published: 2025-04-17 12:50:37.000000000 +00:00
-- title: CN Tower, Behind the Scenes (2014)
-  url: https://site.roadwolf.ca/categories/ue/cntower/
-  summary: Comments
-  published: 2025-04-17 22:55:36.000000000 +00:00
-- title: 'Decreased CO2 during breathwork: emergence of altered states of consciousness'
-  url: https://www.nature.com/articles/s44271-025-00247-0
-  summary: Comments
-  published: 2025-04-15 16:23:40.000000000 +00:00
-- title: The Size of Packets
-  url: https://www.potaroo.net/ispcol/2024-10/packet-sizes.html
-  summary: Comments
-  published: 2025-04-18 00:59:06.000000000 +00:00
-- title: Kagi Assistant is now available to all users
-  url: https://blog.kagi.com/assistant-for-all
-  summary: Comments
-  published: 2025-04-18 01:14:35.000000000 +00:00
-- title: Memory Size Matters to PostgreSQL
-  url: https://pgdba.org/post/2025/04/size_matter/
-  summary: Comments
-  published: 2025-04-17 22:37:12.000000000 +00:00
-- title: HDR‑Infused Emoji
-  url: https://sharpletters.net/2025/04/16/hdr-emoji/
-  summary: Comments
-  published: 2025-04-17 14:42:07.000000000 +00:00
-- title: Milwaukee M18 Battery Reverse Engineering
-  url: https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering
-  summary: Comments
-  published: 2025-04-17 16:07:21.000000000 +00:00
-- title: A new ChatGPT version just dropped and GeoGuesser is now a solved problem
-  url: https://flausch.social/@piegames/114352447253793517
-  summary: Comments
-  published: 2025-04-17 23:36:57.000000000 +00:00
-- title: Is it possible to write plain C iOS app in 2025?
-  url: https://news.ycombinator.com/item?id=43682984
-  summary: Comments
-  published: 2025-04-14 16:21:29.000000000 +00:00
-- title: Google is illegally monopolizing online advertising tech, judge rules
-  url: https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html
-  summary: Comments
-  published: 2025-04-17 14:47:46.000000000 +00:00
-- title: Mux (YC W16) is hiring engineering managers for video at scale
-  url: https://mux.com/jobs?j=em
-  summary: Comments
-  published: 2025-04-17 21:01:06.000000000 +00:00
-- title: Unauthenticated Remote Code Execution in Erlang/OTP SSH
-  url: https://nvd.nist.gov/vuln/detail/CVE-2025-32433
-  summary: Comments
-  published: 2025-04-17 13:29:44.000000000 +00:00
-- title: What my stroke taught me (2017)
-  url: https://nautil.us/what-my-stroke-taught-me-236544/
-  summary: Comments
-  published: 2025-04-14 19:17:16.000000000 +00:00
-- title: Shell-secrets – GPG-encrypted environment variables
-  url: https://github.com/waj/shell-secrets
-  summary: Comments
-  published: 2025-04-17 19:39:42.000000000 +00:00
-- title: SQLite transactions and virtual tables
-  url: https://misfra.me/2025/sqlite-transactions-and-virtual-tables/
-  summary: Comments
-  published: 2025-04-17 17:28:31.000000000 +00:00
-- title: Discord's face scanning age checks 'start of a bigger shift'
-  url: https://www.bbc.com/news/articles/cjr75wypg0vo
-  summary: Comments
-  published: 2025-04-17 12:34:38.000000000 +00:00
-- title: 'Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex'
-  url: https://github.com/coder/agentapi
-  summary: Comments
-  published: 2025-04-17 16:54:58.000000000 +00:00
-- title: On Jane Jacobs (2017)
-  url: https://salmagundi.skidmore.edu/articles/75-on-jane-jacobs
-  summary: Comments
-  published: 2025-04-17 17:35:33.000000000 +00:00
-- title: "'Enough Is Enuf' Review: A Dream of Simpler Spelling"
-  url: https://www.wsj.com/arts-culture/books/enough-is-enuf-review-a-dream-of-simpler-spelling-6fadf4d2
-  summary: Comments
-  published: 2025-04-15 18:11:14.000000000 +00:00
-- title: A cute proof that makes e natural
-  url: https://www.poshenloh.com/e/
-  summary: Comments
-  published: 2025-04-17 16:19:43.000000000 +00:00
-- title: 'Marching Events: What does iCalendar have to do with ray marching?'
-  url: https://pwy.io/posts/marching-events/
-  summary: Comments
-  published: 2025-04-16 12:10:33.000000000 +00:00
-- title: MCP Run Python
-  url: https://github.com/pydantic/pydantic-ai/tree/main/mcp-run-python
-  summary: Comments
-  published: 2025-04-15 11:09:30.000000000 +00:00
-- title: There are two types of dishwasher people
-  url: https://www.theatlantic.com/family/archive/2025/04/how-to-load-dishwasher/682425/
-  summary: Comments
-  published: 2025-04-14 23:43:54.000000000 +00:00
-- title: 'Stainless steel strengthened: Twisting creates submicron ''anti-crash wall'''
-  url: https://techxplore.com/news/2025-04-stainless-steel-technique-submicron-anti.html
-  summary: Comments
-  published: 2025-04-17 14:28:07.000000000 +00:00
-- title: 'UniK3D: Universal Camera Monocular 3D Estimation – Luigi Piccinelli'
-  url: https://lpiccinelli-eth.github.io/pub/unik3d/
-  summary: Comments
-  published: 2025-04-17 19:38:08.000000000 +00:00
+  published: 2025-04-18 18:52:58.000000000 +00:00
