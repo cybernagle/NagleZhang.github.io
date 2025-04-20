@@ -1,4 +1,90 @@
 ---
+- title: " Every chain is an island: crypto’s liquidity crisis "
+  url: https://cointelegraph.com/news/every-chain-is-an-island?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Jin Kwon, co-founder and chief strategy officer at SagaCrypto
+    has come a long way in boosting transaction throughput. New layer 1s (L1s) and
+    side networks offer faster, cheaper transactions than ever before. Yet, a core
+    challenge has come into focus: liquidity fragmentation — the scattering of capital
+    and users across an ever-growing maze of blockchains.Vitalik Buterin, in a recent
+    blog post, highlighted how scaling successes have led to unforeseen coordination
+    challenges. With so many chains and so much value splintered among them, participants
+    face a daily tangle of bridging, swapping and wallet-switching. While these issues
+    affect Ethereum, they also affect nearly every ecosystem. No matter how advanced,
+    new blockchains risk becoming liquidity “islands” that struggle to connect with
+    one another.The real costs of fragmentationLiquidity fragmentation means there
+    is no single “pool” of assets for traders, investors or decentralized finance
+    (DeFi) applications to tap into. Instead, each blockchain or side network hosts
+    its own siloed liquidity. For a user who wants to buy a token or access a specific
+    lending platform, this siloing introduces multiple headaches. Switching networks,
+    opening specialized wallets and paying multiple transaction fees are far from
+    seamless, especially for those less tech-savvy. Liquidity is also thinner in each
+    isolated pool, leading to price disparities and higher slippage on trades. Many
+    users resort to bridges to move capital across chains, yet these have been frequent
+    targets for exploits, raising fear and mistrust. If it’s too cumbersome or risky
+    to move liquidity around, DeFi fails to gain mainstream momentum. Meanwhile, projects
+    scramble to deploy across multiple networks or risk being left behind.Some observers
+    worry that fragmentation could drive people back to a few dominant chains or centralized
+    exchanges, undermining the decentralized ideals that fueled blockchain’s rise.Familiar
+    fixes, with persisting gapsSolutions have emerged to tackle this tangle. Bridges
+    and wrapped assets enable basic interoperability, but the user experience remains
+    cumbersome. Crosschain aggregators can route tokens through a chain of swaps,
+    yet they generally don’t merge the underlying liquidity. They only help users
+    navigate it. Meanwhile, ecosystems like Cosmos and Polkadot bring interoperability
+    within their frameworks, though they are separate realms in the broader crypto
+    landscape.The problem is fundamental: Each chain views itself as distinct. Any
+    new chain or sub-network must be “plugged in” at the ground level to truly unify
+    liquidity. Otherwise, it adds another liquidity island that users must discover
+    and bridge into. This challenge is compounded by chains, bridges and aggregators
+    seeing one another as competition, leading to intentional siloing and making fragmentation
+    even more pronounced.Integrating liquidity at the base layerIntegration at the
+    base layer addresses liquidity fragmentation by embedding bridging and routing
+    functions directly into a chain’s core infrastructure. This approach appears in
+    certain layer-1 protocols and specialized frameworks, where interoperability is
+    treated as a foundational element rather than an optional add-on. Recent: What
+    are exit liquidity traps — and how to detect them before it is too lateValidator
+    nodes automatically handle crosschain connections, so new chains or side networks
+    can launch with immediate access to the broader ecosystem’s liquidity. This reduces
+    reliance on third-party bridges that often introduce security risks and user friction.Ethereum’s
+    own challenges with heterogeneous layer-2 (L2) solutions underscore why integration
+    is essential. Different participants — Ethereum as a settlement layer, L2s focusing
+    on execution, and various bridging services — have their own motivations, resulting
+    in fragmented liquidity. Buterin’s references to this issue highlight the need
+    for more cohesive designs. An integrated base-layer model brings these components
+    together at launch, ensuring that capital can flow freely without forcing users
+    to navigate multiple wallets, bridge solutions, or rollups.An integrated routing
+    mechanism also consolidates asset transfers, mimicking a unified liquidity pool
+    behind the scenes. By capturing a fraction of the overall liquidity flow rather
+    than charging users for every transaction, such protocols reduce friction and
+    encourage capital mobility across the network. Developers deploying new blockchains
+    gain instant access to a shared liquidity base while end-users avoid juggling
+    multiple tools or encountering unexpected fees. This emphasis on integration helps
+    maintain a seamless experience, even as more networks come online.Not just an
+    Ethereum issueWhile Buterin’s blog post focuses on Ethereum’s rollups, fragmentation
+    is ecosystem-agnostic. Whether a project builds on an Ethereum Virtual Machine-compatible
+    chain, a WebAssembly-based platform, or something else, the fragmentation trap
+    arises if liquidity is fenced off. As more protocols explore base-layer solutions
+    — embedding automatic interoperability into their chain design — there’s hope
+    that future networks won’t splinter capital further but instead help unify it.A
+    clear principle emerges: Throughput means little without connectivity.Users shouldn’t
+    need to think about L1s, L2s or sidechains. They just want seamless access to
+    decentralized applications (DApps), games and financial services. Adopting will
+    follow if stepping onto a new chain feels identical to operating on a familiar
+    network.Toward a unified and liquid futureThe crypto community’s focus on transaction
+    throughput has revealed an unexpected paradox: The more chains we create for speed,
+    the more we fragment our ecosystem’s strength, which lies in its shared liquidity.
+    Each new chain intended to boost capacity creates another isolated pool of capital.Building
+    interoperability directly into blockchain infrastructure offers a clear path through
+    this challenge. When protocols handle crosschain connections automatically and
+    route assets efficiently, developers can expand without splintering their user
+    base or capital. Success in this model comes from measuring and improving how
+    smoothly value moves throughout the ecosystem.The technical foundations for this
+    approach exist today. We must implement them thoughtfully, with attention to security
+    and user experience.Opinion by: Jin Kwon, co-founder and chief strategy officer
+    at Saga. This article is for general information purposes and is not intended
+    to be and should not be taken as legal or investment advice. The views, thoughts,
+    and opinions expressed here are the author’s alone and do not necessarily reflect
+    or represent the views and opinions of Cointelegraph.\n\n            "
+  published: 2025-04-19 16:00:00.000000000 +01:00
 - title: " Tokenized stocks could top $1T in market cap — Execs "
   url: https://cointelegraph.com/news/tokenized-stocks-top-1-trillion-market-cap-executives?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Tokenized stocks are on track to exceed $1 trillion in market capitalization
@@ -1587,37 +1673,3 @@
     that were not part of the Cosmos ecosystem.Magazine: Arbitrum co-founder skeptical
     of move to based and native rollups: Steven Goldfeder\n\n            "
   published: 2025-04-10 14:48:48.000000000 +01:00
-- title: " How Bitcoin’s three pillars are about to fix money — StarkWare CEO "
-  url: https://cointelegraph.com/news/how-bitcoin-s-three-pillars-are-about-to-fix-money-starkware-ceo?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin wasn’t supposed to just sit still.When Satoshi Nakamoto released
-    the white paper in 2008, it wasn’t a blueprint for digital gold; it was a peer-to-peer
-    cash system. But fast-forward to today, and Bitcoin’s biggest critics and supporters
-    alike often agree on one thing: It doesn’t really work like money, at least not
-    yet.In the latest episode of The Clear Crypto Podcast, hosts Nathan Jeffay and
-    Gareth Jenkinson speak with Eli Ben-Sasson, the co-founder of StarkWare and one
-    of the leading minds in cryptographic scaling. His message? That might be about
-    to change.Bitcoin’s three pillarsBen-Sasson lays out a compelling framework for
-    how Bitcoin can evolve — not by abandoning its principles, but by scaling them.
-    He describes three core pillars that need to align in order for Bitcoin to fulfill
-    its promise. Broadness, integrity and verifiability, according to Ben-Sasson,
-    are concrete, technical targets for Bitcoin’s widespread adoption and useability.
-    Not only that, but the tools to hit these targets already exist. The reintroduction
-    of a long-dormant opcode, OP_CAT, could be the first domino. “Nine lines of code,”
-    he said, “that would make Bitcoin programmable again.”Store of value or economic
-    backboneRight now, Bitcoin is often described as digital gold, a pristine, untouchable
-    store of value. But Ben-Sasson wants to see it function more like a digital economy:
-    permissionless, inclusive and usable in everyday transactions. That means rethinking
-    what Bitcoin is for and upgrading how it works.“If we don’t make Bitcoin more
-    useful, we risk making it irrelevant.”The conversation touches on everything from
-    the politics of Bitcoin governance to the role of zero-knowledge proofs and layer-2s
-    in building scalable, decentralized systems. Related: Jack Dorsey pushes Signal
-    to adopt Bitcoin paymentsIt also explores what it would take to build money that
-    works for everyone, not just the technically elite or financially privileged.“We
-    are not in a situation where Bitcoin is a system that today can allow any two
-    parties to transact without any trusted intermediary. We're simply not there.
-    To me, that's the start, middle and end of of the reason why things need to change.”To
-    hear the full conversation on The Clear Crypto Podcast,  listen to the full episode
-    on Cointelegraph’s Podcasts page, Apple Podcasts or Spotify. And don’t forget
-    to check out Cointelegraph’s full lineup of other shows! Magazine: SEC’s U-turn
-    on crypto leaves key questions unanswered\n\n            "
-  published: 2025-04-10 14:30:00.000000000 +01:00
