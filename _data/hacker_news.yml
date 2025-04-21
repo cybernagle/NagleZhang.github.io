@@ -1,125 +1,121 @@
 ---
-- title: Raspberry Pi Lidar Scanner
-  url: https://github.com/PiLiDAR/PiLiDAR
+- title: Things Zig comptime won't do
+  url: https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html
   summary: Comments
-  published: 2025-04-19 18:53:32.000000000 +00:00
-- title: The Web Is Broken – Botnet Part 2
-  url: https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/
+  published: 2025-04-20 15:57:37.000000000 +00:00
+- title: 'Gemma 3 QAT Models: Bringing AI to Consumer GPUs'
+  url: https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/
   summary: Comments
-  published: 2025-04-19 18:59:56.000000000 +00:00
-- title: A unique sound alleviates motion sickness
-  url: https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html
+  published: 2025-04-20 12:22:06.000000000 +00:00
+- title: Crows can recognize geometric regularity
+  url: https://phys.org/news/2025-04-crows-geometric-regularity.html
   summary: Comments
-  published: 2025-04-19 22:35:30.000000000 +00:00
-- title: The Art of Assembly Language (2010)
-  url: https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html
+  published: 2025-04-17 14:20:13.000000000 +00:00
+- title: 'TikZJax: Embedding LaTeX Drawings in HTML'
+  url: https://tikzjax.com/
   summary: Comments
-  published: 2025-04-19 20:38:06.000000000 +00:00
-- title: Librarians are dangerous
-  url: https://bradmontague.substack.com/p/librarians-are-dangerous
+  published: 2025-04-20 22:04:22.000000000 +00:00
+- title: Find the Odd Disk
+  url: https://colors2.alessandroroussel.com/
   summary: Comments
-  published: 2025-04-19 14:49:36.000000000 +00:00
+  published: 2025-04-20 19:17:58.000000000 +00:00
+- title: Signal Carnival
+  url: https://www.quiss.org/signal_carnival/
+  summary: Comments
+  published: 2025-04-20 17:13:32.000000000 +00:00
+- title: Decomposing Transactional Systems
+  url: https://transactional.blog/blog/2025-decomposing-transactional-systems
+  summary: Comments
+  published: 2025-04-20 20:54:56.000000000 +00:00
+- title: 'Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)'
+  url: https://www.well-typed.com/blog/2023/04/falsify/
+  summary: Comments
+  published: 2025-04-20 19:41:29.000000000 +00:00
+- title: New Proof Settles Decades-Old Bet About Connected Networks
+  url: https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/
+  summary: Comments
+  published: 2025-04-20 17:48:40.000000000 +00:00
+- title: The appeal of serving your web pages with a single process
+  url: https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal
+  summary: Comments
+  published: 2025-04-18 06:19:06.000000000 +00:00
+- title: 'Which year: guess which year each photo was taken'
+  url: https://whichyr.com/
+  summary: Comments
+  published: 2025-04-17 10:42:06.000000000 +00:00
 - title: 'Show HN: I built an AI that turns GitHub codebases into easy tutorials'
   url: https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
   summary: Comments
   published: 2025-04-19 21:04:41.000000000 +00:00
-- title: Electromagnetism as a Purely Geometric Theory
-  url: https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001
+- title: Turing-Drawings
+  url: https://github.com/maximecb/Turing-Drawings
   summary: Comments
-  published: 2025-04-19 21:14:33.000000000 +00:00
-- title: 'Ssl.com: DCV bypass and issue fake certificates for any MX hostname'
-  url: https://bugzilla.mozilla.org/show_bug.cgi?id=1961406
+  published: 2025-04-20 16:00:29.000000000 +00:00
+- title: 'Demystifying decorators: They don''t need to be cryptic'
+  url: https://www.thepythoncodingstack.com/p/demystifying-python-decorators
   summary: Comments
-  published: 2025-04-19 18:44:17.000000000 +00:00
-- title: Android phones will soon reboot themselves after sitting unused for three
-    days
-  url: https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/
+  published: 2025-04-20 21:07:03.000000000 +00:00
+- title: 'Jagged AGI: o3, Gemini 2.5, and everything after'
+  url: https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything
   summary: Comments
-  published: 2025-04-19 12:14:13.000000000 +00:00
-- title: First baby born in UK to woman with transplanted womb
-  url: https://www.bbc.com/news/articles/c78jd517z87o
+  published: 2025-04-20 14:55:33.000000000 +00:00
+- title: FurtherAI (YC W24) Is Hiring Software and AI Engineers
+  url: https://www.ycombinator.com/companies/furtherai/jobs
   summary: Comments
-  published: 2025-04-17 14:36:51.000000000 +00:00
-- title: Monsky's Theorem
-  url: https://mathmondays.com/monskys-theorem
+  published: 2025-04-20 21:00:37.000000000 +00:00
+- title: The Joy of Linux Theming in the Age of Bootable Containers
+  url: https://blues.win/posts/joy-of-linux-theming/
   summary: Comments
-  published: 2025-04-19 21:12:07.000000000 +00:00
-- title: 'Claude Code: Best practices for agentic coding'
-  url: https://www.anthropic.com/engineering/claude-code-best-practices
+  published: 2025-04-20 13:56:06.000000000 +00:00
+- title: The movie mistake mystery from "Revenge of the Sith"
+  url: https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html
   summary: Comments
-  published: 2025-04-19 10:48:30.000000000 +00:00
-- title: Packing Input Frame Context in Next-Frame Prediction Models for Video Generation
-  url: https://lllyasviel.github.io/frame_pack_gitpage/
+  published: 2025-04-20 17:29:28.000000000 +00:00
+- title: Home galleries are hiding in plain sight across Canada
+  url: https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886
   summary: Comments
-  published: 2025-04-19 13:17:48.000000000 +00:00
-- title: Translate Fortran to C++ with AI and RAG
-  url: https://www.lanl.gov/media/publications/1663/0125-llm-translation
+  published: 2025-04-20 16:04:46.000000000 +00:00
+- title: Healthy soil is the hidden ingredient
+  url: https://www.nature.com/articles/d41586-025-01026-x
   summary: Comments
-  published: 2025-04-16 20:48:07.000000000 +00:00
-- title: Computational Complexity of Air Travel Planning [pdf]
-  url: http://www.demarcken.org/carl/papers/ITA-software-travel-complexity/ITA-software-travel-complexity.pdf
+  published: 2025-04-16 21:13:55.000000000 +00:00
+- title: Better Error Handling
+  url: https://meowbark.dev/Better-error-handling
   summary: Comments
-  published: 2025-04-19 21:17:18.000000000 +00:00
-- title: 'Everyone knows your location, Part 2: try it yourself and share the results'
-  url: https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/
+  published: 2025-04-20 20:13:19.000000000 +00:00
+- title: 'Show HN: JuryNow – Get an anonymous instant verdict from 12 real people'
+  url: https://jurynow.app/
   summary: Comments
-  published: 2025-04-17 13:41:27.000000000 +00:00
-- title: 'Calypsi: A series of C compiler and assembly language cross compiler tool
-    chains'
-  url: https://github.com/hth313/Calypsi-tool-chains
+  published: 2025-04-20 18:32:29.000000000 +00:00
+- title: How encryption for Cinema Movies works
+  url: https://serverless.industries/2024/05/31/digital-cinema.en.html
   summary: Comments
-  published: 2025-04-16 22:08:33.000000000 +00:00
-- title: The Animals That Exist Between Life and Death
-  url: https://nautil.us/the-animals-that-exist-between-life-and-death-1202592/
+  published: 2025-04-20 17:52:50.000000000 +00:00
+- title: 'Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird'
+  url: https://420.headset.io
   summary: Comments
-  published: 2025-04-17 01:05:22.000000000 +00:00
-- title: Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine
-  url: https://philwip.com/2025/04/14/galaxian-3-project-revival/
+  published: 2025-04-20 19:03:45.000000000 +00:00
+- title: Test Spies in Haskell
+  url: https://jezenthomas.com/2025/04/test-spies-in-haskell/
   summary: Comments
-  published: 2025-04-19 09:22:17.000000000 +00:00
-- title: Silicon Valley crosswalk buttons apparently hacked to imitate Musk, Zuck
-    voices
-  url: https://www.paloaltoonline.com/technology/2025/04/12/silicon-valley-crosswalk-buttons-apparently-hacked-to-imitate-musk-zuckerberg-voices/
+  published: 2025-04-18 13:21:52.000000000 +00:00
+- title: A 1980s toy robot arm inspired modern robotics
+  url: https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/
   summary: Comments
-  published: 2025-04-13 00:55:54.000000000 +00:00
-- title: Can We Trust CVE?
-  url: https://opensourcesecurity.io/2025/04-can-we-trust-cve/
+  published: 2025-04-17 15:42:32.000000000 +00:00
+- title: First hormone-free male birth control pill enters human trials
+  url: https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/
   summary: Comments
-  published: 2025-04-19 23:01:17.000000000 +00:00
-- title: Infisical (YC W23) Is Hiring Design Engineer in San Francisco
-  url: https://www.ycombinator.com/companies/infisical/jobs/I8zvnRW-design-engineer-san-francisco
+  published: 2025-04-20 17:54:59.000000000 +00:00
+- title: Pushing the Limits of LLM Quantization via the Linearity Theorem
+  url: https://arxiv.org/abs/2411.17525
   summary: Comments
-  published: 2025-04-19 17:00:27.000000000 +00:00
-- title: How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores
-    (2024)
-  url: https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html
+  published: 2025-04-20 15:20:35.000000000 +00:00
+- title: 100 Years to Solve an Integral (2020)
+  url: https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html
   summary: Comments
-  published: 2025-04-19 14:42:48.000000000 +00:00
-- title: Vibe Coding is not an excuse for low-quality work
-  url: https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for
+  published: 2025-04-20 03:16:42.000000000 +00:00
+- title: Efficient E-Matching for Super Optimizers
+  url: https://blog.vortan.dev/ematching/
   summary: Comments
-  published: 2025-04-19 20:00:17.000000000 +00:00
-- title: Consistent Hash Ring
-  url: https://gallery.selfboot.cn/en/algorithms/hashring
-  summary: Comments
-  published: 2025-04-17 12:54:31.000000000 +00:00
-- title: A Map of British Dialects (2023)
-  url: https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/
-  summary: Comments
-  published: 2025-04-19 08:02:07.000000000 +00:00
-- title: 'Show HN: Goldbach Conjecture up to 4*10^18+7*10^13'
-  url: https://medium.com/@jay_gridbach/grid-computing-shatters-world-record-for-goldbach-conjecture-verification-1ef3dc58a38d
-  summary: Comments
-  published: 2025-04-19 06:11:37.000000000 +00:00
-- title: 'Zack: A Simple Backtesting Engine in Zig'
-  url: https://github.com/zerotech-studio/zack
-  summary: Comments
-  published: 2025-04-17 03:36:16.000000000 +00:00
-- title: Raw Loops for Performance?
-  url: https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance
-  summary: Comments
-  published: 2025-04-16 05:36:06.000000000 +00:00
-- title: An Image of the Australian Desert Illuminates Satellite Pollution
-  url: https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/
-  summary: Comments
-  published: 2025-04-19 16:32:19.000000000 +00:00
+  published: 2025-04-19 05:47:54.000000000 +00:00

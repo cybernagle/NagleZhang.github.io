@@ -1,4 +1,117 @@
 ---
+- title: " Vitalik Buterin proposes swapping EVM language for RISC-V "
+  url: https://cointelegraph.com/news/vitalik-buterin-proposes-swapping-evm-language-risc-v?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ethereum co-founder Vitalik Buterin has proposed replacing the current
+    Ethereum Virtual Machine (EVM) contract language with the RISC-V instruction set
+    architecture to improve the speed and efficiency of the Ethereum network's execution
+    layer.Buterin's April 20 proposal outlined several long-term bottlenecks for scaling
+    the Ethereum network including, stable data availability sampling, ensuring block
+    production remains competitive, and zero-knowledge EVM proving.The Ethereum co-founder
+    argued that implementing the RISC-V architecture in smart contracts would keep
+    block production markets competitive and improve the efficiency of zero knowledge
+    functions for the execution layer. Buterin wrote:\"The beam chain effort holds
+    great promise for greatly simplifying the consensus layer of Ethereum, but for
+    the execution layer to see similar gains, this kind of radical change may be the
+    only viable path.\"The proposal highlights the Ethereum network's struggle to
+    improve throughput and remain competitive with next-generation monolithic blockchains
+    such as Solana and the Sui networks at a time when investors are losing confidence
+    in the original smart contract blockchain.Buterin provides numbers suggesting
+    that implementing the proposal could lead to efficiency gains of 100x. Source:
+    Vitalik ButerinRelated: Vitalik Buterin unveils roadmap for Ethereum privacyEthereum's
+    scaling woes and a collapse of Ether's priceEthereum's blob fees, transaction
+    fees taken from Ethereum layer-2 scaling networks, dropped to a weekly low of
+    3.18 Ether (ETH) during the week of March 30, according to data from Etherscan.Using
+    current Ether prices, the 3.18 ETH collected for blob fees during the period equaled
+    approximately $5,000.In April 2025, Ethereum network fees dropped to their lowest
+    levels since 2020, averaging around $0.16 per transaction.According to Santiment
+    marketing director Brian Quinlivan, the dramatic reduction in fees is due to fewer
+    users sending transactions on the Ethereum base layer, opting instead to use smart
+    contracts or one of Ethereum's many layer-2 scaling solutions.Ethereum network
+    weekly transaction fees declined significantly in Q1 2025. Source: Token TerminalEthereum's
+    layer-2 networks have been described as a double-edged sword that dramatically
+    lowered transaction costs on the base layer but also cannibalized the Ethereum
+    base layer's revenue.Concerns surrounding revenue generation on the base layer
+    and the corrosive effects of layer-2 scaling solutions on Ethereum's market share
+    have driven the price of Ether to historic lows and could plunge Ether prices
+    further to around $1,100 if investor confidence continues to wane.Magazine: Proposed
+    change could save Ethereum from L2 ‘roadmap to hell’\n\n            "
+  published: 2025-04-20 17:17:02.000000000 +01:00
+- title: " Now is not the time for a restaking revival "
+  url: https://cointelegraph.com/news/not-the-time-for-a-restaking-revival?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Alon Muroch, founder of SSV LabsEven though Ethereum remains
+    a leader in terms of total value locked (TVL), things aren’t looking great. Network
+    activity is hemorrhaging, and momentum is slipping. Ethereum has become locked
+    in a fight for its future. Without meaningful change, Ethereum risks becoming
+    inaccessible to the builders and users it needs to thrive. Ethereum needs fresh
+    ideas to bolster the ecosystem out of its slump, unify it, and genuinely support
+    innovation.Enter based applications (bApps), which are any application or service
+    that uses the Ethereum validator set for security. Inspired by the based movement,
+    bApps enable any project to bootstrap directly from the Ethereum layer 1 (L1),
+    enabling interoperable, scalable and cost-effective development.High stakes and
+    high costsThe recent decline in network activity highlights a deep issue across
+    Ethereum, and it boils down to UX. The race to scale a blockchain isn’t just about
+    TVL and transactions per second (TPS). It’s about the experience of users and
+    developers who co-create the ecosystem. Ease of development and interoperable
+    developer ecosystems and applications are paramount. Improving the developer experience
+    is crucial for improving user experience, which drives adoption.Today, builders
+    are presented with two options. The first and more popular one is restaking, which
+    has become the default mechanism for bootstrapping new services by locking up
+    validators’ withdrawal keys or large amounts of capital for security. That leaves
+    teams with only one other inconvenient alternative: self-bootstrapping. Building
+    a validator set from scratch is resource-heavy, technically complex and often
+    starts off centralized. Both choices are limiting for builders and don’t solve
+    the fragmentation problems we see today in Ethereum.It is not just builders but
+    validators that are affected by this system. In the current restaking setup, validators
+    who want to earn more yield by supporting new services must restake, lock up their
+    withdrawal keys, and take on additional risk. By locking up withdrawal keys to
+    secure applications with slashable capital, validators are exposed to cascading
+    risks, which, at scale, could affect Ethereum itself — a core departure from Ethereum’s
+    founding vision.bApps are more securebApps provide a third, more accessible option
+    for self-bootstrapping and restaking. Using based security infrastructure drastically
+    lowers entry barriers for any size protocol to build securely and sustainably,
+    all while preserving the traditional network effects of Ethereum. Validators are
+    incentivized to join through risk-free yield opportunities; developers can affordably
+    access security to build; and users benefit from a unified and interoperable ecosystem.Recent:
+    SSV Network to create ‘based’ apps infrastructure for EthereumMission-critical
+    services like rollups, bridges and oracles don’t need to reinvent the wheel. They
+    simply plug into an existing, trusted security model. Using Ethereum validators
+    as a primary security base, any out-of-protocol service can inherit the Ethereum
+    L1’s decentralization and Sybil resistance. It’s also possible to extend this
+    paradigm beyond Ethereum, enabling other L1 validators to secure bApps. This potentially
+    turns bApps into a marketplace for multichain security, dramatically reducing
+    the complexity (and cost) for developers and raising the bar for the entire ecosystem,
+    offering a “based” path forward.bApps empower validators to earn more with their
+    existing stake. By primarily using the validator principle as non-slashable security,
+    validators can opt into many services through their existing Ethereum validator
+    role without needing to restake or supply extra stakes. This would encourage broader
+    validator participation, especially from smaller or more risk-averse operators,
+    which is excellent considering solo stakers are an important ecosystem pillar.bApps
+    unlock scalabilitybApps also revolutionize Ethereum’s current bootstrapping ecosystem,
+    which relies heavily on slashable capital. In restaking, one participant’s gain
+    may directly correspond to another’s loss, creating a zero-sum model. Building
+    a competitive dynamic where participants must add or reallocate resources instead
+    of sharing them, consequently working against new entrants by creating competition
+    for limited attention and resources.The based economy, conversely, promotes an
+    infinite-sum game, transforming competition for resources into a synergistic environment
+    where new applications, services and participants increase the overall value of
+    the platform. Each new validator increases security for bApps, and each new bApp
+    provides new opportunities for validators. This infinitely scalable model breaks
+    free from the limitations of a zero-sum model, enabling seamless bootstrapping,
+    rewarding innovation and building more secure, inclusive and resilient ecosystems.Unifying
+    Ethereum’s fractured ecosystemFor Ethereum to grow, fragmentation has to be addressed.
+    Builders need building blocks, which need to be secure, low-cost, interoperable
+    and scalable. Think about what cloud computing did for Web2. BApps offer just
+    that — by introducing an infinite-sum game, they unlock scalability and provide
+    a safe and affordable way to bootstrap with Ethereum’s proof-of-stake network.If
+    Ethereum is to be the foundation of tomorrow’s decentralized world, it must empower
+    the builders of today. The way forward is to solve Ethereum’s user and developer
+    experience problem with a based infrastructure. Going based is the clear solution.Opinion
+    by: Alon Muroch, founder of SSV Labs. This article is for general information
+    purposes and is not intended to be and should not be taken as legal or investment
+    advice. The views, thoughts, and opinions expressed here are the author’s alone
+    and do not necessarily reflect or represent the views and opinions of Cointelegraph.\n\n
+    \           "
+  published: 2025-04-20 10:00:00.000000000 +01:00
 - title: " Every chain is an island: crypto’s liquidity crisis "
   url: https://cointelegraph.com/news/every-chain-is-an-island?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Opinion by: Jin Kwon, co-founder and chief strategy officer at SagaCrypto
@@ -1598,78 +1711,3 @@
     approvals could be granted as early as May.Magazine: ‘Hong Kong’s FTX’ victims
     win lawsuit, bankers bash stablecoins: Asia Express\n\n            "
   published: 2025-04-10 22:27:04.000000000 +01:00
-- title: " Ether ETF staking could come as soon as May — Bloomberg analyst "
-  url: https://cointelegraph.com/news/ether-etf-staking-may-bloomberg-analyst?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether exchange-traded funds (ETFs) in the United States may be able to
-    start staking a portion of their tokens as soon as May, according to Bloomberg
-    Intelligence analyst James Seyffart. On April 9, the US Securities and Exchange
-    Commission (SEC) authorized exchanges to begin listing options contracts tied
-    to spot Ether (ETH) ETFs after greenlighting Bitcoin (BTC) ETF options in September. However,
-    issuers are still waiting for the regulator to allow Ether ETFs to offer staking
-    after filing numerous requests for permission earlier this year.Source: James
-    SeyffartThe approval of options contracts could represent a key step toward regulatory
-    approval for staking services in the United States. Bloomberg Intelligence analyst
-    James Seyffart said on April 9 that clearance for staking on ETH funds could come
-    as early as May but would likely take until the end of 2025.“It's possible they
-    could be approved for staking early, but the final deadline is at the end of October,”
-    Seyffart said in a post on the X platform. “Potential intermediate deadlines before
-    the final approval (or denial) are in late May & late August.”Options are financial
-    derivatives that give investors the right, but not the obligation, to buy or sell
-    an asset at a predetermined price before a certain date. Staking, on the other
-    hand, involves locking up a cryptocurrency, like ETH, to support network operations
-    — such as validating transactions — in exchange for rewards. In ETH funds, options
-    contracts allow investors to hedge or speculate on the tokens' prices, while staking
-    offers a way to earn rewards by participating in Ethereum’s proof-of-stake network.Ether
-    ETF inflows. Source: Farside InvestorsRelated: SEC approves options on spot Ether
-    ETFsProgress toward adoptionEther ETFs launched in June 2024 but struggled to
-    attract significant investor interest. According to data from Farside Investors,
-    the funds have seen net inflows of $2.4 billion as of April 10, compared to $35
-    billion for Bitcoin ETFs introduced in January. Analysts say the SEC’s approval
-    of Ether ETF options could help spur adoption. Asset managers are also waiting
-    on the SEC to greenlight requests to allow in-kind creations and redemptions for
-    Bitcoin and Ether ETFs.The emergence of options markets tied to spot crypto ETFs
-    is a “monumental advancement” in crypto markets and creates “extremely compelling
-    opportunities” for investors,” Jeff Park, Bitwise Invest’s head of alpha strategies,
-    said in a Sept. 20 X post. But staking could be the most significant step forward
-    for Ether funds. In March, Robbie Mitchnick, BlackRock’s head of digital assets,
-    said Ether ETFs are “less perfect” without staking. “A staking yield is a meaningful
-    part of how you can generate investment return in this space.”Magazine: Memecoin
-    degeneracy is funding groundbreaking anti-aging research\n\n            "
-  published: 2025-04-10 18:42:35.000000000 +01:00
-- title: " Cosmos launches Eureka to connect Ethereum and IBC networks "
-  url: https://cointelegraph.com/news/cosmos-introduces-ibc-eureka-ethereum-compatibility-layer?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Cosmos, a blockchain network aiming to become the “internet of blockchains,”
-    has launched Eureka, an interoperability layer designed to link its inter-blockchain
-    communication (IBC) protocol with Ethereum.According to an April 10 announcement,
-    Eureka has expanded the Cosmos IBC protocol, changing IBC from an ecosystem standard
-    “to a universal interoperability protocol,” setting the hub on a course to become
-    the home of multichain apps.Cosmos projects are integrating into IBC Eureka. Source:
-    CosmosWith the introduction of Eureka, many Cosmos-based applications and blockchains
-    are now accessible to more users by expanding IBC to the Ethereum network. With
-    the new protocol, developers can reportedly build multichain apps across multiple
-    ecosystems without fragmenting the user base.Related: Cosmos co-founder proposes
-    peer-to-peer clearing system in white paperThe announcement said that most projects
-    rely on bridges for interoperability, resulting in the introduction of intermediaries
-    as well as user and liquidity fragmentation. With bridges, users can simply move
-    assets between blockchains, while with Eureka, developers promise to deliver native
-    interoperability.Cosmos Hub Integration Image. Source: CosmosCointelegraph reached
-    out to the Interchain Foundation, the organization behind Cosmos, but did not
-    receive a response by publication.How IBC Eureka worksEureka relies on a distribution
-    zone allowing developers to access all IBC connections, users, liquidity and services
-    without additional infrastructure. The Cosmos Hub also allows users to access
-    apps, services and assets across the included ecosystems.Related: Cosmos ecosystem
-    rocked by North Korean developer allegationsSome early use cases include Bitcoin
-    staking protocol Babylon, whose users will now be able to transfer Bitcoin liquid
-    staking tokens from Ethereum to Babylon’s Cosmos-based chain. Similarly, decentralized
-    finance (DeFi) protocol Elys will enable trading with Wrapped Ether (WETH), Wrapped
-    Bitcoin (WBTC) and USDt (USDT) from Ethereum.More integrations comingIn the future,
-    developers promise that users will be able to leverage Eureka-powered multichain
-    features in major decentralized exchange (DEX) dYdX. Real-world asset tokenization
-    platform Mantra will also reportedly bridge capital from Ethereum into Cosmos-based
-    real-estate markets, staking infrastructure and permissioned DeFi applications.According
-    to the announcement, IBC — which Eureka upgrades — has facilitated an average
-    of up to $3 billion in transaction volume among more than 115 blockchains every
-    month since its launch. Still, the integration was far from seamless for blockchains
-    that were not part of the Cosmos ecosystem.Magazine: Arbitrum co-founder skeptical
-    of move to based and native rollups: Steven Goldfeder\n\n            "
-  published: 2025-04-10 14:48:48.000000000 +01:00
