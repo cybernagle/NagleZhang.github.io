@@ -1,121 +1,123 @@
 ---
-- title: Things Zig comptime won't do
-  url: https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html
+- title: 'Evertop: E-ink IBM XT clone with 100+ hours of battery life'
+  url: https://github.com/ericjenott/Evertop
   summary: Comments
-  published: 2025-04-20 15:57:37.000000000 +00:00
-- title: 'Gemma 3 QAT Models: Bringing AI to Consumer GPUs'
-  url: https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/
+  published: 2025-04-21 22:07:49.000000000 +00:00
+- title: Prolog Adventure Game
+  url: https://github.com/stefanrodrigues2/Prolog-Adventure-game
   summary: Comments
-  published: 2025-04-20 12:22:06.000000000 +00:00
-- title: Crows can recognize geometric regularity
-  url: https://phys.org/news/2025-04-crows-geometric-regularity.html
+  published: 2025-04-22 00:25:12.000000000 +00:00
+- title: Blog hosted on a Nintendo Wii
+  url: https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/
   summary: Comments
-  published: 2025-04-17 14:20:13.000000000 +00:00
-- title: 'TikZJax: Embedding LaTeX Drawings in HTML'
-  url: https://tikzjax.com/
+  published: 2025-04-21 18:29:04.000000000 +00:00
+- title: "'Immediate red flags': questions raised over 'expert' much quoted in UK
+    press"
+  url: https://www.theguardian.com/media/2025/apr/19/questions-raised-over-barbara-santini-expert-much-quoted-in-uk-press
   summary: Comments
-  published: 2025-04-20 22:04:22.000000000 +00:00
-- title: Find the Odd Disk
-  url: https://colors2.alessandroroussel.com/
+  published: 2025-04-19 16:00:09.000000000 +00:00
+- title: 'Show HN: Dia, an open-weights TTS model for generating realistic dialogue'
+  url: https://github.com/nari-labs/dia
   summary: Comments
-  published: 2025-04-20 19:17:58.000000000 +00:00
-- title: Signal Carnival
-  url: https://www.quiss.org/signal_carnival/
+  published: 2025-04-21 17:07:07.000000000 +00:00
+- title: 'The Future of Compute: Nvidia''s Crown Is Slipping'
+  url: https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia
   summary: Comments
-  published: 2025-04-20 17:13:32.000000000 +00:00
-- title: Decomposing Transactional Systems
-  url: https://transactional.blog/blog/2025-decomposing-transactional-systems
+  published: 2025-04-21 22:06:14.000000000 +00:00
+- title: Cheating the Reaper in Go
+  url: https://mcyoung.xyz/2025/04/21/go-arenas/
   summary: Comments
-  published: 2025-04-20 20:54:56.000000000 +00:00
-- title: 'Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)'
-  url: https://www.well-typed.com/blog/2023/04/falsify/
+  published: 2025-04-21 21:46:32.000000000 +00:00
+- title: A new record for California's highest tree
+  url: https://www.sciencedaily.com/releases/2025/04/250417145019.htm
   summary: Comments
-  published: 2025-04-20 19:41:29.000000000 +00:00
-- title: New Proof Settles Decades-Old Bet About Connected Networks
-  url: https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/
+  published: 2025-04-19 12:49:53.000000000 +00:00
+- title: Astronomers confirm the existence of a lone black hole
+  url: https://phys.org/news/2025-04-astronomers-lone-black-hole.html
   summary: Comments
-  published: 2025-04-20 17:48:40.000000000 +00:00
-- title: The appeal of serving your web pages with a single process
-  url: https://utcc.utoronto.ca/~cks/space/blog/web/SingleProcessServingAppeal
+  published: 2025-04-21 18:36:23.000000000 +00:00
+- title: 'Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product
+    Teams'
+  url: https://news.ycombinator.com/item?id=43752176
   summary: Comments
-  published: 2025-04-18 06:19:06.000000000 +00:00
-- title: 'Which year: guess which year each photo was taken'
-  url: https://whichyr.com/
+  published: 2025-04-21 14:07:03.000000000 +00:00
+- title: 101 Basic Computer Games
+  url: https://github.com/maurymarkowitz/101-BASIC-Computer-Games
   summary: Comments
-  published: 2025-04-17 10:42:06.000000000 +00:00
-- title: 'Show HN: I built an AI that turns GitHub codebases into easy tutorials'
-  url: https://github.com/The-Pocket/Tutorial-Codebase-Knowledge
+  published: 2025-04-21 22:47:38.000000000 +00:00
+- title: A new form of verification on Bluesky
+  url: https://bsky.social/about/blog/04-21-2025-verification
   summary: Comments
-  published: 2025-04-19 21:04:41.000000000 +00:00
-- title: Turing-Drawings
-  url: https://github.com/maximecb/Turing-Drawings
+  published: 2025-04-21 16:16:51.000000000 +00:00
+- title: Ultra-precision formation flying demonstration for space-based interferometry
+  url: https://arxiv.org/abs/2504.05001
   summary: Comments
-  published: 2025-04-20 16:00:29.000000000 +00:00
-- title: 'Demystifying decorators: They don''t need to be cryptic'
-  url: https://www.thepythoncodingstack.com/p/demystifying-python-decorators
+  published: 2025-04-21 21:31:40.000000000 +00:00
+- title: A M.2 HDMI capture card
+  url: https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/
   summary: Comments
-  published: 2025-04-20 21:07:03.000000000 +00:00
-- title: 'Jagged AGI: o3, Gemini 2.5, and everything after'
-  url: https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything
+  published: 2025-04-21 19:01:55.000000000 +00:00
+- title: Pipelining might be my favorite programming language feature
+  url: https://herecomesthemoon.net/2025/04/pipelining/
   summary: Comments
-  published: 2025-04-20 14:55:33.000000000 +00:00
-- title: FurtherAI (YC W24) Is Hiring Software and AI Engineers
-  url: https://www.ycombinator.com/companies/furtherai/jobs
+  published: 2025-04-21 12:16:16.000000000 +00:00
+- title: Cekura (Formerly Vocera) (YC F24) Is Hiring
+  url: https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer
   summary: Comments
-  published: 2025-04-20 21:00:37.000000000 +00:00
-- title: The Joy of Linux Theming in the Age of Bootable Containers
-  url: https://blues.win/posts/joy-of-linux-theming/
+  published: 2025-04-21 21:00:53.000000000 +00:00
+- title: LLM-powered tools amplify developer capabilities rather than replacing them
+  url: https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human
   summary: Comments
-  published: 2025-04-20 13:56:06.000000000 +00:00
-- title: The movie mistake mystery from "Revenge of the Sith"
-  url: https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html
+  published: 2025-04-21 14:36:14.000000000 +00:00
+- title: 'Show HN: Open Codex – OpenAI Codex CLI with open-source LLMs'
+  url: https://github.com/codingmoh/open-codex
   summary: Comments
-  published: 2025-04-20 17:29:28.000000000 +00:00
-- title: Home galleries are hiding in plain sight across Canada
-  url: https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886
+  published: 2025-04-21 17:57:03.000000000 +00:00
+- title: AI assisted search-based research works now
+  url: https://simonwillison.net/2025/Apr/21/ai-assisted-search/
   summary: Comments
-  published: 2025-04-20 16:04:46.000000000 +00:00
-- title: Healthy soil is the hidden ingredient
-  url: https://www.nature.com/articles/d41586-025-01026-x
+  published: 2025-04-21 14:15:17.000000000 +00:00
+- title: 'Pydrofoil: Accelerating Sail-based instruction set simulators'
+  url: https://arxiv.org/abs/2503.04389
   summary: Comments
-  published: 2025-04-16 21:13:55.000000000 +00:00
-- title: Better Error Handling
-  url: https://meowbark.dev/Better-error-handling
+  published: 2025-04-21 21:52:29.000000000 +00:00
+- title: An update to our pricing
+  url: https://windsurf.com/blog/pricing-v2
   summary: Comments
-  published: 2025-04-20 20:13:19.000000000 +00:00
-- title: 'Show HN: JuryNow – Get an anonymous instant verdict from 12 real people'
-  url: https://jurynow.app/
+  published: 2025-04-21 19:05:23.000000000 +00:00
+- title: FTC takes action against Uber for deceptive billing and cancellation practices
+  url: https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices
   summary: Comments
-  published: 2025-04-20 18:32:29.000000000 +00:00
-- title: How encryption for Cinema Movies works
-  url: https://serverless.industries/2024/05/31/digital-cinema.en.html
+  published: 2025-04-21 17:22:55.000000000 +00:00
+- title: Dumb statistical models, always making people look bad
+  url: https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/
   summary: Comments
-  published: 2025-04-20 17:52:50.000000000 +00:00
-- title: 'Show HN: Real-time 4/20 cannabis sales dashboard using Estuary and Tinybird'
-  url: https://420.headset.io
+  published: 2025-04-19 13:12:26.000000000 +00:00
+- title: Getting forked by Microsoft
+  url: https://philiplaine.com/posts/getting-forked-by-microsoft/
   summary: Comments
-  published: 2025-04-20 19:03:45.000000000 +00:00
-- title: Test Spies in Haskell
-  url: https://jezenthomas.com/2025/04/test-spies-in-haskell/
+  published: 2025-04-21 11:05:44.000000000 +00:00
+- title: How I use Kate editor
+  url: https://akselmo.dev/posts/how-i-use-kate-editor/
   summary: Comments
-  published: 2025-04-18 13:21:52.000000000 +00:00
-- title: A 1980s toy robot arm inspired modern robotics
-  url: https://www.technologyreview.com/2025/04/17/1114456/toy-armatron-modern-robotics-ai-nostalgia/
+  published: 2025-04-20 20:50:07.000000000 +00:00
+- title: Reworking 30 lines of Linux code could cut power use by up to 30 percent
+  url: https://spectrum.ieee.org/data-center-energy-consumption
   summary: Comments
-  published: 2025-04-17 15:42:32.000000000 +00:00
-- title: First hormone-free male birth control pill enters human trials
-  url: https://scitechdaily.com/99-effective-first-hormone-free-male-birth-control-pill-enters-human-trials/
+  published: 2025-04-21 07:34:07.000000000 +00:00
+- title: Adding keyword parameters to Tcl procs
+  url: https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html
   summary: Comments
-  published: 2025-04-20 17:54:59.000000000 +00:00
-- title: Pushing the Limits of LLM Quantization via the Linearity Theorem
-  url: https://arxiv.org/abs/2411.17525
+  published: 2025-04-21 16:55:36.000000000 +00:00
+- title: 'Tabular Programming: A New Paradigm for Expressive Computing'
+  url: https://sam.elborai.me/articles/tabular-programming/
   summary: Comments
-  published: 2025-04-20 15:20:35.000000000 +00:00
-- title: 100 Years to Solve an Integral (2020)
-  url: https://liorsinai.github.io/mathematics/2020/08/27/secant-mercator.html
+  published: 2025-04-21 12:26:16.000000000 +00:00
+- title: Is 1 Prime, and Does It Matter?
+  url: https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/
   summary: Comments
-  published: 2025-04-20 03:16:42.000000000 +00:00
-- title: Efficient E-Matching for Super Optimizers
-  url: https://blog.vortan.dev/ematching/
+  published: 2025-04-21 19:25:19.000000000 +00:00
+- title: 'The Value of Differences: Jennifer Lindsay on Noticing Translation'
+  url: https://sydneyreviewofbooks.com/essays/the-value-of-differences
   summary: Comments
-  published: 2025-04-19 05:47:54.000000000 +00:00
+  published: 2025-04-21 19:44:58.000000000 +00:00
