@@ -1,123 +1,122 @@
 ---
-- title: 'Evertop: E-ink IBM XT clone with 100+ hours of battery life'
-  url: https://github.com/ericjenott/Evertop
+- title: 'Atuin Desktop: Runbooks That Run'
+  url: https://blog.atuin.sh/atuin-desktop-runbooks-that-run/
   summary: Comments
-  published: 2025-04-21 22:07:49.000000000 +00:00
-- title: Prolog Adventure Game
-  url: https://github.com/stefanrodrigues2/Prolog-Adventure-game
+  published: 2025-04-22 20:54:52.000000000 +00:00
+- title: 'Solidjs: Simple and performant reactivity for building user interfaces'
+  url: https://www.solidjs.com/
   summary: Comments
-  published: 2025-04-22 00:25:12.000000000 +00:00
-- title: Blog hosted on a Nintendo Wii
-  url: https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/
+  published: 2025-04-19 07:50:38.000000000 +00:00
+- title: 'Sapphire: Rust based package manager for macOS (Homebrew replacement)'
+  url: https://github.com/alexykn/sapphire
   summary: Comments
-  published: 2025-04-21 18:29:04.000000000 +00:00
-- title: "'Immediate red flags': questions raised over 'expert' much quoted in UK
-    press"
-  url: https://www.theguardian.com/media/2025/apr/19/questions-raised-over-barbara-santini-expert-much-quoted-in-uk-press
+  published: 2025-04-22 18:39:20.000000000 +00:00
+- title: Making a smart bike dumb so it works again
+  url: https://francisco.io/blog/making-a-smart-bike-dumb-work-again/
   summary: Comments
-  published: 2025-04-19 16:00:09.000000000 +00:00
-- title: 'Show HN: Dia, an open-weights TTS model for generating realistic dialogue'
-  url: https://github.com/nari-labs/dia
+  published: 2025-04-19 09:57:10.000000000 +00:00
+- title: The Illuminated Gospel of St John
+  url: https://www.cambridge.org/universitypress/bibles/illuminated-gospel-of-st-john
   summary: Comments
-  published: 2025-04-21 17:07:07.000000000 +00:00
-- title: 'The Future of Compute: Nvidia''s Crown Is Slipping'
-  url: https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia
+  published: 2025-04-19 02:32:42.000000000 +00:00
+- title: 'Ping, You''ve Got Whale: AI detection system alerts ships of whales in their
+    path'
+  url: https://www.biographic.com/ping-youve-got-whale/
   summary: Comments
-  published: 2025-04-21 22:06:14.000000000 +00:00
-- title: Cheating the Reaper in Go
-  url: https://mcyoung.xyz/2025/04/21/go-arenas/
+  published: 2025-04-22 18:28:20.000000000 +00:00
+- title: How long does it take to create a new habit? (2015)
+  url: https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/
   summary: Comments
-  published: 2025-04-21 21:46:32.000000000 +00:00
-- title: A new record for California's highest tree
-  url: https://www.sciencedaily.com/releases/2025/04/250417145019.htm
+  published: 2025-04-22 18:47:05.000000000 +00:00
+- title: Algebraic Semantics for Machine Knitting
+  url: https://uwplse.org/2025/03/31/Algebraic-Knitting.html
   summary: Comments
-  published: 2025-04-19 12:49:53.000000000 +00:00
-- title: Astronomers confirm the existence of a lone black hole
-  url: https://phys.org/news/2025-04-astronomers-lone-black-hole.html
+  published: 2025-04-22 15:55:12.000000000 +00:00
+- title: 'ClickHouse gets lazier and faster: Introducing lazy materialization'
+  url: https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization
   summary: Comments
-  published: 2025-04-21 18:36:23.000000000 +00:00
-- title: 'Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product
-    Teams'
-  url: https://news.ycombinator.com/item?id=43752176
+  published: 2025-04-22 16:03:32.000000000 +00:00
+- title: 'π0.5: A VLA with open-world generalization'
+  url: https://pi.website/blog/pi05
   summary: Comments
-  published: 2025-04-21 14:07:03.000000000 +00:00
-- title: 101 Basic Computer Games
-  url: https://github.com/maurymarkowitz/101-BASIC-Computer-Games
+  published: 2025-04-22 17:29:31.000000000 +00:00
+- title: 'Show HN: Durable Python Workflows'
+  url: https://github.com/autokitteh/autokitteh
   summary: Comments
-  published: 2025-04-21 22:47:38.000000000 +00:00
-- title: A new form of verification on Bluesky
-  url: https://bsky.social/about/blog/04-21-2025-verification
+  published: 2025-04-22 22:41:08.000000000 +00:00
+- title: 'Show HN: Rowboat – Open-source IDE for multi-agent systems'
+  url: https://github.com/rowboatlabs/rowboat
   summary: Comments
-  published: 2025-04-21 16:16:51.000000000 +00:00
-- title: Ultra-precision formation flying demonstration for space-based interferometry
-  url: https://arxiv.org/abs/2504.05001
+  published: 2025-04-22 16:33:21.000000000 +00:00
+- title: 'How to quickly charge your smartphone: fast charging technologies in detail'
+  url: https://eb43.github.io/articles/fast-charging-technologies-in-detail.html
   summary: Comments
-  published: 2025-04-21 21:31:40.000000000 +00:00
-- title: A M.2 HDMI capture card
-  url: https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/
+  published: 2025-04-22 22:00:36.000000000 +00:00
+- title: 'Show HN: Morphik – Open-source RAG that understands PDF images, runs locally'
+  url: https://github.com/morphik-org/morphik-core
   summary: Comments
-  published: 2025-04-21 19:01:55.000000000 +00:00
-- title: Pipelining might be my favorite programming language feature
-  url: https://herecomesthemoon.net/2025/04/pipelining/
+  published: 2025-04-22 16:18:41.000000000 +00:00
+- title: The Rise and Fall of Toys 'R' Us (2018)
+  url: https://www.history.com/articles/toys-r-us-closing-legacy
   summary: Comments
-  published: 2025-04-21 12:16:16.000000000 +00:00
-- title: Cekura (Formerly Vocera) (YC F24) Is Hiring
-  url: https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer
+  published: 2025-04-20 20:09:12.000000000 +00:00
+- title: Onyx (YC W24) Is Hiring for ML Engineer
+  url: https://www.ycombinator.com/companies/onyx/jobs/3Se5ptG-machine-learning-engineer
   summary: Comments
-  published: 2025-04-21 21:00:53.000000000 +00:00
-- title: LLM-powered tools amplify developer capabilities rather than replacing them
-  url: https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human
+  published: 2025-04-22 21:00:48.000000000 +00:00
+- title: Classic Computer Replicas
+  url: https://obsolescence.dev/index.html
   summary: Comments
-  published: 2025-04-21 14:36:14.000000000 +00:00
-- title: 'Show HN: Open Codex – OpenAI Codex CLI with open-source LLMs'
-  url: https://github.com/codingmoh/open-codex
+  published: 2025-04-22 20:16:04.000000000 +00:00
+- title: Attacking My Landlord's Boiler
+  url: https://blog.videah.net/attacking-my-landlords-boiler/
   summary: Comments
-  published: 2025-04-21 17:57:03.000000000 +00:00
-- title: AI assisted search-based research works now
-  url: https://simonwillison.net/2025/Apr/21/ai-assisted-search/
+  published: 2025-04-22 04:27:40.000000000 +00:00
+- title: CSS Hell
+  url: https://csshell.com/
   summary: Comments
-  published: 2025-04-21 14:15:17.000000000 +00:00
-- title: 'Pydrofoil: Accelerating Sail-based instruction set simulators'
-  url: https://arxiv.org/abs/2503.04389
+  published: 2025-04-22 21:58:50.000000000 +00:00
+- title: Are polynomial features the root of all evil? (2024)
+  url: https://alexshtf.github.io/2024/01/21/Bernstein.html
   summary: Comments
-  published: 2025-04-21 21:52:29.000000000 +00:00
-- title: An update to our pricing
-  url: https://windsurf.com/blog/pricing-v2
+  published: 2025-04-22 16:49:55.000000000 +00:00
+- title: Can rotation solve the Hubble Puzzle?
+  url: https://academic.oup.com/mnras/article/538/4/3038/8090496?login=false
   summary: Comments
-  published: 2025-04-21 19:05:23.000000000 +00:00
-- title: FTC takes action against Uber for deceptive billing and cancellation practices
-  url: https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices
+  published: 2025-04-19 01:40:35.000000000 +00:00
+- title: The complex origin story of domestic cats
+  url: https://phys.org/news/2025-04-complex-story-domestic-cats-tunisia.html
   summary: Comments
-  published: 2025-04-21 17:22:55.000000000 +00:00
-- title: Dumb statistical models, always making people look bad
-  url: https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/
+  published: 2025-04-22 18:07:32.000000000 +00:00
+- title: Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)
+  url: https://www.hey.earth/posts/duckdb-doom
   summary: Comments
-  published: 2025-04-19 13:12:26.000000000 +00:00
-- title: Getting forked by Microsoft
-  url: https://philiplaine.com/posts/getting-forked-by-microsoft/
+  published: 2025-04-22 13:35:47.000000000 +00:00
+- title: Can a single AI model advance any field of science?
+  url: https://www.lanl.gov/media/publications/1663/1269-earl-lawrence-ai
   summary: Comments
-  published: 2025-04-21 11:05:44.000000000 +00:00
-- title: How I use Kate editor
-  url: https://akselmo.dev/posts/how-i-use-kate-editor/
+  published: 2025-04-22 19:02:04.000000000 +00:00
+- title: I should have loved biology too
+  url: https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too
   summary: Comments
-  published: 2025-04-20 20:50:07.000000000 +00:00
-- title: Reworking 30 lines of Linux code could cut power use by up to 30 percent
-  url: https://spectrum.ieee.org/data-center-energy-consumption
+  published: 2025-04-22 16:46:19.000000000 +00:00
+- title: More details for London's new Roman Basilica museum revealed
+  url: https://www.ianvisits.co.uk/articles/more-details-for-londons-new-roman-basilica-museum-revealed-80470/
   summary: Comments
-  published: 2025-04-21 07:34:07.000000000 +00:00
-- title: Adding keyword parameters to Tcl procs
-  url: https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html
+  published: 2025-04-18 22:31:40.000000000 +00:00
+- title: 'Show HN: Dosidicus – A digital pet with a simple neural network'
+  url: https://github.com/ViciousSquid/Dosidicus
   summary: Comments
-  published: 2025-04-21 16:55:36.000000000 +00:00
-- title: 'Tabular Programming: A New Paradigm for Expressive Computing'
-  url: https://sam.elborai.me/articles/tabular-programming/
+  published: 2025-04-22 20:06:39.000000000 +00:00
+- title: New study of birds shows citizen science can be trusted
+  url: https://www.ucdavis.edu/news/can-citizen-science-be-trusted-new-study-birds-shows-it-can
   summary: Comments
-  published: 2025-04-21 12:26:16.000000000 +00:00
-- title: Is 1 Prime, and Does It Matter?
-  url: https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/
+  published: 2025-04-23 00:07:45.000000000 +00:00
+- title: The raccoons who made computer magazine ads great
+  url: https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/
   summary: Comments
-  published: 2025-04-21 19:25:19.000000000 +00:00
-- title: 'The Value of Differences: Jennifer Lindsay on Noticing Translation'
-  url: https://sydneyreviewofbooks.com/essays/the-value-of-differences
+  published: 2025-04-22 13:06:30.000000000 +00:00
+- title: Meaning Machine – Visualize how LLMs break down and simulate meaning
+  url: https://meaning-machine.streamlit.app
   summary: Comments
-  published: 2025-04-21 19:44:58.000000000 +00:00
+  published: 2025-04-22 22:55:09.000000000 +00:00
