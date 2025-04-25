@@ -1,122 +1,121 @@
 ---
-- title: Shortest walking tour to 81,998 bars in Korea – TSP solved in 178 days
-  url: https://www.math.uwaterloo.ca/tsp/korea/index.html
+- title: OpenAI releases image generation in the API
+  url: https://openai.com/index/image-generation-api/
   summary: Comments
-  published: 2025-04-24 00:20:40.000000000 +00:00
-- title: 'CubeCL: GPU Kernels in Rust for CUDA, ROCm, and WGPU'
-  url: https://github.com/tracel-ai/cubecl
+  published: 2025-04-24 19:27:51.000000000 +00:00
+- title: Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals
+  url: https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/
   summary: Comments
-  published: 2025-04-23 23:19:32.000000000 +00:00
-- title: You wouldn't steal a font
-  url: https://fedi.rib.gay/notes/a6xqityngfubsz0f
+  published: 2025-04-24 22:10:15.000000000 +00:00
+- title: National Airspace System Status
+  url: https://nasstatus.faa.gov/
   summary: Comments
-  published: 2025-04-23 19:42:36.000000000 +00:00
-- title: How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2
-  url: https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/
+  published: 2025-04-24 21:31:09.000000000 +00:00
+- title: Google Maps Doesn't Know How Street Addresses Work
+  url: https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/
   summary: Comments
-  published: 2025-04-23 14:00:11.000000000 +00:00
-- title: 'Show HN: My from-scratch OS kernel that runs DOOM'
-  url: https://github.com/UnmappedStack/TacOS
+  published: 2025-04-25 00:01:49.000000000 +00:00
+- title: I wrote to the address in the GPLv2 license notice (2022)
+  url: https://code.mendhak.com/gpl-v2-address-letter/
   summary: Comments
-  published: 2025-04-24 00:15:22.000000000 +00:00
-- title: 'Yagri: You are gonna read it'
-  url: https://www.scottantipa.com/yagri
+  published: 2025-04-24 12:26:38.000000000 +00:00
+- title: Tarpit ideas – what are tarpit ideas and how to avoid them (2023) [video]
+  url: https://www.ycombinator.com/library/Ij-tarpit-ideas-what-are-tarpit-ideas-how-to-avoid-them
   summary: Comments
-  published: 2025-04-23 21:47:27.000000000 +00:00
-- title: DOGE Worker’s Code Supports NLRB Whistleblower
-  url: https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/
+  published: 2025-04-23 16:59:36.000000000 +00:00
+- title: You Can Be a Great Designer and Be Completely Unknown
+  url: https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown
   summary: Comments
-  published: 2025-04-23 20:48:57.000000000 +00:00
-- title: Yaakov Kirschen’s other legacy
-  url: https://www.jns.org/yaakov-kirschens-other-legacy/
+  published: 2025-04-24 21:24:58.000000000 +00:00
+- title: OpenVSX, which VSCode forks rely on for extensions, down for 24 hours
+  url: https://status.open-vsx.org/
   summary: Comments
-  published: 2025-04-24 01:24:22.000000000 +00:00
-- title: Google blocked Motorola use of Perplexity AI, witness says
-  url: https://www.bloomberg.com/news/articles/2025-04-23/perplexity-executive-says-google-blocked-motorola-s-use-of-ai-assistant
+  published: 2025-04-24 17:09:56.000000000 +00:00
+- title: One quantum transition makes light at 21 cm
+  url: https://bigthink.com/starts-with-a-bang/21cm-magic-length/
   summary: Comments
-  published: 2025-04-23 20:52:19.000000000 +00:00
-- title: Teaching LLMs how to solid model
-  url: https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html
+  published: 2025-04-24 16:38:54.000000000 +00:00
+- title: Mark Zuckerberg says social media is over
+  url: https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over
   summary: Comments
-  published: 2025-04-23 18:13:43.000000000 +00:00
-- title: Graphics livecoding in Common Lisp
-  url: https://kevingal.com/blog/cl-livecoding.html
+  published: 2025-04-24 08:19:23.000000000 +00:00
+- title: 'Ask HN: Share your AI prompt that stumps every model'
+  url: https://news.ycombinator.com/item?id=43782299
   summary: Comments
-  published: 2025-04-23 17:48:20.000000000 +00:00
-- title: MCP on AWS Lambda with MCPEngine
-  url: https://www.featureform.com/post/deploy-mcp-on-aws-lambda-with-mcpengine
+  published: 2025-04-24 13:11:22.000000000 +00:00
+- title: 'PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch'
+  url: https://arxiv.org/abs/2503.19779
   summary: Comments
-  published: 2025-04-23 16:17:04.000000000 +00:00
-- title: 'C++26: more constexpr in the core language'
-  url: https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes
+  published: 2025-04-24 19:28:29.000000000 +00:00
+- title: Instant SQL for results as you type in DuckDB UI
+  url: https://motherduck.com/blog/introducing-instant-sql/
   summary: Comments
-  published: 2025-04-23 19:13:03.000000000 +00:00
-- title: AI Horseless Carriages
-  url: https://koomen.dev/essays/horseless-carriages/
+  published: 2025-04-24 13:23:26.000000000 +00:00
+- title: 'Show HN: Lemon Slice Live – Have a video call with a transformer model'
+  url: https://news.ycombinator.com/item?id=43785044
   summary: Comments
-  published: 2025-04-23 16:19:56.000000000 +00:00
-- title: Apple and Meta fined millions for breaching EU law
-  url: https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html
+  published: 2025-04-24 17:10:14.000000000 +00:00
+- title: A Principled Approach to Querying Data – A Type-Safe Search DSL
+  url: https://www.claudiu-ivan.com/writing/search-dsl
   summary: Comments
-  published: 2025-04-23 10:01:04.000000000 +00:00
-- title: 'Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use
-    Agents'
-  url: https://github.com/trycua/cua
+  published: 2025-04-24 15:53:15.000000000 +00:00
+- title: Path should be a system call
+  url: https://simonsafar.com/2025/path_as_system_call/
   summary: Comments
-  published: 2025-04-23 15:55:05.000000000 +00:00
-- title: My experience of participating to a startup weekend competition in Italy
-  url: https://danielpetrica.com/my-experience-of-participating-to-a-startup-weekend-competition-in-italy/
+  published: 2025-04-24 23:43:38.000000000 +00:00
+- title: Creating your own federated microblog
+  url: https://fedify.dev/tutorial/microblog
   summary: Comments
-  published: 2025-04-20 19:53:44.000000000 +00:00
-- title: Sail-Trim Simulator
-  url: https://simulator.atterwind.info/
+  published: 2025-04-24 09:37:57.000000000 +00:00
+- title: 'Asymmetric Content Moderation in Search Markets: The Case of Adult Websites'
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106235
   summary: Comments
-  published: 2025-04-23 18:36:50.000000000 +00:00
-- title: The Future of MCPs
-  url: https://iamcharliegraham.substack.com/publish/post/161906169
+  published: 2025-04-24 15:38:44.000000000 +00:00
+- title: "'World War Zoos' Review: Of Bombs and Beasts"
+  url: https://www.wsj.com/arts-culture/books/world-war-zoos-review-of-bombs-and-beasts-a037c4b6
   summary: Comments
-  published: 2025-04-23 17:12:58.000000000 +00:00
-- title: First Successful Lightning Triggering and Guiding Using a Drone
-  url: https://group.ntt/en/newsrelease/2025/04/18/250418a.html
+  published: 2025-04-22 03:57:47.000000000 +00:00
+- title: Agent Mesh for Enterprise Agents
+  url: https://www.solo.io/blog/agent-mesh-for-enterprise-agents
   summary: Comments
-  published: 2025-04-23 19:24:58.000000000 +00:00
-- title: 'Show HN: Node.js video tutorials where you can edit and run the code'
-  url: https://news.ycombinator.com/item?id=43771365
+  published: 2025-04-24 21:04:56.000000000 +00:00
+- title: 'Show HN: Infat – Declaritive application assocation manager for macOS'
+  url: https://github.com/philocalyst/infat
   summary: Comments
-  published: 2025-04-23 12:35:49.000000000 +00:00
-- title: Beer on Board in the Age of Sail (2017)
-  url: https://blog.library.si.edu/blog/2017/08/02/beer-board-age-sail/
+  published: 2025-04-24 17:37:52.000000000 +00:00
+- title: 'Show HN: I Added Translation to My RSS Reader Project'
+  url: https://rahuldshetty.github.io/reader-project/#/translation
   summary: Comments
-  published: 2025-04-23 06:42:31.000000000 +00:00
-- title: 'Spring 83: a draft protocol intended to suggest new ways of relating online'
-  url: https://github.com/robinsloan/spring-83
+  published: 2025-04-24 20:29:21.000000000 +00:00
+- title: Bild AI (YC W25) is hiring a founding engineer in SF
+  url: https://www.ycombinator.com/companies/bild-ai/jobs/m2ilR5L-founding-engineer
   summary: Comments
-  published: 2025-04-23 18:08:39.000000000 +00:00
-- title: Sustain your creative drive in the face of technological change
-  url: https://thecreativeindependent.com/people/multi-disciplinary-artist-jack-rusher-on-the-need-to-sustain-your-creative-drive-in-the-face-of-technological-change/
+  published: 2025-04-24 17:00:38.000000000 +00:00
+- title: 'Show HN: I reverse engineered top websites to build an animated UI library'
+  url: https://reverseui.com
   summary: Comments
-  published: 2025-04-22 05:05:37.000000000 +00:00
-- title: Lucene University
-  url: https://github.com/msfroh/lucene-university
+  published: 2025-04-24 17:47:09.000000000 +00:00
+- title: Mistaking Mary Magdalene
+  url: https://www.newyorker.com/culture/the-weekend-essay/mistaking-mary-magdalene
   summary: Comments
-  published: 2025-04-23 20:37:54.000000000 +00:00
-- title: Ninth Circuit Takes a Wrecking Ball to Internet Personal Jurisdiction Law
-  url: https://blog.ericgoldman.org/archives/2025/04/ninth-circuit-takes-a-wrecking-ball-to-internet-personal-jurisdiction-law-briskin-v-shopify.htm
+  published: 2025-04-21 02:24:20.000000000 +00:00
+- title: "'Bright Circle' and 'Margaret Fuller': The Rise of the Transcendental Woman"
+  url: https://www.wsj.com/arts-culture/books/bright-circle-and-margaret-fuller-the-rise-of-the-transcendental-woman-1bacdb10
   summary: Comments
-  published: 2025-04-23 19:09:02.000000000 +00:00
-- title: The Dauug House - Dauug|36 minicomputer documentation
-  url: https://dauug.cs.wright.edu/
+  published: 2025-04-23 18:45:25.000000000 +00:00
+- title: 'Assignment 5: Cars and Key Fobs (2022)'
+  url: https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html
   summary: Comments
-  published: 2025-04-22 20:13:30.000000000 +00:00
-- title: 'Show HN: Index – New Open Source browser agent'
-  url: https://github.com/lmnr-ai/index
+  published: 2025-04-24 09:53:22.000000000 +00:00
+- title: Sea Monsters Unmasked and Sea Fables Explained by Henry Lee (1883)
+  url: https://publicdomainreview.org/collection/sea-monsters-sea-fables/
   summary: Comments
-  published: 2025-04-23 16:11:11.000000000 +00:00
-- title: MinC Is Not Cygwin
-  url: https://minc.commandlinerevolution.nl/english/home.html
+  published: 2025-04-22 06:06:35.000000000 +00:00
+- title: Three Fundamental Flaws of SIMD ISAs (2023)
+  url: https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/
   summary: Comments
-  published: 2025-04-23 10:21:57.000000000 +00:00
-- title: Get your Minitel back, the COMPUTEL videotex BBS is back
-  url: https://cq94.medium.com/get-your-minitels-back-the-computel-videotex-bbs-is-back-1d8c42f1ea17
+  published: 2025-04-24 14:42:03.000000000 +00:00
+- title: 'Show HN: Zev – Remember (or discover) terminal commands'
+  url: https://github.com/dtnewman/zev
   summary: Comments
-  published: 2025-04-20 16:04:36.000000000 +00:00
+  published: 2025-04-24 16:33:54.000000000 +00:00
