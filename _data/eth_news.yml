@@ -1,4 +1,40 @@
 ---
+- title: " Ethereum community members propose new fee structure for the app layer "
+  url: https://cointelegraph.com/news/ethereum-community-members-propose-fee-structure-app-layer?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Two Ethereum community members, Kevin Owocki and Devansh Mehta, proposed
+    a dynamic fee structure for the Ethereum application layer to strike a balance
+    between revenue generation for app builders and fairness in fee extraction.The
+    April 27 proposal outlined a simple equation that uses a square root function
+    that proportionally lowers the percentage of fees as the funding capital allocated
+    to a particular project grows. Owocki and Mehta explained:\"For smaller funding
+    amounts, the fee follows a square root function (sqrt(1000 x N)), providing proportionally
+    higher returns to make building mechanisms for smaller pools worthwhile. For example,
+    if the funding pool is $170,000, then the root of 1000 x 170,000 equals $13,038.4
+    or 7% is taken as overhead.\"The authors of the proposal added that fees would
+    be capped at 1% once a particular application's funding pool crossed the $10 million
+    level, ensuring that small app builders can develop decentralized applications
+    without excess fees while also encouraging project and funding growth by capping
+    fees as developers scale their applications.A visualization of the proposed fee
+    structure tapering off at higher project funding levels. Source: Ethereum ResearchOwocki
+    and Mehta's proposal to balance revenue generation and profitability among Ethereum's
+    app builders reflects the growing calls to reform fee structures and value accrual
+    mechanisms to maintain Ethereum's economic viability against competing networks.Related:
+    Ethereum's L2 approach equals many high-throughput chains — Avail execEthereum's
+    competitors ramp up heat as Ethereum faces revenue crunchIn 2024, the Solana ecosystem
+    onboarded more developers than the Ethereum network, attracting 7,625 new developers
+    compared with Ethereum’s 6,456.Despite the surge in software developers building
+    on the Solana network in 2024, Ethereum remains the dominant ecosystem for attracting
+    developer talent, although the 2024 data shows that position is no longer uncontested.The
+    Solana network is now the number two choice for decentralized application developers
+    and is catching up to Ethereum. Source: Electric CapitalAccording to onchain analytics
+    firm Santiment, Ethereum fees dropped to five-year lows in April 2025 due to low
+    activity on the Ethereum base layer resulting from reduced demand for smart contract
+    operations like decentralized finance.This reduced demand is leading to many institutions
+    scaling back their Ether (ETH) holdings or selling off portions of their investment
+    as investor sentiment toward the first-ever smart-contract platform continues
+    to erode without any clear catalysts for a reversal.Magazine: Ethereum is destroying
+    the competition in the $16.1T TradFi tokenization race\n\n            "
+  published: 2025-04-27 21:34:48.000000000 +01:00
 - title: " Deloitte predicts $4T tokenized real estate on blockchain by 2035 "
   url: https://cointelegraph.com/news/real-estate-tokenization-forecast-4-trillion-2035?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Over $4 trillion worth of real estate could be tokenized on blockchain
@@ -1698,36 +1734,3 @@
     and opinions expressed here are the author’s alone and do not necessarily reflect
     or represent the views and opinions of Cointelegraph.\n\n            "
   published: 2025-04-19 16:00:00.000000000 +01:00
-- title: " Tokenized stocks could top $1T in market cap — Execs "
-  url: https://cointelegraph.com/news/tokenized-stocks-top-1-trillion-market-cap-executives?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Tokenized stocks are on track to exceed $1 trillion in market capitalization
-    in the coming years as adoption accelerates, two industry executives said at the
-    TokenizeThis conference in New York. The total addressable market for tokenized
-    stocks — a type of tokenized real-world asset (RWA) —  is difficult to project
-    but is “definitely a bigger trillion-dollar market,” Arnab Naskar, STOKR’s CEO,
-    said during an April 16 panel at the event.In 2025, demand for the instruments
-    has “exploded” from institutions ranging from Web3 wallets to neobanks to traditional
-    financial services firms, according to Anna Wroblewska, Dinari’s Chief Business
-    Officer. “We've had an enormous influx of demand from a much broader scope of
-    potential partners than you might even imagine [...] it's actually been really
-    interesting,” Wroblewska said.Tokenized stocks are still a small portion of the
-    total RWA market. Source: RWA.xyzRelated: Tokenization can transform US markets
-    if Trump clears the waySmall but growing market shareAs of April 18, tokenized
-    stocks comprise around $350 million in cumulative market capitalization, according
-    to data from RWA.xyz. This represents only a sliver of the total RWA market, which
-    is worth upward of $18 billion, the data shows. But this could change as tokenized
-    stocks capture a growing share of the US equities market, Wroblewska said. The
-    US stock market has an aggregate value of more than $50 trillion, according to
-    Siblis Research. There is a “huge appetite for US public equities... even individual
-    investors globally want exposure to US capital markets. Tokenization makes it
-    fast and cheap,” Wroblewska said. She added that tokenized US Treasury Bills are
-    already in high demand for similar reasons. They currently comprise nearly $6
-    billion in total market cap, RWA.xyz data shows. Meanwhile, Coinbase is considering
-    making tokenized shares of its stock available on Base, its Ethereum layer-2 network.Collectively,
-    tokenized RWAs represent a $30 trillion market opportunity globally, Colin Butler,
-    Movement Labs’ global head of institutional capital, told Cointelegraph in an
-    August interview.“Tokenization will become a mirror of the market. If the user
-    experience is better, faster, and cheaper, people will default to tokenized assets,”
-    Wroblewska said.Magazine: SEC’s U-turn on crypto leaves key questions unanswered\n\n
-    \           "
-  published: 2025-04-18 21:36:36.000000000 +01:00
