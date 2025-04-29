@@ -1,122 +1,121 @@
 ---
-- title: Internet in a Box
-  url: https://internet-in-a-box.org/
+- title: 'Qwen3: Think deeper, act faster'
+  url: https://qwenlm.github.io/blog/qwen3/
   summary: Comments
-  published: 2025-04-27 19:26:34.000000000 +00:00
-- title: New material gives copper superalloy-like strength
-  url: https://news.lehigh.edu/new-material-gives-copper-superalloy-like-strength-0
+  published: 2025-04-28 20:44:25.000000000 +00:00
+- title: The 12-bit rainbow palette
+  url: https://iamkate.com/data/12-bit-rainbow/
   summary: Comments
-  published: 2025-04-28 00:19:26.000000000 +00:00
-- title: National Archives Releases Unidentified Anomalous Phenomena (UAP) Records
-  url: https://www.archives.gov/press/press-releases/2025/nr25-07
+  published: 2025-04-28 23:12:28.000000000 +00:00
+- title: Widespread power outage in Spain and Portugal
+  url: https://www.bbc.com/news/live/c9wpq8xrvd9t
   summary: Comments
-  published: 2025-04-28 00:28:07.000000000 +00:00
-- title: 'Show HN: I made a web-based, free alternative to Screen Studio'
-  url: https://www.screenrecorder.me
+  published: 2025-04-28 10:50:58.000000000 +00:00
+- title: 'Show HN: I built a hardware processor that runs Python'
+  url: https://www.runpyxl.com/gpio
   summary: Comments
-  published: 2025-04-28 00:38:53.000000000 +00:00
-- title: How a single line of code could brick your iPhone
-  url: https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone
+  published: 2025-04-28 11:44:54.000000000 +00:00
+- title: One Million Chessboards
+  url: https://eieio.games/blog/one-million-chessboards/
   summary: Comments
-  published: 2025-04-27 19:12:43.000000000 +00:00
-- title: AI Helps Find a Cause of Alzheimer's Disease and Identify Therapeutic Candidate
-  url: https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate
+  published: 2025-04-28 19:52:02.000000000 +00:00
+- title: The One-Person Framework in Practice
+  url: https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o
   summary: Comments
-  published: 2025-04-27 22:19:27.000000000 +00:00
-- title: 'Show HN: I486SX_soft_FPU – Software FPU Emulator for NetBSD 10 on 486SX'
-  url: https://github.com/mezantrop/i486SX_soft_FPU
+  published: 2025-04-28 21:58:52.000000000 +00:00
+- title: Running Clojure in WASM with GraalVM
+  url: https://romanliutikov.com/blog/running-clojure-in-wasm
   summary: Comments
-  published: 2025-04-27 21:04:13.000000000 +00:00
-- title: Read the Obits
-  url: https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/
+  published: 2025-04-27 07:50:07.000000000 +00:00
+- title: Migrating away from Rust
+  url: https://deadmoney.gg/news/articles/migrating-away-from-rust
   summary: Comments
-  published: 2025-04-27 16:40:30.000000000 +00:00
-- title: I just want to code (2023)
-  url: https://www.zachbellay.com/daily/i-just-want-to-code/
+  published: 2025-04-28 18:47:36.000000000 +00:00
+- title: 'Show HN: A pure WebGL image editor with filters, crop and perspective correction'
+  url: https://github.com/xdadda/mini-photo-editor
   summary: Comments
-  published: 2025-04-27 20:08:38.000000000 +00:00
-- title: The suburban office park that launched Silicon Valley
-  url: https://thehustle.co/originals/the-suburban-office-park-that-launched-silicon-valley
+  published: 2025-04-28 16:10:21.000000000 +00:00
+- title: What the heck is AEAD again?
+  url: https://ochagavia.nl/blog/what-the-heck-is-aead-again/
   summary: Comments
-  published: 2025-04-27 22:14:32.000000000 +00:00
-- title: Did 5G kill the IMSI catcher?
-  url: https://zetier.com/5g-imsi-catcher/
+  published: 2025-04-28 21:59:22.000000000 +00:00
+- title: Legal art forgery, for the sake of movies (2014)
+  url: https://www.vanityfair.com/hollywood/2014/04/art-in-movies
   summary: Comments
-  published: 2025-04-27 16:27:57.000000000 +00:00
-- title: How a Pipe Organ Works (2020)
-  url: https://www.pipedreams.org/page/how-a-pipe-organ-works
+  published: 2025-04-28 21:01:59.000000000 +00:00
+- title: Requirements change until they don't
+  url: https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/
   summary: Comments
-  published: 2025-04-27 20:53:03.000000000 +00:00
-- title: Restoring a Sinclair C5
-  url: https://woof.tech/@crashtestdev/114411537491626882
+  published: 2025-04-28 20:49:24.000000000 +00:00
+- title: Packed Data Support in Haskell
+  url: https://arthi-chaud.github.io/posts/packed/
   summary: Comments
-  published: 2025-04-27 23:07:51.000000000 +00:00
-- title: Computer Architects Can't Find the Average
-  url: https://dgsq.net/2025-04-27-averages/
+  published: 2025-04-28 20:57:49.000000000 +00:00
+- title: Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers
+  url: https://github.com/skyzh/tiny-llm
   summary: Comments
-  published: 2025-04-27 22:06:31.000000000 +00:00
-- title: Reverse geocoding is hard
-  url: https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/
+  published: 2025-04-28 11:24:41.000000000 +00:00
+- title: 'Show HN: Sim Studio – Open-Source Agent Workflow GUI'
+  url: https://github.com/simstudioai/sim
   summary: Comments
-  published: 2025-04-27 14:45:36.000000000 +00:00
-- title: The coming knowledge-work supply-chain crisis
-  url: https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply
+  published: 2025-04-28 16:14:31.000000000 +00:00
+- title: Vision Transformers Need Registers
+  url: https://arxiv.org/abs/2309.16588
   summary: Comments
-  published: 2025-04-27 15:10:06.000000000 +00:00
-- title: 'Cut: Chattanooga Civic User Testing'
-  url: https://cut.chattanooga.gov/
+  published: 2025-04-28 16:53:08.000000000 +00:00
+- title: 'Show HN: Web-eval-agent – Let the coding agent debug itself'
+  url: https://github.com/Operative-Sh/web-eval-agent
   summary: Comments
-  published: 2025-04-27 20:59:26.000000000 +00:00
-- title: Tiny Emulators
-  url: https://floooh.github.io/tiny8bit-preview/
+  published: 2025-04-28 15:36:25.000000000 +00:00
+- title: 'Ask HN: What are you working on? (April 2025)'
+  url: https://news.ycombinator.com/item?id=43815523
   summary: Comments
-  published: 2025-04-27 22:06:38.000000000 +00:00
-- title: Business co-founders in tech startups are less valuable than they think
-  url: https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/
+  published: 2025-04-27 22:08:21.000000000 +00:00
+- title: Reports of the death of California High-Speed Rail have been greatly exaggerated
+  url: https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated
   summary: Comments
-  published: 2025-04-27 19:35:55.000000000 +00:00
-- title: 'Shardines: SQLite3 Database-per-Tenant with ActiveRecord'
-  url: https://blog.julik.nl/2025/04/a-can-of-shardines
+  published: 2025-04-28 18:38:46.000000000 +00:00
+- title: Why Momentum Works (2017)
+  url: https://distill.pub/2017/momentum/
   summary: Comments
-  published: 2025-04-27 12:16:59.000000000 +00:00
-- title: Virginia passes law to enforce maximum vehicle speeds for repeat speeders
-  url: https://www.fastcompany.com/91323835/virginia-will-use-technology-to-slow-chronic-speeders-cars-and-other-states-are-rushing-to-join-in
+  published: 2025-04-28 05:01:10.000000000 +00:00
+- title: 'Show HN: Heart Rate Zones Plus – The first iOS app I ever developed'
+  url: https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232
   summary: Comments
-  published: 2025-04-27 16:02:46.000000000 +00:00
-- title: 'Show HN: Daily Jailbreak – Prompt Engineer''s Wordle'
-  url: https://www.vaultbreak.ai/daily-jailbreak
+  published: 2025-04-28 18:42:18.000000000 +00:00
+- title: Co-designing a sparse music codec with ChatGPT o3
+  url: https://akuz.me/co-designing-a-sparse-music-codec-with-chatgpt-o3-in-one-day-my-mini-pied-piper.html
   summary: Comments
-  published: 2025-04-27 18:32:53.000000000 +00:00
-- title: Extend (YC W23) is hiring engineers to build LLM document processing
-  url: https://jobs.ashbyhq.com/extend/9d4d8974-bd9b-432d-84ec-8268e5a8ed37
+  published: 2025-04-27 00:18:31.000000000 +00:00
+- title: Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site)
+  url: https://careers.activeloop.ai/
   summary: Comments
-  published: 2025-04-27 17:00:46.000000000 +00:00
-- title: 'ZFS: Apple''s new filesystem that wasn''t (2016)'
-  url: https://ahl.dtrace.org/2016/06/15/apple_and_zfs/
+  published: 2025-04-28 17:01:20.000000000 +00:00
+- title: Beating the Crowd
+  url: https://www.withentropy.com/blog/2025-04-21-beating_the_crowd/
   summary: Comments
-  published: 2025-04-27 09:25:36.000000000 +00:00
-- title: 'Show HN: I created snapDOM to capture DOM nodes as images with exceptional
-    speed'
-  url: https://github.com/zumerlab/snapdom
+  published: 2025-04-27 22:19:26.000000000 +00:00
+- title: Is outbound going to die?
+  url: https://rnikhil.com/2025/04/25/sales-outbound-ai-dead
   summary: Comments
-  published: 2025-04-27 17:00:29.000000000 +00:00
-- title: Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS
-  url: https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md
+  published: 2025-04-28 17:28:09.000000000 +00:00
+- title: The side hustle from hell
+  url: https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell
   summary: Comments
-  published: 2025-04-27 16:18:49.000000000 +00:00
-- title: 'Show HN: Bhvr, a Bun and Hono and Vite and React Starter'
-  url: https://bhvr.dev
+  published: 2025-04-28 17:05:29.000000000 +00:00
+- title: Why did Windows 7 log on slower for months if you had a solid color background?
+  url: https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121
   summary: Comments
-  published: 2025-04-27 11:02:32.000000000 +00:00
-- title: 'In Memoriam: SF and Fine Artist David Schleinkofer'
-  url: https://downthetubes.net/in-memoriam-sf-and-fine-artist-david-schleinkofer/
+  published: 2025-04-28 23:27:11.000000000 +00:00
+- title: Reanimation of the original Logic Theorist, the first AI, in IPL-V [video]
+  url: https://www.youtube.com/watch?v=qmE5o2ezqBg
   summary: Comments
-  published: 2025-04-27 23:29:50.000000000 +00:00
-- title: Boxie – an always offline audio player for my 3 year old
-  url: https://mariozechner.at/posts/2025-04-20-boxie/
+  published: 2025-04-28 15:33:32.000000000 +00:00
+- title: 'Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring'
+  url: https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance
   summary: Comments
-  published: 2025-04-27 20:40:33.000000000 +00:00
-- title: 'TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant'
-  url: https://tmuxai.dev/
+  published: 2025-04-28 20:34:56.000000000 +00:00
+- title: Backblaze responds to claims of "sham accounting," customer backups at risk
+  url: https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/
   summary: Comments
-  published: 2025-04-27 15:35:32.000000000 +00:00
+  published: 2025-04-28 23:30:24.000000000 +00:00
