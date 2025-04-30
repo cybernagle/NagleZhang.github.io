@@ -1,121 +1,123 @@
 ---
-- title: 'Qwen3: Think deeper, act faster'
-  url: https://qwenlm.github.io/blog/qwen3/
+- title: 'Jepsen: Amazon RDS for PostgreSQL 17.4'
+  url: https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4
   summary: Comments
-  published: 2025-04-28 20:44:25.000000000 +00:00
-- title: The 12-bit rainbow palette
-  url: https://iamkate.com/data/12-bit-rainbow/
+  published: 2025-04-29 14:30:11.000000000 +00:00
+- title: 'Chain of Recursive Thoughts: Make AI think harder by making it argue with
+    itself'
+  url: https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
   summary: Comments
-  published: 2025-04-28 23:12:28.000000000 +00:00
-- title: Widespread power outage in Spain and Portugal
-  url: https://www.bbc.com/news/live/c9wpq8xrvd9t
+  published: 2025-04-29 17:19:04.000000000 +00:00
+- title: Path Isn't Real on Linux
+  url: https://blog.danielh.cc/blog/path
   summary: Comments
-  published: 2025-04-28 10:50:58.000000000 +00:00
-- title: 'Show HN: I built a hardware processor that runs Python'
-  url: https://www.runpyxl.com/gpio
+  published: 2025-04-29 22:35:35.000000000 +00:00
+- title: Not a Zombie
+  url: https://notazombie.net/landing
   summary: Comments
-  published: 2025-04-28 11:44:54.000000000 +00:00
-- title: One Million Chessboards
-  url: https://eieio.games/blog/one-million-chessboards/
+  published: 2025-04-30 00:55:48.000000000 +00:00
+- title: 'Bamba: An open-source LLM that crosses a transformer with an SSM'
+  url: https://research.ibm.com/blog/bamba-ssm-transformer-model
   summary: Comments
-  published: 2025-04-28 19:52:02.000000000 +00:00
-- title: The One-Person Framework in Practice
-  url: https://link.mail.beehiiv.com/ss/c/u001.5SRwDQ9qxPQW8vmD5Do73b3R4eTCi2vXqPyztEk6wMFC9_fqEAcDVx6xEJ96T4BSMXrPS7z5exEBSTF4pF48z8SqJkJnkAwMUW9LtYdd8lWmvkDinT92nsk5HmXOHdWgLsysm9FMGrqmu7dnG57cXpga8ZOe8X0IV8pyeC3AswdRMaitfT307y7naP-_6W5CiolKhXCKrEndMGCW2PftFUu9ieYOxpVJ_fhu82gAh-4/4g1/wA_MG-I5SVCyR3KY66oEaQ/h30/h001.kLDFZMgisudi21zmTPbd_O8U7X98d4UxYqZjQTb_D7o
+  published: 2025-04-29 17:24:29.000000000 +00:00
+- title: I use zip bombs to protect my server
+  url: https://idiallo.com/blog/zipbomb-protection
   summary: Comments
-  published: 2025-04-28 21:58:52.000000000 +00:00
-- title: Running Clojure in WASM with GraalVM
-  url: https://romanliutikov.com/blog/running-clojure-in-wasm
+  published: 2025-04-28 22:28:56.000000000 +00:00
+- title: An illustrated guide to automatic sparse differentiation
+  url: https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/
   summary: Comments
-  published: 2025-04-27 07:50:07.000000000 +00:00
-- title: Migrating away from Rust
-  url: https://deadmoney.gg/news/articles/migrating-away-from-rust
+  published: 2025-04-29 03:18:52.000000000 +00:00
+- title: Everything we announced at our first LlamaCon
+  url: https://ai.meta.com/blog/llamacon-llama-news/?_fb_noscript=1
   summary: Comments
-  published: 2025-04-28 18:47:36.000000000 +00:00
-- title: 'Show HN: A pure WebGL image editor with filters, crop and perspective correction'
-  url: https://github.com/xdadda/mini-photo-editor
+  published: 2025-04-29 17:17:23.000000000 +00:00
+- title: Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule
+  url: https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/
   summary: Comments
-  published: 2025-04-28 16:10:21.000000000 +00:00
-- title: What the heck is AEAD again?
-  url: https://ochagavia.nl/blog/what-the-heck-is-aead-again/
+  published: 2025-04-29 20:59:51.000000000 +00:00
+- title: 'It''s School time: Adventures in hacking an old Kindle'
+  url: https://samkhawase.com/blog/hacking-kindle/
   summary: Comments
-  published: 2025-04-28 21:59:22.000000000 +00:00
-- title: Legal art forgery, for the sake of movies (2014)
-  url: https://www.vanityfair.com/hollywood/2014/04/art-in-movies
+  published: 2025-04-28 15:02:04.000000000 +00:00
+- title: 'Show HN: Beatsync – perfect audio sync across multiple devices'
+  url: https://github.com/freeman-jiang/beatsync
   summary: Comments
-  published: 2025-04-28 21:01:59.000000000 +00:00
-- title: Requirements change until they don't
-  url: https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/
+  published: 2025-04-29 17:32:25.000000000 +00:00
+- title: Performance optimization is hard because it's fundamentally a brute-force
+    task
+  url: https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/
   summary: Comments
-  published: 2025-04-28 20:49:24.000000000 +00:00
-- title: Packed Data Support in Haskell
-  url: https://arthi-chaud.github.io/posts/packed/
+  published: 2025-04-29 12:29:44.000000000 +00:00
+- title: 'ArkFlow: High-performance Rust stream processing engine'
+  url: https://github.com/arkflow-rs/arkflow
   summary: Comments
-  published: 2025-04-28 20:57:49.000000000 +00:00
-- title: Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers
-  url: https://github.com/skyzh/tiny-llm
+  published: 2025-04-29 14:38:43.000000000 +00:00
+- title: 'Show HN: A Chrome extension that will auto-reject non-essential cookies'
+  url: https://blog.bymitch.com/posts/reject-cookies/
   summary: Comments
-  published: 2025-04-28 11:24:41.000000000 +00:00
-- title: 'Show HN: Sim Studio – Open-Source Agent Workflow GUI'
-  url: https://github.com/simstudioai/sim
+  published: 2025-04-29 11:49:55.000000000 +00:00
+- title: Modern Realty (YC S24) Is Hiring
+  url: https://www.workatastartup.com/jobs/66546
   summary: Comments
-  published: 2025-04-28 16:14:31.000000000 +00:00
-- title: Vision Transformers Need Registers
-  url: https://arxiv.org/abs/2309.16588
+  published: 2025-04-29 21:00:05.000000000 +00:00
+- title: Programming languages should have a tree traversal primitive
+  url: https://blog.tylerglaiel.com/p/programming-languages-should-have
   summary: Comments
-  published: 2025-04-28 16:53:08.000000000 +00:00
-- title: 'Show HN: Web-eval-agent – Let the coding agent debug itself'
-  url: https://github.com/Operative-Sh/web-eval-agent
+  published: 2025-04-29 12:23:19.000000000 +00:00
+- title: Waymo and Toyota outline partnership to advance autonomous driving deployment
+  url: https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership
   summary: Comments
-  published: 2025-04-28 15:36:25.000000000 +00:00
-- title: 'Ask HN: What are you working on? (April 2025)'
-  url: https://news.ycombinator.com/item?id=43815523
+  published: 2025-04-29 23:06:02.000000000 +00:00
+- title: 'WorldGen: Open-source 3D scene generator for Game/VR/XR'
+  url: https://worldgen.github.io/
   summary: Comments
-  published: 2025-04-27 22:08:21.000000000 +00:00
-- title: Reports of the death of California High-Speed Rail have been greatly exaggerated
-  url: https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated
+  published: 2025-04-28 18:39:19.000000000 +00:00
+- title: Firefox tab groups are here
+  url: https://blog.mozilla.org/en/firefox/tab-groups-community/
   summary: Comments
-  published: 2025-04-28 18:38:46.000000000 +00:00
-- title: Why Momentum Works (2017)
-  url: https://distill.pub/2017/momentum/
+  published: 2025-04-29 15:37:10.000000000 +00:00
+- title: China's Clinical Trial Boom
+  url: https://www.asimov.press/p/china-trials
   summary: Comments
-  published: 2025-04-28 05:01:10.000000000 +00:00
-- title: 'Show HN: Heart Rate Zones Plus – The first iOS app I ever developed'
-  url: https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232
+  published: 2025-04-28 15:13:39.000000000 +00:00
+- title: 'Show HN: An MCP server for understanding AWS costs'
+  url: https://news.ycombinator.com/item?id=43794120
   summary: Comments
-  published: 2025-04-28 18:42:18.000000000 +00:00
-- title: Co-designing a sparse music codec with ChatGPT o3
-  url: https://akuz.me/co-designing-a-sparse-music-codec-with-chatgpt-o3-in-one-day-my-mini-pied-piper.html
+  published: 2025-04-25 14:43:57.000000000 +00:00
+- title: O3 beats a master-level GeoGuessr player, even with fake EXIF data
+  url: https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master
   summary: Comments
-  published: 2025-04-27 00:18:31.000000000 +00:00
-- title: Activeloop (YC S18) is hiring a VP of Engineering in Mountain View (on-site)
-  url: https://careers.activeloop.ai/
+  published: 2025-04-29 16:48:42.000000000 +00:00
+- title: Finding paths of least action with gradient descent (2023)
+  url: https://greydanus.github.io/2023/03/05/ncf-tutorial/
   summary: Comments
-  published: 2025-04-28 17:01:20.000000000 +00:00
-- title: Beating the Crowd
-  url: https://www.withentropy.com/blog/2025-04-21-beating_the_crowd/
+  published: 2025-04-26 06:24:32.000000000 +00:00
+- title: Indian court orders blocking of Proton Mail
+  url: https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/
   summary: Comments
-  published: 2025-04-27 22:19:26.000000000 +00:00
-- title: Is outbound going to die?
-  url: https://rnikhil.com/2025/04/25/sales-outbound-ai-dead
+  published: 2025-04-29 16:41:27.000000000 +00:00
+- title: Princeton Engineering Anomalies Research (2010)
+  url: https://pearlab.icrl.org/theory.html
   summary: Comments
-  published: 2025-04-28 17:28:09.000000000 +00:00
-- title: The side hustle from hell
-  url: https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell
+  published: 2025-04-27 21:49:30.000000000 +00:00
+- title: 'Show HN: An interactive demo of QR codes'' error correction'
+  url: https://qris.cool
   summary: Comments
-  published: 2025-04-28 17:05:29.000000000 +00:00
-- title: Why did Windows 7 log on slower for months if you had a solid color background?
-  url: https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121
+  published: 2025-04-25 12:15:24.000000000 +00:00
+- title: 'Show HN: AgenticSeek – Self-hosted alternative to cloud-based AI tools'
+  url: https://github.com/Fosowl/agenticSeek
   summary: Comments
-  published: 2025-04-28 23:27:11.000000000 +00:00
-- title: Reanimation of the original Logic Theorist, the first AI, in IPL-V [video]
-  url: https://www.youtube.com/watch?v=qmE5o2ezqBg
+  published: 2025-04-26 17:23:49.000000000 +00:00
+- title: The last masters of Afro-Colombian machete fencing
+  url: https://globalvoices.org/2025/04/19/the-last-masters-of-afro-colombian-machete-fencing-fight-to-save-their-tradition/
   summary: Comments
-  published: 2025-04-28 15:33:32.000000000 +00:00
-- title: 'Beyond Elk: Lightweight and Scalable Cloud-Native Log Monitoring'
-  url: https://greptime.com/blogs/2025-04-24-elasticsearch-greptimedb-comparison-performance
+  published: 2025-04-29 15:11:28.000000000 +00:00
+- title: LibreLingo – FOSS Alternative to Duolingo
+  url: https://librelingo.app
   summary: Comments
-  published: 2025-04-28 20:34:56.000000000 +00:00
-- title: Backblaze responds to claims of "sham accounting," customer backups at risk
-  url: https://arstechnica.com/gadgets/2025/04/backblaze-responds-to-claims-of-sham-accounting-customer-backups-at-risk/
+  published: 2025-04-29 05:45:53.000000000 +00:00
+- title: 'Show HN: Flowcode – Turing-complete visual programming platform'
+  url: https://app.getflowcode.io/playground/example1
   summary: Comments
-  published: 2025-04-28 23:30:24.000000000 +00:00
+  published: 2025-04-29 09:04:35.000000000 +00:00
