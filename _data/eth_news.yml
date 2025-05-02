@@ -1,4 +1,387 @@
 ---
+- title: " Crypto to accelerate AI adoption — LONGITUDE panel "
+  url: https://cointelegraph.com/news/crypto-to-accelerate-ai-adoption-polygon-near-longitude?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Cryptocurrency can accelerate artificial intelligence adoption by helping
+    AI startups onboard users, according to Polygon's co-founder Sandeep Nailwal.
+    “You can use crypto incentives and disincentives to onboard users to onboard the
+    ecosystem players,” Nailwal said during a panel discussion at the LONGITUDE by
+    Cointelegraph event. He added that projects with effective onchain incentive structures
+    might even “build a better AI because you have this incentive engine that brings
+    in developers,” Nailwal said on May 1. Cointelegraph’s LONGITUDE is an event series
+    that brings together leaders and innovators from the blockchain and Web3 space
+    for exclusive discussions. Joining the panel, Illia Polosukhin, co-founder of
+    the Near Protocol, expanded on crypto's long-term synergy with AI, forecasting
+    that crypto-native AI agents could replace traditional web application front-ends
+    as the primary user interfaces for Web3.\"We don’t need applications or websites
+    anymore. Your AI becomes the interface to computing and the internet,” Polosukhin
+    said.Sandeep Nailwal and Illia Polosukhin speaking at Cointelegraph's LONGITUDE
+    in Dubai. Source: CointelegraphRelated: AI memecoins will become utility tokensHowever,
+    Nailwal cautioned that the rise of AI-related tokens onchain has also attracted
+    a wave of opportunistic scams. “We know that 99% of those projects are literally
+    token scams, but very few projects are actually trying to have some meaningful
+    AI project,” he said. The era of Web3 AI agentsAI agents are expected to take
+    on a more prominent role within decentralized communities, J.D. Seraphine, co-founder
+    of Web3 developer Raiinmaker, recently told Cointelegraph. According to a report
+    by VanEck, over 1 million AI agents could enter the market in 2025, with many
+    of them tied to decentralized finance applications. Such agents are already reshaping
+    the digital economy, building decentralized applications, launching tokens, and
+    interacting with humans autonomously. AI token cumulative market cap. Source:
+    CoinGecko“AI is an extremely centralizing force. A few companies could become
+    the warlords of the world,” Nailwal said. “That’s why crypto-native, peer-to-peer
+    AI solutions are so important—they enable privacy-preserving innovation,” Polosukhin
+    said.Magazine: Altcoin season to hit in Q2? Mantra’s plan to win trust: Hodler’s
+    Digest, April 13 – 19\n\n            "
+  published: 2025-05-01 20:46:40.000000000 +01:00
+- title: " Devs introduce Ethereum R1 layer-2 scaling solution "
+  url: https://cointelegraph.com/news/devs-introduce-ethereum-r1-layer-2?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "A group of developers within the Ethereum ecosystem, operating independently
+    of the Ethereum Foundation, have announced Ethereum R1 — a layer-2 (L2) scaling
+    solution for the Ethereum network that does not include a native token.According
+    to the announcement, the project relies entirely on donations, does not have venture
+    funding, and does not have any pre-mined token allocations or a governance token.
+    The project's team wrote in a May 1 X post:\"General-purpose L2s should be commodities
+    — simple, replaceable, and free from centralized dependencies or risky governance.
+    Ethereum R1 is our answer to that call — the rollup grounded in credible neutrality,
+    decentralization, and censorship resistance.\"\"Most L2s today are acting more
+    like new L1s than an Ethereum scaling solution — private allocations, opaque governance,
+    and centralized control,\" the developers continued.The announcement points to
+    increasing concerns within the Ethereum community regarding the current direction
+    of many layer-2 scaling solutions, which some view as potentially misaligned with
+    the interests of the base layerRelated: Ethereum community members propose new
+    fee structure for the app layerEthereum's L2-centric approach: unique value proposition
+    or exploitation?Ethereum's Dencun upgrade in March 2024 significantly lowered
+    fees for its layer-2 networks. By September, revenue on the Ethereum base layer
+    collapsed by 99%.As a result, transaction costs on the Ethereum network base layer
+    dropped to a five-year low of roughly $0.16 per transaction in April 2025, due
+    to a lack of demand for block space on the base layer.Ethereum's transaction fees
+    are determined by demand and network traffic — higher demand and network traffic
+    translate into higher fees for the base layer and more revenue.Ethereum’s base
+    layer revenue collapsed in Q1 2025. Source: Token TerminalWhile critics continue
+    to argue that this provides perverse incentives for layer-2 networks to grow at
+    the expense of the base layer, protocols continue to argue that Ethereum's many
+    layer-2 networks are a feature, not a bug.Anurag Arjun, co-founder of the unified
+    chain abstraction solution Avail, told Cointelegraph that Ethereum's layer-2 approach
+    gives users a virtually unlimited number of high-throughput chains to choose from,
+    as opposed to the singular one-size-fits-all approach employed by monolithic blockchain
+    protocols.Magazine: Ethereum is destroying the competition in the $16.1T TradFi
+    tokenization race\n\n            "
+  published: 2025-05-01 17:17:47.000000000 +01:00
+- title: " Ethereum to simplify crosschain transactions with new token standards "
+  url: https://cointelegraph.com/news/ethereum-to-simplify-cross-chain-transactions-with-two-new-erc-standards?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ethereum developers are working to improve blockchain interoperability
+    with two new token standards: ERC-7930 and ERC-7828.“There’s no standard way for
+    wallets, apps, or protocols to interpret or display this information,” decentralized
+    finance (DeFi) ecosystem development organization Wonderland wrote in a May 1
+    X post. Wallets, decentralized applications (DApps), block explorers and smart
+    contracts follow different rules.“The result? A messy, inconsistent experience
+    that breaks cross-chain UX,“ Wonderland stated.Wonderland is a group of developers,
+    researchers and data scientists focused on improving the Ethereum DeFi ecosystem.
+    The organization partnered with multiple DeFi protocols, including Optimism, Aztec,
+    Connext and Yearn.Wonderland’s ERC-7828 and ERC-7930 explanation post. Source:
+    WonderlandIn the post, the organization shared what was discussed at a recent
+    Ethereum Foundation interoperability working group call. Teddy from Wonderland
+    explained that the current goal is to finalize both token standards within the
+    next two weeks. He added:“We badly need feedback on the ETH-Magicians forum.”Related:
+    Vitalik Buterin’s vision for Ethereum: Pectra, Glamsterdam and beyondSomething
+    for people, something for botsWonderland explained that “ERC-7930 defines a compact,
+    binary format for interoperable addresses.” This format is machine-friendly and
+    optimized for protocols that require a single representation for all blockchains.ERC-7828
+    expands that standard “by adding a human-readable layer, using formats like address@chain,
+    ensuring everything stays clear and simple for users.” Together, the two are designed
+    to enhance the experience of using Ethereum’s inter-blockchain ecosystem. “Target
+    audience for ERC-7828 is anything that interacts with humans… It’s the text layer,”
+    Teddy said during the call. Related: Ethereum Fusaka hard fork set for late 2025Many
+    chains, one addressPut simply, the proposed system would allow the sender to specify
+    the target blockchain when sending a payment address. This would include both
+    a human-readable address@chain format and a machine-readable format for application
+    programming interfaces.The setup prevents users from sending or receiving assets
+    on the wrong blockchain, which helps prevent crypto losses. Currently, the same
+    address can be used on multiple blockchains within the Ethereum ecosystem, which
+    can lead to confusion.With the new setup, wallet operation can be blockchain-agnostic,
+    and the address input into the user interface will also determine which blockchain
+    the transaction is directed toward. This would, in turn, reduce friction, as users
+    currently need to switch networks in wallet settings to move from chain to chain.Magazine:
+    Ethereum L2s will be interoperable ‘within months’: Complete guide\n\n            "
+  published: 2025-05-01 15:06:56.000000000 +01:00
+- title: " Restaking can make DeFi more secure for institutional traders "
+  url: https://cointelegraph.com/news/restaking-can-make-de-fi-more-secure?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Amitej Gajjala, co-founder and CEO of Kernel DAOThe restaking
+    narrative has moved fast — from side conversations in validator circles to the
+    forefront of DeFi infrastructure discussions.It’s not hard to see why. DefiLlama
+    states that major liquid restaking protocols now hold over $12 billion in total
+    value locked (TVL), with dozens of middleware services aligning their security
+    with Ethereum’s economic base layer. What started as an idea to increase capital
+    efficiency for validators has evolved into a serious attempt to redefine how security
+    is provisioned across decentralized systems.While restaking is gaining momentum
+    among crypto-native participants, institutions — the kind with multi-year horizons
+    and regulatory constraints — still keep DeFi at arm’s length.Not because the rewards
+    aren’t attractive. Risk is still poorly understood, isolated and mitigated.Restaking
+    can change that.Adding friction — where it’s needed mostRestaking isn’t about
+    reducing risk to zero; it’s about introducing friction, which deters bad actors
+    without killing protocol composability.Enabling validators to opt into securing
+    new protocols using already-staked assets, restaking creates a second validation
+    layer. This strengthens middleware like oracles, bridges and data availability
+    layers without bootstrapping entirely new trust networks.Unlike traditional validator
+    sets, restaking aligns existing economic incentives with broader infrastructure
+    needs. Instead of competing for security, protocols can now share it — with customizable
+    slashing conditions, service-specific operator sets and dynamic risk parameters.Recent:
+    Unlocking the potential of dormant Bitcoin in DeFiFor institutions, this is meaningful;
+    it signals the beginning of a modular security stack, where exposure can be configured
+    and audited per protocol.Slashing becomes a risk class — not a red flagOne of
+    the main blockers for institutional staking has been slashing: the risk that validator
+    misbehavior (or simply technical error) could lead to capital loss.Restaking introduces
+    slashing segmentation. On all major platforms, operators choose which services
+    they secure. Slashing, therefore, is scoped to the context of misbehavior — not
+    the entire validator lifecycle.This distinction matters. It transforms slashing
+    from an unpredictable liability into a quantifiable, bounded risk, similar to
+    how fixed-income traders model default risk.It also opens the door to restaking
+    insurance markets, actuarial modeling and structured risk products.Risk offloading
+    through exposure diversificationDeFi’s volatility isn’t going away. Price swings,
+    gas spikes and liquidation cascades are part of the terrain. But restaking enables
+    cross-protocol exposure less correlated than holding multiple tokens.A validator
+    restaking into a curated mix of oracle, bridge and data availability layer services
+    fundamentally builds a portfolio of security commitments — each with different
+    risk and reward profiles. That’s diversification in the validator economy, not
+    just in the asset layer.It also makes network-level attacks harder. Restaking
+    dilutes attack vectors by spreading economic security across a web of services,
+    making DeFi’s attack surface less monolithic and more modular.Oracles get more
+    credibleA single point of failure in many DeFi protocols? Oracle feeds. And it’s
+    not just flash loans — even minor price feed delays can be exploited.ScienceDirect
+    research shows that staking-based oracle models significantly reduce manipulation
+    risks, especially when tied to performance-based incentives and slashing conditions.Restaking
+    supports this by allowing oracle operators to secure feeds with economic weight,
+    aligning truthfulness with profit. When misreporting can cost you slashed Ether
+    (ETH), the game theory changes.This creates stronger guarantees for protocols
+    relying on price data — a prerequisite for serious capital to flow in.Restaking
+    as the institutional wedgeInstitutions won’t enter DeFi because of vibes or community
+    incentives. They’ll enter when infrastructure risk can be scoped, quantified and
+    mitigated when the stack looks more like a layered security model than a black
+    box of smart contracts.Restaking isn’t the whole answer. But it is one of the
+    first scalable primitives to make DeFi security modular, composable and economically
+    aligned.As regulation matures and tokenized finance becomes more interoperable
+    with TradFi, restaking may be the layer that bridges trust between networks and
+    entire financial systems.We’re not there yet. But the path looks a lot clearer
+    than it did a year ago.Opinion by: Amitej Gajjala, co-founder and CEO of Kernel
+    DAO.This article is for general information purposes and is not intended to be
+    and should not be taken as legal or investment advice. The views, thoughts, and
+    opinions expressed here are the author’s alone and do not necessarily reflect
+    or represent the views and opinions of Cointelegraph.\n\n            "
+  published: 2025-05-01 10:00:00.000000000 +01:00
+- title: " Vitalik Buterin’s vision for Ethereum: Pectra, Glamsterdam and beyond "
+  url: https://cointelegraph.com/explained/vitalik-buterins-vision-for-ethereum-pectra-glamsterdam-and-beyond?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "                            Why do Ethereum upgrades matter?                                        Ethereum
+    upgrades are essential to scale, secure and evolve the network without compromising
+    its decentralized foundation.Ethereum still stands as the heavyweight of smart
+    contract platforms, but staying on top means relentless reinvention. Every upgrade
+    isn’t just a technical tweak; it’s a high-stakes move to crack the toughest problems
+    in crypto: clogged scalability, soaring gas fees, clunky onboarding and the constant
+    creep of centralization.In a race where rivals are slashing transaction times
+    and polishing user experiences, standing still isn’t an option. To hold its ground
+    at the center of decentralized finance (DeFi), non-fungible tokens (NFTs) and
+    Web3 as a whole, Ethereum must keep sharpening both its execution and consensus
+    engines.The Ethereum development roadmap — from the upcoming Pectra upgrade to
+    Fusaka and the Glamsterdam Ethereum update — is more than a technical checklist.
+    It’s a balancing act: scaling to meet global demand while fiercely defending the
+    decentralized ideals it was built on. In many ways, these upgrades aren’t just
+    upgrades — they’re Ethereum’s ultimate stress test for the future.Did you know?
+    Since 2015, Ethereum has completed 16 major upgrades — from the historic shift
+    to proof-of-stake (PoS) in the Merge (2022) to early sharding steps with Altair
+    (2021).                                                Vitalik Buterin’s new focus
+    for Ethereum                                        Vitalik Buterin’s Ethereum
+    vision has shifted entirely to long-term research, opening new frontiers in scalability,
+    privacy and decentralization.In 2024, a leadership shakeup at the Ethereum Foundation
+    opened a new chapter. Vitalik Buterin stepped away from day-to-day operations
+    and returned to his core strength: charting Ethereum’s deepest future. Now free
+    from managerial duties, Buterin is diving into the hard problems: scaling Ethereum
+    for billions, embedding privacy at the protocol level and protecting decentralization
+    in a rapidly centralizing world.Buterin’s major research areas include:Ethereum
+    scalability roadmap: Exploring new execution models to make Ethereum faster and
+    cheaper without sacrificing security.Privacy enhancements: Developing native features
+    like stealth addresses and private transactions to protect users by default.Consensus
+    and execution redesign: Rethinking how nodes validate and process transactions
+    to prepare for an ultra-scalable, decentralized Ethereum.Buterin outlines a vision
+    for an ecosystem that remains open, trustless and adaptable to a much larger,
+    more complex global landscape.Did you know? Vitalik first proposed Ethereum in
+    2013 — when he was just 19 years old — after feeling Bitcoin needed a more programmable
+    architecture.                                                From Merge to Splurge:
+    Ethereum’s six-phase vision                                        Ethereum’s
+    evolution is structured across six conceptual phases — each solving a different
+    foundational challenge in blockchain design.The Merge: Replaced proof-of-work
+    (PoW) with PoS, setting the stage for long-term sustainability and validator-based
+    security.The Surge: Focuses on scaling the network through rollups, data availability,
+    like Ethereum Improvement Proposal (EIP) 4844, and technologies like PeerDAS (peer
+    data availability sampling) — targeting 100,000  transactions per second.The Scourge:
+    Aims to neutralize miner/maximal extractable value (MEV) and decentralize staking,
+    exploring tools like inclusion lists and enshrined proposer-builder separation
+    (ePBS).The Verge: Introduces Verkle Trees and SNARK-based light clients, making
+    Ethereum state access radically more efficient and enabling stateless block verification.The
+    Purge: Simplifies the protocol by pruning historical data (via EIP-4444), eliminating
+    technical debt and reducing node hardware requirements.The Splurge: A catch-all
+    for everything else, from Ethereum Object Format (EOF) to deep cryptography experiments,
+    polishing Ethereum’s architecture with long-term improvements.                                                The
+    Ethereum Pectra upgrade, explained                                        The
+    Ethereum Pectra upgrade, expected in May 2025, merges two prior upgrade tracks
+    and sets a technical foundation for Ethereum’s next decade.Pectra merges two parallel
+    upgrade tracks: Prague (execution layer) and Electra (consensus layer), bringing
+    over a dozen EIPs into a single milestone release. It lays the groundwork for
+    Ethereum’s next phase — safer smart contracts, more powerful wallets and a smoother
+    staking experience.Key EIPs and features:EIP-2537: BLS12-381 precompiles — crucial
+    for zero-knowledge rollups and cryptographic proofs.EIP-7002: Triggerable exits
+    — allowing validators to withdraw via execution layer triggers.EIP-7702: Account
+    abstraction — letting externally owned accounts (EOAs) act more like smart contracts.EIP-7840:
+    Blob schedule — preparing for increased data throughput and rollup scaling.EIP-6110,
+    EIP-7685, EIP-7549, among others: Further execution and consensus refinements.These
+    changes collectively introduce the EOF, a modular contract structure that simplifies
+    audits and brings native account abstraction closer to reality, enabling smart
+    accounts, gasless transactions and better UX for mainstream adoption.The Pectra
+    Ethereum release date is officially scheduled for May 2025, though rollout could
+    adjust based on final testnet outcomes.Did you know? At peak times, Ethereum has
+    handled over 1 million transactions in a single day — and future upgrades aim
+    to multiply that capacity.                                                What
+    comes after Pectra: Fusaka and Glamsterdam                                        Fusaka
+    and Glamsterdam represent the next phases in the Ethereum development roadmap,
+    bringing scalability and efficiency improvements needed for mass adoption.Following
+    Pectra, the Ethereum roadmap 2025 continues with two ambitious upgrades:Fusaka
+    (Osaka-Fulu): Introduces PeerDAS, a breakthrough that will allow Ethereum to handle
+    massive amounts of data without bloating the blockchain. By sampling small pieces
+    of data instead of downloading full blocks, Fusaka will enable much lighter nodes
+    and higher transaction throughput.Glamsterdam (Amsterdam–G-Star): Still in its
+    early design stages, the Glamsterdam Ethereum update focuses on gas optimizations
+    and protocol-level efficiency improvements. It’s essentially about making Ethereum
+    faster and cheaper to use, especially for complex applications like layer-2 rollups
+    and zero-knowledge (ZK) technology.While Fusaka directly tackles scaling, Glamsterdam
+    ensures the network can operate efficiently under heavier loads without compromising
+    decentralization. Together, they mark Ethereum’s transition from early layer-2
+    scaling experiments to a full-fledged, high-throughput, global settlement layer.
+    \                                               Buterin’s research directions
+    beyond the upgrade roadmap                                        Buterin’s crypto
+    future vision pushes Ethereum into experimental territory, exploring radical new
+    architectures for execution, consensus and privacy.Outside of the immediate upgrade
+    timeline, Vitalik’s research is tackling larger structural questions:Post-EVM
+    architecture: Considering modular virtual machines like RISC-V to replace or evolve
+    the Ethereum Virtual Machine (EVM), improving performance and flexibility.Decentralized
+    scaling: Deepening Ethereum’s layer-2 future with advances in rollup-centric scaling
+    and light client verification.Crypto future plans 2025: Exploring the balance
+    between innovation and decentralization in an environment of increasing regulatory
+    pressure and technological complexity.These research threads could shape Ethereum’s
+    next-generation upgrades beyond Glamsterdam — redefining what a decentralized
+    smart contract platform can become before 2030.Did you know? Buterin’s latest
+    research explores RISC-V, an open hardware standard, as a potential future replacement
+    for the EVM to make Ethereum more modular and globally verifiable.                                                 Ethereum’s
+    next phase: Scaling globally while defending decentralization                                        Ethereum’s
+    next phase is about defending decentralization while scaling to global usage,
+    a balance that few other chains have achieved.The Ethereum consensus upgrades
+    coming through Pectra, Fusaka and Glamsterdam are critical for a few reasons:Global
+    usability: Lower fees and faster confirmation times are essential for Ethereum
+    to serve millions of users across DeFi, NFTs, gaming and new industries.Layer-2
+    synergy: A more scalable layer 1 makes layer-2 rollups cheaper, faster and more
+    secure, fueling Ethereum’s ecosystem growth.Long-term resilience: Upgrading the
+    execution layer, consensus and privacy protections now ensures Ethereum remains
+    resistant to centralization pressures in the future.Ultimately, the Ethereum scalability
+    roadmap isn’t just about bigger numbers — it’s about protecting what makes Ethereum
+    different in a world moving toward centralized alternatives.So, what should you
+    keep an eye out for?Buterin’s vision for Ethereum points to a future of radical
+    flexibility, deeper privacy and unstoppable decentralization.With the Pectra Ethereum
+    release date approaching (scheduled for May 7) and the Glamsterdam Ethereum update
+    on the horizon, Ethereum’s innovation engine is running at full speed. As Buterin’s
+    crypto future vision unfolds, the Ethereum blockchain is not just preparing to
+    survive the next wave of competition — it’s positioning to thrive.The journey
+    from the Merge to a fully modular, massively scalable network is only just beginning.
+    \                   \n\n            "
+  published: 2025-05-01 09:25:00.000000000 +01:00
+- title: " Multi-wallet usage up 16%, but AI may address crypto fragmentation gap "
+  url: https://cointelegraph.com/news/multi-wallet-usage-16-ai-address-crypto-fragmentation-gap?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Fragmentation and complicated user experience remain two of the most significant
+    obstacles to cryptocurrency’s mainstream adoption, according to a new industry
+    report. Most users now use at least two wallets to manage their cryptocurrency
+    investments.The lack of interoperability across blockchains means users need to
+    create multiple wallets to interact with different networks, with users having
+    at least two wallets rising by 16% over the past year. According to a research
+    report published by onchain user experience platform Reown and crypto intelligence
+    firm Nansen, 62% of crypto users reported using at least two wallets over the
+    past three months, up from 45% in 2024.More than 18% of respondents said security
+    was their top concern related to wallet use, while 10.6% cited poor user experience
+    as the biggest issue.Wallet usage over the past 3 months. Source: Nansen, ReownRelated:
+    Bitcoin volatility lowest in 563 days, Hayes predicts $1M BTC by 2028AI integration
+    may be next “breakthrough” for crypto wallets“We’re at a pivotal moment in the
+    evolution of wallet UX,” according to Eowyn Chen, the CEO at Trust Wallet. “The
+    next wave of users, especially those coming from traditional Web2 or emerging
+    markets, are bringing new expectations that challenge how we design tools and
+    interfaces.”Chen said wallets are shifting from asset storage tools to becoming
+    the primary gateway to Web3 services, including digital identity, financial products,
+    governance and gaming.“That’s why we see wallets evolving into intelligent, personal
+    companions — tools that not only hold your assets, but understand your behaviour,
+    preferences, and needs,” she said.Chen added that integrating artificial intelligence
+    agents could help users navigate Web3 as easily as they shop online, while also
+    reducing risks from scams such as phishing attacks. These scams typically involve
+    tricking victims into sending assets to fake wallet addresses.The need for more
+    robust wallets became more apparent after an unknown attacker stole $330 million
+    worth of Bitcoin (BTC) in a social engineering scam from an elderly US citizen,
+    Cointelegraph reported on April 28.Related: Crypto hackers hit DeFi for $92M in
+    April as attacks double from MarchMobile wallets dominate, hardware wallet usage
+    on the riseOut of the 1,000 surveyed participants, 51% of users preferred using
+    a mobile wallet, down from 54.8% in 2024.Mobile vs hardware wallet usage. Source:
+    Nansen, ReownOnly 10% of the respondents preferred using a hardware wallet, up
+    from just 7% a year ago, signaling that hardware wallets are slowly gaining traction
+    among more advanced crypto users. However, only 3% of new investors reported using
+    a hardware wallet.Social wallets, which are connected to a user’s email or other
+    social account and require no seed phrase, have “transformed onboarding,” and
+    are at the “forefront of UX innovation, quickly adopting technologies like passkey
+    signers and gas abstraction,” according to Derek Rein, chief technical officer
+    at Reown. He added:“Crucially, they prioritize simple, easy design, users shouldn’t
+    need to understand gas tokens or chain switching just to transact.”Sentiment around
+    social wallets. Source: Nansen, Reown However, users are still hesitant, with
+    39% of surveyed respondents saying that improved security and trust would help
+    them adopt social wallets.Magazine: Ethereum is destroying the competition in
+    the $16.1T TradFi tokenization race\n\n            "
+  published: 2025-05-01 09:22:09.000000000 +01:00
+- title: " Bitcoin DeFi will have 300M users, beating Ethereum and Solana: Exec "
+  url: https://cointelegraph.com/news/bitcoin-defi-300-million-users-beating-ethereum-solana?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The first decentralized finance (DeFi) company to launch a user-friendly
+    suite of products on Bitcoin will “win the entire market” of the blockchain’s
+    300 million users, one crypto founder says.Alexei Zamyatin, the co-founder of
+    the Bitcoin layer 2 Build on Bitcoin, told Cointelegraph at Token2049 in Dubai
+    that “the advantage of Bitcoin DeFi is that the market is much bigger, you have
+    a much bigger retail user base that you can tap into.”“It’s not easy to convert
+    it, but if you manage to win in Bitcoin DeFi, you win the entire market.”Zamyatin
+    said the 300 million Bitcoin users would mean DeFi services on the blockchain
+    would “outgrow everything we've seen so far in Ethereum and Solana.” Build on
+    Bitcoin is one of the firms looking to win market share, offering a hybrid layer
+    2 solution that combines Bitcoin’s security with Ethereum DeFi capabilities via
+    BitVM, a platform that processes Turing-complete Bitcoin contracts.Zamyatin argued
+    that Bitcoin-native bridges are necessary for DeFi on Bitcoin as the blockchain’s
+    security is strong, but it lacks the human talent, tools and network effects of
+    Ethereum. Alexei Zamyatin speaking with Cointelegraph’s Ezra Reguerra at Token2049.
+    Source: CointelegraphZamyatin said Bitcoin (BTC) yield and stablecoin products
+    are driving strong demand for Bitcoin-based DeFi.“A lot of institutions that are
+    buying Bitcoin now usually have to find yield on the assets they hold. So Bitcoin
+    yield is becoming a very hot and highly sought-after thing.”Demand for Bitcoin-backed
+    stablecoins is also skyrocketing because Bitcoin is the “best collateral,” Zamyatin
+    added.What if we tokenized the Bitcoin ETF so institutions could get access to
+    DeFi yields? pic.twitter.com/2HCpwbCZDS— alexei (@alexeiZamyatin) April 10, 2025Bitcoin
+    staking has become the main DeFi use case outside of payments, which involves
+    Bitcoin holders locking their coins in self-custodial vaults or extractable one-time
+    signatures to earn staking rewards on proof-of-stake blockchains like Ethereum.The
+    Babylon Protocol is currently leading this market with $4.64 billion worth of
+    value locked, representing nearly 80% of all value locked on Bitcoin, DefiLlama
+    data shows.Bitcoin’s DeFi TVL is still a fraction of the $54.6 billion worth of
+    value locked on Ethereum.Bridging solutions a controversial topicZamyatin acknowledged
+    the numerous hacks on blockchain bridges, but argued most of those incidents resulted
+    from teams failing to manage their private keys, rather than from smart contract
+    vulnerabilities.While competition in the retail market is wide open, Zamyatin
+    noted that many institutions still hesitate to use bridges that allow users to
+    move value between incompatible blockchains.Related: Bitcoin NFTs, layer-2 and
+    restaking hype ‘completely gone’Zamyatin noted that efforts have been made to
+    increase the number of bridge signers from five to 50 in some cases.However, institutions
+    have been reluctant to adopt these solutions because they often don’t know who’s
+    signing the transactions.For example, the Ren Protocol’s RenBTC operates via a
+    decentralized network of nodes called Darknodes, which sign transactions to lock
+    BTC and mint RenBTC to use on other chains. However, institutions continue to
+    avoid these protocols due to the degree of anonymity involved and instead opt
+    to use trusted custodians like BitGo and Coinbase Custody for such activities.Magazine:
+    ZK-proofs unlock trillions in Bitcoin for DeFi — BitcoinOS and StarknetAdditional
+    reporting by Ezra Reguerra.\n\n            "
+  published: 2025-05-01 06:28:04.000000000 +01:00
 - title: " Ethereum bulls show interest as traders’ confidence in ETH’s $1.8K level
     improves "
   url: https://cointelegraph.com/news/ethereum-bulls-show-interest-as-traders-confidence-in-eth-s-1-8-k-level-improves?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -25,7 +408,7 @@
     lows near $1,400, Ether’s total market capitalization now stands at $217 billion,
     which is enough to surpass the combined value of its four main competitors. However,
     unless Ether consistently outperforms these rivals, sentiment is unlikely to improve.
-    Some traders have high hopes for the upcoming ‘Pectra’ network upgrade, but current
+    Some traders have high hopes for the upcoming Pectra network upgrade, but current
     derivatives data does not reflect a bullish outlook.Ether’s decline has also coincided
     with weak demand for the Ethereum spot exchange-traded fund (ETF) in the United
     States. Institutional interest was lacking, despite ETH’s price rising from $2,400
@@ -46,7 +429,7 @@
     two weeks ago. While ETH derivatives are not signaling strong bullish sentiment,
     they also do not suggest that professional traders are worried about further declines
     at current price levels.Related: 3 Ethereum charts flash signal last seen in 2017
-    when ETH price rallied 25,000%There is a chance that the upcoming ‘Pectra’ network
+    when ETH price rallied 25,000%There is a chance that the upcoming Pectra network
     upgrade could positively affect Ether’s price. Scheduled for May 7, this event
     might renew investor interest in the project by closing the gap with some of its
     competitors. Staking mechanisms designed for institutional investors could result
@@ -73,32 +456,32 @@
     closes at or near its opening level.On Ether’s monthly chart, the candlestick
     reflects a sharp intra-month rejection of lower prices, suggesting that bulls
     are beginning to regain control after an extended downtrend.ETH/USD monthly price
-    chart. Source: TradingViewIn December 2016, Ethereum formed a similar monthly
-    Dragonfly doji before erupting from under $6 to over $1,400 in over a year. The
-    same pattern has been seen, with smaller upside, in 2021 and 2023, where ETH gained
-    over 80% and 145%, respectively.If bulls confirm the signal with a strong May
-    open, especially above April’s high of around $1,950, Ethereum could be primed
-    for another multimonth rally, beginning with an initial run toward $2,100. Ethereum
-    tests long-term parabolic support, just like in 2017Chartist Merlijn the Trader
-    points to Ethereum retesting its long-term parabolic support, (the green zone
-    in the chart below) that has consistently acted as a launchpad for new uptrends.ETH/USD
-    weekly price chart. Source: TradingView/Merlijn The Trader“In every cycle, this
-    zone triggers a reversal — and this time is no different,” he wrote in his X post
-    on April 30, adding:“Now begins what could be Ethereum’s most explosive rally
-    yet.”In early 2017, ETH also bounced from this exact same parabolic trendline
-    during its initial breakout phase. The trendline supported ETH throughout that
-    year, fueling the vertical move to $1,400 from around $6.Related: Ethereum’s ‘capitulation’
-    suggests ETH price is undervalued: Fidelity reportThe current retest in 2025 mirrors
-    that breakout setup, suggesting a cyclical pattern may be repeating.Onchain data
-    points to ICO-era-style ETH accumulation sentimentEthereum’s MVRV Z-Score, a key
-    onchain metric used to identify market tops and bottoms, has re-entered the historical
-    accumulation zone (the green band in the chart below), strengthening the argument
-    that ETH may have found its cycle bottom.Ethereum MVRV-Z Score chart. Source:
-    GlassnodeIn past cycles, Ethereum’s MVRV Z-Score dipped into this green zone in
-    late 2018, March 2020, and mid-2022. All of these dips coincided with market bottoms
-    and preceded multimonth to multi-year rallies.This article does not contain investment
-    advice or recommendations. Every investment and trading move involves risk, and
-    readers should conduct their own research when making a decision.\n\n            "
+    chart. Source: TradingViewIn December 2016, Ether formed a similar monthly Dragonfly
+    doji before erupting from under $6 to over $1,400 in over a year. The same pattern
+    has been seen, with smaller upside, in 2021 and 2023, where ETH gained over 80%
+    and 145%, respectively.If bulls confirm the signal with a strong May open, especially
+    above April’s high of around $1,950, Ethereum could be primed for another multimonth
+    rally, beginning with an initial run toward $2,100. Ether tests long-term parabolic
+    support, just like in 2017Chartist Merlijn the Trader points to Ethereum retesting
+    its long-term parabolic support, (the green zone in the chart below) that has
+    consistently acted as a launchpad for new uptrends.ETH/USD weekly price chart.
+    Source: TradingView/Merlijn The Trader“In every cycle, this zone triggers a reversal
+    — and this time is no different,” he wrote in his X post on April 30, adding:“Now
+    begins what could be Ethereum’s most explosive rally yet.”In early 2017, ETH also
+    bounced from this exact same parabolic trendline during its initial breakout phase.
+    The trendline supported ETH throughout that year, fueling the vertical move to
+    $1,400 from around $6.Related: Ethereum’s ‘capitulation’ suggests ETH price is
+    undervalued: Fidelity reportThe current retest in 2025 mirrors that breakout setup,
+    suggesting a cyclical pattern may be repeating.Onchain data points to ICO-era-style
+    ETH accumulation sentimentEther’s MVRV Z-Score, a key onchain metric used to identify
+    market tops and bottoms, has re-entered the historical accumulation zone (the
+    green band in the chart below), strengthening the argument that ETH may have found
+    its cycle bottom.Ethereum MVRV-Z Score chart. Source: GlassnodeIn past cycles,
+    Ether’s MVRV Z-Score dipped into this green zone in late 2018, March 2020, and
+    mid-2022. All of these dips coincided with market bottoms and preceded multimonth
+    to multi-year rallies.This article does not contain investment advice or recommendations.
+    Every investment and trading move involves risk, and readers should conduct their
+    own research when making a decision.\n\n            "
   published: 2025-04-30 22:00:00.000000000 +01:00
 - title: " Ethereum Pectra upgrade goes live next week — Will ETH price rally? "
   url: https://cointelegraph.com/news/ethereum-pectra-upgrade-goes-live-next-week-will-eth-price-rally?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -106,7 +489,7 @@
     bull market, but gas sponsorship could lure developers and traders back to the
     network.Ethereum’s upcoming Pectra upgrade promises to improve staking efficiency,
     potentially increasing demand for ETH.Data suggests ETH price bottomed. Will the
-    Pectra narrative reignite bullish momentum?Since 2024, ETH (ETH) has been more
+    Pectra narrative reignite bullish momentum?Since 2024, Ether (ETH) has been more
     of a meme than a market mover. Unlike most of its rivals, ETH still hasn’t reclaimed
     its all-time high of $4,870 from November 2021, and it regularly underperforms
     even in the weak altcoin market. Currently, ETH trades at $1,813, down 56% from
@@ -115,17 +498,17 @@
     Pectra upgrade scheduled for May 7 could rekindle market interest. By addressing
     long-standing user experience challenges and improving staking, Pectra may help
     Ethereum narrow the competitive gap with rivals like Solana and BNB. What’s more,
-    it could potentially serve as the catalyst that brings ETH price back into the
-    spotlight.What are Pectra’s key upgrades?The Pectra upgrade introduces 11 Ethereum
-    Improvement Proposals (EIPs) aimed at strengthening Ethereum across three dimensions:
-    scalability through layer-2s, user experience (UX), and staking efficiency. Scalability
-    remains Ethereum’s most persistent challenge, and critics argue that monolithic
-    L1s would consistently outperform modular L2-based architectures. However, the
-    UX and staking improvements in Pectra could have truly meaningful implications
+    it could potentially serve as the catalyst that brings the Ether price back into
+    the spotlight.What are Pectra’s key upgrades?The Pectra upgrade introduces 11
+    Ethereum Improvement Proposals (EIPs) aimed at strengthening Ethereum across three
+    dimensions: scalability through layer-2s, user experience (UX), and staking efficiency.
+    Scalability remains Ethereum’s most persistent challenge, and critics argue that
+    monolithic L1s would consistently outperform modular L2-based architectures. However,
+    the UX and staking improvements in Pectra could have truly meaningful implications
     for Ethereum and ETH’s market dynamics.The standout upgrade is EIP-7702, which
     allows externally owned accounts (regular user wallets) to temporarily act like
     smart contracts. This unlocks features such as fee sponsorship and gas payments
-    in tokens other than ETH. These enhancements could make Ethereum significantly
+    in tokens other than Ether. These enhancements could make Ethereum significantly
     more user-friendly, lowering entry barriers, enabling DApps to sponsor new users'
     gas fees, and improving wallet functionality with less friction. This is particularly
     relevant for onboarding non-technical users in gaming, payments, and mobile apps,
@@ -157,10 +540,10 @@
     Ethereum is destroying the competition in the $16.1T TradFi tokenization raceCan
     Pectra spark an ETH price trend reversal?Pectra is set to add powerful features
     to Ethereum, but their impact may take time to materialize. In the meantime, the
-    upgrade could provide the narrative ETH needs to regain market momentum.Technically,
+    upgrade could provide the narrative Ether needs to regain market momentum.Technically,
     the setup looks favorable. ETH appears to have already formed a local bottom,
     with the weekly RSI — often a reliable reverse signal — breaking out of its downtrend
-    on April 20. This marks the end of a correction that lasted since December 2024
+    on April 20. .This marks the end of a correction that lasted since December 2024
     and wiped out as much as 66% of ETH’s value. A new uptrend could be underway,
     but could Pectra be its trigger?ETH/USD 1-day. Source: Marie Poteriaieva, TradingViewHistorically,
     Ethereum upgrades often coincided with short-lived price spikes that often failed
@@ -1335,415 +1718,3 @@
     DeFi developments. Join us next Friday for more stories, insights and education
     regarding this dynamically advancing space.\n\n            "
   published: 2025-04-25 19:00:00.000000000 +01:00
-- title: " Blockchain needs regulation, scalability to close AI hiring gap "
-  url: https://cointelegraph.com/news/blockchain-regulation-scalability-crypto-ai-hiring-gap?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The emerging blockchain industry lags behind the artificial intelligence
-    sector in terms of job creation, but this hiring gap may narrow by 2030.Blockchain
-    remains one of the smallest sectors in the tech industry, with about 300,000 global
-    jobs, compared to 1.5 million in AI and machine learning and 25 million in software
-    development, according to a new Bitget Research report shared with Cointelegraph.The
-    blockchain sector added around 20,000 new jobs in 2024, according to job listings
-    aggregated from platforms like LinkedIn, Web3 Jobs and Crypto Job List.Total workforce
-    in tech industry. Source: Bitget ResearchWhile blockchain-based jobs had an average
-    compound annual growth rate (CAGR) of 45%, outpacing most traditional tech sectors,
-    it trails the AI industry’s 57% CAGR, according to the report.The AI industry’s
-    maturity and larger share of venture capital investment are the main reasons behind
-    the hiring discrepancy, Vugar Usi Zade, chief operating officer of Bitget exchange,
-    told Cointelegraph:“Venture investors put more than $100 billion into AI startups
-    in 2024, with AI-centric titles topping a million vacancies worldwide,” Usi Zade
-    said. “Blockchain companies, meanwhile, advertise barely 20,000 openings and drew
-    only about $5.4 billion in new funding during the same period.”Regional blockchain
-    market distribution. Source: Bitget ResearchRelated: Crypto firms moving into
-    Wall Street territory amid ‘growing synergy’Blockchain may generate over 1 million
-    jobs by 2030AI-related job listings have risen between 75% and 100% year-over-year,
-    while blockchain job growth remains around the 45% to 60% growth range.Blockchain
-    vs AI job listings growth. Source: Bitget ResearchBlockchain could exceed 1 million
-    jobs by 2030 if it manages to scale at the same rate as AI-based roles, the report
-    said.More regulatory clarity from laws such as Europe’s Markets in Crypto-Assets
-    Regulation (MiCA) may encourage blockchain firms to increase their hiring efforts,
-    Zade said:“Europe’s MiCA rule-book, live since December 2024, is already thawing
-    hiring freezes; similar clarity in the United States and Asia would unlock global
-    head-count plans.”“Second comes enterprise-grade performance: Ethereum’s Dencun
-    upgrade cut typical layer-2 fees by more than 95%, signaling that blockchains
-    can now handle corporate traffic at an acceptable cost,” he added.Related: Trump
-    fought the bond market, the bond market won: Saifedean AmmousWhile blockchain-based
-    jobs are poised for growth, “AI will naturally garner more talent in the next
-    decade,” Jawad Ashraf, CEO of Vanar Chain, told Cointelegraph.“This is because
-    AI’s market integration has been faster than any other modern technology we can
-    remember,” he said. “If you look at blockchain, we’re still very much focused
-    on integrating with TradFi and broader Web3 markets like gaming, real-world tokenization,
-    etc.”He added: “Blockchain still hasn’t penetrated the more conventional consumer-oriented
-    markets. It will, in the near future, but we are not there yet.”Blockchain and
-    AI are not competing for talent“AI and blockchain aren’t competing for talent;
-    they’re working together to create new opportunities,” Yakov Lebedev, chief business
-    development officer at 3Commas, a trading automation solution, told Cointelegraph.Combining
-    the two technologies enables “sophisticated financial tools accessible for everyone,
-    not just big institutions, he said, adding:“Companies are paying top dollar for
-    professionals who understand both AI and blockchain, recognizing the value of
-    this cross-domain expertise.” Lebedev added that the integration of blockchain
-    with AI is driving steady job growth in both fields, as financial and tech firms
-    move integrated solutions from pilot programs into core operations.Thanks to the
-    synergistic benefits of the two technologies, blockchain job growth may start
-    mirroring the AI industry, according to Adi Ben-Ari, founder and CEO at Applied
-    Blockchain, an AI-powered blockchain development firm.AI technology is “probabilistic
-    and introduces uncertainty,” which creates more demand for blockchain and cryptographic
-    technologies, he told Cointelegraph.“AI produces outcomes that are not always
-    accurate, can be fake, and can sometimes be incorrect,” he said. “This new uncertainty
-    needs to be countered by a technology that brings absolute certainty, and this
-    is where blockchain and cryptography come in.”Ben-Ari added that blockchain’s
-    ability to secure sensitive information through cryptography would become increasingly
-    important as AI consumes larger amounts of personal data.  LUNA payments to STIX
-    protocol. Source: BasescanAI agents are already using cryptocurrency for autonomous
-    transactions. On Dec. 16, 2024, Luna, an AI agent on Virtuals Protocol, paid another
-    AI agent from STIX Protocol, in exchange for its image generation services — sending
-    $1.77 worth of Virtual (VIRTUAL) tokens, onchain data shows.Magazine: Altcoin
-    season to hit in Q2? Mantra’s plan to win trust: Hodler’s Digest, April 13 – 19\n\n
-    \           "
-  published: 2025-04-25 12:24:38.000000000 +01:00
-- title: " ‘Vitalik: An Ethereum Story’ is less about crypto and more about being
-    human "
-  url: https://cointelegraph.com/news/vitalik-an-ethereum-story-less-crypto-more-human?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "When Zach Ingrasci and Chris Temple had the idea to make the documentary
-    film Vitalik: An Ethereum Story, they were actually filming another documentary,
-    and over the course of their filmmaking journey, they ended up capturing both
-    a deeper, human look at the world of crypto and an end product that serves as
-    a use case for the future of crypto filmmaking.When crafting a documentary, filmmakers
-    will typically start with a vision of what they’d like to explore, a vision often
-    saddled with a set of assumptions, only to shatter that vision once filming begins,
-    creating an entirely new direction for the project.It’s a creative evolution that
-    filmmakers Zach Ingrasci and Chris Temple also experienced while making the documentary
-    feature This Is Not Financial Advice, during which they realized they had an entirely
-    different film on their hands.“While we were making that film, we wanted to interview
-    Vitalik Buterin,” Ingrasci said to me during a recent interview. “We got connected
-    to him, but as soon as we met him, we were really inspired by his unique form
-    of tech optimism and how he broke stereotypes we’d had of the crypto space. He
-    was a billionaire but very humble, funny, quirky and truly committed to his values
-    of decentralization. That was very inspiring for us — so much so, we thought we
-    should make a piece about Vitalik or about the Ethereum community at large.”Temple
-    and Ingrasci (left to right) while filming their PBS feature “Five Years North.”
-    Source: OptimistBut Ingrasci and Temple weren’t crypto-native filmmakers — rather,
-    they were individuals interested in technology and communities using technology
-    in new ways, and Vitalik and Ethereum just happened to check both of those boxes.The
-    human touch in techIngrasci and Temple then went out and launched a non-fungible
-    token (NFT) crowdfunding campaign, raising almost $2 million in 50 hours, allowing
-    them to get started quickly in the summer of 2021 during the height of the NFT
-    boom.“It allowed us to own the film without being beholden to any stakeholder,
-    platform or middleman who would otherwise be directing the content of the film,”
-    Temple said. “It was an amazing opportunity to spend over two years following
-    Vitalik — a global nomad — all around the world.”Temple and Ingrasci followed
-    Buterin to Ukraine, Montenegro, Toronto and Colombia, trying to understand the
-    man behind the technology. They even spent time with Buterin’s father and his
-    family members, diving into the history of his family emigrating from Russia to
-    Canada.“We wanted to understand how Vitalik’s upbringing had affected his values,”
-    Temple said. “We spent time talking with folks in the Ethereum community, with
-    Vitalik’s friends and others, trying to paint this deeper picture and understand
-    how the creators of crypto technologies affect the end product. How are they coding
-    their values, blindspots and interests into the end result?”‘Vitalik: An Ethereum
-    Story’ premiered globally on April 15. Source: OptimistFrom the beginning, Temple
-    and Ingrasci’s main goal was to create a piece that would be accessible to a mainstream
-    audience, one that could help translate some of the values and interesting things
-    they were seeing in the Ethereum community in a way that a non-crypto native person
-    could understand.But they didn’t really know what that meant or what it would
-    lead to initially since they were following different stories and different people
-    within the Ethereum ecosystem. As they were editing the documentary together,
-    they started testing it with people who knew nothing about crypto, who, as expected,
-    were very confused.“It’s so difficult to create a documentary that’s accessible
-    and entertaining for people who know nothing about the crypto space, but we saw
-    very clearly in the feedback from these early screenings that when people could
-    connect to someone — especially Vitalik, who is so likeable and inspiring — it
-    creates an entry point to then get into these more abstract concepts,” Ingrasci
-    said.“We did not set out to make the film only about Vitalik, and I don’t think
-    the film is only about Vitalik,” Ingrasci told Cointelegraph.“Vitalik is our human
-    hook, our human story about someone who is going to surprise you, break your stereotypes
-    about crypto, and leave you a little more excited than you thought you would be
-    after watching this film.”According to Ingrasci, Buterin’s favorite scenes in
-    the film were when he was drinking tea or making breakfast — being his normal,
-    quirky, funny self.“That’s what makes this film entertaining, watchable and human,”
-    Ingrasci said. “When someone is willing to be natural on camera with us as filmmakers,
-    it creates a much more human story rather than this very intellectual version
-    of Vitalik that we were already very aware of.”Related: Institutions break up
-    with Ethereum but keep ETH on the hookDeveloping a crypto use case for filmDuring
-    the filming of Vitalik, Buterin’s father talked to the filmmakers about how, growing
-    up, Buterin’s favorite toy was the computer, and his favorite thing was to play
-    with Excel. “When he was seven years old, he actually built a 100-page manifesto
-    that was an imaginary world for bunnies,” Temple said. “It had their financial
-    systems, energy systems and was full of graphs and tables — an amazing creation
-    for a seven-year-old’s mind. I think to so many of the people we shared this with,
-    it helps people connect to the world of Ethereum as a new world being built. If
-    you can imagine Vitalik as a seven-year-old building this whole new imaginary
-    world, that’s what he’s trying to build again with Ethereum.”It’s all part of
-    Buterin’s hope for Ethereum creating real utility in the world, something Ingrasci
-    felt was epitomized when Buterin visited Ukraine.“When he went to Ukraine, he
-    was talking to the vice prime minister, Fedorov, and it quickly became apparent
-    that the banking system at the beginning of the war was in shambles,” Ingrasci
-    said. “Without crypto, thousands of lives in the military would have been lost
-    because crypto was able to get money very quickly to the front lines and was able
-    to mobilize across borders, raising over $130 million for Ukraine to resist this
-    invasion. When Vitalik was there visiting Kyiv during the war, he got to see this
-    thing he helped create being used in this incredibly important way, and that’s
-    where that world-building came into reality. It was an emotional moment to witness
-    just how powerful it was.”In many ways it’s because Buterin is simply a child
-    at play, tapping into his inner youthful creativity, only now with an adult mind
-    and body and the relationships and resources to execute on his ideas.“Vitalik
-    has said he’s a builder and a thinker first and foremost,” Temple said. “An interesting
-    tension for him during filming was how people looked to him to be something more,
-    to be this leader and representative of the entire crypto movement. Throughout
-    the film, he wrestles with how much to use his voice, how much to become a leader
-    and how much to speak out against things he doesn’t always agree with. He eventually
-    does decide to speak out against speculation and say that he doesn’t think Ethereum
-    was designed to trade million-dollar monkeys and that there’s a lot more we can
-    do to fix systems and help people.”It’s a humanizing element of a pedestaled tech
-    founder, epitomizing how at times we all struggle with speaking up on our values
-    — especially when those values are different or run counter to the dynamics of
-    our own social circles and society at large.And that’s the power of Vitalik. The
-    film is not just about crypto; it’s about the human stories that can resonate
-    beyond the immediate environment the film is in — crypto just happens to be the
-    backdrop.Quite a bold story to tell by a couple of “non-native” crypto filmmakers.“We’ve
-    actually used crypto for a lot of elements in the distribution process for this
-    film, which is exciting because the documentary space is broken,” Ingrasci said.
-    “For an independent documentary to happen, it’s just so difficult these days.
-    A lot of streamers have a lot of control over the film you ultimately make, but
-    because we were able to crypto-crowdfund in the beginning on Mirror, we were able
-    to have creative control over the film.”Related: Dark Knight & Superman writer
-    launches AI-powered crypto film universeIngrasci and Temple executed a movie trailer
-    drop through Zora and an early onchain release of the film this past September
-    on Bonfire, both powered by Web3, which helped raise the funds the duo is currently
-    using to market the documentary to mainstream audiences.“A lot of independent
-    filmmakers have zero marketing budget; there’s very little money in documentaries.
-    But instead [because of our crypto-crowdfunding], we’re able to really make sure
-    the trailer, the message and the film gets out there.”In this way, Ingrasci and
-    Temple have created a sub-narrative around the making of a film using crypto-native
-    tools, providing a real-world use case for other filmmakers on how they, too,
-    might find success by utilizing blockchain platforms for the creation of their
-    own film projects.“I think there’s so much potential for these tools to have a
-    big impact on filmmakers, though we’re still at the beginning,” said Ingrasci.
-    “It’s still difficult to understand, and the complexities are not abstracted away
-    enough. The short initial onchain release of the film — while a testament — was
-    very difficult for people who were not in crypto to access it.”But ultimately,
-    the decentralized theatrical release of the film occurred in 24 countries and
-    30 cities all around the world, all on the same night.“At the premiere in New
-    York where we were, somebody came up to me and was, like, ‘I feel like I can share
-    this with someone, and they’ll finally understand what I do for a living and why
-    I do it,’” Temple said. “Those kinds of reactions — the ‘I feel seen’ and ‘I feel
-    understood as a technologist’ — as a filmmaker, hearing those reactions from people
-    who are trying to build new systems is the dream.”Ingrasci, producer Jenna Kelly,
-    co-producer Linda Xie, producer Carrie Weprin, and Temple at the premiere in New
-    York. Source: OptimistFor Ingrasci and Temple, the dream continues to evolve,
-    with their film now available all around the world on mainstream platforms such
-    as Apple and Prime Video.“If the goal is to be able to make a film you can send
-    to your mom — while she might not understand what Ethereum is, she’ll understand
-    why you’re interested in this thing — so I think we did that,” Ingrasci said.“Vitalik
-    believes technology can be used to make our lives better, especially today when
-    there’s a lot of polarization and cynicism surrounding blockchain tech and questions
-    around if it’s worth it. If we use these technologies in good ways and invest
-    the energy into finding real use cases for them, it can make our lives better,
-    and Vitalik showed us these are questions worth asking.”Magazine: 3 reasons Ethereum
-    could turn a corner: Kain Warwick, X Hall of Flame\n\n            "
-  published: 2025-04-25 09:51:06.000000000 +01:00
-- title: " Ethereum devs test a 4x increase in gas limit for Fusaka hard fork "
-  url: https://cointelegraph.com/news/ethereum-devs-test-4x-increase-gas-limit-next-hard-fork?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum core developers are considering a four times increase in the
-    layer 1 gas limit as one of the key features for the next hard fork after Pectra,
-    known as Fusaka.The devs are proposing to test a raise in Ethereum’s gas limit
-    to 150 million by the Fusaka hard fork, according to Ethereum Improvement Proposal
-    (EIP) 9678, introduced on April 23 by Sophia Gold, a developer on the protocol
-    support team at the Ethereum Foundation. During the last All Core Devs Execution
-    (ACDE) meeting, there were discussions to make the gas limit increase a “key feature”
-    of Fusaka, Ethereum core developer Tim Beiko said in an April 24 meeting summary. “To
-    align on client defaults and keep this as a priority, we’ve drafted an EIP. It’s
-    a bit unconventional, but not unprecedented (see EIP-7840). We plan to get it
-    merged early next week and formally SFI it on the next ACDE,” Beiko said. “As
-    we continue this work, we expect to identify changes that need to be made in-protocol
-    to support a higher gas limit. This implies adding more EIPs to Fusaka, even though
-    the fork scope is final.”Source: Tim BeikoThe next Ethereum upgrade, Pectra, is
-    scheduled to go live on the mainnet in May. Fusaka has been flagged as possibly
-    going online in late 2025.Gas limit increase a priority ahead of FusakaAs part
-    of the motivation for increasing the gas limit, the developers said there was
-    great interest in scaling layer 1 execution and that it could likely be done without
-    implementing any new features.However, the move requires guidance from execution
-    layer developers because “we expect to find bugs in clients at higher gas limits
-    than currently used on mainnet,” which will “require time from client developers
-    both to test and to fix any bugs that arise, therefore it makes sense to include
-    as an EIP in a hard fork to commit to this.”The developers behind the EIP say
-    client developers will need time to test and fix any bugs that arise while increasing
-    the gas limit. Source: GitHub“While the gas limit is ultimately set by validators,
-    we agreed that having an EIP to coordinate client defaults would help keep this
-    a priority and ensure all clients update their defaults by the time Fusaka goes
-    live,” Beiko said.Related: Vitalik Buterin says the app layer needs ‘good social
-    philosophy’ mostThe average Ethereum gas limit was around 30 million after increasing
-    in August 2021, according to data on Ycharts. Validators supported raising the
-    network’s gas limit on Feb. 4, increasing the maximum amount of gas used for transactions
-    in a single Ethereum block. It’s just under 36 million at the moment, Ycharts
-    data shows. Magazine: Ethereum is destroying the competition in the $16.1T TradFi
-    tokenization race\n\n            "
-  published: 2025-04-25 06:17:39.000000000 +01:00
-- title: " SEC delays decision on Polkadot ETF "
-  url: https://cointelegraph.com/news/sec-punts-decision-on-polkadot-etf?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The US Securities and Exchange Commission (SEC) has delayed a decision
-    on whether to approve a proposed exchange-traded fund (ETF) holding Polkadot’s
-    native token, regulatory filings show. According to an April 24 filing, the regulator
-    has extended its deadline for a final ruling until June 11, nearly four months
-    after the Nasdaq sought permission to list Grayscale Polkadot Trust on Feb. 24.
-    Grayscale’s ETF filing adds to a roster of roughly 70 proposed ETFs awaiting SEC
-    approval, including funds holding altcoins, memecoins, and crypto-related financial
-    derivatives, according to Bloomberg Intelligence.  Asset managers are pitching
-    ETFs for “[e]verything from XRP, Litecoin and Solana to Penguins, Doge and 2x
-    Melania and everything in between,” Bloomberg analyst Eric Balchunas said in an
-    April 21 post on the X platform. Asset manager 21Shares is also awaiting permission
-    to list its own Polkadot ETF.Polkadot is a layer-1 blockchain network launched
-    in 2020. Its native token, DOT (DOT), has a market capitalization of approximately
-    $6.6 billion as of April 24, according to CoinMarketCap.Polkadot’s price over
-    time. Source: CoinMarketCapRelated: Institutions break up with Ethereum but keep
-    ETH on the hookAltcoin ETF pipelineGrayscale is among multiple asset managers
-    seeking regulatory clearance to list altcoin ETFs in the US. The company is already
-    behind several crypto funds, including spot Bitcoin (BTC) and Ether (ETH) ETFs. The
-    asset manager has also asked for permission to launch ETFs holding tokens such
-    as Solana (SOL), Litecoin (LTC), XRP (XRP), Dogecoin (DOGE), and Cardano (ADA).Crypto
-    ETFs scheduled for SEC review. Source: Eric Balchunas/BloombergThe pipeline of
-    proposed fund listings comes as more than 80% of institutional investors say they
-    plan to boost allocations to crypto in 2025, according to a March report by Coinbase
-    and EY-Parthenon. However, analysts caution that demand for altcoin ETFs is likely
-    to be much more limited than for funds holding core cryptocurrencies such as Bitcoin
-    and Ether. “Having your coin get ETF-ized is like being in a band and getting
-    your songs added to all the music streaming services,” Balchunas said. “Doesn’t
-    guarantee listens but it puts your music where the vast majority of the listeners
-    are.”Magazine: Altcoin season to hit in Q2? Mantra’s plan to win trust: Hodler’s
-    Digest, April 13 – 19\n\n            "
-  published: 2025-04-24 23:10:00.000000000 +01:00
-- title: " Was $1.4K Ethereum’s ‘generational bottom?’ — Data sends mixed signals "
-  url: https://cointelegraph.com/news/was-1-4-k-ethereum-s-generational-bottom-data-sends-mixed-signals?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether (ETH) price has climbed above $1,700 after 16 days of selling pressure
-    caused by macroeconomic uncertainty and a sharp decline in onchain activity. Despite
-    the rebound, Ether has underperformed the broader altcoin market by 23% year-to-date.Some
-    traders claim that ETH is set for a “generational” bull run by offering a “truly”
-    decentralized and permissionless financial system, but is that really the case?Source:
-    X/0xMontBlancEther was one of the few major cryptocurrencies that did not reach
-    a new all-time high in 2025, unlike competitors such as Solana (SOL), Tron (TRX),
-    and BNB (BNB).Some critics argue that moving away from proof-of-work mining removed
-    a competitive advantage that Ethereum once had over its rivals.Ethereum fee drop
-    signals ETH price weaknessEventually, Ether may outperform its competitors, even
-    if only for a short period, and influencers who are calling for a “generational
-    bottom” will celebrate their predictions, despite the lack of strong fundamentals
-    to support lasting price growth. However, considering the 95% drop in Ethereum
-    fees since January, the chances of an immediate ETH surge seem low.Ethereum network
-    daily fees, USD. Source: DefiLlamaThe low demand for data processing on the Ethereum
-    network causes ETH to become inflationary, as the built-in burn mechanism is not
-    enough to balance the new coins issued to cover staking rewards.Despite being
-    the clear leader in Total Value Locked (TVL), traders are generally uninterested
-    in this metric since it hasn’t translated into higher demand for the Ethereum
-    network or increased scarcity for ETH.As a result, even if Ethereum’s fundamentals
-    improve, optimism among ETH holders is declining, while competitors—especially
-    Solana (SOL) and XRP (XRP) investors—are hopeful about the approval of their spot
-    exchange-traded funds (ETFs) in the US. Currently, spot ETFs in the US are only
-    available for Bitcoin (BTC) and Ether (ETH), so additional offerings would likely
-    reduce the potential institutional demand for altcoins.Adding to the concerns,
-    US-listed spot Ether ETFs saw $10 million in net outflows between April 21 and
-    April 23, while similar BTC instruments experienced record-breaking inflows.History
-    shows ETH price rallies seldom last longHistorical evidence does not favor a lasting
-    outperformance compared to competitors, which lowers the odds of a sustainable
-    ETH rally.Related: Bitcoiner PlanB slams ETH: ‘Centralized & premined’ shitcoinEther
-    market share among altcoins. Source: TradingView / CointelegraphFor example, Ether’s
-    market share in the altcoin capitalization reached a low point in June 2022 at
-    around 26.5% when the ETH price dropped below $1,100. After a quick rally to $2,000
-    by August 2022, the momentum faded, and ETH’s price fell below $1,200 less than
-    three months later. This sudden correction likely left many investors frustrated,
-    as they had to wait eight months for ETH to reclaim $2,000 in April 2023.A similar
-    pattern happened in April 2021, when Ether’s altcoin market share bottomed out
-    at 26.8%. After that, the ETH price climbed from $2,100 to $4,200 by May 2021,
-    only to fall below $2,000 the following month. Again, traders who bought near
-    the cycle top had to wait six months just to recover their investment. This history
-    has taught Ether traders to take profits quickly, which reduces the chances of
-    reaching a new all-time high.It is difficult to pinpoint what triggered previous
-    Ether bull runs, especially as the narrative has shifted from utility tokens to
-    NFT marketplaces, artificial intelligence, memecoins, and, more recently, RWA
-    tokenization. While some influencers believe in strong ETH momentum, others warn
-    there could be another 15% drop compared to Bitcoin’s performance.In the end,
-    historical evidence does not support a lasting ETH price rally, even if it bottoms
-    out relative to the broader altcoin market capitalization.This article is for
-    general information purposes and is not intended to be and should not be taken
-    as legal or investment advice. The views, thoughts, and opinions expressed here
-    are the author’s alone and do not necessarily reflect or represent the views and
-    opinions of Cointelegraph.\n\n            "
-  published: 2025-04-24 22:05:00.000000000 +01:00
-- title: " Ethereum&#039;s L2 approach equals many high-throughput chains — Avail
-    exec "
-  url: https://cointelegraph.com/news/ethereum-l2-roadmap-equals-many-chains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum's focus on scaling through many layer-2 networks, each with its
-    own transaction processing speed and parameters, potentially gives the network
-    an unlimited number of unique high-throughput chains, according to Anurag Arjun,
-    co-founder of Avail, a unified chain abstraction solution.In an interview with
-    Cointelegraph, Arjun acknowledged that Ethereum and high-throughput competitors
-    with monolithic architecture are fundamentally different products. However, Ethereum's
-    choice to scale through a plethora of L2 solutions gives it an overlooked quality:\"The
-    under-appreciated beauty of this rollup-centric roadmap architecture is that it
-    allows multiple teams to experiment with different execution environments and
-    different block times.\"This allows a diverse set of high-throughput sidechains
-    to appear rather than just one singular architecture on any monolithic layer-1s,
-    the executive added. However, without true interoperability, switching between
-    L2s will remain as complex as bridging assets between different blockchain ecosystems
-    altogether, Arjun warned.An overview of Ethereum’s layer-2 ecosystem. Source:
-    L2BeatThe Avail co-founder's perspective runs contrary to the many critics of
-    Ethereum's L2-focused approach, who say that the network's scaling solutions silo
-    liquidity and are ultimately corrosive to the base layer. Ethereum's critics argue
-    that L2s are one of the primary causes of Ether's (ETH) poor price performance
-    in the last year.Related: Vitalik Buterin proposes swapping EVM language for RISC-VEthereum
-    fees drop to five-year lowsFees on the Ethereum layer-1 network dropped to five-year
-    lows in April 2025, with the average transaction fee sitting at around $0.16.According
-    to Brian Quinlivan, the marketing director for the Santiment onchain analytics
-    firm, the reduction in fees signals decreased demand for the base layer and waning
-    investor interest in Ethereum.Ethereum network daily transaction fees dropped
-    significantly in Q1 2025. Source: Token Terminal\"This large reduction in fees
-    coincides with fewer people sending ETH and interacting with smart contracts,\"
-    Quinlivan wrote in an April 16 blog post.These smart contract interactions include
-    transactions across decentralized finance, digital collectibles like non-fungible
-    tokens (NFTs), and other digital asset sectors, the Santiment executive added.Ether's
-    declining base layer transaction fees and reduced retail interest also caused
-    many institutional investors to slash their Ether allocations and issue revised
-    price outlooks for the second-largest digital asset by market capitalization.Magazine:
-    Make Ethereum feel like Ethereum again: Based rollups explained\n\n            "
-  published: 2025-04-24 21:55:00.000000000 +01:00
-- title: " Ethereum sees record single-day inflow with 449K ETH in accumulation addresses "
-  url: https://cointelegraph.com/news/ethereum-sees-record-single-day-inflow-with-449-k-eth-in-accumulation-addresses?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Key Takeaways:Ethereum saw a record 449,000 in ETH inflows to accumulation
-    addresses on April 22.Active addresses rose 10%, signaling growing network engagement,
-    but DeFi activity remains weak with declining DEX volumes.Holders in accumulation
-    addresses remain underwater with a realized price of $1,981. Over the past 10
-    days, Ethereum inflows into accumulation addresses reached their highest levels
-    since 2018. On April 22, a record-breaking 449,000 Ether (ETH), valued at an average
-    price of $1,750, flowed into these addresses, marking the most significant single-day
-    inflow in Ethereum’s history. This surge suggests that long-term holders remain
-    optimistic about Ethereum’s future, despite recent price declines. Ethereum inflows
-    into accumulation addresses. Source: CryptoQuantHowever, the realized price for
-    these accumulation addresses is $1,981, meaning these holders are currently at
-    a loss, as the current market price is below this level. Notably, the realized
-    price had been below Ethereum’s market price since 2018, only recently surpassing
-    it, indicating a shift in holder dynamics.Ethereum realized price for accumulation
-    addresses. Source: CryptoQuantEthereum’s onchain activity has also shown positive
-    momentum over the past few days. Between April 20 and 22, active addresses on
-    the network rose by 10%, from 306,211 to 336,366. This increase and upward price
-    movement signal growing network engagement and bullish sentiment. Yet, decentralized
-    finance (DeFi) activity remains subdued. Data from DefiLlama indicates that decentralized
-    exchange (DEX) volumes are declining, with transactions holding steady at a weekly
-    average of approximately 1.3 million, suggesting limited DeFi momentum.Ethereum
-    DEXs' volume and transactions. Source: DefiLlamaRelated: Ethereum bounces back
-    as market dominance recovers from all-time lowEthereum faces key resistance at
-    $1,895According to the Cost Basis Distribution (CBD) heatmap for Ethereum, a significant
-    supply concentration is highlighted at $1,895.50, where 1.64 million ETH is held
-    by investors who bought during November 2024. This level, identified as a potential
-    resistance, could see selling pressure as holders might attempt to break even
-    or lock in profits. Based on a technical analysis, the resistance at $1,895 receives
-    further confirmation. The price hovers near the daily chart's 50-day exponential
-    moving average (EMA), a critical trend reversal indicator. A failure to break
-    above this EMA could signal further bearish momentum, while a sustained move higher
-    might offer hope for bulls.Ethereum 1-day chart. Source: Cointelegraph/TradingViewDespite
-    this, Ethereum remains in a clear downtrend on higher time frame charts, with
-    no definitive signs of a bullish reversal. A daily close above $2,142 is essential
-    to spark a potential recovery, breaking the pattern of lower highs and lower lows.
-    However, anonymous trader Rektproof warns of an emerging bearish fractal—a repeating
-    price pattern that previously led to declines. This suggests Ethereum could face
-    another rejection and drop below $1,400 if the markets start trending down again.
-    Ethereum analysis by RektProof. Source: X.comRelated: Institutions break up with
-    Ethereum but keep ETH on the hookThis article does not contain investment advice
-    or recommendations. Every investment and trading move involves risk, and readers
-    should conduct their own research when making a decision.\n\n            "
-  published: 2025-04-24 20:10:39.000000000 +01:00

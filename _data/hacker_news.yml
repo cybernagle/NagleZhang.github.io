@@ -1,122 +1,121 @@
 ---
-- title: Apple Violated Antitrust Ruling, Judge Finds
-  url: https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957
+- title: Redis is open source again
+  url: https://antirez.com/news/151
   summary: Comments
-  published: 2025-05-01 00:03:55.000000000 +00:00
-- title: Mercury, the first commercial-scale diffusion language model
-  url: https://www.inceptionlabs.ai/introducing-mercury
+  published: 2025-05-01 15:56:35.000000000 +00:00
+- title: The Day Anubis Saved Our Websites from a DDoS Attack
+  url: https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/
   summary: Comments
-  published: 2025-04-30 21:51:10.000000000 +00:00
-- title: Pwning the Ladybird Browser
-  url: https://jessie.cafe/posts/pwning-ladybirds-libjs/
+  published: 2025-05-01 22:34:15.000000000 +00:00
+- title: Claude Integrations
+  url: https://www.anthropic.com/news/integrations
   summary: Comments
-  published: 2025-04-30 23:59:09.000000000 +00:00
-- title: 'Linux Kernel Exploitation: Attack of the Vsock'
-  url: https://hoefler.dev/articles/vsock.html
+  published: 2025-05-01 16:02:14.000000000 +00:00
+- title: Mike Waltz Accidentally Reveals App Govt Uses to Archive Signal Messages
+  url: https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/
   summary: Comments
-  published: 2025-04-30 19:03:04.000000000 +00:00
-- title: Zhaoxin's KX-7000
-  url: https://chipsandcheese.com/p/zhaoxins-kx-7000
+  published: 2025-05-02 00:56:57.000000000 +00:00
+- title: 'Felix86: Run x86-64 programs on RISC-V Linux'
+  url: https://felix86.com/
   summary: Comments
-  published: 2025-04-30 20:23:33.000000000 +00:00
-- title: Espressif's ESP32-C5 Is Now in Mass Production
-  url: https://www.espressif.com/en/news/ESP32-C5_Mass_Production
+  published: 2025-05-02 00:07:23.000000000 +00:00
+- title: 'Ask HN: Who is hiring? (May 2025)'
+  url: https://news.ycombinator.com/item?id=43858554
   summary: Comments
-  published: 2025-04-30 22:15:21.000000000 +00:00
-- title: Phi-4 Reasoning Models
-  url: https://azure.microsoft.com/en-us/blog/one-year-of-phi-small-language-models-making-big-leaps-in-ai/
+  published: 2025-05-01 15:00:46.000000000 +00:00
+- title: 'LLMs for Engineering: Teaching Models to Design High Powered Rockets'
+  url: https://arxiv.org/abs/2504.19394
   summary: Comments
-  published: 2025-05-01 01:02:41.000000000 +00:00
-- title: GroMo (YC W21) Is Hiring
-  url: https://www.ycombinator.com/companies/gromo/jobs/aP4JS9K-product-tech-business-ai-enthusiasts
+  published: 2025-04-30 22:03:03.000000000 +00:00
+- title: 'Show HN: Kubetail – Real-time log search for Kubernetes'
+  url: https://github.com/kubetail-org/kubetail
   summary: Comments
-  published: 2025-05-01 01:01:02.000000000 +00:00
-- title: 'Stockhausen: Sounds in Space'
-  url: https://stockhausenspace.blogspot.com/
+  published: 2025-05-01 21:11:38.000000000 +00:00
+- title: A faster way to copy SQLite databases between computers
+  url: https://alexwlchan.net/2025/copying-sqlite-databases/
   summary: Comments
-  published: 2025-05-01 00:57:42.000000000 +00:00
-- title: Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104
-  url: https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html
+  published: 2025-05-01 11:15:08.000000000 +00:00
+- title: 'Llasa: Llama-Based Speech Synthesis'
+  url: https://llasatts.github.io/llasatts/
   summary: Comments
-  published: 2025-05-01 00:16:49.000000000 +00:00
-- title: Xiaomi MiMo Reasoning Model
-  url: https://github.com/XiaomiMiMo/MiMo
+  published: 2025-05-01 16:43:37.000000000 +00:00
+- title: DECtalk Archive
+  url: https://dectalk.nu/
   summary: Comments
-  published: 2025-04-30 08:48:20.000000000 +00:00
-- title: Reversible computing with mechanical links and pivots
-  url: https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html
+  published: 2025-04-29 02:09:48.000000000 +00:00
+- title: 'Ask HN: Who wants to be hired? (May 2025)'
+  url: https://news.ycombinator.com/item?id=43858552
   summary: Comments
-  published: 2025-04-30 17:35:08.000000000 +00:00
-- title: NotebookLM Audio Overviews are now available in over 50 languages
-  url: https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/
+  published: 2025-05-01 15:00:46.000000000 +00:00
+- title: Third Party Cookies Must Be Removed
+  url: https://w3ctag.github.io/web-without-3p-cookies/
   summary: Comments
-  published: 2025-04-30 17:28:38.000000000 +00:00
-- title: Future of OSU Open Source Lab in Jeopardy
-  url: https://osuosl.org/blog/osl-future/
+  published: 2025-05-02 01:03:10.000000000 +00:00
+- title: 'Linkwarden: FOSS self-hostable bookmarking with AI-tagging and page archival'
+  url: https://linkwarden.app/
   summary: Comments
-  published: 2025-04-30 18:51:52.000000000 +00:00
-- title: 'Show HN: Create your own finetuned AI model using Google Sheets'
-  url: https://promptrepo.com/finetune/
+  published: 2025-05-01 12:28:21.000000000 +00:00
+- title: Blood droplets on inclined surfaces reveal new cracking patterns
+  url: https://phys.org/news/2025-04-blood-droplets-inclined-surfaces-reveal.html
   summary: Comments
-  published: 2025-04-30 15:53:36.000000000 +00:00
-- title: I created Perfect Wiki and reached $250k in annual revenue without investors
-  url: https://habr.com/en/articles/905812/
+  published: 2025-05-01 00:48:11.000000000 +00:00
+- title: Building Private Processing for AI Tools on WhatsApp
+  url: https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/
   summary: Comments
-  published: 2025-04-30 07:45:51.000000000 +00:00
-- title: Someone at YouTube needs glasses
-  url: https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html
+  published: 2025-04-30 23:17:00.000000000 +00:00
+- title: 'When ChatGPT broke the field of NLP: An oral history'
+  url: https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/
   summary: Comments
-  published: 2025-04-30 15:18:47.000000000 +00:00
-- title: Sycophancy in GPT-4o
-  url: https://openai.com/index/sycophancy-in-gpt-4o/
+  published: 2025-05-01 07:51:39.000000000 +00:00
+- title: Offline-First with CouchDB and PouchDB in 2025
+  url: https://neighbourhood.ie/blog/2025/03/26/offline-first-with-couchdb-and-pouchdb-in-2025
   summary: Comments
-  published: 2025-04-30 03:06:26.000000000 +00:00
-- title: The best – but not good – way to limit string length
-  url: https://adam-p.ca/blog/2025/04/string-length/
+  published: 2025-04-30 20:53:22.000000000 +00:00
+- title: Millihertz 5 Mechanical Computer (2022)
+  url: https://www.srimech.com/MHZ5.html
   summary: Comments
-  published: 2025-04-30 20:37:49.000000000 +00:00
-- title: DeepSeek-Prover-V2
-  url: https://github.com/deepseek-ai/DeepSeek-Prover-V2
+  published: 2025-05-01 17:04:47.000000000 +00:00
+- title: 'Oxide’s compensation model: how is it going?'
+  url: https://oxide.computer/blog/oxides-compensation-model-how-is-it-going
   summary: Comments
-  published: 2025-04-30 16:23:28.000000000 +00:00
-- title: I Found Malware in a BeamNG Mod
-  url: https://lemonyte.com/blog/beamng-malware
+  published: 2025-05-01 19:46:10.000000000 +00:00
+- title: Creating beautiful charts with JRuby and JFreeChart
+  url: https://blog.headius.com/2025/04/beautiful-charts-with-jruby-and-jfreechart.html
   summary: Comments
-  published: 2025-04-30 19:17:28.000000000 +00:00
-- title: 'Show HN: ART – a new open-source RL framework for training agents'
-  url: https://github.com/OpenPipe/ART
+  published: 2025-04-30 20:30:01.000000000 +00:00
+- title: Waypoint Transit (YC W25) is hiring a software engineer
+  url: https://www.workatastartup.com/jobs/75517
   summary: Comments
-  published: 2025-04-30 15:35:00.000000000 +00:00
-- title: 'Jepsen: Amazon RDS for PostgreSQL 17.4'
-  url: https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4
+  published: 2025-05-01 17:00:45.000000000 +00:00
+- title: 'Show HN: Roons – Mechanical Computer Kit'
+  url: https://whomtech.com/show-hn/
   summary: Comments
-  published: 2025-04-29 14:30:11.000000000 +00:00
-- title: Google Play sees 47% decline in apps since start of last year
-  url: https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/
+  published: 2025-05-01 15:57:43.000000000 +00:00
+- title: Judge rules Apple executive lied under oath, makes criminal contempt referral
+  url: https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied
   summary: Comments
-  published: 2025-04-30 19:03:49.000000000 +00:00
-- title: You Wouldn't Download a Hacker News
-  url: https://www.jasonthorsness.com/25
+  published: 2025-05-01 12:27:51.000000000 +00:00
+- title: Deno's Decline
+  url: https://dbushell.com/2025/04/28/denos-decline/
   summary: Comments
-  published: 2025-04-30 01:26:31.000000000 +00:00
-- title: The True Size Of
-  url: https://thetruesize.com/
+  published: 2025-05-01 22:08:55.000000000 +00:00
+- title: 'C++26: more constexpr in the standard library'
+  url: https://www.sandordargo.com/blog/2025/04/30/cpp26-constexpr-library-changes
   summary: Comments
-  published: 2025-04-26 15:41:44.000000000 +00:00
-- title: The Leaderboard Illusion
-  url: https://arxiv.org/abs/2504.20879
+  published: 2025-05-01 18:36:58.000000000 +00:00
+- title: Fivetran to acquire Census
+  url: https://www.fivetran.com/blog/why-fivetran-and-census-are-joining-forces
   summary: Comments
-  published: 2025-04-30 07:58:24.000000000 +00:00
-- title: What Is "Induced Atmospheric Vibration"?
-  url: https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration
+  published: 2025-05-01 16:41:49.000000000 +00:00
+- title: Starting July 1, academic publishers can't paywall NIH-funded research
+  url: https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy
   summary: Comments
-  published: 2025-04-29 12:30:00.000000000 +00:00
-- title: Windows RDP lets you log-in using revoked passwords. Microsoft is ok with
-    that
-  url: https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/
+  published: 2025-05-01 15:01:44.000000000 +00:00
+- title: Hybrid AC/DC distribution system with a shared neutral (2020)
+  url: https://electrical-engineering-portal.com/download-center/books-and-guides/electricity-generation-t-d/hybrid-ac-dc-distribution
   summary: Comments
-  published: 2025-04-30 23:48:53.000000000 +00:00
-- title: Retailers will soon have only about 7 weeks of full inventories left
-  url: https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/
+  published: 2025-05-01 00:30:34.000000000 +00:00
+- title: Google Wallet launches new age and identity verification features (ZK proofs)
+  url: https://blog.google/products/google-pay/google-wallet-age-identity-verifications/
   summary: Comments
-  published: 2025-04-30 11:42:06.000000000 +00:00
+  published: 2025-05-01 21:40:27.000000000 +00:00
