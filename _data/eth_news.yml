@@ -1,4 +1,93 @@
 ---
+- title: " Ethereum nears key Bitcoin price level that last time sparked 450% gains "
+  url: https://cointelegraph.com/news/ethereum-nears-key-bitcoin-price-level-last-time-450-gains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ethereum’s Ether (ETH) token is approaching a critical price zone against
+    Bitcoin (BTC), which historically marked the beginning of a massive rebound.ETH
+    price fractal from 2019 hints at bottom The ETH/BTC pair, currently trading near
+    0.019 BTC, is edging closer to 0.016 BTC — the exact level it reached in September
+    2019 before rallying nearly 450% over the following year.ETH/BTC weekly performance
+    chart. Source: TradingViewThe current ETH/BTC setup resembles 2019, with both
+    periods marked by oversold relative strength index (RSI), long stretches below
+    key moving averages, and multiyear declines.In 2019, ETH/BTC fell over 90% in
+    the prior two years, driven by the ICO collapse. As of 2025, the pair is down
+    over 80% from its 2021 peak, weighed by skepticism over Ethereum’s switch to proof-of-stake
+    (PoS), rising competition, and Bitcoin’s growing dominance as an institutional
+    asset.In response to the growing concerns, Ethereum co-founder Vitalik Buterin
+    has proposed new architecture and protocol-wide standards to make Ethereum simpler,
+    faster, and as maintainable as Bitcoin within five years. Related: Ethereum to
+    simplify crosschain transactions with new token standardsOne analyst called Buterin’s
+    proposal “the most bullish thing for ETH.”The bullish hopes come as ETH/BTC attempts
+    to break free from its multi-year “bearish parabola.” This resistance curve has
+    been instrumental in limiting the pair’s upside attempts since December 2021 but
+    showed signs of exhaustion as of May 3.Edit the caption here or remove the text“We
+    might see an end of this bearish parabola,” wrote chartist Jimie.He noted that
+    if the curved resistance holds, ETH/BTC could drop toward 0.016 BTC — the same
+    level where it bottomed in September 2019 before rallying by roughly 450%.Flush
+    ETH and buy Bitcoin, says Adam BackSkeptics like Bitcoin’s proof-of-work pioneer, Adam
+    Back, argue that Buterin is overlooking deeper design flaws while proposing to
+    simplify Ethereum in the coming years. Back criticizes Ethereum’s account-based
+    system, saying it adds unnecessary complexity compared to Bitcoin’s simpler UTXO
+    (unspent transaction output) model. He argues this growing complexity increases
+    technical risks and makes Ethereum harder to scale and secure.Source: X/Adam BackHe
+    also warns that Ethereum’s shift to PoS has concentrated power among insiders
+    by redirecting miner rewards to large tokenholders.“At this point, just flush
+    ETH before it hits zero and buy Bitcoin,” he wrote, suggesting no upgrade can
+    fix what he views as Ethereum’s flawed foundation.This article does not contain
+    investment advice or recommendations. Every investment and trading move involves
+    risk, and readers should conduct their own research when making a decision.\n\n
+    \           "
+  published: 2025-05-03 18:45:00.000000000 +01:00
+- title: " Vitalik wants to make Ethereum ‘as simple as Bitcoin’ in 5 years "
+  url: https://cointelegraph.com/news/vitalikbuterin-ethereum-simplification-bitcoin-inspired-redesign?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ethereum co-founder Vitalik Buterin called for simplifying Ethereum’s
+    base protocol, aiming to make the network more efficient, secure and accessible,
+    drawing inspiration from Bitcoin’s minimalist design.In a blog post titled “Simplifying
+    the L1,” published on May 3, Buterin laid out a vision to restructure Ethereum’s
+    architecture across consensus, execution and shared components.“This post will
+    describe how Ethereum 5 years from now can become close to as simple as Bitcoin,”
+    Buterin wrote, arguing that simplicity is key to Ethereum’s resilience and long-term
+    scalability.While recent upgrades like proof-of-stake (PoS) and Zero-Knowledge
+    Succinct Non-Interactive Argument of Knowledge (zk-SNARK) integration have made
+    Ethereum more robust, he said that technical complexity has led to bloated development
+    cycles, higher costs and greater risks of bugs:“Historically, Ethereum has often
+    not done this (sometimes because of my own decisions), and this has contributed
+    to much of our excessive development expenditure, all kinds of security risk,
+    and insularity of R&D culture, often in pursuit of benefits that have proven illusory.”Buterin
+    praises Bitcoin for its simplicity. Source: Vitalik ButerinRelated: ‘Vitalik:
+    An Ethereum Story’ is less about crypto and more about being humanEthereum eyes
+    “3-Slot Finality” to simplify consensusOne key area of focus is Ethereum’s consensus
+    layer. Central to this effort is the proposed “3-slot finality” model, which eliminates
+    complex components like epochs, sync committees and validator shuffling.“The reduced
+    number of active validators at a time means that it becomes safer to use simpler
+    implementations of the fork choice rule,” Buterin wrote.Other proposed improvements
+    include allowing for more straightforward fork choice rules and adopting Scalable
+    Transparent Argument of Knowledge (STARK)-based aggregation protocols to decentralize
+    and simplify network coordination.On the execution layer, Buterin proposed a shift
+    from the Ethereum Virtual Machine (EVM) to a simpler, ZK-friendly virtual machine
+    like RISC-V. This move could offer 100x performance improvements for zero-knowledge
+    proofs and significantly simplify the protocol.RISC-V is an open-source instruction
+    set architecture (ISA) used in designing computer processors. It follows a minimalist
+    design philosophy, using a small set of simple instructions for high efficiency
+    and easier implementation.To preserve backward compatibility, Buterin suggested
+    running legacy EVM contracts onchain via a RISC-V interpreter while supporting
+    both VMs concurrently during a transitional phase.Source: Vitalik ButerinRelated:
+    Ethereum community members propose new fee structure for the app layerButerin
+    calls for protocol-wide standardsButerin also advocated for protocol-wide standardization.
+    He suggested adopting a single erasure coding method, serialization format (favoring
+    SSZ), and tree structure to reduce redundant complexity and streamline Ethereum’s
+    tooling and infrastructure.“Simplicity is in many ways similar to decentralization,”
+    Buterin wrote. He suggested Ethereum adopt a “max line-of-code” target similar
+    to what Tinygrad does, keeping consensus-critical logic as lean and auditable
+    as possible.Non-critical legacy features would remain but reside outside the core
+    specification.Buterin’s proposal aimed at simplifying Ethereum comes as the network
+    continues to lose market share to competing blockchains.During a panel discussion
+    at the LONGITUDE by Cointelegraph event on May 2, Alex Svanevik, CEO of data service
+    Nansen, said Ethereum’s relative dominance among L1 blockchain networks has declined.“If
+    you’d asked me 3–4 years ago whether Ethereum would dominate crypto, I’d have
+    said yes,” Svanevik said during a panel discussion at the LONGITUDE by Cointelegraph
+    event. “But now, it’s clear that’s not what’s happening.”Magazine: ZK-proofs are
+    bringing smart contracts to Bitcoin — BitcoinOS and Starknet\n\n            "
+  published: 2025-05-03 09:30:15.000000000 +01:00
 - title: " Ethereum’s era of crypto dominance is over — LONGITUDE panel "
   url: https://cointelegraph.com/news/ethereum-no-longer-on-track-to-dominate-crypto-nansen-ceo?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Ethereum’s relative dominance among layer-1 (L1) blockchain networks has
@@ -1650,84 +1739,3 @@
     Bitcoin’s odds of June highs, SOL’s $485M outflows, and more: Hodler’s Digest,
     March 2 – 8\n\n            "
   published: 2025-04-28 13:16:29.000000000 +01:00
-- title: " Crypto ETPs hit 3rd-largest inflows on record at $3.4B — CoinShares "
-  url: https://cointelegraph.com/news/crypto-etp-3-4-billion-inflows-weakening-dollar?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Cryptocurrency exchange-traded products (ETPs) bounced back with their
-    third-largest inflows on record last week, according to CoinShares.Global crypto
-    ETPs collectively posted $3.4 billion of inflows in the trading week of April
-    21–25, marking the highest level since December 2024, CoinShares reported on April
-    28.The inflows were just 13% below the all-time high of $3.85 billion seen in
-    the trading week of Dec. 2–6, 2024, CoinShares previously reported.Renewed investment
-    interest in crypto ETPs came as Bitcoin (BTC) broke back above $90,000 last week
-    for the first time since briefly retesting the price mark in early March, according
-    to CoinGecko.Bitcoin ETFs lead as price consolidates above $90,000Bitcoin was
-    the primary winner among crypto ETPs last week, with investors pouring as much
-    as $3.18 billion into BTC ETPs.The fresh inflows covered all the previous outflows
-    seen since the beginning of April, with year-to-date (YTD) inflows extending to
-    $3.7 billion.Flows by asset (in millions of US dollars). Source: CoinSharesBitcoin
-    ETP’s assets under management (AUM) have reached $132 billion, while total AUM
-    surged to $151.6 billion.Solana was the only loserBullish sentiment was seen in
-    all crypto ETPs except for Solana (SOL), with Solana-based investment products
-    seeing $5.7 million of outflows last week.Meanwhile, Ether (ETH), the second-largest
-    cryptocurrency by market cap, saw $183 million inflows in the past trading week,
-    breaking an eight-week streak of outflows.Related: Solana's Loopscale pauses lending
-    after $5.8M hackOther notable gainers among altcoins were Sui (SUI) and XRP (XRP),
-    which saw $20.7 million and $31.6 million of inflows, respectively.All issuers
-    see healthy inflowsThe fresh crypto ETP flows were distributed across all major
-    issuers, including those in the United States and Europe.BlackRock’s iShares ETFs
-    saw the largest inflows last week at $1.5 billion, with ARK and Fidelity following
-    at $621 million and $574 million, respectively.Flows by issuer (in millions of
-    US dollars). Source: CoinSharesDespite significant inflows, some issuers continue
-    to see outflows month-to-date, or since April 1. Among those issuers are Grayscale
-    with $84 million in outflows, ProShares with $18 million in outflows, and CoinShares
-    with $7 million in outflows.Reasons for the spikeThe latest inflows mark a notable
-    trend reversal in crypto ETPs as the majority of issuers were seeing massive YTD
-    inflows in the previous week, following a series of outflows in 2025.According
-    to CoinShares’ James Butterfill, the new inflows likely came from concerns over
-    the tariff impact on corporate earnings as well as a notable weakening of the
-    US dollar, fueling demand for safe-haven assets.The inflows also came as gold
-    prices saw a notable decline last week after breaking new highs at nearly $3,500
-    on April 22, dropping to as low as $3,275 on April 23, according to TradingView.Magazine:
-    Ethereum is destroying the competition in the $16.1T TradFi tokenization race\n\n
-    \           "
-  published: 2025-04-28 11:32:11.000000000 +01:00
-- title: " Researcher proposes scaling Ethereum gas limit by 100x over 4 years "
-  url: https://cointelegraph.com/news/dankrad-fiest-unveils-eip-to-scale-ethereum-gas-limit-100x?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The Ethereum mainnet’s gas limit could theoretically grow 100-fold and
-    reach 2,000 transactions per second under a new Ethereum Improvement Proposal
-    (EIP) put forward by Ethereum Foundation researcher Dankrad Feist.Feist, who had
-    the blockchain’s “danksharding” data storage solution named after him, put forward
-    EIP-9698 on April 27, which would introduce a “deterministic gas limit growth
-    schedule” starting at epoch 369017, or around June 1.The proposal would gradually
-    increase the gas limit by a factor of 10 for roughly two years, or 164,250 epochs,
-    when one final tenfold increase would occur.Ethereum clients would need to vote
-    on the proposal for it to take effect, Feist said.“By introducing a predictable
-    exponential growth pattern as a client default, this EIP encourages a sustainable
-    and transparent gas limit trajectory, aligned with expected advancements in hardware
-    and protocol efficiency,” he added.As Ethereum can occasionally reach up to 20
-    TPS in blocks dominated by simple transactions, a 100x gas limit increase could
-    theoretically increase Ethereum’s TPS to 2,000. Feist’s proposal would better
-    position Ethereum to compete with the likes of Solana, which currently processes
-    a non-vote TPS between 800 to 1,050 and has a theoretical TPS of 65,000.Source:
-    Fabda.ethThe EIP would expand the current gas limit of 36 million to 3.6 billion,
-    potentially allowing around 6,000 transactions to fit into Ethereum blocks.Feist’s
-    proposal comes after Ethereum validators agreed to raise the gas limit from 30
-    million to 36 million in February.Before that, the last change to Ethereum’s gas
-    limit occurred in August 2021 under the London hard fork, where the figure was
-    roughly doubled from 15 million to 30 million.Daily change in Ethereum Average
-    Gas Limit over the last five years. Source: YChartsFeist acknowledged that a rapid
-    increase in the gas limit under his proposal may stress less-optimized nodes and
-    increase block propagation times. “However, the exponential schedule with very
-    gradual increments per epoch gives node operators and developers ample time to
-    adapt and optimize,” he said.Related: Ethereum community members propose new fee
-    structure for the app layerEIP-9698 marks the Ethereum community’s latest effort
-    to boost scalability at the base layer after predominantly focusing on scaling
-    through layer 2 solutions in recent years.Critics of Ethereum’s layer-2 focused
-    strategy claim that it has fragmented the ecosystem into several siloed chains
-    with little interoperability, leading to a worse user experience.EIP-9678 looks
-    to increase gas limitEthereum developers are also looking to test a fourfold increase
-    of Ethereum’s gas limit in the Fusaka hard fork under EIP-9678.Fusaka has been
-    flagged as possibly going online in late 2025, while the next major Ethereum upgrade,
-    Pectra, is scheduled to go live on the mainnet in May.Magazine: Ethereum is destroying
-    the competition in the $16.1T TradFi tokenization race\n\n            "
-  published: 2025-04-28 03:31:09.000000000 +01:00
