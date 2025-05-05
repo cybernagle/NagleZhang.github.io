@@ -1,122 +1,123 @@
 ---
-- title: 'Gorgeous-GRUB: collection of decent community-made GRUB themes'
-  url: https://github.com/Jacksaur/Gorgeous-GRUB
+- title: I'd rather read the prompt
+  url: https://claytonwramsey.com/blog/prompt/
   summary: Comments
-  published: 2025-05-03 22:57:58.000000000 +00:00
-- title: 'Show HN: Free, in-browser PDF editor'
-  url: https://breezepdf.com
+  published: 2025-05-04 19:17:28.000000000 +00:00
+- title: Design for 3D-Printing
+  url: https://blog.rahix.de/design-for-3d-printing/
   summary: Comments
-  published: 2025-05-03 18:15:45.000000000 +00:00
-- title: DuckDB is probably the most important geospatial software of the last decade
-  url: https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html
+  published: 2025-05-04 17:38:13.000000000 +00:00
+- title: 'Helmdar: 3D Scanning Brooklyn on Rollerblades'
+  url: https://owentrueblood.com/blog/2025/05/04/helmdar/
   summary: Comments
-  published: 2025-05-03 19:30:38.000000000 +00:00
-- title: Metagenomics test saves woman's sight after mystery infection
-  url: https://www.bbc.co.uk/news/articles/czx45vze0vyo
+  published: 2025-05-04 21:49:40.000000000 +00:00
+- title: On Not Carrying a Camera – Cultivating memories instead of snapshots
+  url: https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera
   summary: Comments
-  published: 2025-04-30 07:56:22.000000000 +00:00
-- title: Legendary Bose Magic Carpet Suspension Is Finally Going Global
-  url: https://www.thedrive.com/news/legendary-bose-magic-carpet-suspension-is-finally-going-global
+  published: 2025-05-04 23:32:21.000000000 +00:00
+- title: I turned a 40 year old Apple Mouse into a speech to text button
+  url: https://workshop.cjpais.com/projects/handy-m0100
   summary: Comments
-  published: 2025-04-30 10:27:37.000000000 +00:00
-- title: Google Gemini has the worst LLM API
-  url: https://venki.dev/notes/google-gemini-is-bad
+  published: 2025-05-03 01:12:44.000000000 +00:00
+- title: 'Thunderscope update: My take: Why open source is better'
+  url: https://www.crowdsupply.com/eevengers/thunderscope/updates/revving-up-for-production
   summary: Comments
-  published: 2025-05-03 22:29:54.000000000 +00:00
-- title: Numerical Linear Algebra Class in Julia TUM
-  url: https://venkovic.github.io/NLA-for-CS-and-IE.html
+  published: 2025-05-01 00:16:26.000000000 +00:00
+- title: 'Graceful Shutdown in Go: Practical Patterns'
+  url: https://victoriametrics.com/blog/go-graceful-shutdown/index.html
   summary: Comments
-  published: 2025-05-03 21:22:28.000000000 +00:00
-- title: Run LLMs on Apple Neural Engine (ANE)
-  url: https://github.com/Anemll/Anemll
+  published: 2025-05-04 21:09:16.000000000 +00:00
+- title: Why Archers Didn't Volley Fire
+  url: https://acoup.blog/2025/05/02/collections-why-archers-didnt-volley-fire/
   summary: Comments
-  published: 2025-05-03 15:29:10.000000000 +00:00
-- title: Pascal for Small Machines
-  url: http://pascal.hansotten.com/
+  published: 2025-05-03 08:28:23.000000000 +00:00
+- title: Dummy's Guide to Modern LLM Sampling
+  url: https://rentry.co/samplers
   summary: Comments
-  published: 2025-05-04 01:27:26.000000000 +00:00
-- title: Time saved by AI offset by new work created, study suggests
-  url: https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/
+  published: 2025-05-04 16:26:28.000000000 +00:00
+- title: Cyborg cicadas play Pachelbel's Canon
+  url: https://arstechnica.com/science/2025/05/cyborg-cicadas-play-pachelbels-canon/
   summary: Comments
-  published: 2025-05-03 13:14:59.000000000 +00:00
-- title: QModem 4.51 Source Code
-  url: https://github.com/AaronFriel/qmodem-4.51
+  published: 2025-05-03 21:00:54.000000000 +00:00
+- title: An Alabama landline that keeps ringing
+  url: https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing
   summary: Comments
-  published: 2025-05-03 15:30:33.000000000 +00:00
-- title: Why can't HTML alone do includes?
-  url: https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/
+  published: 2025-05-04 12:02:35.000000000 +00:00
+- title: A Hyper-Catalan Series Solution to Polynomial Equations, and the Geode
+  url: https://www.tandfonline.com/doi/full/10.1080/00029890.2025.2460966#d1e523
   summary: Comments
-  published: 2025-05-03 12:50:55.000000000 +00:00
-- title: Why I Am Not Going to Buy a Computer (1987) [pdf]
-  url: https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf
+  published: 2025-05-02 15:39:39.000000000 +00:00
+- title: TScale – Distributed training on consumer GPUs
+  url: https://github.com/Foreseerr/TScale
   summary: Comments
-  published: 2025-05-03 22:16:11.000000000 +00:00
-- title: 'Understanding-j: An introduction to the J programming language that gets
-    to the'
-  url: https://github.com/bugsbugsbux/understanding-j
+  published: 2025-05-04 13:29:55.000000000 +00:00
+- title: KaiPod Learning (YC S21) Is Hiring VP of Engineering
+  url: https://www.ycombinator.com/companies/kaipod-learning/jobs/Bs3H9uB-vp-of-engineering
   summary: Comments
-  published: 2025-05-03 20:40:59.000000000 +00:00
-- title: RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io
-  url: https://github.com/serverless-dns/serverless-dns
+  published: 2025-05-04 21:01:11.000000000 +00:00
+- title: Evidence of controversial Planet 9 uncovered in sky surveys taken 23 years
+    apart
+  url: https://www.space.com/astronomy/solar-system/evidence-of-controversial-planet-9-uncovered-in-sky-surveys-taken-23-years-apart
   summary: Comments
-  published: 2025-05-03 18:04:14.000000000 +00:00
-- title: Helpcare AI (YC F24) Is Hiring
-  url: https://docs.google.com/forms/d/e/1FAIpQLScpzOyP_mk3muEpbKrnW8UTZB_yP5SJwjbeT8_6A6fhdvpJCg/viewform?usp=preview
+  published: 2025-05-02 21:13:07.000000000 +00:00
+- title: The complicated business of electing a Doge
+  url: https://www.theballotboy.com/electing-the-doge
   summary: Comments
-  published: 2025-05-03 21:00:18.000000000 +00:00
-- title: We fell out of love with Next.js and back in love with Ruby on Rails
-  url: https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js
+  published: 2025-05-04 19:14:44.000000000 +00:00
+- title: People are losing loved ones to AI-fueled spiritual fantasies
+  url: https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/
   summary: Comments
-  published: 2025-05-03 18:26:06.000000000 +00:00
-- title: 'Creating the Commodore 64: The Engineers'' Story'
-  url: https://spectrum.ieee.org/commodore-64
+  published: 2025-05-04 23:54:17.000000000 +00:00
+- title: Typed Lisp, a Primer
+  url: https://alhassy.com/TypedLisp.html
   summary: Comments
-  published: 2025-04-30 01:04:24.000000000 +00:00
-- title: Vygotsky's Zone of Proximal Development
-  url: https://www.simplypsychology.org/zone-of-proximal-development.html
+  published: 2025-05-04 17:17:35.000000000 +00:00
+- title: Minimal Linux Bootloader (2018)
+  url: https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm
   summary: Comments
-  published: 2025-05-04 00:40:59.000000000 +00:00
-- title: Buffett to step down following six-decade run atop Berkshire
-  url: https://www.bloomberg.com/news/articles/2025-05-03/warren-buffett-to-step-down-from-berkshire-hathaway-at-year-end
+  published: 2025-05-04 16:36:02.000000000 +00:00
+- title: Technical analysis of TM SGNL, the unofficial Signal app Trump officials
+    used
+  url: https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/
   summary: Comments
-  published: 2025-05-03 18:16:54.000000000 +00:00
-- title: Why I stopped angel investing after 15 years (and what I'm doing instead)
-  url: https://halletecco.substack.com/p/why-i-stopped-angel-investing-after
+  published: 2025-05-02 23:20:59.000000000 +00:00
+- title: Oberon Pi
+  url: http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/
   summary: Comments
-  published: 2025-05-03 13:22:03.000000000 +00:00
-- title: Minimum Viable Blog
-  url: https://ostwilkens.se/blog/setting-up-blog
+  published: 2025-05-04 08:54:44.000000000 +00:00
+- title: In kids, EEG monitoring of consciousness safely reduces anesthetic use
+  url: https://news.mit.edu/2025/kids-eeg-monitoring-consciousness-safely-reduces-anesthetic-use-0429
   summary: Comments
-  published: 2025-05-03 09:08:31.000000000 +00:00
-- title: Lessons from Building a Translator App That Beats Google Translate and DeepL
-  url: https://dingyu.me/blog/lessons-translator-app-beats-google-translate-deepl
+  published: 2025-04-30 13:46:38.000000000 +00:00
+- title: Orders of Infinity
+  url: https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/
   summary: Comments
-  published: 2025-04-29 23:08:26.000000000 +00:00
-- title: N8n – Flexible AI workflow automation for technical teams
-  url: https://n8n.io/
+  published: 2025-05-04 17:55:27.000000000 +00:00
+- title: Censoring Social Media
+  url: https://www.tbray.org/ongoing/When/202x/2025/04/28/Censoring-Social-Media
   summary: Comments
-  published: 2025-05-03 14:31:52.000000000 +00:00
-- title: "'I found your dad': The mystery of a missing climber"
-  url: https://www.espn.com/olympics/story/_/id/44690603/bill-stampfl-missing-climber-peru-huascaran
+  published: 2025-05-04 22:23:19.000000000 +00:00
+- title: Load-Store Conflicts
+  url: https://zeux.io/2025/05/03/load-store-conflicts/
   summary: Comments
-  published: 2025-05-01 23:36:48.000000000 +00:00
-- title: MathML with Pandoc
-  url: https://leancrew.com/all-this/2025/05/mathml-with-pandoc/
+  published: 2025-05-04 17:18:42.000000000 +00:00
+- title: Reconstructing dopamine's link to reward (2024)
+  url: https://www.thetransmitter.org/dopamine/reconstructing-dopamines-link-to-reward/
   summary: Comments
-  published: 2025-05-03 17:19:07.000000000 +00:00
-- title: When Flat Rate Movers Won't Answer Your Calls
-  url: https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls
+  published: 2025-05-02 01:19:17.000000000 +00:00
+- title: 'Ask HN: Hackathons feel fake now'
+  url: https://news.ycombinator.com/item?id=43889502
   summary: Comments
-  published: 2025-05-03 20:44:56.000000000 +00:00
-- title: The US has approved CRISPR pigs for food
-  url: https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/
+  published: 2025-05-04 20:55:41.000000000 +00:00
+- title: Critical Program Reading (1975) [video]
+  url: https://www.youtube.com/watch?v=7hdJQkn8rtA
   summary: Comments
-  published: 2025-05-03 14:32:57.000000000 +00:00
-- title: Burning Mao
-  url: https://granta.com/burning-mao/
+  published: 2025-05-04 17:48:47.000000000 +00:00
+- title: 'Show HN: Driverless print server for legacy printers, profit goes to open-source'
+  url: https://printserver.ink/
   summary: Comments
-  published: 2025-05-03 17:19:47.000000000 +00:00
-- title: 'Ensure public interface reliability: Tracking API compatibility for Android'
-  url: https://www.revenuecat.com/blog/engineering/binary-compatability/
+  published: 2025-05-04 17:43:00.000000000 +00:00
+- title: What went wrong with wireless USB
+  url: http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html
   summary: Comments
-  published: 2025-04-30 00:03:52.000000000 +00:00
+  published: 2025-05-04 02:03:40.000000000 +00:00
