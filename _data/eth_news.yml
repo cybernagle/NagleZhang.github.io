@@ -1,4 +1,136 @@
 ---
+- title: " Standard Chartered sees BNB more than doubling in 2025 "
+  url: https://cointelegraph.com/news/standard-chartered-forecasts-bnb-price-more-than-doubling-this-year?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Asset manager Standard Chartered predicts that Binance’s ecosystem token,
+    BNB, could more than double in price this year, according to an analyst report
+    reviewed by Cointelegraph. The asset manager sees BNB’s price rising to approximately
+    $1,275 per token by the end of 2025 and as high as $2,775 by the end of 2028,
+    according to the research report. As of May 6, BNB trades at nearly $600 per coin,
+    for a fully diluted value (FDV) of approximately $84 billion, according to data
+    from CoinMarketCap.Price forecasts for BNB. Source: Standard Chartered“BNB has
+    traded almost exactly in line with an unweighted basket of Bitcoin and Ethereum
+    since May 2021 in terms of both returns and volatility,” Geoff Kendrick, an analyst
+    at Standard Chartered, wrote in the research note. “We expect this relationship
+    to continue to hold, driving BNB’s price from around USD 600 currently to USD
+    2,775 by end-2028.”Related: How much Bitcoin can Berkshire Hathaway buy?‘Old-fashioned’
+    networkThe BNB token is the native cryptocurrency of Binance BNB Chain, a layer-1
+    (L1) blockchain network affiliated with the world’s largest centralized exchange
+    (CEX). The BNB Chain has less developer activity than L1s such as Ethereum or
+    Avalanche and its ecosystem is comparatively “old-fashioned”,” Standard Charter
+    said. BNB’s ecosystem is heavy on DEXs. Source: Standard CharteredMore than 60%
+    of the network’s onchain economic activity involves decentralized exchanges (DEXs),
+    compared to a more diverse spread on other L1s, it said.However, the asset manager
+    noted that this could also serve as a source of stability for BNB Chain. “Assuming
+    Binance remains one of the largest CEXs, BNB’s value drivers are unlikely to change
+    anytime soon,” Geoff Kendrick, an analyst at Standard Chartered, wrote in the
+    research note. “Given this, we see potential for BNB to serve as a form of benchmark,
+    or average, for digital asset prices more broadly,” he added. BNB Chain is the
+    fourth largest L1, with nearly $6 million total value locked (TVL), according
+    to data from DeFiLlama.On May 5, asset manager VanEck filed to list the first
+    BNB exchange-traded fund (ETF) in the United States.Magazine: Financial nihilism
+    in crypto is over — It’s time to dream big again\n\n            "
+  published: 2025-05-06 17:23:30.000000000 +01:00
+- title: " Frictionless flows are Ethereum&#039;s path to economic dominance "
+  url: https://cointelegraph.com/news/frictionless-flows-are-ethereum-s-path?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Opinion by: Barna Kiss, CEO of MaldaAn idea recently floated by some prominent
+    thinkers in the Ethereum space to reclaim value for the mainnet is the taxing
+    of its Layer-2s. The future of Ethereum does not depend on policy but on enabling
+    frictionless capital movement between the L2s in question. Tariffing rollups may
+    appear a neat way to reclaim value for the mainnet. In practice, it would fragment
+    the ecosystem, drain liquidity, push users toward centralized platforms, and avoid
+    decentralized finance altogether. In a permissionless system, capital flows to
+    where it is treated best, and Ethereum's rollups mistreat it.Liquidity fragmentation
+    is Ethereum's real threatIn traditional finance, the link between fluidity and
+    growth is well established. Lower barriers to capital inflows lead to higher investment.
+    Take the European Union's pre-Brexit single market. Investment flows slowed when
+    the United Kingdom's exit fragmented access to capital pools, as economists tracking
+    cross-border activity noted. Ethereum faces a decentralized parallel. Rollups,
+    particularly those that are optimistic and ZK-based, impose delays of up to a
+    week on withdrawals and offer only patchy cross-rollup liquidity. The result is
+    a fragmented system in which adoption slows, and capital is underused.Developers
+    are left with two poor choices. Either they focus on one rollup and limit their
+    audience, or fragment liquidity across several and accept inefficiencies. Neither
+    option serves the ecosystem's long-term interests. A significant opportunity lies,
+    therefore, with protocols that remove these frictions. They will attract more
+    capital, operate more efficiently, and deliver better experiences.Recent: 3 reasons
+    Ethereum could turn a cornerCapital movement must be abstracted away from the
+    end-user. Bridges and withdrawal queues should become protocol-level concerns,
+    not user problems. It is feasible for liquidity deployed on one rollup to satisfy
+    demand on another, with background rebalancing ensuring solvency and efficiency.
+    What today seems complex can be made invisible.This design shift from reactive
+    bridging to intent-based liquidity coordination would restore composability and
+    preserve decentralization. More importantly, it would uphold Ethereum's core principles
+    of building open systems without central gatekeepers. Without it, users will continue
+    to rely on centralized exchanges to bypass friction, compromising self-custody
+    for convenience. This is not just a technical challenge — it is a philosophical
+    one.Designing around friction is the competitive edgeDesigning around capital
+    efficiency is becoming a competitive edge. Tomorrow's DeFi protocols will not
+    simply compete on fees or yield. They will compete on how well they can access
+    liquidity across a fractured landscape. The winners will be those that can fulfill
+    a user's request wherever the user is without requiring them to move funds manually.
+    The result will be better UX, more productive capital, and higher network stickiness.Some
+    underlying technologies are beginning to address the problem. Ethereum-native
+    rollups, planned after a hard fork in 2026, promise closer integration, and while
+    they are still not ready for deployment, based rollups offer tighter alignment
+    with Ethereum by sharing sequencing and improving settlement while sacrificing
+    some independence. In the meantime, optimistic rollups are racing to implement
+    zero-knowledge proofs to speed up exits. These innovations reduce friction, but
+    they are not enough on their own. Scale will come from applications designed around
+    these constraints, not from the base layers alone.Zk-Rollups are particularly
+    well suited for this. Their cryptographic structure allows for low-latency and
+    trust-minimized messaging between chains. This makes them ideal for applications
+    like payments, decentralized trading, and real-time financial products, all of
+    which demand speed and certainty. If Ethereum can make such cross-rollup flows
+    seamless, it will not just scale. It will become the backbone of a more efficient
+    financial system.That outcome is not guaranteed. Tariffing rollups may serve short-term
+    goals, but in the long run, they would weaken the very network Ethereum aims to
+    strengthen. Solana, for example, already offers composability within a single
+    domain. While Ethereum's modular approach is arguably more robust, it cannot afford
+    to ignore the usability cost of fragmentation.Ethereum's greatest strength is
+    its neutrality. That should include the ability of capital to move freely within
+    its ecosystem. The future will not be built by taxing rollups. It will be built
+    by enabling them to function as one economic engine.Opinion by: Barna Kiss, CEO
+    of Malda. This article is for general information purposes and is not intended
+    to be and should not be taken as legal or investment advice. The views, thoughts,
+    and opinions expressed here are the author’s alone and do not necessarily reflect
+    or represent the views and opinions of Cointelegraph.\n\n            "
+  published: 2025-05-06 16:00:00.000000000 +01:00
+- title: " Fresh $1B in Tether mints on Tron, closing gap again with Ethereum "
+  url: https://cointelegraph.com/news/fresh-1-billon-tether-mints-tron-closing-gap-with-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The Tron network has drawn closer to regaining the lead from Ethereum
+    in Tether circulation after another big mint by the US stablecoin issuer.On May
+    5, Tether minted another $1 billion Tether (USDT) on the Tron network, according
+    to Arkham Intelligence. This brings the total USDT on Tron to $71.4 billion, according
+    to the Tether Transparency report. In comparison, there is currently $72.8 billion
+    USDT circulating on the Ethereum network, so just $1.4 billion more USDT on Tron
+    will see it become the leading network for the world’s largest stablecoin issuer,
+    as it has been previously over the last two years. Tron was ahead of Ethereum
+    for USDT circulation between July 2022 and November 2024, but a large $18 billion
+    mint on Ethereum pushed the network ahead again, according to CryptoQuant. The
+    third-largest network for USDT is Solana, which has $1.9 billion circulating,
+    and there are smaller amounts on Ton, Avalanche, Aptos, Near, Celo and Cosmos. USDT
+    circulation on Ethereum and Tron. Source: CryptoQuantTether’s total circulation
+    is currently at a record high of $149.4 billion USDT, having increased by 8.6%
+    since the beginning of this year. This gives the firm a commanding stablecoin
+    market share of 61%, according to CoinGecko. Related: Tether AI platform to support
+    Bitcoin and USDT payments, CEO saysIts closest competitor, Circle, has a market
+    share of 25% with almost $62 billion USDC (USDC) in circulation.Stablecoin issuance
+    has surged over the past six months, and they currently represent 8% of the total
+    crypto market capitalization.In a report in late April, the United States Treasury
+    Department predicted that the stablecoin market could reach $2 trillion by 2028
+    if regulatory clarity is achieved. Stablecoin legislation nearing next vote It
+    is widely believed that two key pieces of legislation need to be passed into law
+    in the US to cement the position of stablecoins. The Guiding and Establishing
+    National Innovation for US Stablecoins (GENIUS) Act sets out clear definitions
+    for “payment stablecoins” and reserve rules for stablecoin issuers.Lawmakers in
+    the US Senate will move forward with a vote on the GENIUS stablecoin bill before
+    May 26, according to reports. Meanwhile, the Stablecoin Transparency and Accountability
+    for a Better Ledger Economy (STABLE) Act, which governs the approval and supervision
+    of “federally qualified nonbank payment stablecoin issuers,” is also going through
+    Congress. Tether is also planning to launch a US-based stablecoin later this year,
+    with timing dependent on the passing of legislation.  Magazine: Bitcoin to $1M
+    ‘by 2029,’ CIA tips its hat to Bitcoin: Hodler’s Digest\n\n            "
+  published: 2025-05-06 03:57:27.000000000 +01:00
 - title: " Price predictions 5/5: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI "
   url: https://cointelegraph.com/news/price-predictions-5-5-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-sui?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Key points:Bitcoin is witnessing a tough battle between the bulls and
@@ -152,21 +284,28 @@
     John said that “decentralization isn’t a race, it’s a long-term responsibility
     shared by the entire ecosystem.” He added that rushing to stage two puts ideology
     before safety and increases risks:“In stage one, councils can step in if something
-    breaks. In Stage 2, a single bug could wipe out billions with no rollback.”While
-    going decentralized right away is recognized as problematic, some experts highlight
-    not going decentralized at all. Arthur Breitman, co-founder of the Tezos blockchain,
-    told Cointelegraph that “prominent Ethereum L2s” are fundamentally custodial,
-    adding:“Privileged entities control core logic, jeopardizing asset integrity;
-    banking on their immunity to collusion is fragile, and failure is likely to be
-    correlated.“Yishay Harel, CEO and co-founder of rollup-centric blockchain Dymension,
-    highlighted that “Ethereum wasn’t originally built to settle rollups.” This leads
-    to tradeoffs:“Move too fast toward decentralization and you risk breaking critical
+    breaks. In Stage 2, a single bug could wipe out billions with no rollback.”Tomas
+    Fanta, principal at crypto venture capital firm Heartcore, told Cointelegraph
+    that “Vitalik’s suggested approach of gradual decentralization is a whiff of fresh
+    air.” He explained that “rollups are still in development and their individual
+    components haven’t been fully battletested in the wild” so rushing their decentralization
+    “could result in a paralyzed system.” He added:“Decentralization is a benefit
+    that comes with maturity while a real cost to the system at any previous lifecycle
+    stage.“While going decentralized right away is recognized as problematic, some
+    experts highlight not going decentralized at all. Arthur Breitman, co-founder
+    of the Tezos blockchain, told Cointelegraph that “prominent Ethereum L2s” are
+    fundamentally custodial, adding:“Privileged entities control core logic, jeopardizing
+    asset integrity; banking on their immunity to collusion is fragile, and failure
+    is likely to be correlated.“Yishay Harel, co-founder and CEO of rollup-centric
+    blockchain Dymension, highlighted that “the underlying architecture wasn’t originally
+    designed to settle rollups, leading to all sorts of workarounds.” This leads to
+    tradeoffs:“Move too fast toward decentralization and you risk breaking critical
     systems; move too slow and you remain effectively custodial, governed by multisigs
     and upgrade keys.“Harel said that while Buterin’s idea of gradually staging decentralization
     as a system matures is “smart,” it also highlights a concern — that the underlying
     architecture wasn’t originally designed for sovereign execution environments.Magazine:
     What are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
-  published: 2025-05-05 11:00:28.000000000 +01:00
+  published: 2025-05-05 10:00:28.000000000 +01:00
 - title: " Ethereum nears key Bitcoin price level that last time sparked 450% gains "
   url: https://cointelegraph.com/news/ethereum-nears-key-bitcoin-price-level-last-time-450-gains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Ethereum’s Ether (ETH) token is approaching a critical price zone against
@@ -1611,187 +1750,3 @@
     Every investment and trading move involves risk, and readers should conduct their
     own research when making a decision.\n\n            "
   published: 2025-04-29 14:33:11.000000000 +01:00
-- title: " Ethereum Foundation shuffles leadership, splits board and management "
-  url: https://cointelegraph.com/news/ethereum-foundation-shuffles-leadership-with-board-and-management-split?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The Ethereum Foundation, which backs the development of the Ethereum blockchain,
-    has overhauled its leadership structure to separate the responsibilities of its
-    management team and board of directors.The board will act as the “security council
-    to protect the heart and soul” of the foundation and set visions for Ethereum,
-    while the new management will be focused on the strategic and operational execution
-    of those visions, the Foundation said in an April 28 blog post.It added in an
-    April 28 X post that Hsiao-Wei Wang and Tomasz K. Stańczak were appointed as co-executive
-    directors on March 2 to deliver on those visions — which are centered around championing
-    censorship resistance, open-source innovation, privacy and securityWang and Stańczak’s
-    roles took effect on April 28 with the foundation setting a two-year term for
-    Stańczak to address some of Ethereum’s biggest challenges. Stańczak’s new role
-    will be balanced with his work as founder of Ethereum infrastructure firm Nethermind
-    and a soon-to-be-announced Ethereum-focused venture capital firm.Source: Ethereum
-    FoundationBastian Aue and Josh Stark are also a part of the management team, with
-    Aue to focus on organizational strategy, hiring and training, and Stark to primarily
-    be tasked with project execution, communications and marketing.The board consists
-    of Ethereum co-founder Vitalik Buterin, the Ethereum Foundation’s President Aya
-    Miyaguchi, Swiss counsel Patrick Storchenegger, and Wang, who will bridge between
-    the board and management team.Related: ‘Vitalik: An Ethereum Story’ is less about
-    crypto and more about being humanButerin will continue providing technical and
-    intellectual guidance on the Ethereum ecosystem, Miyaguchi will oversee the foundation’s
-    vision while managing external relationships, and Storchenegger will keep handling
-    legal and compliance matters.The board was responsible for selecting Wang and
-    Stańczak as executive directors — a decision they acknowledged was unconventional
-    — and they also have the power to terminate those positions.The Ethereum Foundation
-    has adopted a more active role in the Ethereum ecosystem in recent months, following
-    criticism from Synthetix founder Kain Warwick that the foundation “doesn’t care”
-    about decentralized finance innovation.Others in the Ethereum community previously
-    attributed the foundation’s lack of engagement and leadership to Ether’s (ETH)
-    poor price performance relative to Bitcoin (BTC) and Solana (SOL).Ethereum Foundation’s
-    main focus is scalingThe Foundation said its three main focus areas over the next
-    12 months would be to scale the Ethereum layer 1, scale blobs at the layer 2 level,
-    and improve user experience.Ethereum Foundation researcher Dankrad Feist and protocol
-    support Sophia Gold have already pitched proposals to to address Ethereum’s scaling
-    woes at the base layer under Ethereum Improvement Proposals-9678 and 9698. Both
-    EIPs look to raise the gas limit, which should theoretically raise Ethereum’s
-    transaction throughput by the same magnitude.Magazine: Ethereum is destroying
-    the competition in the $16.1T TradFi tokenization race\n\n            "
-  published: 2025-04-29 02:20:31.000000000 +01:00
-- title: " Tether still dominates stablecoins despite competition — Nansen "
-  url: https://cointelegraph.com/news/tether-still-dominant-despite-competition-nansen?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Despite growing competition from emerging issuers, the stablecoin market
-    remains largely dominated by a few key players. According to data from Web3 research
-    firm Nansen, Tether’s USDt (USDT) continues to lead among US dollar-pegged stablecoins,
-    even as competition intensifies.As of April 25, Tether has a roughly 66% market
-    share among stablecoins, compared to around 28% for USDC (USDC), Nansen said in
-    the April 25 report. Ethena’s USDe stablecoin ranks a distant third, touting a
-    market share of just over 2%. Nansen expects Tether’s lead to endure even as rivals
-    such as USDC clock faster growth rates. “With nearly 3x as many users as Uniswap
-    and 50+% more transactions than the next app, Tether is by and far the largest
-    use case of onchain activity,” Nansen said.“Despite the potential dispersion in
-    stables, we inevitably believe this is a ‘winner-takes-most’ market dynamic,”
-    the Web3 researcher added. Tether has 66% of stablecoin market share. Source:
-    NansenTether is also the most profitable stablecoin issuer, clocking nearly $14
-    billion in 2024 profits. The company earns revenue by accepting US dollars to
-    mint USDT and subsequently investing those dollars into highly liquid, yield-bearing
-    instruments such as US Treasury bills. “Given the growth of USDT and USDC, the
-    users are clearly expressing that they do not necessarily care about the yield
-    as they are forgoing it to Tether and Circle — they simply want access to the
-    most liquid and ‘stable’/ least-likely-to-depeg stablecoin out there,” Nansen
-    said.USDC has seen faster growth than USDT since November. Source: NansenCompetitive
-    landscapeAdoption of USDC has accelerated since November, when US President Donald
-    Trump’s election victory ushered in a more favorable US regulatory environment
-    for crypto, Nansen said. Circle’s US-regulated stablecoin has been “particularly
-    attractive to institutions requiring regulatory clarity,” the report said. But
-    USDC now faces “intensifying competition as major traditional financial institutions
-    (i.e., Fidelity, PayPal, and banks) enter the market,” Nansen said, adding that
-    stablecoins, including PayPal’s PYUSD and Ripple USD, are “rapidly gaining traction.” On
-    April 25, payment processor Stripe tipped plans to create a new stablecoin product
-    of its own after buying stablecoin platform Bridge last year. Despite its smaller
-    market share, Ethena's yield-bearing USDe stablecoin remains “competitive on most
-    fronts moving forward,” partly because of integrations across centralized exchanges
-    (CEXs) and decentralized finance (DeFi) protocols, the report said.Since launching
-    in 2024, Ethena’s stablecoin has generated an average annualized yield of approximately
-    19%, according to Ethena’s website. Magazine: Bitcoin payments are being undermined
-    by centralized stablecoins\n\n            "
-  published: 2025-04-28 22:45:00.000000000 +01:00
-- title: " Price predictions 4/28: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI "
-  url: https://cointelegraph.com/news/price-predictions-4-28-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-sui?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Key points:Bitcoin continues to face resistance at $95,000, but the possibility
-    of an upside breakout remains high.Solid spot Bitcoin ETF inflows do not always
-    signal a short-term top.Select altcoins are showing early signs of a short-term
-    trend change.Bitcoin (BTC) pierced the $95,000 resistance on April 28, but the
-    bulls are struggling to sustain the higher levels. This suggests that the bears
-    have not given up and are trying to defend the level. A minor positive in favor
-    of the bulls is that they have not ceded much ground to the bears. That improves
-    the prospects of a move toward $100,000.Another positive is that institutional
-    demand seems to be back, as seen from the solid $3.06 billion in net inflows into
-    US spot Bitcoin exchange-traded funds last week. Although some instances of high
-    spot Bitcoin ETF inflows have led to short-term price tops, that has not always
-    been the case. Hence, the high Bitcoin ETF inflows alone cannot be considered
-    a reason to turn negative.Crypto market data daily view. Source: Coin360Hedge
-    fund founder Dan Tapiero said in a post on X that the Federal Reserve is unlikely
-    to ignore the macro data signaling a rapid slowdown ahead. He expects increasing
-    market liquidity to catapult Bitcoin to $180,000 before the summer of 2026.What
-    are the essential levels to watch out for in Bitcoin and altcoins? Let’s analyze
-    the charts of the top 10 cryptocurrencies to find out.S&P 500 Index price predictionThe
-    S&P 500 Index (SPX) made a strong comeback last week and rose above the 20-day
-    exponential moving average (5,415).SPX daily chart. Source: Cointelegraph/TradingViewThe
-    index could reach the 50-day simple moving average (5,623), which is likely to
-    act as a minor hurdle. If buyers overcome it, the recovery could extend to 5,800.
-    Sellers are expected to mount a strong defense at the 5,800 level. Time is running
-    out for the bears. If they want to make a comeback, they will have to swiftly
-    pull the price back below the 20-day EMA. If they do that, the index could descend
-    to 5,300 and then to 5,119.US Dollar Index price predictionThe US Dollar Index
-    (DXY) plunged below the 99 level on April 21, but the bears could not maintain
-    the lower levels. DXY daily chart. Source: Cointelegraph/TradingViewHowever, a
-    minor positive in favor of the bears is that they have not allowed the price to
-    rise above the 100.27 overhead resistance. That suggests demand dries up at higher
-    levels. The downsloping moving averages and the relative strength index (RSI)
-    in the negative zone indicate that the bears have an edge. If the price skids
-    below 99, the index may retest the 97.92 level.The bulls will have to push and
-    maintain the price above the 20-day EMA (100.76) to indicate that the selling
-    pressure is reducing. The index may then surge toward the 50-day SMA (103.43).Bitcoin
-    price predictionBitcoin continues to face stiff resistance at $95,000, but the
-    tight consolidation near the crucial level increases the likelihood of a break
-    above it.BTC/USDT daily chart. Source: Cointelegraph/TradingViewThe upsloping
-    20-day EMA ($89,093) and the RSI near the overbought zone indicate that the bulls
-    are in control. A close above $95,000 could open the gates for a rally to $100,000.
-    Sellers are expected to vigorously defend the $100,000 level, but on the way down,
-    buyers will try to arrest the decline at $95,000.This optimistic view will be
-    invalidated in the near term if the price turns down and plunges below the 20-day
-    EMA. That could sink the BTC/USDT pair to the 50-day SMA ($85,085).Ether price
-    predictionEther (ETH) closed above the 50-day SMA ($1,792) on April 26, but the
-    bulls could not maintain the momentum.ETH/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    20-day EMA ($1,719) is the vital support to watch out for on the downside. If
-    the price bounces off the 20-day EMA with strength, the bulls will try to push
-    the ETH/USDT pair toward the breakdown level of $2,111. Sellers are expected to
-    defend the $2,111 level with all their might because a break above it may catapult
-    the pair to $2,550. On the downside, a break and close below the 20-day EMA suggests
-    that the bears remain in control. The ETH/USDT pair may then descend to $1,537.XRP
-    price predictionXRP (XRP) turned up from the 20-day EMA ($2.15) on April 27, signaling
-    a positive sentiment.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    XRP/USDT pair could reach the resistance line, which is a crucial level to watch
-    out for. A break and close above the resistance line indicates a potential trend
-    change. The pair could then rally to $3.On the contrary, if the price turns down
-    sharply from the resistance line and breaks below the moving averages, it suggests
-    that the bears are aggressively defending the level. That could keep the pair
-    stuck between the resistance line and $2 for a few more days.BNB price predictionBuyers
-    have managed to keep BNB (BNB) above the moving averages but are struggling to
-    start a strong rebound.BNB/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    flattish 20-day EMA ($597) and the RSI just above the midpoint do not give a clear
-    advantage either to the bulls or the bears. Buyers will have to push the price
-    above $620 to gain the upper hand. That could open the doors for a rally to $644
-    and subsequently to $680.Alternatively, a break and close below the moving averages
-    will strengthen the bears. The BNB/USDT pair may drop to $576 and then to $566,
-    where the buyers are expected to step in.Solana price predictionSolana (SOL) is
-    facing resistance in the $148 to $153 zone, but a positive sign is that the bulls
-    have not given up much ground.SOL/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    upsloping 20-day EMA ($139) and the RSI in the positive territory indicate the
-    path of least resistance is to the upside. A break and close above $153 clears
-    the path for a rally to $180.Sellers will have to pull the price below the 20-day
-    EMA to weaken the bullish momentum. The SOL/USDT pair may then slump to the 50-day
-    SMA ($130), suggesting a range formation in the near term.Related: Bitcoin could
-    hit $210K in 2025, says Presto research headDogecoin price predictionDogecoin
-    (DOGE) has dropped to the moving averages, signaling that the range-bound action
-    may continue for a while.  DOGE/USDT daily chart. Source: Cointelegraph/TradingViewIf
-    the price rebounds off the moving averages with strength, the bulls will attempt
-    to kick the DOGE/USDT pair above the $0.21 resistance. If they can pull it off,
-    the pair will complete a double-bottom pattern, which has a target objective of
-    $0.28.Instead, if the price turns down from $0.21, it suggests that the pair may
-    extend its stay inside the range. The bears will gain the upper hand if they sink
-    the price below the $0.14 support.Cardano price predictionCardano (ADA) has remained
-    above the moving averages, indicating that the bulls are buying the dips.ADA/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe moving averages are about to
-    complete a bullish crossover, and the RSI is in the positive zone, indicating
-    a slight advantage for the bulls. There is minor resistance at $0.75, but if the
-    level is crossed, the ADA/USDT pair could surge to $0.83. The first sign of weakness
-    will be a break and close below the moving averages. That suggests the bears remain
-    sellers on rallies. The pair could then drop to $0.58, which is likely to act
-    as support.Sui price predictionSui (SUI) has been trading just below the $3.90
-    resistance, indicating that the bulls have kept up the pressure.SUI/USDT daily
-    chart. Source: Cointelegraph/TradingViewThat increases the likelihood of a rally
-    above the overhead resistance. If that happens, the SUI/USDT pair could start
-    the next leg of the uptrend to $4.25 and later to $5.Contrary to this assumption,
-    if the price turns down from the overhead resistance and breaks below $3.35, it
-    signals that the bulls are booking profits. That could pull the price to the 38.2%
-    Fibonacci retracement level of $3.14 and then to the 20-day EMA ($2.77), which
-    is likely to attract buyers.This article does not contain investment advice or
-    recommendations. Every investment and trading move involves risk, and readers
-    should conduct their own research when making a decision.\n\n            "
-  published: 2025-04-28 19:35:00.000000000 +01:00

@@ -1,121 +1,122 @@
 ---
-- title: Evolving OpenAI's Structure
-  url: https://openai.com/index/evolving-our-structure/
+- title: 'Show HN: Clippy – 90s UI for local LLMs'
+  url: https://felixrieseberg.github.io/clippy/
   summary: Comments
-  published: 2025-05-05 18:08:02.000000000 +00:00
-- title: 'Show HN: Real-time AI Voice Chat at ~500ms Latency'
-  url: https://github.com/KoljaB/RealtimeVoiceChat
+  published: 2025-05-06 15:02:22.000000000 +00:00
+- title: FTC rule on unfair or deceptive fees to take effect on May 12
+  url: https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025
   summary: Comments
-  published: 2025-05-05 20:17:32.000000000 +00:00
-- title: Analyzing Modern Nvidia GPU Cores
-  url: https://arxiv.org/abs/2503.20481
+  published: 2025-05-06 10:10:52.000000000 +00:00
+- title: 'Launch HN: Exa (YC S21) – The web as a database'
+  url: https://news.ycombinator.com/item?id=43906841
   summary: Comments
-  published: 2025-05-05 23:38:56.000000000 +00:00
-- title: Replacing Kubernetes with systemd (2024)
-  url: https://blog.yaakov.online/replacing-kubernetes-with-systemd/
+  published: 2025-05-06 16:18:42.000000000 +00:00
+- title: Bloat is still software's biggest vulnerability (2024)
+  url: https://spectrum.ieee.org/lean-software-development
   summary: Comments
-  published: 2025-05-05 20:40:14.000000000 +00:00
-- title: "“An independent journalist” who won't remain nameless"
-  url: https://www.thehandbasket.co/p/independent-journalism-legacy-media-credit
+  published: 2025-05-06 23:33:54.000000000 +00:00
+- title: VVVVVV Source Code
+  url: https://github.com/TerryCavanagh/VVVVVV
   summary: Comments
-  published: 2025-05-03 18:53:40.000000000 +00:00
-- title: Possibly a Serious Possibility
-  url: https://kucharski.substack.com/p/possibly-a-serious-possibility
+  published: 2025-05-06 23:22:08.000000000 +00:00
+- title: OpenAI reaches agreement to buy Windsurf for $3B
+  url: https://www.bloomberg.com/news/articles/2025-05-06/openai-reaches-agreement-to-buy-startup-windsurf-for-3-billion
   summary: Comments
-  published: 2025-05-05 19:11:33.000000000 +00:00
-- title: How Kim Jong Il Kidnapped a Director, Made a Cult Hit Godzilla Knockoff (2015)
-  url: https://www.vanityfair.com/hollywood/2015/04/pulgasari-north-korea-cult-hit
+  published: 2025-05-06 00:57:48.000000000 +00:00
+- title: India launches attack on 9 sites in Pakistan and Pakistani Jammu and Kashmir
+  url: https://www.reuters.com/world/india/india-launches-attack-9-sites-pakistan-pakistan-occupied-jammu-kashmir-2025-05-06/
   summary: Comments
-  published: 2025-05-03 17:06:57.000000000 +00:00
-- title: Databricks in talks to acquire startup Neon for about $1B
-  url: https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon
+  published: 2025-05-06 20:41:47.000000000 +00:00
+- title: Sutton and Barto Book Implementation
+  url: https://github.com/ivanbelenky/RL
   summary: Comments
-  published: 2025-05-05 20:16:29.000000000 +00:00
-- title: 'Show HN: VectorVFS, your filesystem as a vector database'
-  url: https://vectorvfs.readthedocs.io/en/latest/
+  published: 2025-05-06 22:43:06.000000000 +00:00
+- title: 'Show HN: Whippy Term - GUI terminal for embedded development (Linux and
+    Windows)'
+  url: https://whippyterm.com
   summary: Comments
-  published: 2025-05-05 15:17:33.000000000 +00:00
-- title: How are cyber criminals rolling in 2025?
-  url: https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html
+  published: 2025-05-06 23:02:46.000000000 +00:00
+- title: Claude's system prompt is over 24k tokens with tools
+  url: https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt
   summary: Comments
-  published: 2025-05-05 15:33:57.000000000 +00:00
-- title: Technical analysis of the Signal clone used by Trump officials
-  url: https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/
+  published: 2025-05-06 20:39:35.000000000 +00:00
+- title: 'ACE-Step: A step towards music generation foundation model'
+  url: https://github.com/ace-step/ACE-Step
   summary: Comments
-  published: 2025-05-02 23:20:59.000000000 +00:00
-- title: 'Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL'
-  url: https://textquery.app/
+  published: 2025-05-06 20:38:00.000000000 +00:00
+- title: Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust
+  url: https://github.com/reubeno/brush
   summary: Comments
-  published: 2025-05-05 16:59:15.000000000 +00:00
-- title: Dimension 126 Contains Twisted Shapes, Mathematicians Prove
-  url: https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/
+  published: 2025-05-06 18:47:49.000000000 +00:00
+- title: Old Timey Code and Old Timey Mono Fonts
+  url: https://github.com/dse/old-timey-mono-font
   summary: Comments
-  published: 2025-05-05 15:34:56.000000000 +00:00
-- title: The vocal effects of Daft Punk
-  url: https://bjango.com/articles/daftpunkvocaleffects/
+  published: 2025-05-04 04:10:09.000000000 +00:00
+- title: The curse of knowing how, or; fixing everything
+  url: https://notashelf.dev/posts/curse-of-knowing
   summary: Comments
-  published: 2025-05-05 10:48:21.000000000 +00:00
-- title: As an experienced LLM user, I don't use generative LLMs often
-  url: https://minimaxir.com/2025/05/llm-use/
+  published: 2025-05-06 06:01:23.000000000 +00:00
+- title: Matt Godbolt sold me on Rust by showing me C++
+  url: https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/
   summary: Comments
-  published: 2025-05-05 17:22:40.000000000 +00:00
-- title: The Beauty of Having a Pi-Hole (2024)
-  url: https://den.dev/blog/pihole/
+  published: 2025-05-06 17:51:03.000000000 +00:00
+- title: Continue (YC S23) is hiring software engineers in San Francisco
+  url: https://www.ycombinator.com/companies/continue/jobs/smcxRnM-software-engineer
   summary: Comments
-  published: 2025-05-05 12:06:11.000000000 +00:00
-- title: 'Show HN: Tkintergalactic - Declarative Tcl/Tk UI Library for Python'
-  url: https://github.com/leontrolski/tkintergalactic
+  published: 2025-05-06 21:01:57.000000000 +00:00
+- title: Gemini 2.5 Pro Preview
+  url: https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/
   summary: Comments
-  published: 2025-05-05 18:02:20.000000000 +00:00
-- title: Determining favorite t-shirt color using science
-  url: https://ostwilkens.se/blog/determining-favorite-shirt-color
+  published: 2025-05-06 15:10:00.000000000 +00:00
+- title: Jury orders NSO to pay $167M for hacking WhatsApp users
+  url: https://arstechnica.com/security/2025/05/jury-orders-nso-to-pay-167-million-for-hacking-whatsapp-users/
   summary: Comments
-  published: 2025-05-03 12:18:46.000000000 +00:00
-- title: Kate and Python Language Server
-  url: https://akselmo.dev/posts/kate-python-lsp/
+  published: 2025-05-07 00:54:19.000000000 +00:00
+- title: Creativity came to pass
+  url: https://vale.rocks/posts/creativity-came-to-pass
   summary: Comments
-  published: 2025-05-02 22:27:35.000000000 +00:00
-- title: The Death of Daydreaming
-  url: https://www.afterbabel.com/p/on-the-death-of-daydreaming
+  published: 2025-05-07 00:28:46.000000000 +00:00
+- title: 'Accents in latent spaces: How AI hears accent strength in English'
+  url: https://accent-strength.boldvoice.com/
   summary: Comments
-  published: 2025-05-05 12:22:10.000000000 +00:00
-- title: 'Show HN: Klavis AI – Open-source MCP integration for AI applications'
-  url: https://github.com/Klavis-AI/klavis
+  published: 2025-05-06 14:07:57.000000000 +00:00
+- title: Nnd – a TUI debugger alternative to GDB, LLDB
+  url: https://github.com/al13n321/nnd
   summary: Comments
-  published: 2025-05-05 15:52:37.000000000 +00:00
-- title: Instant (YC S22) Is Hiring a Founding TypeScript Engineer
-  url: https://www.instantdb.com/hiring/ts-hacker
+  published: 2025-05-06 13:58:03.000000000 +00:00
+- title: Reverse-engineering Fujitsu M7MU RELC hardware compression
+  url: https://op-co.de/blog/posts/fujitsu_relc_compression/
   summary: Comments
-  published: 2025-05-05 17:00:26.000000000 +00:00
-- title: I decided to pay off a school’s lunch debt
-  url: https://www.huffpost.com/entry/utah-school-lunch-debt-relief-free-student-meals_n_681258fbe4b03207b5ba49fa
+  published: 2025-05-05 16:41:04.000000000 +00:00
+- title: Is Planet Nine Alone in the Outer System?
+  url: https://www.centauri-dreams.org/2025/05/06/is-planet-nine-alone-in-the-outer-system/
   summary: Comments
-  published: 2025-05-04 07:13:47.000000000 +00:00
-- title: New electronic "skin" could enable lightweight night-vision glasses
-  url: https://news.mit.edu/2025/new-electronic-skin-could-enable-lightweight-night-vision-glasses-0423
+  published: 2025-05-06 17:29:31.000000000 +00:00
+- title: iOS Kindle app now has a ‘get book’ button after changes to App Store rules
+  url: https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books
   summary: Comments
-  published: 2025-05-02 14:35:30.000000000 +00:00
-- title: Geometrically understanding calculus of inverse functions (2023)
-  url: https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1
+  published: 2025-05-06 20:41:51.000000000 +00:00
+- title: Sneakers (1992) – 4K makeover sourced from the original camera negative
+  url: https://www.blu-ray.com/movies/Sneakers-4K-Blu-ray/343185/
   summary: Comments
-  published: 2025-05-05 15:01:30.000000000 +00:00
-- title: History of "Adventure" for the Atari 2600
-  url: https://www.atariarchive.org/blog/adventure-march-1980/
+  published: 2025-05-06 06:15:13.000000000 +00:00
+- title: 'Show HN: Plexe – ML Models from a Prompt'
+  url: https://github.com/plexe-ai/plexe
   summary: Comments
-  published: 2025-05-05 14:01:34.000000000 +00:00
-- title: A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory
-  url: https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html
+  published: 2025-05-06 15:38:04.000000000 +00:00
+- title: Will Supercapacitors Come to AI's Rescue?
+  url: https://spectrum.ieee.org/supercapacitor-2671883490
   summary: Comments
-  published: 2025-05-05 14:37:51.000000000 +00:00
-- title: You can't git clone a team
-  url: https://virtualize.sh/blog/you-cant-git-clone-a-team/
+  published: 2025-05-06 19:30:58.000000000 +00:00
+- title: Can Speed Radar Measure Music? [video]
+  url: https://www.youtube.com/watch?v=CA79t0bYAjw
   summary: Comments
-  published: 2025-05-05 14:39:48.000000000 +00:00
-- title: AWS Built a Security Tool. It Introduced a Security Risk
-  url: https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk
+  published: 2025-05-04 20:20:58.000000000 +00:00
+- title: The DEA is now abandoning body cameras
+  url: https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump
   summary: Comments
-  published: 2025-05-05 11:37:04.000000000 +00:00
-- title: 'Show HN: Bracket – selfhosted tournament system'
-  url: https://github.com/evroon/bracket
+  published: 2025-05-06 23:28:37.000000000 +00:00
+- title: 'Alignment is not free: How model upgrades can silence your confidence signals'
+  url: https://www.variance.co/post/alignment-is-not-free-how-a-model-silenced-our-confidence-signals
   summary: Comments
-  published: 2025-05-05 14:20:04.000000000 +00:00
+  published: 2025-05-06 23:22:49.000000000 +00:00
