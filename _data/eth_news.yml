@@ -1,60 +1,357 @@
 ---
 - title: " Here’s what happened in crypto today "
   url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, Robinhood is planning a new blockchain for tokenized
-    securities offering in Europe. Meanwhile, Ethereum developers have activated the
-    network’s Pectra upgrade, introducing smart accounts and other features. In US
-    politics, Democrats have launched a new offensive targeting Donald Trump’s crypto
-    ventures.Robinhood plans blockchain for US asset trading in Europe — ReportBrokerage
-    fintech Robinhood is reportedly developing a blockchain network that will enable
-    retail investors in Europe to trade US securities.According to a May 7 Bloomberg
-    report citing sources familiar with the matter, the move seeks to expand the company's
-    local presence by offering trading of tokenized securities, such as stocks.Two
-    crypto firms, Arbitrum and the Solana Foundation, are reportedly vying to become
-    partners in the project. Tokenization is the process of turning real-world assets,
-    like stocks, real estate, or commodities, into digital tokens that can be traded
-    on a blockchain.Tokenizing securities instead of providing direct exposure can
-    offer several advantages: reduced costs by eliminating traditional financial infrastructure,
-    enhanced accessibility, faster settlement times, and quicker transactions. More
-    brokerages and investment firms are exploring asset tokenization.Robinhood has
-    been preparing to enter the European market. In April 2025, it acquired a brokerage
-    license in Lithuania that allows the firm to offer investment services throughout
-    the European Union. Robinhood has also inked a deal in 2024 to purchase crypto
-    exchange Bitstamp.Ethereum’s “Pectra” network upgrade goes liveEthereum — the
-    network that unleashed smart contracts on the world — moves on to the next chapter
-    with today’s Pectra upgrade, but what does it mean?Pectra went live on the Ethereum
-    mainnet at the start of epoch 364032, May 7, 2025, at about 10:00 am UTC. The
-    three main EIPs included are EIP-7702, EIP-7251 and EIP-7691.Source: Ethereum.orgEIP-7702
-    allows externally owned accounts to act as smart contracts and cover gas expenses
-    (transaction fees) and payments in tokens that are not Ether (ETH). EIP-7251 increases
-    the validator staking limit from 32 ETH to 2,048 ETH, which makes operations for
-    large stakers easier and simpler.Finally, EIP-7691 increases the number of data
-    blobs per block, which allows for better layer-2 scalability and potentially significantly
-    reduces transaction fees. Sergej Kunz, co-founder of Ethereum decentralized exchange
-    (DEX) aggregator 1inch, said Pectra “introduces ‘smart account’ functionality”
-    at deeper protocol levels and “improves Ethereum’s scalability” through layer-2
-    solutions.Democrats aim at Trump’s crypto profits with a 3-prong pincer moveUS
-    Democrat lawmakers have launched a multi-angle attack on President Donald Trump’s
-    crypto ventures with two bills and a subcommittee inquiry aimed at cutting his
-    ability to profit from the initiatives.   The Modern Emoluments and Malfeasance
-    Enforcement Act, or the MEME Act, aims to prevent federal officials from using
-    their position to profit from memecoins, Democrat Senator Chris Murphy said in
-    a May 6 statement. With his cryptocurrency schemes, Trump is putting a for sale
-    sign in front of the White House. That’s why, as Ranking Member of the Permanent
-    Subcommittee on Investigations, I’m launching an inquiry into this brazen corruption
-    whose scope & scale is staggering. pic.twitter.com/3SiaCrthN8— Richard Blumenthal
-    (@SenBlumenthal) May 6, 2025If passed, the MEME Act prohibits the president, vice
-    president, members of Congress, senior executive branch officials, their spouses
-    and children from issuing, sponsoring, or promoting a security, future, commodity,
-    or digital asset, according to the bill’s description. US Representative Sam Liccardo,
-    another Democrat, introduced companion legislation in the House of Representatives.
-    However, Trump’s party, the Republicans, controls both chambers, and the legislation
-    will need Republican support. Meanwhile, Democratic Senator Richard Blumenthal,
-    a ranking member of the Permanent Subcommittee on Investigations (PSI), said in
-    a May 6 statement that the committee is opening a preliminary inquiry into the
-    Official Trump (TRUMP) token, Trump-backed platform World Liberty Financial (WLFI),
-    and other associated business ventures. \n\n            "
-  published: 2025-05-07 23:22:01.000000000 +01:00
+  summary: "Today in crypto, Democrats in the United States block the GENIUS stablecoin
+    bill from advancing, Coinbase has agreed to acquire crypto options trading platform
+    Deribit in a deal worth $2.9 billion, Arizona’s governor signed a “Bitcoin Reserve
+    Fund” into law.GENIUS stablecoin bill blocked in US SenateThe Guiding and Establishing
+    National Innovation for US Stablecoins (GENIUS) of 2025 Act was blocked by Democrat
+    lawmakers in the Senate on May 8, stalling the bill's progress.Although the bill
+    initially received bipartisan support from US lawmakers, Democrats opposed the
+    bill last minute due to concerns over President Donald Trump pushing crypto policies
+    for self-benefit.Senior officials in the Trump administration have repeatedly
+    stated that using stablecoins to protect the US dollar's global reserve status
+    was a key policy objective.Following the stalling of the GENIUS stablecoin bill
+    in the Senate, Treasury Secretary Scott Bessent wrote:\"This bill represents a
+    once-in-a-generation opportunity to expand dollar dominance and US influence in
+    financial innovation. Without it, stablecoins will be subject to a patchwork of
+    state regulations instead of a streamlined federal framework.\"The Treasury Secretary
+    added that if the US does not encourage innovation in digital assets then crypto
+    firms will move offshore.Source: Scott BessentCoinbase to acquire options trading
+    platform Deribit for $2.9 billionCoinbase, the largest cryptocurrency exchange
+    in the US by trading volume, has agreed to acquire Deribit, one of the world’s
+    biggest crypto derivatives trading platforms.Coinbase Global will acquire Deribit
+    for about $2.9 billion, the exchange announced on May 8.The acquisition will allow
+    Coinbase to expand into the profitable crypto derivatives market and continue
+    scaling the platform’s global growth, Greg Tusar, Coinbase’s vice president of
+    institutional product, said in the announcement.“With Deribit’s strong presence
+    and professional client base, Coinbase is making its most substantial move yet
+    to accelerate our international growth strategy,” he said.Source: CoinbaseThe
+    $2.9 billion deal includes $700 million in cash and 11 million shares of Coinbase
+    Class A common stock, subject to customary purchase price adjustments.“This transaction
+    is subject to regulatory approvals and other customary closing conditions and
+    is expected to close by year-end,” the announcement said.Previous reports in March
+    suggested that Coinbase and Deribit had alerted regulators in Dubai about the
+    potential deal, as Deribit holds a license in Dubai, which would need to be transferred
+    to Coinbase if the deal is successful.Arizona gets a crypto stockpileArizona Governor
+    Katie Hobbs signed a bill into law on May 7 that allows the state to keep  crypto
+    that’s been unclaimed for at least three years to put into a “Bitcoin and Digital
+    Assets Reserve Fund.”House Bill 2749 allows Arizona to claim ownership of abandoned
+    digital assets if the owner fails to respond to communications within three years.
+    The state’s custodians can stake the crypto to earn rewards or get airdrops.House
+    Representative Jeff Weninger, who sponsored the bill, said it “ensures Arizona
+    doesn’t leave value sitting on the table.” Source: Jeff WeningerHobbs had vetoed
+    a similar Bitcoin (BTC) reserve bill, Senate Bill 1025, which would have allowed
+    the state to invest seized funds into Bitcoin, citing concerns over using public
+    funds for \"untested assets.”Meanwhile, on the same day, a Texas House Committee
+    passed a Republican-backed bill to create a Bitcoin reserve in a 9-4 vote down
+    party lines, which now only needs a successful full floor vote before heading
+    to Governor Greg Abbott’s desk.\n\n            "
+  published: 2025-05-08 22:53:27.000000000 +01:00
+- title: " Are layer 2s good for Ethereum, or are they ‘extractive?’ "
+  url: https://cointelegraph.com/news/layer-2s-good-for-ethereum-or-extractive?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Layer 2s have been a great blockchain success story. They’ve reduced congestion
+    on the Ethereum mainnet, driving down gas fees while preserving security.But maybe
+    they’ve become too successful, drawing chain activity and fee income from the
+    parent that spawned them? At least that’s what some are suggesting lately, most
+    recently at Cornell Tech’s blockchain conference in late April.Indeed, some think
+    Ethereum should be a little greedier, or at least fight harder for a bigger part
+    of the revenue pie, particularly sequencing fees. “People in the Ethereum Foundation
+    [the nonprofit that supports the Ethereum ecosystem] will tell you that, ‘Yes,
+    we effed up by being too ivory tower.’ I have heard that multiple times,” said
+    David Hoffman, an owner at Bankless, during a panel discussion at the Cornell
+    Tech event in New York City on April 25. Hoffman, left, at Cornell Tech’s blockchain
+    conference. Source: Andrew SingerElsewhere, Hoffman has urged Ethereum to make
+    a “strategic pivot,” noting that the crypto environment has changed in the last
+    few years. Ethereum no longer has the “luxury of being a peace-time research project….
+    exploited by its competition.”L2s are reaping millions of dollars in transaction
+    order fees (sometimes called sequencing fees), but none of these revenues are
+    being passed on to Ethereum, according to James Beck, head of growth at ENS Labs
+    and another speaker at the New York City conference. Beck told Cointelegraph:So,
+    this cultural layer of podcasters and researchers are saying, ‘Well, the price
+    of ETH has been dropping compared to these other tokens. What do we do to make
+    Ethereum more powerful?’In short, Ethereum is a neutral verification layer, but
+    the Ethereum mainnet is not being fairly compensated for the work that it is doing.
+    Centralized for-profit L2s like Base, Optimism and Arbitrum are gathering the
+    lucrative sequencing fees while enjoying the security and liveness guarantees
+    of the Ethereum mainnet at relatively little economic cost.L2s soared after Dencun
+    upgradeL2 rollups are a recent innovation; they only emerged in 2023. The idea
+    was to reduce chain congestion and gas fees by moving transaction processing from
+    the main blockchain (layer 1) to separate chains that sit atop the mainnet (L2s).
+    But transaction processing is arguably the most profitable part of the revenue
+    game, especially when users opt to pay priority fees to get their orders processed
+    faster.Fee-sharing was rarely much of an issue before Ethereum’s March 2024 Dencun
+    upgrade, which introduced blob transactions to help scale layer 2s. Blobs significantly
+    reduced the cost for L2s to post data to Ethereum, allowing them to operate more
+    profitably, CoinMetrics researcher analyst Tanay Ved told Cointelegraph this week. Since
+    then, L2 user demand has soared, especially on Base, the L2 launched by Coinbase
+    in August 2023 on the Ethereum mainnet. As Ved noted in an April 8 blog, Base
+    has earned a total of ~$98 million in revenues from user-transaction fees (including
+    base and priority fees), “while paying only ~$4.9M to the Ethereum base layer,
+    resulting in a total estimated profit of $94M since the Dencun upgrade.” Ved added:This
+    dynamic has led to many questioning whether Layer-2s are net positive for Ethereum,
+    or whether they are ‘extractive.Base’s responseAsked about fees, a Base spokesperson
+    told Cointelegraph, “Today, Base already pays Ethereum fees for every transaction
+    on Base. All transactions are settled on Ethereum, and so far, Base has paid Ethereum
+    more than $20 million in settlement fees since Base’s inception.” One can see
+    these fees on Token Terminal under “cost of revenue,” the spokesperson added. “Overall,
+    Base makes getting onchain more accessible with fast and cheap transactions and
+    helps grow the Ethereum ecosystem by onboarding more users, builders, apps and
+    assets, all of whom are transacting in ETH and driving demand,” said the spokesperson.Related:
+    Institutions break up with Ethereum but keep ETH on the hookHowever, in many,
+    if not most months, Base’s overall fees are roughly 10 times the amount paid to
+    Ethereum for settling trades, according to examination of the referenced Base
+    financial statement. In April, for instance, the most recent full month, Base
+    reaped $3.7 million in fees, but only $305,000 was delivered to Ethereum as settlement
+    fees — about 8% of total fees.Still, maybe things aren’t quite so dire. Even if
+    fees are out of kilter now, the imbalance may not last, others caution. Ethereum
+    hard forks like Pectra, which went live yesterday (May 7), and Fusaka, scheduled
+    for late 2025, will increase blob throughput. “This means L2s will be able to
+    post more blobs, potentially driving higher total blob fees to mainnet,” Ved told
+    Cointelegraph. Ethereum is already consistently hitting the current blob target
+    of three per block, as the chart below shows. “Pectra will raise this to six blobs
+    per block — with a max of nine — creating room for increased fee capture as L2
+    activity scales,” added Ved.Average blobs per block and their total blob fees
+    (USD) on Ethereum. Source: CoinMetricsAre “based rollups” the answer?Some Ethereum
+    researchers, podcasters — and even L2s — have been leaning into “based rollups”
+    as a more permanent way to fix the fee problem and provide better security in
+    the bargain. Here, transaction ordering (i.e., sequencing) would be done on the
+    mainnet, not on L2s.The sequencers used by Optimism, Arbitrum One, Base and others
+    are more prone to attack or failure, given that they are centralized, with a single
+    point of failure, some researchers say. Polygon’s Jarrod Ward writes:If a centralized
+    sequencer goes down, the rollup effectively stops doing its job entirely. It stops
+    handling transactions from users on the L2 and also stops sending batch data back
+    to Ethereum.“Layer-2 sequencers have become dangerously centralized,” added Tom
+    Ngo, executive lead at Metis — an Ethereum layer-2 blockchain. Last June’s $2.6-million
+    hack of Ethereum layer-2 blockchain Linea drove home to Ngo and others the importance
+    of decentralization and the perils of centralized sequencers. Related: ‘Vitalik:
+    An Ethereum Story’ is less about crypto and more about being humanSeveral based-rollup
+    L2s have launched this past year. Taiko Alethia, the first and largest, went live
+    in May 2024. A year later, it had $148.3 million in total value secured — ranking
+    14th on L2Beat’s list of L2s, though far behind leader Base’s $12.06 billion. Top
+    Ethereum layer 2s ranked by total value secured. Source: L2BeatSpeedwise, Taiko
+    was averaging a respectable 20.3 user operations per second (UOPS) on May 7, a
+    far cry from Base’s 86.3 UOPS, but on par with Arbitrum One’s (21.6 UOPS) and
+    significantly better than Optimism’s (10.3 UOPS).A tax on L2s?Another idea floated
+    in the Ethereum community is imposing a sort of tax on L2s. But doing this could
+    have some unintended consequences, according to Ved. It could make L2s less competitive.
+    It also risks “leakage of activity to competing layer 1s outside the Ethereum
+    ecosystem.” Activity that flows to Base today could flow instead to Solana or
+    other L1s, Ved said.There could be philosophical issues, too, were Ethereum to
+    lay a surcharge on its L2s. Ved noted:A tax could be seen as contrary to Ethereum’s
+    ethos of decentralization, which would opt for market-driven forces rather than
+    enforcing a tax. Generally speaking, the Ethereum Foundation seems to be prioritizing
+    long-term growth over short-term revenue, Ved explained. Proposals like EIP-7762,
+    though, which raises the minimum blob base fee to speed up price discovery during
+    demand surges, could drive more fee income to Ethereum mainnet, having an effect
+    like a tax. Social pressure?According to ENS Labs’ Beck, it may take some social
+    pressure to get the leading centralized L2s to voluntarily give up their sequencing
+    fees. Other L2s like Linea may need to step in and say to centralized L2s something
+    along the lines of: “Look, you guys have these risks inherent in a more centralized
+    design, and here’s the chance to bake [the order processing] into Ethereum, which
+    is more decentralized.”Along these lines, ENS took part in a three-day workshop
+    in the UK in January with leading researchers and developers from entities like
+    Linea, Status, OpenZeppelin, Titan, Spire Labs and the Ethereum Foundation. The
+    immediate task was how to create scalable, decentralized infrastructure for ENS
+    Labs’ Namechain, but also to bring together various Ethereum ecosystem teams to
+    collaboratively solve L2 interoperability challenges with based rollups. It’s
+    not always easy to get things done in a flat (non-hierarchical), multi-voice entity
+    like Ethereum, Beck acknowledges. “Ethereum is a decentralized ecosystem. You
+    can’t get everyone on the same page all at once.” But a collaboration like the
+    recent one that took place in the UK is a start. Cornell Tech conference panelist
+    Hoffman expressed some confidence that Ethereum could pivot and “turn the layer
+    1 into a rollup” with processing speeds comparable to today’s L2s. As noted, Hoffman
+    has criticized the Ethereum Foundation for being too insular and academic, but
+    he sees signs that things may be changing now, writing recently:The appointment
+    of co-executive directors Tomasz Stańczak and Hsiao-Wei Wang marks a new era of
+    accountability, direction, and internal cohesion.“I’m feeling optimistic,” added
+    Beck. “Ethereum still has the most assets locked for DeFi; the most stablecoins
+    are on Ethereum. BlackRock has a fund that’s settling on Ethereum.” Put another
+    way, Ethereum is still well-positioned to provide the infrastructure for the “network
+    of networks” — i.e., the smoothly interacting network of multitudinous private
+    and public blockchains that many hope will be the technology’s future.Magazine:
+    12 minutes of nail-biting tension when Ethereum’s Pectra fork goes live\n\n            "
+  published: 2025-05-08 18:00:00.000000000 +01:00
+- title: " Ethereum price finally ‘breaking out,’ data suggests — Is $3K ETH next? "
+  url: https://cointelegraph.com/news/ethereum-price-finally-breaking-out-data-suggests-3-k-eth-is-next?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Key takeaways:Ether breaks multimonth downtrend as traders target $3,000
+    ETH price.Ethereum TVL surges 41% to $52.8 billion in 30 days, with a 22% rise
+    in daily transactions to 1.34 million, signaling strong network recovery.Technicals
+    show ETH price faces major resistance at $2,100-$2,800.Ether is setting up for
+    a recovery toward the $3,000 psychological level, backed by recovering network
+    activity, increasing TVL, and strong technicals. Ether price seeks a return to
+    $3KEther (ETH) looks to end its downtrend that has been in play since mid-December
+    after it turned away from its 10-month high of $4,100.Crypto technical analyst
+    Mikybull Crypto shared a chart showing the ETH price breaking above a six-month
+    descending trendline, with $2,000 and $2,250 being key resistance levels to watch,
+    saying:“ETH breaking out.”Ether’s price broke above the downtrend line at $1,600
+    on April 22 when cooling macroeconomic tensions sparked a marketwide recovery. Related:
+    Pectra features already in use: Ethereum EIP-7702 wallets roll outThe 50-day simple
+    moving average (SMA) at $1,775 is now acting as immediate support for Ether’s
+    price. The relative strength index has risen sharply, jumping from 56 to 66 over
+    the last 24 hours, suggesting bullish momentum is picking up. ETH/USD daily chart.
+    Source: Cointelegraph/TradingViewKey levels to watch on the upside are the 100-day
+    SMA at $2,100 and the supplier congestion zone between $2,500 and $2,800, where
+    the 200-day SMA lies. Overcoming these barriers will likely push ETH prices higher,
+    with $3,000 representing the short-term target for the bulls.Crypto analyst Crypto
+    Claws said the ETH/USD pair was “primed for a bullish reversal,” setting the upside
+    target between $2,500 and $3,500. $ETHUSD 1D chart looking primed for a massive
+    bullish reversal! Potential short-term dip to $1450, but that's just fuel for
+    the next leg up. Targets: $2500, then $3500!  Get ready for a significant price
+    surge!  #Ethereum #Bullrun2025 #Crypto pic.twitter.com/MXLBOIRmYF— Crypto Claws
+    (@cryptoclaws_) May 7, 2025Meanwhile, Crypto Salamanca told his X followers that
+    with the latest Pectra upgrade-fueled momentum, “ETH could target $2,150–$2,700
+    in the coming weeks.”Ethereum onchain metrics show strengthEthereum remains the
+    largest layer-1 blockchain based on the total value locked (TVL) and ranks second
+    in DEX volumes. Ethereum’s TVL has risen from $44.5 billion on April 9 to $52.8
+    billion on May 8.ETH TVL and transaction count. Source: DefiLlamaAdditional positive
+    signs include a 50% increase in deposits on BlackRock BUIDL, a digital liquidity
+    fund application, a 33% increase in Spark and 25% growth in Ether.fi.Ethereum’s
+    daily transaction count has increased by 22% over the last month to 1.34 million
+    transactions.  However, the 95% drop in Ethereum fees year-to-date suggests that
+    Ethereum’s rise to $3,000 might take longer than traders may wish.Ethereum network’s
+    daily fees. Source: DefiLlamaLow transaction activity on Ethereum reduces ETH
+    burning, making it inflationary as new coins issued for staking rewards outpace
+    the network’s burn mechanism.In addition, US-listed spot Ether ETFs saw $39.7
+    million in net outflows between May 5 and May 7, while similar BTC instruments
+    experienced net inflows of $482 million over the same period, adding to recovery
+    concerns.This article does not contain investment advice or recommendations. Every
+    investment and trading move involves risk, and readers should conduct their own
+    research when making a decision.\n\n            "
+  published: 2025-05-08 13:18:54.000000000 +01:00
+- title: " Pectra features already in use: Ethereum EIP-7702 wallets roll out "
+  url: https://cointelegraph.com/news/ethereum-wallets-integrate-eip7702-account-abstraction?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The Ethereum Pectra upgrade introduced a significant upgrade in account
+    abstraction accessibility, with multiple wallets already implementing the change.Pectra
+    introduced Ethereum Improvement Proposal (EIP) 7702, a change that Ivo Georgiev,
+    founder and CEO of self-custodial smart wallet Ambire, described as “the single
+    greatest UX upgrade to Ethereum so far.” Ambire is among the wallet providers
+    that have already rolled out support for the new features since Pectra went live
+    yesterday.Ambire’s announcement shared with Cointelegraph explains that EIP-7702
+    brings smart account functionality to existing user accounts, letting them temporarily
+    act as smart contracts. This results in the advantages of account abstraction
+    being accessible without creating new dedicated onchain addresses, rendering the
+    transition of existing addresses possible.Another wallet that launched new features
+    was Trust Wallet, allowing users to pay gas (transaction fees) in tokens such
+    as stablecoins instead of Ether (ETH). The new wallets are also programmable and
+    still ensure self-custody.Source: Trust WalletRelated: AI and account abstraction
+    keys to mass Web3 adoption: X Spaces recap with Plena FinanceAmbire’s take on
+    the updateAccording to an Ambire announcement shared with Cointelegraph, key features
+    users can now enjoy without switching accounts include a crosschain by default
+    architecture, with one dashboard showing balances on all chains. One wallet can
+    be used across all blockchains, gas fees are abstracted and the system uses a
+    decentralized finance (DeFi) aggregator Li.Fi for its swap and bridging needs.The
+    company also promises transaction simulation across all supported chains, scam
+    application detection and minimal token approvals. This statement follows some
+    developers raising concerns that EIP-7702 provided a new avenue for phishing campaigns
+    to empty entire wallets at once.Ambire also claimed that it does not rely on third-party
+    services, allowing for better privacy features and higher reliability (no third
+    party whose outage will result in a wallet outage). The firm also said that the
+    new accounts are more accessible to AI agents:“Account programmability enables
+    AI agents to act upon your account in the future to enhance your portfolio yield,
+    save your DeFi positions, claim airdrops automatically and more.”Georgiev claimed
+    that Ambire’s offering is the first on the market since Trust Wallet announced
+    that it will be “live soon.” Ambire’s updated system was deployed minutes after
+    the update during a live X conference.Related: How smart accounts and account
+    abstraction can unlock Ethereum’s full utilityTrust Wallet’s new systemsTrust
+    Wallet’s announcement describes the upgrade as the biggest since Ethereum’s full
+    transition to proof-of-stake in the “merge” event. The firm’s CEO, Eowyn Chen,
+    said:“EIP-7702 changes the game.”Trust Wallet promises its users will be able
+    to pay fees in tokens that are not Ether and bundle multiple actions in one transaction,
+    for instance, approving, swapping and signing a transaction all at once. The new
+    wallet will also support sponsored transactions where third parties can cover
+    gas fees to onboard new users and automated actions such as subscriptions, dollar-cost
+    averaging and more.All those features will become available to existing users
+    without re-creating new accounts with new seed phrases. Like Ambire, Trust Wallet
+    also developed its account abstraction infrastructure in-house, minimizing data
+    sharing and reliance on third parties.“Our vision is to evolve wallets from static
+    key holders into intelligent, user-friendly agents,” Chen said.Magazine: They
+    solved crypto’s janky UX problem — you just haven’t noticed yet\n\n            "
+  published: 2025-05-08 11:35:49.000000000 +01:00
+- title: " Can you mine Bitcoin with a gaming PC? Here’s what you need to know "
+  url: https://cointelegraph.com/explained/can-you-mine-bitcoin-with-a-gaming-pc?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "                            Is your gaming PC capable of mining crypto?
+    \                                       As of May 2025, Bitcoin mining is looking
+    attractive again. With Bitcoin (BTC) trading around $95,000 and transaction fees
+    hitting new highs after the 2024 halving, mining rewards — though smaller — are
+    worth chasing. From home setups to industrial-scale farms, the question of whether
+    Bitcoin mining is profitable is back in the spotlight.And if you’re a gamer, chances
+    are you’ve looked at your rig and wondered: Can a gaming PC mine crypto? After
+    all, modern gaming computers are packed with powerful GPUs, solid cooling and
+    lots of downtime, especially if you’re not gaming daily. It’s a fair question:
+    Can you mine Bitcoin with a gaming PC?The short answer: Yes, but it won’t be worth
+    it. The long answer: Understanding Bitcoin miningMining is the process that adds
+    new BTC to circulation. More importantly, it’s how the Bitcoin network stays secure
+    and functions without a central authority. Every time someone sends or receives
+    Bitcoin, miners verify and record that transaction.This is all powered by proof-of-work
+    (PoW), a consensus mechanism where miners race to encode transactions in a format
+    that is acceptable to the network. It’s essentially just a massive guessing game,
+    where miners try different inputs until one generates a hash with enough leading
+    zeroes to meet the network’s current difficulty target.For example, a valid Bitcoin
+    block might start with something like 00000000000000000000956e9ff76455.... The
+    first miner to hit that valid hash wins the reward: currently 3.125 BTC, plus
+    transaction fees.The issue is, to generate that many leading zeroes in 2025, you’re
+    looking at around 10³¹ hash attempts on average to produce a valid hash.As you
+    can imagine, that takes a lot of power.Did you know? The energy used to mine a
+    single Bitcoin block today could power an average US household for over 10 years.
+    That’s the cost of making sure the network stays decentralized and tamper-proof.
+    \                                               From CPUs to ASICs: How mining
+    hardware evolved                                        It didn’t use to be this
+    hard to mine Bitcoin. As more miners joined the network and the total computing
+    power surged, the protocol automatically ramped up the difficulty. That’s by design.
+    Bitcoin adjusts to keep block times steady at around 10 minutes, no matter how
+    much horsepower is thrown at it.Back in 2009, Bitcoin mining for beginners meant
+    using a regular laptop CPU. Then came the rise of GPUs — graphics cards originally
+    built for gaming — which dramatically improved mining performance.But then came
+    ASICs, application-specific integrated circuits, designed solely to mine Bitcoin.
+    These machines are vastly more powerful and energy-efficient than any GPU. By
+    2015, they had effectively taken over the mining scene.Fast forward to 2025: ASICs
+    still reign supreme. If you’re wondering about the best setup for mining Bitcoin
+    on PC, know that ASIC vs. GPU mining isn’t a fair fight anymore. That doesn’t
+    mean your gaming rig is useless, but it does mean you’ll want to consider alternative
+    strategies.Did you know? After Sept. 30, 2025, 4GB GPUs will no longer work due
+    to DAG size limits.                                                 Gaming PCs
+    vs. ASIC miners                                        Bitcoin mining with a gaming
+    PC, even with a high-end GPU like the RTX 4090, is inefficient and unlikely to
+    be profitable due to low performance, high energy costs and hardware wear-and-tear
+    compared to ASIC miners.Performance: Can your GPU keep up?Let’s say you’re using
+    an Nvidia GeForce RTX 4090 — top of the line. Sounds heavy-duty, right?Not for
+    Bitcoin GPU mining.That card might do well on other algorithms like Ethash (used
+    in Ethereum Classic), but when it comes to Bitcoin’s SHA-256, it barely scratches
+    the surface. Even the mighty RTX 4090 gets crushed by ASICs. A high-end ASIC like
+    the Antminer S21 Pro pumps out 200 terahashes per second (TH/s) — that’s trillions
+    of hashes per second, compared to maybe a few hundred megahashes per second from
+    a GPU. That’s a millionfold difference.Efficiency: The electricity bill tells
+    the real storyLet’s talk about power. A GPU like the 4090 pulls around 450 watts.
+    But the hashing performance it delivers is minuscule compared to the watts consumed.
+    ASICs, by contrast, draw more power (e.g., 3,500 watts) but deliver far better
+    output — roughly 17.5 joules per terahash.In short, even if you’re mining Bitcoin
+    on a gaming PC 24/7, the energy cost per dollar earned is painful. Is Bitcoin
+    mining profitable with a gaming PC? Not really. Especially when you factor in
+    cooling, hardware strain and your local energy prices.Economics: Does it make
+    any sense?Even with low electricity rates, the ROI on mining Bitcoin from home
+    with a gaming computer is near zero — if not outright negative. Solo mining? Forget
+    it. The chances of hitting a block are microscopic. Pool mining? Your contribution
+    is so small compared to ASIC farms that the payouts will be negligible.And then
+    there’s the wear and tear. GPUs weren’t designed to run at full capacity around
+    the clock. Long-term mining can shorten their lifespan and may void warranties.Did
+    you know? WhatToMine is a useful site that shows what coins are most profitable
+    to mine with your exact setup. Just plug in your GPU, and it does the rest.                                                Alternative
+    cryptocurrencies for gaming PCs                                        If Bitcoin
+    mining on PC feels like bringing a Nerf gun to a tank fight, don’t lose hope.
+    There are still coins designed to be mined with GPUs in 2025 — and some even reward
+    users fairly for it.Let’s take a look at such cryptocurrencies:Ethereum Classic
+    (ETC): GPU-friendly legacy chainStill using the Ethash algorithm, Ethereum Classic
+    (ETC) is a solid option for GPU miners. Blocks are mined every 13 seconds with
+    a 3.2 ETC reward. Ravencoin (RVN): Built for the peopleRavencoin uses KAWPOW,
+    an algorithm specifically designed to resist ASIC domination. It’s friendly to
+    GPU miners and offers quick one-minute blocks with 2,500 Ravencoin (RVN) rewards.
+    Mining altcoins with GPU setups is still very viable here.Monero (XMR): Privacy-first
+    and CPU/GPU accessibleMonero relies on the RandomX algorithm, making it accessible
+    to both CPU and GPU miners. You won’t get rich, but it’s a way to earn passively,
+    especially if you’ve got cheap electricity and want passive income from mining.
+    \                   \n\n            "
+  published: 2025-05-08 09:01:00.000000000 +01:00
 - title: " Ethereum Pectra upgrade adds new features — How long before ETH price reacts? "
   url: https://cointelegraph.com/news/ethereum-pectra-upgrade-adds-new-features-how-long-before-eth-price-reacts?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Key takeaways:Reclaiming the $2,200 level remains the first price challenge
@@ -1629,221 +1926,3 @@
     and trading move involves risk, and readers should conduct their own research
     when making a decision.\n\n            "
   published: 2025-04-30 19:30:00.000000000 +01:00
-- title: " Bitcoin price recovers, Ethereum RWA value up 20%: April in charts "
-  url: https://cointelegraph.com/news/bitcoin-price-recovers-ethereum-rwa-value-up-april-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "April 2025 witnessed crypto markets rocked by more tariffs at the direction
-    of US President Donald Trump — controversial policies that could have influenced
-    the outcome of Canada’s elections on April 28. On April 2, Trump levied “discounted
-    reciprocal tariffs” on 185 countries and territories. The Dow Jones Industrial
-    Average dropped 2,200 points on April 4, while the S&P 500 dropped nearly 6%,
-    its largest decline since March 2020. Bitcoin (BTC) went along for the ride but
-    broke from stocks as it recovered toward the end of the month. Blockchain adoption
-    metrics for Ethereum are looking good, as the network now boasts 60% real-world
-    asset (RWA) tokenization value. Major firms like BlackRock are sure the blockchain
-    will be the standard for RWAs, but other observers believe that scaling issues
-    could create problems. On matters of policy, pro-crypto legislators in a number
-    of US states are pushing their respective bills; two states have introduced new
-    legislation in April. In Canada, pro-crypto Conservatives lost to the Liberals,
-    but the victors must form a minority government. Here’s April in numbers.“Liberation
-    Day” sees markets plunge, Bitcoin up 16% on the monthOn April 2, the US president
-    levied retaliatory tariffs on all US trade partners, sending Wall Street into
-    a spiral. Between the announcement after market close and the end of trading on
-    April 8, global markets wiped off more than $8.5 trillion in asset value. By the
-    same date, the S&P 500 had fallen by just north of 12%.Market value has since
-    inched back upward as some countries court the Trump administration seeking tariff
-    relief, but major partners such as China still haven’t budged. While markets have
-    recovered slightly, losses still amount to a “mere” $1 trillion, according to
-    investment managers AJ Bell. Crypto saw losses as well. Bitcoin’s price decreased
-    9% between the Liberation Day announcement and April 8. However, unlike stock
-    markets, which are still seeing losses, Bitcoin has managed to close out the month
-    higher than where it started. At the time of writing, BTC is up 16.16%, trading
-    at $94,729.Canada’s crypto-skeptic Liberals win, but fall 3 seats short of majorityCanadian
-    Prime Minister Mark Carney’s Liberal Party has claimed victory in the country’s
-    federal parliamentary elections, which took place on April 28.Despite their victory,
-    the Liberals secured 169 seats, three short of the 172 needed to form a majority.
-    A minority Liberal government means they must rely on other parties for legislative
-    initiatives.The outcome will be meaningful for Canada’s crypto policy. Carney,
-    himself a former central banker, has been public about his skepticism for cryptocurrencies.
-    When serving as governor of the Bank of England, Carney said “they are failing”
-    as a form of money. He has also called for “equivalent protections to those for
-    commercial bank money” for private stablecoins.Related: What Canada’s new Liberal
-    PM Mark Carney means for cryptoAt the same time, Carney has signaled his openness
-    to digital forms of money and the ledger capabilities of blockchain technology.
-    He voiced support for a central bank digital currency, seeing it as another step
-    in the evolution of money. The Liberals started the year trailing well behind
-    the Conservatives as former Prime Minister Justin Trudeau stepped down. On Trump’s
-    inauguration day, Conservatives led polling at a 44% polling average to the Liberals’
-    21%.Conservative rhetoric, including that of the pro-crypto party leader Pierre
-    Poilievre, was decidedly pro-Trump. This connection may have been the Conservatives’
-    undoing, as quickly after taking office, Trump said that Canada should become
-    America’s 51st state while simultaneously ramping up tariffs on Canadian goods.Ethereum’s
-    market share of RWAs is up 20%The tokenization of real-world assets (RWAs) has
-    been one of the rising use cases for blockchain technology in April. Ethereum
-    is leading the way, with the value of the RWA tokenization on the network increasing
-    to $6.2 billion. This marks a 20% increase over the month of April. RWAs are increasingly
-    adopted by established financial firms launching tokenization pilot projects in
-    real estate, commodities like gold, and even carbon credits. Larry Fink, CEO of
-    the world’s largest fund manager, BlackRock, has noted that tokenized RWAs allow
-    for instant trading and transfers like a “digital deed.”Related: Five reasons
-    RWAs are taking off in 2025As reported in Cointelegraph Magazine, Ethereum advocates
-    and developers have generally assumed that Ethereum will be the logical choice
-    for firms exploring RWAs. Indeed, Fink said there’s “no question that the blockchain
-    we would start our tokenization on would be Ethereum, and that’s not just a BlackRock
-    thing. That’s the natural default answer.”Two new crypto laws introduced at US
-    state levelTwo states, Texas and Georgia, introduced new blockchain- and crypto-related
-    bills in their state legislatures in April.In Texas, HB 5352 would establish a
-    State Blockchain Technology Pilot Program by the Department of Information Resources.
-    The pilot aims to see how blockchain technology could improve “transparency, security,
-    and efficiency in government operations.”In Georgia, HR 905 seeks to “implement
-    a public awareness campaign for grade levels K-12 regarding blockchain, cryptocurrency,
-    and Web3.” The bill states that technological literacy is important for all ages
-    and “blockchain computation represents the future of how the world interacts online
-    and shares information through a permanent record of transactions on an open ledger.”In
-    Arizona, Democratic Governor Katie Hobbs vetoed a bill to expand a state regulatory
-    sandbox program to include digital assets. But she signed and enacted a bill into
-    law that now prohibits towns “from banning or restricting individuals from using
-    computational power or running blockchain nodes in their own homes.” The law’s
-    definition of “computational power” can be broadly interpreted to mean AI, scientific
-    research, blockchain activities and cloud computing. It effectively protects home
-    crypto miners from local and municipal zoning laws and bans.Stablecoin adoption
-    grows $4 billion in AprilStablecoins have seen steady growth in 2025, and April
-    was no exception. The total market capitalization of stablecoins grew $4 billion
-    in April, according to CoinGlass.Growing stablecoin value comes as a number of
-    jurisdictions develop legal frameworks for the assets and soften their regulatory
-    approach. In the US, the House of Representatives bill on stablecoins passed a
-    critical committee vote on April 2. The STABLE Act provides rules around stablecoin
-    issuance and reserves and will proceed to the floor for a vote. Related: Stablecoin
-    adoption grows with new US bills, Japan’s open approachThe Securities and Exchange
-    Commission dropped a case against PayPal’s stablecoin, PayPal USD (PYUSD), on
-    April 29. In a form, the SEC said an inquiry regarding a 2023 subpoena was being
-    closed “without enforcement.”Market volatility provides another incentive for
-    stablecoin growth, according to crypto intelligence platform IntoTheBlock. According
-    to the analytics firm, these assets are increasingly seen as “safe havens in the
-    current uncertain market.”As the Trump administration marks its first 100 days,
-    markets are begging for relief, but none seems forthcoming. Despite claims from
-    the White House, China says that no high-level talks are underway to negotiate
-    the tariffs. Despite this, some observers insist that, for crypto at least, one
-    should keep their eyes on the prize: the regulatory framework making its way through
-    the US federal Congress.Magazine: Your AI ‘digital twin’ can take meetings and
-    comfort your loved ones\n\n            "
-  published: 2025-04-30 15:37:03.000000000 +01:00
-- title: " Vitalik Buterin outlines vision as Ethereum ecosystem addresses hit new
-    high "
-  url: https://cointelegraph.com/news/vitalik-shares-ethereum-vision-as-addresses-hit-record-high?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum co-founder Vitalik Buterin released another update on what he
-    believes the future of the network should entail.In an April 30 post on blockchain-based
-    social media platform Farcaster, Buterin outlined his personal areas of focus
-    for Ethereum development this year. These include investigating changes to the
-    network infrastructure to achieve single-slot finality, updates to smart contract
-    execution and enhancements to privacy.The post comes as the Ethereum network hits
-    a new milestone. GrowThePie data shows that the weekly number of unique addresses
-    interacting with the Ethereum ecosystem reached a new high of over 15.4 million,
-    with nearly 13.45 million on layer-2 protocols.Weekly chart of unique active addresses
-    in the Ethereum ecosystem. Source: GrowThePieButerin recently argued that privacy
-    should be a top priority for developers and proposed solutions to boost privacy
-    on Ethereum. Earlier in April, he also published a short-term privacy roadmap
-    for Ethereum, detailing technical solutions to the network’s transparency.Buterin’s
-    focus on forward-looking research follows changes at the Ethereum Foundation,
-    the nonprofit organization developing the Ethereum ecosystem. Earlier this month,
-    the Ethereum Foundation co-executive director, Tomasz Stańczak, said that Buterin
-    now has more time for research and exploration.“Each time Vitalik shares insights
-    or communicates a direction, he accelerates major long‑term breakthroughs,” he
-    wrote.Related: Vitalik Buterin proposes swapping EVM language for RISC-VProposed
-    Ethereum protocol changesIn today’s post, Buterin said that this year, he would
-    be researching single-slot finality on Ethereum. This proposed upgrade would allow
-    blocks to become final in a single slot within 12 seconds. This would significantly
-    reduce the time needed to confirm transactions irreversibly and improve user experience.Another
-    area of focus would be making Ethereum stateless. This would lead to nodes no
-    longer storing the full state (account balances, contracts, etc.) but instead
-    requiring users to provide the necessary state data (witnesses) with each transaction.
-    This could potentially improve scalability and decentralization.Buterin also expects
-    to study ways to improve the ecosystem’s cybersecurity on both the front and back
-    ends, as well as its resilience and decentralization. He set some objectives that
-    he specified should also apply to client software, such as third-party wallets:“Ensuring
-    Ethereum is usable in a way that is highly secure, free of centralized intermediaries
-    and privacy-friendly.“Related: ‘Vitalik: An Ethereum Story’ is less about crypto
-    and more about being humanNot just the protocolBesides working on the Ethereum
-    protocol, Buterin expects to dedicate his attention to improving communication
-    tools, information sharing, and the social layer surrounding Ethereum. This includes
-    governance changes, the network’s resources management and open-source development
-    funding.Buterin explained that this also involves developing better encrypted
-    messaging, software documentation, and leading their adoption in the ecosystem.
-    He also hinted at developing prediction markets and related technology, as well
-    as some potential new types of communication tools.Other objectives include the
-    lower-level development. Buterin cited the intention to investigate cryptography,
-    operating systems, hardware, physical infrastructure and biological defence without
-    further explanation.Buterin also cited some areas of development where he is not
-    personally involved, including plans to increase Ethereum’s gas limit as a short-term
-    scalability solution, as well as peer-to-peer systems.Magazine: Ethereum is destroying
-    the competition in the $16.1T TradFi tokenization race\n\n            "
-  published: 2025-04-30 14:34:08.000000000 +01:00
-- title: " Crypto hackers hit DeFi for $92M in April as attacks double from March "
-  url: https://cointelegraph.com/news/crypto-hackers-steal-92-m-april-hacked-funds-1-7-b-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Cryptocurrency hackers stole more than $90 million in April, dealing another
-    blow to the industry’s mainstream reputation despite ongoing efforts to improve
-    cybersecurity.Hackers made off with $92 million of digital assets across 15 incidents
-    in April, according to an April 30 research report by blockchain cybersecurity
-    firm Immunefi.The total marks a 124% month-over-month increase from March, when
-    hackers stole $41 million.Crypto stole in April 2025. Source: ImmunefiThe month’s
-    largest hack on open-source platform UPCX accounted for most of the damage in
-    April, with over $70 million in losses, while KiloEx lost $7.5 million as April’s
-    second-largest hack.The KiloEx exploiter returned the stolen funds just days after
-    the attack occurred.All of April’s reported attacks targeted decentralized finance
-    (DeFi) platforms. Centralized exchanges reported no incidents during the month,
-    the report noted. Top 10 losses in April. Source: ImmunefiImmunefi, which says
-    it helps protect $190 billion in user funds, has paid more than $116 million in
-    bounties to white hat hackers.Related: Bitcoin volatility lowest in 563 days,
-    Hayes predicts $1M BTC by 2028State-backed threats raise alarmsThe report comes
-    nearly two months after Bybit exchange lost over $1.4 billion on Feb. 21 — the
-    largest hack in crypto history.“The sheer scale of the attack shows how state-backed
-    actors are arguably the most pressing threat to our industry,” according to Mitchell
-    Amador, Founder and CEO of Immunefi.“This is a reminder of the need for security
-    measures that protect the entire security stack and help protocols prevent catastrophic
-    attacks before they happen,” Amador told Cointelegraph, adding:“Protocols must
-    be built for resilience under the assumption that attackers will find a way in,
-    and investors must assume that even the safest-looking interfaces or emails might
-    be traps.”He called for protocols to adopt a “zero-trust” approach and implement
-    more robust protections across the entire technology stack.  Related: Bunq, Europe’s
-    second-largest neobank, expands into cryptoBug bounties, regular audits and formal
-    verifications will be essential to ensure to security of smart contracts and backed
-    infrastructure, he said.As of the end of April, hackers have already stolen more
-    than $1.7 billion worth of digital assets in 2025, already surpassing the estimated
-    $1.49 billion in losses for all of 2024, according to Immunefi.The state-backed 
-    North Korean Lazarus Group’s pause in the second half of 2024 may have been a
-    repositioning in preparation for staging the world’s largest hack on Bybit, Eric
-    Jardine, Chainalysis' cybercrimes research Lead, told Cointelegraph.Magazine:
-    Financial nihilism in crypto is over — It’s time to dream big again\n\n            "
-  published: 2025-04-30 14:00:37.000000000 +01:00
-- title: " FIFA shifts NFT platform to new Ethereum-compatible blockchain "
-  url: https://cointelegraph.com/news/fifa-collect-nfts-move-to-evm-blockchain?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The Federation Internationale de Football Association (FIFA) plans to
-    launch a new blockchain network to support its non-fungible token (NFT) collectibles,
-    the organization announced on April 30.FIFA will launch its “FIFA Blockchain,”
-    with Ethereum Virtual Machine (EVM) compatibility and aims to provide “better
-    performance, future features, and improved scalability.”As part of the move, FIFA
-    Collect — its official NFT collection — will migrate from the Algorand blockchain
-    to the new FIFA Blockchain. The migration is scheduled to begin no earlier than
-    May 20, FIFA said.  FIFA announces new blockchain for FIFA collection migration.
-    Source: collect.fifa.com“At this stage, no immediate action is required. When
-    the migration process begins, we will provide clear, step-by-step instructions
-    on what (if anything) you need to do,” the announcement stated.The collection’s
-    migration will take place “not earlier than” May 20, FIFA said, adding that it
-    will confirm the exact date and provide clear instructions for NFT holders.Following
-    the migration, external Algorand-based wallets such as Pera and Defly will no
-    longer be supported. Instead, users will be able to connect to FIFA Collect via
-    MetaMask or other EVM wallets that support WalletConnect.Other listed collectibles
-    will be automatically listed on the new platform, unless users delist them before
-    the migration date.Related: Bitcoin volatility lowest in 563 days, Hayes predicts
-    $1M BTC by 2028FIFA signals growing interest in NFTs, Web3 gaming FIFA launched
-    its NFT collection ahead of the 2023 Club World Cup in Saudi Arabia in collaboration
-    with blockchain firm Modex.In November 2024, FIFA partnered with blockchain gaming
-    studio Mythical Games to launch FIFA Rivals, a free-to-play soccer game for iOS
-    and Android.Source: EntertheMythosRelated: Bitcoin treasury firms driving $200T
-    hyperbitcoinization — Adam BackThe full game is scheduled to be released in the
-    summer of 2025, enabling players to manage their own football clubs and compete
-    against other players in real-time. FIFA Rivals is set to launch a pre-release
-    in May 2025.The company’s CEO, John Linden, said FIFA Rivals could attract over
-    100 million gamers, given that its NFL Rivals game has already seen over 6 million
-    players sign up from a far narrower audience.Magazine: Bitcoin $100K hopes on
-    ice, SBF’s mysterious prison move: Hodler’s Digest, April 20 – 26\n\n            "
-  published: 2025-04-30 13:12:20.000000000 +01:00

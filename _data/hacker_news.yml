@@ -1,122 +1,121 @@
 ---
-- title: 'NSA spied through Angry Birds, other apps: report (2014)'
-  url: https://www.nbcnews.com/tech/tech-news/nsa-spied-through-angry-birds-other-apps-report-flna2d12006530
+- title: 'Void: Open-source Cursor alternative'
+  url: https://github.com/voideditor/void
   summary: Comments
-  published: 2025-05-06 10:34:58.000000000 +00:00
-- title: Yggdrasil is an experimental compact routing scheme that is fully decentralised
-  url: https://yggdrasil-network.github.io/about.html
+  published: 2025-05-08 16:35:34.000000000 +00:00
+- title: 'Fui: C library for interacting with the framebuffer in a TTY context'
+  url: https://github.com/martinfama/fui
   summary: Comments
-  published: 2025-05-07 23:45:10.000000000 +00:00
-- title: 'Ty: A fast Python type checker and language server'
-  url: https://github.com/astral-sh/ty
+  published: 2025-05-08 22:05:37.000000000 +00:00
+- title: Reservoir Sampling
+  url: https://samwho.dev/reservoir-sampling/
   summary: Comments
-  published: 2025-05-07 17:32:26.000000000 +00:00
-- title: 'Show HN: US Routing – Python library for fast local routing in the United
-    States'
-  url: https://github.com/ivanbelenky/us-routing
+  published: 2025-05-08 17:02:10.000000000 +00:00
+- title: 'From: Steve Jobs. "Great idea, thank you."'
+  url: https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html
   summary: Comments
-  published: 2025-05-07 23:51:32.000000000 +00:00
-- title: 'Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O'
-  url: https://pganalyze.com/blog/postgres-18-async-io
+  published: 2025-05-08 18:40:12.000000000 +00:00
+- title: Progress toward fusion energy gain as measured against the Lawson criteria
+  url: https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria
   summary: Comments
-  published: 2025-05-07 14:57:03.000000000 +00:00
-- title: Web search on the Anthropic API
-  url: https://www.anthropic.com/news/web-search-api
+  published: 2025-05-08 15:49:37.000000000 +00:00
+- title: Phoenician culture spread mainly through cultural exchange
+  url: https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x
   summary: Comments
-  published: 2025-05-07 20:18:47.000000000 +00:00
-- title: Open source Google Analytics replacement
-  url: https://github.com/rybbit-io/rybbit
+  published: 2025-05-05 21:06:46.000000000 +00:00
+- title: Gorilla study reveals complex pros and cons of friendship
+  url: https://www.sciencedaily.com/releases/2025/05/250505170816.htm
   summary: Comments
-  published: 2025-05-07 17:45:33.000000000 +00:00
-- title: June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)
-  url: https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/
+  published: 2025-05-06 06:33:31.000000000 +00:00
+- title: Notes on rolling out Cursor and Claude Code
+  url: https://ghiculescu.substack.com/p/nobody-codes-here-anymore
   summary: Comments
-  published: 2025-05-07 21:34:06.000000000 +00:00
-- title: Mistral ships le chat – enterprise AI assistant that can run on prem
-  url: https://mistral.ai/news/le-chat-enterprise
+  published: 2025-05-08 16:34:39.000000000 +00:00
+- title: How the US Built 5k Ships in WWII
+  url: https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii
   summary: Comments
-  published: 2025-05-07 14:24:09.000000000 +00:00
-- title: Examining problematic speech and behavior in World of Warcraft (2022)
-  url: https://tcjournal.org/vol8/jackson/
+  published: 2025-05-08 20:58:37.000000000 +00:00
+- title: When Abandoned Mines Collapse
+  url: https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse
   summary: Comments
-  published: 2025-05-08 00:18:47.000000000 +00:00
-- title: Foundation DB Record Layer SQL API
-  url: https://foundationdb.github.io/fdb-record-layer/SQL_Reference.html
+  published: 2025-05-06 18:38:14.000000000 +00:00
+- title: 'Podfox: First Container-Aware Browser'
+  url: https://val.packett.cool/blog/podfox/
   summary: Comments
-  published: 2025-05-07 21:48:08.000000000 +00:00
-- title: Create and edit images with Gemini 2.0 in preview
-  url: https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/
+  published: 2025-05-08 22:19:12.000000000 +00:00
+- title: 'Show HN: Using eBPF to see through encryption without a proxy'
+  url: https://github.com/qpoint-io/qtap
   summary: Comments
-  published: 2025-05-07 16:06:44.000000000 +00:00
-- title: A cycle-accurate IBM PC emulator in your web browser
-  url: https://martypc.net/?mount=fd:0:Area%205150%20(Compo%20Version).img
+  published: 2025-05-08 16:49:11.000000000 +00:00
+- title: How to start a school with your friends
+  url: https://prigoose.substack.com/p/how-to-start-a-university
   summary: Comments
-  published: 2025-05-04 17:19:14.000000000 +00:00
-- title: Mac Themes Garden
-  url: https://damien.zone/introducing-mac-themes-garden/
+  published: 2025-05-08 19:34:36.000000000 +00:00
+- title: Stability by Design
+  url: https://potetm.com/devtalk/stability-by-design.html
   summary: Comments
-  published: 2025-05-07 19:44:51.000000000 +00:00
-- title: How to Average in Prolog (2017)
-  url: https://storytotell.org/how-to-average-in-prolog
+  published: 2025-05-08 19:51:29.000000000 +00:00
+- title: Mathematical Problem Solving
+  url: https://www.cip.ifi.lmu.de/~grinberg/t/20f/
   summary: Comments
-  published: 2025-05-07 19:54:08.000000000 +00:00
-- title: GovEagle (YC W23) Is Hiring
-  url: https://www.ycombinator.com/companies/goveagle/jobs/ogNRCkd-platform-engineering-contractor-short-term
+  published: 2025-05-05 08:05:35.000000000 +00:00
+- title: First American pope elected and will be known as Pope Leo XIV
+  url: https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25
   summary: Comments
-  published: 2025-05-07 21:00:28.000000000 +00:00
-- title: Parametric Modeling with Grasshopper
-  url: https://baharmon.github.io/basics
+  published: 2025-05-08 16:30:45.000000000 +00:00
+- title: Newsreels from the UCLA Film and Television Archive
+  url: https://newsreels.net/
   summary: Comments
-  published: 2025-05-07 23:57:12.000000000 +00:00
-- title: 'Zed: High-performance AI Code Editor'
-  url: https://zed.dev/blog/fastest-ai-code-editor
+  published: 2025-05-08 22:32:41.000000000 +00:00
+- title: Gender characteristics of service robots can influence customer decisions
+  url: https://www.psu.edu/news/health-and-human-development/story/gender-characteristics-service-robots-can-influence-customer
   summary: Comments
-  published: 2025-05-07 06:38:40.000000000 +00:00
-- title: OpenAI for Countries
-  url: https://openai.com/global-affairs/openai-for-countries/
+  published: 2025-05-08 23:12:32.000000000 +00:00
+- title: 'Block Diffusion: Interpolating Autoregressive and Diffusion Language Models'
+  url: https://m-arriola.com/bd3lms/
   summary: Comments
-  published: 2025-05-07 21:05:36.000000000 +00:00
-- title: So Much Blood
-  url: https://dynomight.net/blood/
+  published: 2025-05-08 18:18:20.000000000 +00:00
+- title: Static as a Server
+  url: https://overreacted.io/static-as-a-server/
   summary: Comments
-  published: 2025-05-07 09:41:13.000000000 +00:00
-- title: 'Show HN: Ductape – Build back end integrations once, reuse them anywhere'
-  url: https://www.ductape.app
+  published: 2025-05-08 17:49:02.000000000 +00:00
+- title: The Rise and Fall of the Visual Telegraph (2017)
+  url: https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/
   summary: Comments
-  published: 2025-05-05 08:04:23.000000000 +00:00
-- title: 'Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)'
-  url: https://github.com/ciromattia/kcc
+  published: 2025-05-08 19:13:29.000000000 +00:00
+- title: A flat pricing subscription for Claude Code
+  url: https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan
   summary: Comments
-  published: 2025-05-07 15:26:43.000000000 +00:00
-- title: Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk
-  url: https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html
+  published: 2025-05-08 21:12:32.000000000 +00:00
+- title: Prepare your apps for Google Play's 16 KB page size compatibility requirement
+  url: https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html
   summary: Comments
-  published: 2025-05-07 17:28:25.000000000 +00:00
-- title: Bell's 1881 Metal detector
-  url: http://www.scitechantiques.com/belldiscovery/
+  published: 2025-05-08 21:46:14.000000000 +00:00
+- title: Ciro (YC S22) is hiring a software engineer to build AI agents for sales
+  url: https://www.ycombinator.com/companies/ciro/jobs
   summary: Comments
-  published: 2025-05-04 22:24:56.000000000 +00:00
-- title: Luna Parc Home and Studio
-  url: https://www.lunaparc.com
+  published: 2025-05-08 17:00:38.000000000 +00:00
+- title: A Brief History of Cursor's Tab-Completion
+  url: https://www.coplay.dev/blog/a-brief-history-of-cursor-s-tab-completion
   summary: Comments
-  published: 2025-05-07 02:08:25.000000000 +00:00
-- title: A new hairlike electrode for long-term, high-quality EEG monitoring
-  url: https://www.psu.edu/news/research/story/future-brain-activity-monitoring-may-look-strand-hair
+  published: 2025-05-06 15:55:42.000000000 +00:00
+- title: Egyptologist uncovers hidden messages on Paris’s iconic obelisk
+  url: https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508
   summary: Comments
-  published: 2025-05-06 15:53:30.000000000 +00:00
-- title: My quest to make motorcycle riding that tad bit safer
-  url: https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/
+  published: 2025-05-08 08:04:12.000000000 +00:00
+- title: 'Show HN: Req Update Check'
+  url: https://github.com/ontherivt/req-update-check
   summary: Comments
-  published: 2025-05-07 11:06:17.000000000 +00:00
-- title: How three years at McKinsey shaped my second startup
-  url: https://blog.zactownsend.com/know-your-enemy-how-three-years-at-mckinsey-shaped-my-second-startup
+  published: 2025-05-08 22:30:17.000000000 +00:00
+- title: How Obama’s BlackBerry got secured (2013)
+  url: https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html
   summary: Comments
-  published: 2025-05-04 13:30:22.000000000 +00:00
-- title: "'I paid for the whole GPU, I am going to use the whole GPU'"
-  url: https://modal.com/blog/gpu-utilization-guide
+  published: 2025-05-05 07:54:44.000000000 +00:00
+- title: 'Ask HN: What are good high-information density UIs (screenshots, apps, sites)?'
+  url: https://news.ycombinator.com/item?id=43925732
   summary: Comments
-  published: 2025-05-07 21:04:39.000000000 +00:00
-- title: Ghost students are creating an 'agonizing' problem for Calif. colleges
-  url: https://www.sfgate.com/bayarea/article/ghost-students-creating-problem-calif-colleges-20311708.php
+  published: 2025-05-08 13:05:10.000000000 +00:00
+- title: AI focused on brain regions recreates what you're looking at (2024)
+  url: https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/
   summary: Comments
-  published: 2025-05-07 16:05:34.000000000 +00:00
+  published: 2025-05-06 20:52:45.000000000 +00:00
