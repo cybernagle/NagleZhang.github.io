@@ -1,53 +1,790 @@
 ---
 - title: " Here’s what happened in crypto today "
   url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, Democrats in the United States block the GENIUS stablecoin
-    bill from advancing, Coinbase has agreed to acquire crypto options trading platform
-    Deribit in a deal worth $2.9 billion, Arizona’s governor signed a “Bitcoin Reserve
-    Fund” into law.GENIUS stablecoin bill blocked in US SenateThe Guiding and Establishing
-    National Innovation for US Stablecoins (GENIUS) of 2025 Act was blocked by Democrat
-    lawmakers in the Senate on May 8, stalling the bill's progress.Although the bill
-    initially received bipartisan support from US lawmakers, Democrats opposed the
-    bill last minute due to concerns over President Donald Trump pushing crypto policies
-    for self-benefit.Senior officials in the Trump administration have repeatedly
-    stated that using stablecoins to protect the US dollar's global reserve status
-    was a key policy objective.Following the stalling of the GENIUS stablecoin bill
-    in the Senate, Treasury Secretary Scott Bessent wrote:\"This bill represents a
-    once-in-a-generation opportunity to expand dollar dominance and US influence in
-    financial innovation. Without it, stablecoins will be subject to a patchwork of
-    state regulations instead of a streamlined federal framework.\"The Treasury Secretary
-    added that if the US does not encourage innovation in digital assets then crypto
-    firms will move offshore.Source: Scott BessentCoinbase to acquire options trading
-    platform Deribit for $2.9 billionCoinbase, the largest cryptocurrency exchange
-    in the US by trading volume, has agreed to acquire Deribit, one of the world’s
-    biggest crypto derivatives trading platforms.Coinbase Global will acquire Deribit
-    for about $2.9 billion, the exchange announced on May 8.The acquisition will allow
-    Coinbase to expand into the profitable crypto derivatives market and continue
-    scaling the platform’s global growth, Greg Tusar, Coinbase’s vice president of
-    institutional product, said in the announcement.“With Deribit’s strong presence
-    and professional client base, Coinbase is making its most substantial move yet
-    to accelerate our international growth strategy,” he said.Source: CoinbaseThe
-    $2.9 billion deal includes $700 million in cash and 11 million shares of Coinbase
-    Class A common stock, subject to customary purchase price adjustments.“This transaction
-    is subject to regulatory approvals and other customary closing conditions and
-    is expected to close by year-end,” the announcement said.Previous reports in March
-    suggested that Coinbase and Deribit had alerted regulators in Dubai about the
-    potential deal, as Deribit holds a license in Dubai, which would need to be transferred
-    to Coinbase if the deal is successful.Arizona gets a crypto stockpileArizona Governor
-    Katie Hobbs signed a bill into law on May 7 that allows the state to keep  crypto
-    that’s been unclaimed for at least three years to put into a “Bitcoin and Digital
-    Assets Reserve Fund.”House Bill 2749 allows Arizona to claim ownership of abandoned
-    digital assets if the owner fails to respond to communications within three years.
-    The state’s custodians can stake the crypto to earn rewards or get airdrops.House
-    Representative Jeff Weninger, who sponsored the bill, said it “ensures Arizona
-    doesn’t leave value sitting on the table.” Source: Jeff WeningerHobbs had vetoed
-    a similar Bitcoin (BTC) reserve bill, Senate Bill 1025, which would have allowed
-    the state to invest seized funds into Bitcoin, citing concerns over using public
-    funds for \"untested assets.”Meanwhile, on the same day, a Texas House Committee
-    passed a Republican-backed bill to create a Bitcoin reserve in a 9-4 vote down
-    party lines, which now only needs a successful full floor vote before heading
-    to Governor Greg Abbott’s desk.\n\n            "
-  published: 2025-05-08 22:53:27.000000000 +01:00
+  summary: "Today in crypto, Galaxy Digital gets US approval to redomicile ahead of
+    a planned Nasdaq listing. German authorities seize $38M in assets tied to the
+    Bybit hack and SEC Commissioner Crenshaw criticizes the agency’s Ripple settlement.Galaxy
+    Digital approved for US domicile, clearing way for Nasdaq listingGalaxy Digital
+    has been approved by the US Securities and Exchange Commission (SEC) to redomicile
+    in the United States, setting the stage for the crypto investment company’s listing
+    on the Nasdaq stock exchange.Galaxy anticipates listing on the Nasdaq, a tech-focused
+    US stock exchange, by the middle of May, pending approval from the Toronto Stock
+    Exchange, on which the company is already listed, and shareholder approval at
+    a special shareholders meeting on May 9.Galaxy Digital SEC form S-4. Source: SECShareholders
+    at the meeting must approve redomiciling Galaxy Digital in the US state of Delaware,
+    known for its business-friendly regulations, before the process can move forward,
+    according to an announcement from the company.Galaxy obtained SEC approval for
+    a Nasdaq listing in April this year, and once the company obtains the other necessary
+    approvals, it will trade on the Nasdaq under the GLXY ticker symbol.The company
+    is the latest crypto firm to announce an imminent stock market listing, as institutional
+    interest in digital assets grows and crypto matures as an asset class that increasingly
+    interacts with traditional financial markets.Germany seizes $38 million in crypto
+    from Bybit hack-linked eXch exchangeGerman law enforcement seized 34 million euros
+    ($38 million) in cryptocurrency from eXch, a cryptocurrency platform allegedly
+    used to launder funds stolen after Bybit’s record-breaking $1.4 billion hack.The
+    seizure, announced on May 9 by Germany’s Federal Criminal Police Office (BKA)
+    and Frankfurt’s main prosecutor’s office, involved multiple crypto assets, including
+    Bitcoin (BTC), Ether (ETH), Litecoin (LTC) and Dash (DASH). The move marks the
+    third-largest crypto confiscation in the BKA’s history.The authorities also seized
+    eXch’s German server infrastructure with over eight terabytes of data and shut
+    down the platform, the announcement added.In the statement, the BKA described
+    eXch as a “swapping” service that allowed users to exchange various crypto assets
+    without implementing Anti-Money Laundering (AML) measures.The platform had operated
+    since 2014 and reportedly facilitated about $1.9 billion in crypto transfers,
+    some of which were believed to be of “criminal origin,” including assets laundered
+    during the Bybit hack.Example of flow of Bybit exploit funds moving through eXch
+    and bridging back and forth between Ether and Bitcoin. Source: TRM Labs“Among
+    other things, a portion of the $1.5 billion stolen from the Bybit crypto exchange,
+    which was hacked on Feb. 21, 2025, is said to have been exchanged via eXch,” the
+    authorities wrote.SEC’s Crenshaw slams Ripple settlement, warns of “regulatory
+    vacuum”A crypto-skeptical commissioner at the US Securities and Exchange Commission
+    has blasted her agency over its settlement letter that could finally end the Ripple
+    legal saga.The SEC and Ripple filed a joint settlement letter in a New York court
+    asking for the August 2024 injunction against Ripple to be dissolved and $75 million
+    of the $125 million in civil penalties held in escrow to be returned to the crypto
+    firm, according to a May 8 statement from the SEC.Caroline Crenshaw’s statement
+    on the agency’s settlement with Ripple. Source: SECSEC Commissioner Caroline Crenshaw
+    blasted the pending deal in a May 8 statement, saying it would damage the regulators’
+    ability to keep crypto firms in line and undermine the court’s ruling.“This settlement,
+    alongside the programmatic disassembly of the SEC’s crypto enforcement program,
+    does a tremendous disservice to the investing public and undermines the court’s
+    role in interpreting our securities laws,” she said.“In the meantime, the settlement
+    joins a line of dismissals that collectively erode the credibility of our lawyers
+    in court who are being asked to take legal positions today contrary to the ones
+    taken just months ago.”\n\n            "
+  published: 2025-05-09 22:49:00.000000000 +01:00
+- title: " Price predictions 5/9: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, LINK, AVAX "
+  url: https://cointelegraph.com/news/price-predictions-5-9-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key points:Bitcoin holding $100,000 as a level of support would confirm
+    the current trend change.Ether leads among altcoins, and DeFi tokens could follow.Bitcoin
+    (BTC) broke above the psychologically critical $100,000 level on May 8, and the
+    bulls are trying to hold on to the level on May 9. In an X post, CoinGlass said
+    that Bitcoin’s rally resulted in $837.80 million in short liquidations in a 24-hour
+    period, the largest since 2021.Bitcoin’s rally also lifted several major altcoins,
+    which soared above their respective overhead resistance levels. The altcoin rally
+    was led by Ether (ETH), which surged roughly 22% on May 8, triggering a $328 million
+    liquidation of Ether short positions.Crypto market data daily view. Source: Coin360Although
+    the short-term picture has turned positive, Bitcoin bulls are expected to face
+    significant resistance near the all-time high of $109,588. During pullbacks, traders
+    will have to maintain the price above $100,000 to retain the bullish momentum. Could
+    Bitcoin continue its upward move and pierce the all-time high? Are altcoins getting
+    ready for a short-term rally? Let’s analyze the charts of the top 10 cryptocurrencies
+    to find out.Bitcoin price predictionBitcoin rallied more than 6% and closed above
+    the $100,000 barrier on May 8, indicating that buyers have asserted their supremacy.BTC/USDT
+    daily chart. Source: Cointelegraph/TradingViewThe BTC/USDT pair could reach the
+    $107,000 to $109,588 zone, where the bears are expected to mount a strong defense.
+    The overbought level on the relative strength index (RSI) suggests a short-term
+    pullback is possible.If the price turns down from the overhead resistance but
+    finds support at the 20-day exponential moving average ($94,879), it signals a
+    positive sentiment. The bulls will then make one more attempt to push the price
+    above the all-time high.The first sign of weakness will be a close below the 20-day
+    EMA. That suggests profit booking at higher levels. The pair may then tumble to
+    the 50-day simple moving average ($88,139).Ether price predictionEther (ETH) skyrocketed
+    above the $2,111 resistance on May 8 and extended its up move to nearly $2,550
+    on May 9.ETH/USDT daily chart. Source: Cointelegraph/TradingViewThe long wick
+    on the candlestick shows solid selling near $2,550. If the price turns down from
+    $2,550 but finds support at $2,111, it indicates that the bulls are trying to
+    flip the level into support. The bulls will then make one more attempt to drive
+    the ETH/USDT pair above $2,550. If they succeed, the pair could climb to $2,850.Sellers
+    will have to pull the price below the $2,111 level to weaken the bullish momentum.
+    The pair may then slide to the 20-day EMA ($1,867).XRP price predictionBuyers
+    have pushed XRP (XRP) to the resistance line, which is a crucial near-term level
+    to watch out for.XRP/USDT daily chart. Source: Cointelegraph/TradingViewSellers
+    are expected to defend the resistance line aggressively because a break and close
+    above it signals a potential trend change. The XRP/USDT pair could rise to $2.60
+    and subsequently to $3.If the price turns down from the resistance line but finds
+    support at the moving averages, it suggests that the bulls are buying the dips.
+    The bulls will then again attempt to propel the price above the resistance line.
+    Sellers will have to tug the price below the $2 support to seize control.BNB price
+    predictionBNB (BNB) made a decisive move higher on May 8 and rose above the immediate
+    overhead resistance at $620.BNB/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    BNB/USDT pair reached the $644 level on May 9, which is expected to behave as
+    a strong barrier. However, if buyers keep up the pressure and pierce the $644
+    resistance, the pair could soar to $680.Time is running out for the bears. If
+    they want to halt the uptrend, they will have to fiercely defend the $644 level
+    and pull the price below the moving averages. The pair could then descend to $580.Solana
+    price predictionSolana (SOL) broke and closed above the $153 resistance on May
+    8, indicating that the bulls are in charge.SOL/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    SOL/USDT pair could reach $180, which is expected to behave as a formidable obstacle.
+    If the price turns down from $180 but rebounds off $153, it suggests that buyers
+    are trying to form a higher low. That enhances the prospects of a rally to $200.This
+    optimistic view will be invalidated in the near term if the price turns down sharply
+    and plummets below the $140 support. That suggests traders are booking profits
+    at higher levels.Dogecoin price predictionBuyers successfully defended the moving
+    averages and pushed Dogecoin (DOGE) to the overhead resistance at $0.21.DOGE/USDT
+    daily chart. Source: Cointelegraph/TradingViewSellers will try to halt the up
+    move at $0.21, but if the bulls pierce the resistance, the DOGE/USDT pair could
+    rally toward $0.25. If the price turns down from $0.25 but finds support at $0.21,
+    it signals that the bulls have flipped the level into support. That suggests the
+    downtrend could be over.Contrarily, if the price turns down sharply from $0.21
+    and breaks below the moving averages, it indicates that the pair may oscillate
+    inside the range for some more time.Cardano price predictionCardano (ADA) bounced
+    off the 50-day SMA ($0.67) and completed an inverse head-and-shoulders pattern
+    on May 8.ADA/USDT daily chart. Source: Cointelegraph/TradingViewThe 20-day EMA
+    ($0.69) has started to turn up, and the RSI is in the positive territory, signaling
+    an advantage to buyers. If the price remains above the neckline, the ADA/USDT
+    pair could surge toward the pattern target of $1.01. There is resistance at $0.83,
+    but it is likely to be crossed.If bears want to prevent the upside, they will
+    have to yank the price below the 50-day SMA. That could sink the pair to $0.60
+    and eventually to $0.50.Related: Chance of Bitcoin price highs above $110K in
+    May increasing — Here’s whySui price predictionSui (SUI) rallied sharply from
+    the 20-day EMA ($3.29) and climbed above the $3.90 overhead resistance on May
+    8.SUI/USDT daily chart. Source: Cointelegraph/TradingViewThe upsloping 20-day
+    EMA and the RSI near the overbought zone signal that the bulls are in command.
+    If the price maintains above $3.90, the SUI/USDT pair could rally to $4.25 and
+    eventually to $5.Alternatively, if the price turns down and closes below $3.90,
+    it suggests that the bears are trying to make a comeback. The pair could then
+    slump to the 20-day EMA, which is likely to act as solid support.Chainlink price
+    predictionChainlink (LINK) turned up sharply from the 50-day SMA ($13.72) on May
+    8 and completed an inverse head-and-shoulders pattern. LINK/USDT daily chart.
+    Source: Cointelegraph/TradingViewSellers are trying to pull the price back below
+    the neckline, but if the bulls successfully hold the level, the LINK/USDT pair
+    could break above the resistance line and rally toward the pattern target of $21.30.This
+    optimistic view will be negated if the price turns down sharply and breaks below
+    the moving averages. That opens the doors for a fall to $12, indicating that the
+    pair may remain inside the channel for a while longer.Avalanche price predictionAvalanche
+    (AVAX) bounced off the moving averages on May 8 and reached the overhead resistance
+    of $23.50 on May 9.AVAX/USDT daily chart. Source: Cointelegraph/TradingViewSellers
+    are expected to defend the $23.50 level with all their might because a break and
+    close above the resistance could clear the path for a potential rise to $28.78
+    and, after that, to $31.73.On the contrary, if the price turns down sharply from
+    $23.50 and breaks below the moving averages, it suggests that the AVAX/USDT pair
+    may extend its stay inside the range for a few more days.This article does not
+    contain investment advice or recommendations. Every investment and trading move
+    involves risk, and readers should conduct their own research when making a decision.\n\n
+    \           "
+  published: 2025-05-09 21:52:29.000000000 +01:00
+- title: " TeraWulf Q1 loss widens amid rising costs, falling revenue "
+  url: https://cointelegraph.com/news/terawulf-q1-loss-widens-amid-rising-costs-falling-revenue?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Mining firm TeraWulf reported a net loss of approximately $61.4 million
+    in its earnings for the first quarter of 2025, further deteriorating from the
+    same period last year.Revenue fell to $34.4 million from $42.4 million in the
+    same period of 2024, according to the company's earnings report, published May
+    9. Cost of revenue rose sharply to $24.5 million, up from $14.4 million a year
+    earlier.As a result, TeraWulf's cost of revenue accounted for 71.4% of total income
+    from operations in Q1 2025, more than double the 34% recorded in the prior-year
+    quarter. In Q1 2024, the company posted a net loss of $9.6 million.TeraWulf’s
+    profit and loss statement for Q1 2025. Source: TeraWulfTeraWulf attributed the
+    decreased revenue to Bitcoin's (BTC) post-halving economics that reduced the block
+    subsidy from 6.25 BTC per block mined to 3.125 BTC per block mined, rising network
+    difficulty, and severe weather in the upstate New York area that is home to a
+    TeraWulf mining facility.The company is not alone in posting losses for the quarter,
+    as the already competitive mining industry faces reduced block rewards and the
+    macroeconomic uncertainty of geopolitical trade tensions that have created turmoil
+    for financial markets and businesses alike.Related: Riot Platforms posts Q1 loss,
+    beats revenue estimatesMiners hit by trade tariffs, high uncertaintyThe trade
+    tariffs introduced by US President Donald Trump have raised concern among mining
+    companies and analysts that the import duties will drive up the costs of hardware
+    and other physical infrastructure necessary to run crypto nodes.Rising Bitcoin
+    network difficulty means miners must expend computing resources to mine blocks.
+    Source: CryptoQuantImposing tariffs on mining hardware like application-specific
+    integrated circuits (ASICs) will also give miners outside the United States a
+    price advantage over US-based competitors in obtaining the critical equipment
+    needed.As a result of the ongoing tariff negotiations, miners sold 40% of their
+    mined BTC in March 2025, reversing the post-halving trend of miners accumulating
+    BTC for corporate treasuries or reserves.March's sell-off was the highest month
+    for miner BTC liquidations since October 2024 — the month ahead of the 2024 US
+    presidential election, which was pivotal for the crypto industry and represented
+    high uncertainty for businesses and investors.Related: Illegal arcade disguised
+    as … a fake Bitcoin mine? Soldier scams in China: Asia Express\n\n            "
+  published: 2025-05-09 21:48:56.000000000 +01:00
+- title: " Bitcoin price rallies as global liquidity growth accelerates — Analysts "
+  url: https://cointelegraph.com/news/bitcoin-price-rallies-as-global-liquidity-growth-accelerates-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key takeaways:Bitcoin’s price closely tracks global liquidity growth,
+    with liquidity explaining up to 90% of its price movements, according to Raoul
+    Pal.In the long term, global liquidity continues to expand, driven by the increasing
+    debt levels in many countries.On a shorter timeframe, global liquidity follows
+    a cyclical pattern, with Michael Howell projecting the current cycle to peak by
+    mid-2026.Bitcoin (BTC) price is notoriously sensitive to global liquidity. Some
+    analysts go as far as calling their correlation near-perfect, with a lag of about
+    three months. This relationship is fueling the current bullish narrative as BTC
+    price soars back above $100,000, but how long can this trend last?Liquidity is
+    Bitcoin's silent price driverRaoul Pal, the founder of Global Macro Investor,
+    recently gave a speech on the strong correlation between Bitcoin and global M2
+    liquidity. In a recap posted by Paul Guerra, Pal’s message refers to: despite
+    looming concerns — recession risks, geopolitical tensions, and other global stressors
+    — rising liquidity as the dominant force behind asset price action. According
+    to Pal, expanding liquidity backs up to 90% of Bitcoin’s price action and as much
+    as 97% of the Nasdaq’s performance. Indeed, a chart comparing global M2 (with
+    a 12-week lead) and Bitcoin’s price shows an almost uncanny alignment.Global M2
+    and BTC/USD. Source: Real VisionPal also frames the issue in personal finance
+    terms. He says there's an 11% \"hidden tax\" on all of us, composed of 8% currency
+    debasement and 3% global inflation. He notes,“If you’re not earning more than
+    11%/yr, you’re getting poorer by definition.”Bitcoin has returned an average of
+    130% annually since 2012, despite dramatic drawdowns. That makes it one of the
+    most asymmetric bets of the past decade — and it’s outperformed the Nasdaq by
+    over 99%.What drives global liquidity?At its core, global liquidity is fueled
+    by expanding the money supply. As independent investor Lyn Alden puts it,“Fiat
+    currency systems are primarily based on ever-growing debt levels. The money supply
+    continuously grows in every country for this reason.”This offers a high-level
+    view of global liquidity and suggests its long-term expansion is structural. However,
+    this growth isn't linear. Over shorter time frames, it fluctuates based on specific
+    drivers. Michael Howell, author of “Capital Wars,” identifies three main drivers
+    currently impacting global liquidity: the US Federal Reserve, the People’s Bank
+    of China (PBoC), and banks lending through collateral markets.Global liquidity
+    drivers. Source: Michael HowellHowell also points to indirect influences that
+    act with a lag of six to 15 months. These include the world business cycle, oil
+    prices, dollar strength, and bond market volatility. A weak global economy and
+    a softening dollar typically boost liquidity. But rising bond volatility tightens
+    collateral supply and chokes lending, undermining liquidity.Related: New bull
+    cycle? Bitcoin's return to $100K hints at ‘significant price move’How long will
+    global liquidity rise?Michael Howell believes that global liquidity moves in roughly
+    five-year cycles, and is now on the way to its local peak. He projects the current
+    cycle to mature by mid-2026, reaching an index level of around 70 (below the post-COVID
+    index of 90). That would mark a turning point, with a subsequent downturn being
+    a likely outcome.Global liquidity cycle. Source: Michael HowellThe recent growth
+    in global liquidity stems from the rapidly weakening world economy, which is likely
+    to prompt further easing by central banks. The People’s Bank of China has already
+    begun injecting liquidity into the system. The Fed now faces a tough choice: continue
+    fighting inflation or pivot to support an increasingly fragile financial system.
+    At its May 7 meeting, rates were held steady, but the pressure on Chair Jerome
+    Powell is mounting, especially from US President Donald Trump.At the same time,
+    economic uncertainty is driving up US Treasury yields and fueling bond market
+    volatility, both indicators of collateral scarcity and tightening credit conditions.
+    Over time, these pressures are likely to become headwinds for liquidity expansion.
+    Meanwhile, a looming recession is expected to weaken investor risk appetite, further
+    draining liquidity from the system.Even if a downturn lies ahead in 2026, global
+    liquidity still has room to run, at least through 2025. And that matters for Bitcoin.Howell
+    notes,“The likely inevitable policy response of ‘more liquidity’ is a great future
+    omen. It establishes the upward path of persistent monetary inflation that ultimately
+    underpins hedges such as gold, quality equities, prime residential real estate,
+    and Bitcoin.”Interestingly, Howell’s liquidity cycle roughly aligns with Bitcoin’s
+    four-year halving cycle. The former points to a potential peak in late 2025, and
+    the latter in early 2026. If history rhymes again, that convergence could set
+    the stage for a major price move.This article does not contain investment advice
+    or recommendations. Every investment and trading move involves risk, and readers
+    should conduct their own research when making a decision.\n\n            "
+  published: 2025-05-09 20:00:00.000000000 +01:00
+- title: " Bitcoin hits $103K but DeFi is a mixed bag: Finance Redefined "
+  url: https://cointelegraph.com/news/bitcoin-defi-tvl-drop-april-hacks-ai-dapps-btc-loans?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The cryptocurrency market continued to surge this past week as the overall
+    digital asset market capitalization exceeded $3.27 trillion, an 8.6% increase
+    over the previous week.Bitcoin (BTC) reached a high of $103,600 on May 8 after
+    reclaiming $100,000 for the first time since January. Its market dominance also
+    surged above 60%, reflecting more bullish BTC sentiment. This marked the third
+    time BTC has broken through six figures since it reached the milestone on Dec.
+    5, 2024, and again on Jan. 20, ahead of US President Donald Trump’s inauguration. The
+    BTC rise coincided with Trump announcing a trade deal with the United Kingdom,
+    which may include removing a 10% blanket tariff on all imports.In the wider crypto
+    space, Ethereum’s Pectra upgrade implemented much-needed improvements for the
+    crypto ecosystem. The upgrade was followed by a 26% price surge for Ether (ETH),
+    rising from $1,800 on May 7 to over $2,300 on May 9.Total crypto market cap, 1-year
+    chart. Source: CoinMarketCapBitcoin DeFi sees surge in mining participation despite
+    drop in TVLMessari's “State of Rootstock” report for 2025 showed that merged mining
+    participation surged to an all-time high of 81% in Q1 2025, up from 56.4% in the
+    previous quarter. The surge was attributed to onboarding major mining pools SpiderPool
+    and Foundry. The influx of mining support boosted Rootstock's hash power above
+    740 exahashes per second. This surpassed Bitcoin's total network hashrate recorded
+    in October 2024, marking a more mature phase for the platform's merged mining
+    growth. The surge in merged mining participation came as Rootstock's ecosystem
+    faced headwinds. In Q1 2025, Rootstock’s total value locked (TVL) declined. Its
+    Bitcoin TVL dropped 7.2%, while the dollar-denominated TVL fell by over 20% quarter-on-quarter.Rootstock
+    overview for Q1 2025. Source: MessariThis mirrored a broader downward trend across
+    the DeFi sector, with Ethereum-based DeFi TVL showing a 27% decline in the same
+    period.Continue readingHacken CEO sees “no shift” in crypto security as April
+    hacks hit $357 million Crypto hacks in April saw nearly $360 million in assets
+    stolen across 18 incidents. This represented an almost 1,000% increase over the
+    amount lost in March. The largest loss came from an unauthorized Bitcoin transfer.
+    On April 28, blockchain investigator ZachXBT reported a suspicious transaction
+    of Bitcoin worth $330 million. He later confirmed that it was a social engineering
+    attack that targeted an elderly American.  Source: PeckShieldIn a Cointelegraph
+    interview at the Token2049 event, Hacken CEO Dyma Budorin told Cointelegraph that
+    the industry continues to rely on limited security measures even after the $1.4
+    billion Bybit hack incident. Budorin said that the space implements limited measures
+    instead of deploying comprehensive strategies. “Most of the projects think, ‘Okay,
+    we did pentests. That’s enough. Maybe bug bounty. That’s enough.’ It’s not enough,”
+    Budorin told Cointelegraph. Continue readingAI decentralized apps are coming for
+    the Web3 throne: DappRadarWhile gaming and DeFi held on to the top spot in the
+    decentralized applications (DApps) ecosystem, artificial intelligence is slowly
+    catching up. Blockchain analytics platform DappRadar showed that Gaming and DeFi
+    saw 21% DApp dominance in April. However, AI DApps climbed to 16%, up from the
+    11% recorded in the platform's February data. “As user interest in artificial
+    intelligence tools grows across industries, AI-powered DApps are steadily carving
+    out their place in the decentralized ecosystem,” DappRadar analyst Sara Gherghelas
+    said.AI DApps have seen a jump in market dominance this month, while market leaders
+    have declined slightly. Source: DappRadarGherghelas added that if the trend continues,
+    AI could challenge the dominance of DeFi and gaming, signaling a \"new era\" in
+    the DApp landscape. Continue readingBitcoin-backed loans “obvious” next step —
+    Xapo Bank CEOBitcoin holders are becoming more confident in using their BTC to
+    borrow funds. In a Token2049 interview, Xapo Bank CEO Seamus Rocca told Cointelegraph
+    that investors' moods have shifted from short-term speculation to a more long-term
+    outlook on Bitcoin. Rocca said that the confidence comes from broader institutional
+    adoption and Bitcoin's price levels that are \"nowhere near\" liquidation. Rocca
+    said Bitcoin-backed loans allow holders to stay exposed to the asset when facing
+    unexpected expenses. The executive said the smart thing to do is not sell the
+    asset when the price increases.Xapo Bank CEO Seamus Rocca at the Token2049 media
+    lounge. Source: CointelegraphHowever, when life gets in the way, Rocca said investors
+    can avoid liquidating their Bitcoin by borrowing against the asset and paying
+    interest. This way, they can hold on to the assets despite needing liquidity for
+    their expenses. Continue readingDeFi Market OverviewAccording to data from Cointelegraph
+    Markets Pro and TradingView, most of the 100 largest cryptocurrencies by market
+    capitalization ended the week in the green.The memecoin Pepe (PEPE) rose by over
+    53% as the week’s biggest gainer, followed by the Pudgy Penguins (PENGU) token,
+    which was up by 47% during the past week. Ether (ETH) was the third-biggest gainer,
+    showing an increase of 35%.Total value locked in DeFi. Source: DefiLlamaThanks
+    for reading our summary of this week’s most impactful DeFi developments. Join
+    us next Friday for more stories, insights and education regarding this dynamically
+    advancing space.\n\n            "
+  published: 2025-05-09 19:00:00.000000000 +01:00
+- title: " Chance of Bitcoin price highs above $110K in May increasing — Here’s why "
+  url: https://cointelegraph.com/news/chance-of-bitcoin-price-highs-above-110-k-in-may-increasing-here-s-why?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key Takeaways:Bitcoin is driven by its ability to perform well in risk-on
+    and risk-off environments, according to Bitcoin Suisse. Bitcoin’s Sharpe ratio
+    of 1.72, second only to gold, underscores its maturity as an asset, offering superior
+    risk-adjusted returns.A buyer-dominant market signals strong institutional and
+    retail interest that could drive a supply squeeze and break new highs in May.
+    Bitcoin (BTC) price breached the $100,000 mark for the first time since January,
+    fueling speculation of a new all-time high above $110,000 in May. According to
+    Bitcoin Suisse, a crypto custody service provider, BTC’s bullish momentum stems
+    from its ability to thrive in risk-on and risk-off environments since the US presidential
+    election. Data from its “Industry Rollup” report highlights Bitcoin’s high Sharpe
+    ratio of 1.72, a key financial metric that measures risk-adjusted returns by dividing
+    an asset’s average return (minus the risk-free rate). A higher Sharpe ratio reflects
+    superior risk-adjusted returns, and in 2025, Bitcoin’s robust score, surpassed
+    only by gold, highlights its growing maturity as an asset.Bitcoin price performance
+    in different environments. Source: Bitcoin SuisseOver the past two quarters, BTC
+    excelled as a dual-purpose investment. It acts as a macro hedge in risk-off climates,
+    benefiting from geopolitical tensions and de-dollarization concerns. In risk-on
+    scenarios, it behaved as a high-conviction growth asset, with over 86% of its
+    supply in profit. As illustrated in the chart, Bitcoin maintained a positive net
+    return through various key phases since November 2024. Bitcoin Suisse head of
+    research Dominic Weibei said, “In this environment, Bitcoin has emerged as the
+    Swiss army knife asset. Whether equities rally or bonds crumble, BTC trades on
+    its supply-demand fundamentals, delivering a win-win profile that traditional
+    assets simply can't offer.”Cointelegraph reported that Bitcoin is gearing up for
+    the next leg of an “acceleration phase,” according to Fidelity Digital Assets’
+    Q2 2025 Signals Report. Fidelity analyst Zack Wainwright explained that Bitcoin’s
+    historical tendency to enter explosive price surges is characterized by “high
+    volatility and high profit.” Related: Bitcoin eyes sub-$100K liquidity — Watch
+    these BTC price levels nextBitcoin spot buyers turn “dominant” On May 7, Bitcoin
+    spot taker cumulative volume delta (CVD) over 90 days turned buyer dominant for
+    the first time since March 2024. The 90-day spot taker CVD, which measures the
+    net difference between market buy and sell volumes, reflects buyer or seller activity
+    over a prolonged period. This shift to “taker buy dominant” aggressive buying
+    pressure, driven by institutional interest and spot Bitcoin ETF inflows, i.e.,
+    over $4.5 billion spot inflows since April 1. Bitcoin spot taker CVD chart. Source:
+    CryptoQuantThis structural change in demand and Bitcoin’s robust Sharpe ratio
+    could allow BTC to capitalize on current market conditions. As corporations and
+    institutions rush into Bitcoin, a supply squeeze may propel prices past $110,000
+    in May.Related: How high can Bitcoin price go?This article does not contain investment
+    advice or recommendations. Every investment and trading move involves risk, and
+    readers should conduct their own research when making a decision.\n\n            "
+  published: 2025-05-09 17:14:13.000000000 +01:00
+- title: " Is Bitcoin about to go parabolic? BTC price targets include $160K next "
+  url: https://cointelegraph.com/news/is-bitcoin-about-to-parabolic-btc-price-160k-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key points:Bitcoin continues to attack a key resistance zone below all-time
+    highs.“Parabolic” BTC price talk begins to resurface as bulls hold six figures
+    after the Wall Street open.Signs of profit-taking are increasing amid the highest
+    prices since January.Bitcoin (BTC) is attracting “parabolic” price targets as
+    bulls continue to hold six figures on May 9.BTC/USD 1-hour chart. Source: Cointelegraph/TradingViewBTC
+    price in line for “crazy numbers”Data from Cointelegraph Markets Pro and TradingView
+    shows barely any consolidation taking place on BTC/USD over the past 24 hours.The
+    pair hit $104,332 on Bitstamp, marking its highest since the end of January and
+    a clear departure from the slow downtrend in place for much of 2025.Reacting,
+    market participants have begun to restore their faith in the broader Bitcoin bull
+    market.“November 2024 monthly candle was the breakout signal on long-term charts,”
+    popular economist Aksel Kibar told X followers in his latest post.An accompanying
+    chart compares November 2024 to similar “breakout” events in the past, with Kibar
+    reiterating his existing $137,000 target.BTC/USD 1-month chart. Source: Aksel
+    Kibar/XOthers, however, have far loftier expectations for BTC price action next.
+    In particular, talk of “parabolic” upside has returned this month.Bitcoin is about
+    to go parabolic.Don't bet against history. pic.twitter.com/NYJVexp0mM— Mister
+    Crypto (@misterrcrypto) May 1, 2025“Bitcoin is going exponential,” crypto entrepreneur
+    and investor Jason Williams summarized as $100,000 returned.Trader and analyst
+    Matthew Hyland joined those forecasting new all-time highs in Q2 in his latest
+    video update.$160,000 or other “crazy numbers,” he said, could come into play
+    if bulls stay in control and a key leading indicator, the relative strength index
+    (RSI), supports further upside.“I actually do think that there is a high chance
+    that Bitcoin will end up breaking through these highs,” he concluded.#BTC & #ETH
+    Update: pic.twitter.com/ovRS9pN0aj— Matthew Hyland (@MatthewHyland_) May 9, 2025Bitcoin
+    halts progress at stubborn resistanceOn shorter timeframes, popular trader Skew
+    sounded the alarm over profit-taking being in full swing at $103,000, itself a
+    key long-term resistance zone.Related: Bitcoin eyes sub-$100K liquidity — Watch
+    these BTC price levels next“Starting to see some profits taking here, likely from
+    a large trader. Passively selling BTC into price here & closing out longs,” he
+    explained on the day.“Logically makes sense given BTC is trading around HTF Supply
+    & Resistance $103K - $104K.”BTC/USD vs. S&P 500 1-day chart. Source: Cointelegraph/TradingViewUS
+    stock markets were flat at the Wall Street open, with Skew suggesting their behavior
+    may spill over into crypto.“In terms of current underlying flow, market remains
+    correlated to tradfi so keep an eye on performance today into close,” he added.This
+    article does not contain investment advice or recommendations. Every investment
+    and trading move involves risk, and readers should conduct their own research
+    when making a decision.\n\n            "
+  published: 2025-05-09 15:59:44.000000000 +01:00
+- title: " Institutional investors continue to scoop up Bitcoin above $100K "
+  url: https://cointelegraph.com/news/institutional-investors-continue-to-scoop-up-bitcoin-above-100-k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin crossed the $100,000 mark again on May 8 as institutional investors
+    continue stacking sats.Farside Investors’ data shows that spot Bitcoin (BTC) exchange-traded
+    funds (ETFs) recorded cumulative net inflows of $142.3 million on May 7, in a
+    sign of “sustained institutional interest,” according to the founder of Obchakevich
+    Research, Alex Obchakevich.“These inflows indicate the activity of institutional
+    investors, including hedge funds and asset managers, who continue to accumulate
+    BTC through regulated instruments,“ he said.The ARK 21Shares Bitcoin ETF (ARKB)
+    led with $54 million in inflows, followed by Fidelity’s Wise Origin Bitcoin Fund
+    (FBTC) at $39 million and BlackRock’s iShares Bitcoin Trust (IBIT) at $37 million.
+    Data from Arkham Intelligence shows BlackRock acquired more than 86 Bitcoin worth
+    $8.4 million in a single transaction on May 7.  24-hour Bitcoin price chart. Source:
+    CoinMarketCapRelated: Bitcoin price reclaims $100K for first time since JanuaryETF
+    inflows show bullish momentumOn May 8, Bitcoin ETFs saw over $117 million worth
+    of inflows, this time led by IBIT with $69 million, followed by FBTC with $35
+    million and ARKB with $13 million. Obchakevich also pointed to the strengthening
+    correlation between Bitcoin and tech stocks. “BTC correlation with the Nasdaq
+    was 0.75, indicating the influence of sentiment in the tech market,” he said,
+    adding:“The positive movement of the Nasdaq on May 8–9 supported BTC, which led
+    to growth above $100,000.“Obchakevich said the positive trend goes as far back
+    as May 2, when IBIT inflows were as high as $675 million. He said that a continuation
+    of this trend was the most likely outcome:“The trend of institutional buying was
+    likely to continue on May 8-9, unless there were sharp macroeconomic or geopolitical
+    shocks.”Related: Bitcoin options could pave the path for new BTC price highs —
+    Here is howGrayscale Bitcoin Trust plays by different rulesObchakevich explained
+    that “the absence of significant outflows in key ETFs other than Grayscale Bitcoin
+    Trust (GBTC) supports the hypothesis that the whales and funds remain bullish.”
+    GBTC outflows, he said, are justified by different factors.Obchakevich said GBTC
+    outflows “are of particular importance because it is the largest Bitcoin ETF,
+    and its high fees ~1.5% are driving investors to switch to cheaper alternatives,
+    which affects the price of Bitcoin and market dynamics.” According to the analyst,
+    GBTC outflows are caused by “a combination of factors starting with tariffs, the
+    political crisis, and the conflict between Pakistan and India.” He added:“The
+    GBTC outflow is related to these factors as investors are not confident in the
+    stability of GBTC.“Magazine: Adam Back says Bitcoin price cycle ’10x bigger’ but
+    will still decisively break above $100K\n\n            "
+  published: 2025-05-09 14:46:23.000000000 +01:00
+- title: " Gemini to launch crypto derivatives in Europe with new license "
+  url: https://cointelegraph.com/news/gemini-launches-crypto-derivatives-europe-new-license?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Gemini, the cryptocurrency exchange founded by Cameron and Tyler Winklevoss,
+    has received regulatory approval to expand crypto derivatives trading across Europe.Gemini
+    secured a Markets in Financial Instruments Directive II (MiFID II) license from
+    the Malta Financial Services Authority (MFSA), allowing the exchange to offer
+    crypto derivatives in the European Union, it announced on May 9.“Once we commence
+    business activities, we will be able to offer regulated derivatives throughout
+    the EU and EEA [European Economic Area] under MiFID II,” said Gemini’s head of
+    Europe, Mark Jennings.According to the exec, the MiFID II license is a big milestone
+    in Gemini’s European expansion, putting it one step closer to offering derivatives
+    to both retail and institutional users.Advanced traders will get perpetual futuresGemini’s
+    upcoming derivatives offering in the EU and EEA will include perpetual futures
+    and other derivatives, which will be available to advanced users of Gemini, Jennings
+    noted.“Over the coming months, we will be working toward meeting the required
+    conditions to launch these products across Europe,” he added.Source: MFSAAccording
+    to MFSA records, Gemini’s Maltese entity, Gemini Intergalactic EU Artemis, was
+    issued a license on May 8.MiCA license yet to be issuedGemini’s latest license
+    builds on the growing regulatory progress of the US-based exchange in Europe.In
+    January, Gemini officially announced that it would choose Malta as its hub for
+    compliance with the European Union’s Markets in Crypto-Assets (MiCA) framework.The
+    move came shortly after Gemini received its sixth European virtual asset service
+    provider (VASP) registration from the MFSA in December 2024. However, the exchange
+    has not yet obtained full MiCA licensing.Related: Coinbase’s Deribit buy shows
+    growing derivatives marketDerivatives are a hot trend in cryptoGemini’s upcoming
+    crypto derivatives launch in Europe is yet another milestone in a growing trend
+    toward derivatives in the global crypto industry.Coinbase, the biggest crypto
+    exchange in the US by trading volume, on May 8 announced the $2.9 billion acquisition
+    of Deribit, one of the world’s largest crypto derivatives platforms.The deal came
+    just a few days after rival exchange Kraken confirmed plans to purchase the derivatives
+    trading platform NinjaTrader to offer futures trading on May 1. The firm previously
+    said it had agreed to acquire NinjaTrader for $1.5 billion.Magazine: 12 minutes
+    of nail-biting tension when Ethereum’s Pectra fork goes live\n\n            "
+  published: 2025-05-09 13:51:25.000000000 +01:00
+- title: " Taiwan lawmaker calls for Bitcoin reserve at national conference "
+  url: https://cointelegraph.com/news/taiwan-lawmaker-pushes-bitcoin-reserve-national-conference?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Taiwanese lawmaker Ko Ju-Chun has called on the government to consider
+    adding Bitcoin to its national reserves, suggesting it could serve as a hedge
+    against global economic uncertainty.  Ko, a legislator at-large in Taiwan’s legislative
+    body, the Legislative Yuan, took to X on Friday to report that he had advocated
+    Bitcoin (BTC) investment by the Taiwanese government at the National Conference
+    on May 9.In his remarks, Ko cited Bitcoin’s potential to become a hedge amid global
+    economic risks and urged Taiwan to recognize the cryptocurrency alongside gold
+    and foreign exchange reserves to boost its financial resilience.Source: Ko Ju-ChunKo’s
+    announcement came shortly after the legislator held talks with Samson Mow, who
+    advocates for Bitcoin adoption by states like El Salvador at his BTC tech firm
+    Jan3.Taiwan is an export-oriented economyKo highlighted that Taiwan is an export-driven
+    economy that has experienced significant fluctuations in its national currency,
+    the New Taiwan dollar, amid global inflation and intensifying geopolitical risks.“We
+    currently have a gold reserve of 423 metric tons, and our foreign exchange reserves
+    amount to $577 billion, including investments in US Treasury bonds,” the lawmaker
+    stated.In a scenario of more intense currency volatility or potential regional
+    conflicts, Taiwan may “very likely be unable to ensure the security and liquidity,”
+    Ko continued, adding that Bitcoin could be a great addition to Taiwan’s reserves
+    for several reasons.Ko Ju-Chun advocated for the adoption of Bitcoin by the Taiwanese
+    government before the Legislative Yuan. Source: Ko Ju-Chun“Bitcoin has been operating
+    for over 15 years. It has a fixed total supply, is decentralized, and is resistant
+    to censorship. Many countries are focusing on its hedging attributes. At the same
+    time, in intense situations, it may not face the risk of embargo,” he said.Bitcoin
+    is not the only solutionReferring to many global initiatives considering Bitcoin
+    adoption as a reserve asset, Ko stressed that he’s not advocating for Bitcoin
+    as the “only solution” to rising economic challenges.Instead, the legislator suggested
+    adding a “small proportion of Bitcoin” into the diversified assets as tools for
+    sovereign asset allocation and risk hedging, and backup capacity of Taiwan’s financial
+    system.Related: Trump tricked into pushing XRP for crypto reserve: ReportHe previously
+    suggested that Taiwan could allocate a maximum of 5% of its $50 billion reserve
+    to Bitcoin in an X post on May 6.Source: Ko Ju-Chun“When exchange rate risk and
+    regional uncertainty increase, it is time to introduce new tools to construct
+    a more flexible financial strategy framework,” Ko said, adding:“As former Dean
+    Chen Chong said, Bitcoin is the gun of the digital era. It may also be the gold
+    of the digital era, the silver of the digital era. Or it could be gunpowder. A
+    wise nation will not let weapons be in others’ hands.”The news comes as Taiwan
+    is emerging as a crypto-friendly jurisdiction, with the Financial Supervisory
+    Commission pushing institutional trials of crypto custody services in late 2024.Mainland
+    China continues to maintain its hostile stance on cryptocurrency after imposing
+    a ban on multiple crypto activities, including mining, in 2021.Magazine: Adam
+    Back says Bitcoin price cycle ’10x bigger’ but will still decisively break above
+    $100K\n\n            "
+  published: 2025-05-09 12:45:38.000000000 +01:00
+- title: " Bitcoin eyes sub-$100K liquidity — Watch these BTC price levels next "
+  url: https://cointelegraph.com/news/bitcoin-eyes-sub-100k-liquidity-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key points:Bitcoin (BTC) is at its highest levels since January, and traders
+    are eyeing key levels to watch for what’s next.After hitting $104,000, BTC/USD
+    is retracing to establish support, but the fate of $100,000 is among the concerns
+    for market participants.Current price action represents an important battleground,
+    as measured from the $75,000 lows this year.” Headline driven” BTC price gains
+    draw scrutinyJust $6,000 from new all-time highs, per data from Cointelegraph
+    Markets Pro and TradingView, BTC price action has stunned the market by jumping
+    10% in days.The pace of the BTC price gains has come as a surprise for many, but
+    longer-term perspectives show where the most difficult battleground lies.“Since
+    this current impulse was primarily headline driven again this puts markets into
+    a crucial & critical trading day,” trader Skew said about the impetus for the
+    move in an X post on May 8.Skew refers to a common theme uniting BTC price volatility
+    in recent weeks and months. Bitcoin and risk assets have become highly sensitive
+    to headlines and even social media posts involving US President Donald Trump and
+    his trade tariffs.The latest event involves a trade deal between the US and UK,
+    but how long optimism endures remains an open bet.“I’m sure markets are hoping
+    this has a kick on effect to get trade deals on the table for other major trade
+    parties like EU & China,” Skew continued.Another X post said what is needed now
+    are “passive flows,” strong volume to support newly revisited levels and turn
+    them into strong support.Skew added:“Passive flows will be important for accepting
+    higher value especially after such a large market bid which led price to break
+    $100K.”BTC/USD 1-hour chart. Source: Cointelegraph/TradingViewFibonacci levels
+    spotlight crucial bull market battleCurrent local highs for BTC/USD have breached
+    the $104,000 mark, and zooming out, Fibonacci retracement analysis reveals that
+    price is now in a key zone.“$BTC is at the last technical level to clear before
+    new ATHs,” commentator Patric H. announced in an X post. “Bitcoin has already
+    decisively cleared the 1.618 FIB and is now trading at the volume-area high (VAH)
+    + a weak resistance trendline.”BTC/USDT 1-day chart with Fibonacci levels. Source:
+    Patric H./XAn accompanying chart offered important Fibonacci levels as measured
+    from Bitcoin’s local lows around $75,000.Another trading account, Kingpin Crypto,
+    revealed a conspicuous breakout attempt for the 1.618 Fibonacci level on the monthly
+    chart.“Rejection and pullback from 1.618 lasted a bit longer till May. However,
+    can’t deny how beautifully the fib level played out,” it said.BTC/USDT 1-month
+    chart with Fibonacci levels. Source: Kingpin Crypto/XLiquidations waiting in the
+    wingsA cautionary note involved order book liquidity at current levels.Related:
+    How high can Bitcoin price go?The latest data from monitoring resource CoinGlass
+    showed price eating away at bids immediately below $103,000, with the bulk of
+    interest clustered below $100,000.To the upside, however, little friction remained,
+    with the bulk of liquidations having already occurred on the return to six figures.Bitcoin
+    liquidation heatmap (screenshot). Source: CoinGlass“There’s much less short liquidity
+    clustered above,” trader TheKingfisher confirmed on X. “This notable imbalance
+    makes the downside liquidation zone a potential key area to watch for volatility
+    or price attraction.”Bitcoin exchange order book liquidity data. Source: TheKingfisher/XThis
+    article does not contain investment advice or recommendations. Every investment
+    and trading move involves risk, and readers should conduct their own research
+    when making a decision.\n\n            "
+  published: 2025-05-09 11:05:00.000000000 +01:00
+- title: " How high can Bitcoin price go? "
+  url: https://cointelegraph.com/news/how-high-can-bitcoin-price-go?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key takeaways:Bitcoin was up 4.3% on May 9, after breaking $100,000  for
+    the first time since February.BTC price gains trigger $800 million in short liquidations,
+    the largest since 2021.A bull flag on the weekly chart suggests a $182,200 target,
+    with analysts predicting Bitcoin’s price can go as high as $1 million in 2025.Bitcoin’s
+    (BTC) price is up 4.3% on May 9 as a fresh liquidity cascade sent BTC price soaring
+    above $100,000 for the first time in over 90 days.BTC/USD pair trades above $100K
+    for the first time since Feb. 4. Source: Cointelegraph/TradingViewBitcoin wipes
+    out liquidity in return to 6-figuresBTC/USD rose as high as $104,150 during the
+    late New York trading session on May 8, according to data from Cointelegraph Markets
+    Pro and Bitstamp. Crypto market sentiment, as measured via the Crypto Fear & Greed
+    Index, has increased from 65 to 73 in the last 24 hours, suggesting increasing
+    “greed” among investors.Crypto Fear and Greed Index. Source: Alternative.me24-hour
+    crypto market liquidations surpassed $925 million, including $800 million in short
+    positions, marking it the largest short liquidation since 2021, according to monitoring
+    resource CoinGlass.BTC/USDT liquidation heatmap. Source: CoinGlassSeveral bands
+    of seller interest are above the spot price, with ask-orders worth $2.85 billion
+    sitting close to the all-time high of $109,500. This suggests the ongoing rally
+    still has room to run in the short term. However, crypto analyst GemXBT noted
+    that in daily timeframes, the BTC/USD pair had triggered “overbought conditions”
+    on the relative strength index (RSI) indicator, which rose above 70.Despite this,
+    the analyst said strong support from the moving averages and the MACD moving above
+    the signal line reinforced Bitcoin’s upside.“Bitcoin (BTC) is currently in an
+    uptrend, trading above the 5MA, 10MA, and 20MA, indicating strong bullish momentum.
+    The MACD is above the signal line, supporting the bullish sentiment.”BTC/USD daily
+    chart. Source: Cointelegraph/TradingViewTraders set ambitious targets for Bitcoin
+    priceBitcoin’s latest recovery has led market analysts and traders to set varied
+    BTC price targets based on various analyses and sentiments. Bitcoin’s current
+    rally may continue toward $106,000, according to popular crypto analyst AlphaBTC. In
+    a technical setup shared on his X handle, the analyst showed Bitcoin trading within
+    an ascending parallel channel, with the short-term target being the all-time high
+    daily close above $106,000.“I am liking how these Fibonacci retracement levels
+    line up with support, makes me think $BTC has another leg to 106K+ before it corrects.”BTC/USD
+    12-hour chart. Source: AlphaBTCMultiple analysts have also projected higher year-end
+    targets for Bitcoin, including crypto trader Egrag Crypto, who says BTC price
+    could rise to $170,000 if it breaks above the all-time high of $109,000.“​​I’ve
+    been targeting the $170K range as the potential cycle top — but here’s the key:
+    #BTC must close above $109K. Anything less is just a #BullTrap and a retracement,
+    nothing more.”Meanwhile, Binance founder Changpeng Zhao expects Bitcoin to reach
+    between $500,000 and $1 million this bull cycle, driven by institutional adoption,
+    growing government accumulation, and a pro-crypto US administration under President
+    Donald Trump.BTC price bull flag targets $180,000 From a technical perspective,
+    the Bitcoin price action has led to the formation of a bull flag pattern on the
+    weekly timeframe, a bullish setup that forms after the price consolidates inside
+    a down-sloping range.BTC/USD weekly chart. Source: Cointelegraph/TradingViewThe
+    bull flag breakout occurred when the price jumped above the upper trendline at
+    $88,000 on April 22. Bitcoin could now rise by as much as the previous uptrend’s
+    height, or $182,200, a 75% gain from the current price.This article does not contain
+    investment advice or recommendations. Every investment and trading move involves
+    risk, and readers should conduct their own research when making a decision.\n\n
+    \           "
+  published: 2025-05-09 10:03:42.000000000 +01:00
+- title: " Germany seizes $38M in crypto from Bybit hack-linked eXch exchange "
+  url: https://cointelegraph.com/news/germany-seizes-38-million-crypto-bybit-hack-linked-exch?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "German law enforcement seized 34 million euros ($38 million) in cryptocurrency
+    from eXch, a cryptocurrency platform allegedly used to launder funds stolen after
+    Bybit’s record-breaking $1.4 billion hack.The seizure, announced on May 9 by Germany’s
+    Federal Criminal Police Office (BKA) and Frankfurt’s main prosecutor’s office,
+    involved multiple crypto assets, including Bitcoin (BTC), Ether (ETH), Litecoin
+    (LTC) and Dash (DASH). The move marks the third-largest crypto confiscation in
+    the BKA’s history.The authorities also seized eXch’s German server infrastructure
+    with over eight terabytes of data and shut down the platform, the announcement
+    added.eXch exchanged crypto without AMLIn the statement, the BKA described eXch
+    as a “swapping” service that allowed users to exchange various crypto assets without
+    implementing Anti-Money Laundering (AML) measures.The platform had operated since
+    2014 and reportedly facilitated about $1.9 billion in crypto transfers, some of
+    which were believed to be of “criminal origin,” including assets laundered during
+    the Bybit hack.Example of flow of Bybit exploit funds moving through eXch and
+    bridging back and forth between Ether and Bitcoin. Source: TRM Labs“Among other
+    things, a portion of the $1.5 billion stolen from the Bybit crypto exchange, which
+    was hacked on Feb. 21, 2025, is said to have been exchanged via eXch,” the authorities
+    wrote.Multisig, FixedFloat among laundering casesAccording to a post by crypto
+    sleuth ZachXBT, eXch was also involved in laundering millions of funds from other
+    crypto thefts and exploits, including Multisig, FixedFloat and the $243 million
+    Genesis creditor theft.Those were in addition to “countless phishing drainer services
+    over the past few years with refusal to block addresses and freeze orders,” ZachXBT
+    said.Source: ZachXBTZachXBT was among the first security analysts to report on
+    eXch’s links to laundering $35 million of crypto assets stolen from Bybit soon
+    after the hack was confirmed.Related: Hacken CEO sees ‘no shift’ in crypto security
+    as April hacks hit $357M“Lazarus Group transferred 5K ETH from the Bybit Hack
+    to a new address and began laundering funds via eXch (a centralized mixer) and
+    bridging funds to Bitcoin via Chainflip,” ZachXBT wrote in a Telegram post on
+    Feb. 22.eXch announced termination of services by May 1After initially denying
+    involvement in laundering funds from the Bybit hack, eXch eventually announced
+    it would cease operations by May 1 in a Bitcoin Talk post published in mid-April.“Even
+    though we have been able to operate despite some failed attempts to shut down
+    our infrastructure [...], we don’t see any point in operating in a hostile environment
+    where we are the target of SIGINT [Signals Intelligence] simply because some people
+    misinterpret our goals,” it wrote.Addressing the seizure, senior public prosecutor
+    Benjamin Krause stressed the importance of action against “quick and anonymous
+    opportunities for money laundering for any amount.”“Crypto swapping is an essential
+    component of the underground economy, used to conceal incriminated funds from
+    illegal activities such as hacking or trading in stolen payment card data, thus
+    making them available to perpetrators,” he said.Magazine: Finally blast into space
+    with Justin Sun, Vietnam’s new national blockchain: Asia Express\n\n            "
+  published: 2025-05-09 09:24:17.000000000 +01:00
+- title: " Bitcoin accepted at fast food chain Steak ’n Shake from May 16 "
+  url: https://cointelegraph.com/news/steak-n-sats-bitcoin-accepted-steak-n-shake-locations-may-16?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "American fast food outlet Steak ‘n Shake has announced it will begin accepting
+    Bitcoin as payment at all locations starting on May 16.The firm said on X on May
+    9 that it was making the cryptocurrency available to more than 100 million customers,
+    adding that “the movement is just beginning,” before signing off as “Steaktoshi.” “Our
+    goal is to utilize Bitcoin at all locations, including all international units.
+    Each country will announce its own launch date,” Steak ‘n Shake Chief Operations
+    Officer Dan Edwards told Cointelegraph.The fast food chain initially hinted at
+    accepting Bitcoin (BTC) in March when it posted “Should Steak ‘n Shake accept
+    Bitcoin?” on social media. The tweet drew the attention of the crypto community
+    and Bitcoin proponents such as Jack Dorsey, who rapidly replied with a “yes.” The
+    firm has built momentum since then with Bitcoin-themed marketing, Tesla promotions,
+    and visual hints on its social media feeds.“The future is bright,” said the firm
+    in April. Source: Stake n’ ShakeRelated: How to buy food with Bitcoin?The acceptance
+    of Bitcoin represents a significant development in mainstream crypto adoption,
+    as few restaurant chains have moved beyond limited pilot programs to full-scale
+    payments.Cointelegraph reached out to Stake ‘n Shake for more details but did
+    not get an immediate response. Crypto for fast foodStake ‘n Shake will join a
+    growing number of fast food chains that accept crypto payments.Since 2022, Chipotle
+    has accepted almost 100 different cryptocurrencies via Flexa, including Bitcoin,
+    Ether (ETH) and Solana (SOL).One of the earliest adopters of crypto payments is
+    Subway, which has piloted Bitcoin payments as far back as 2013 at select franchises. KFC
+    offered a “Bitcoin Bucket” promotion in Canada in 2018, allowing purchases with
+    BTC, while McDonald's accepts Bitcoin in Lugano, Switzerland, as part of a local
+    crypto initiative.Burger King accepted crypto gift cards and direct crypto payments
+    in select countries like Germany, the Netherlands, and Venezuela. In September,
+    Donald Trump used Bitcoin to buy burgers at a New York City bar. Pizza Hut became
+    one of the first mainstream outlets to accept BTC in El Salvador, where it was
+    made legal tender in 2021.The first-ever Bitcoin transaction was made to buy fast
+    food by Laszlo Hanyecz on May 22, 2010, which later became the famous Bitcoin
+    Pizza Day. He paid 10,000 BTC for two pizzas, worth $40 at the time. Today, those
+    pizzas would be more than a billion dollars.This article has been updated to include
+    comments from Stake ‘n Shake COO.Magazine: Bitcoin to $1M ‘by 2029,’ CIA tips
+    its hat to Bitcoin: Hodler’s Digest\n\n            "
+  published: 2025-05-09 07:19:13.000000000 +01:00
+- title: " Metaplanet is raising another $21M through bonds to buy more Bitcoin "
+  url: https://cointelegraph.com/news/metaplanet-raising-another-21m-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Fresh off its most recent Bitcoin purchase, Japanese investment firm Metaplanet
+    is raising more funds through another bond issue to expand its growing crypto
+    treasury.Through a $21.25 million issue of “0% Ordinary Bonds,”  all the “funds
+    raised will be allocated to the purchase of Bitcoin,” the firm said in a May 9
+    statement. Zero-coupon bonds don’t offer any interest to the holder. Most of the
+    time, they are issued at a steep discount from their normal value, and when they
+    mature, the holder receives the full value.After its most recent May 9 board of
+    directors meeting, the firm said it will issue a 14th Stock Acquisition Rights
+    to EVO Fund, an investment management firm in the Cayman Islands, with a redemption
+    date of Nov. 7.Source: MetaplanetAt current prices, Metaplanet could buy 206 Bitcoin
+    (BTC) if it raises the full $21.25 million, according to CoinGecko. The firm first
+    flagged plans to buy Bitcoin last April. With its current stash, BitcoinTreasuries.NET
+    shows Metaplanet is Asia’s largest public corporate holder of Bitcoin and ranks
+    11th globally. Metaplanet’s stock (3350T) has shot up over 1,600% in the last
+    year and is trading for 511 Japanese yen ($3.50), according to Google Finance.Metaplanet’s
+    share price has shot up significantly in the last year. Source: Google FinanceMetaplanet
+    just keeps buying Bitcoin On May 7, the Tokyo-listed firm disclosed that it spent
+    $53.4 million acquiring 555 Bitcoin at an average price of $96,134. The company
+    now holds 5,555 BTC, purchased for $481.5 million at an average price of $86,672. Metaplanet
+    also announced on May 7 the issuance of another $25 million in zero-coupon ordinary
+    bonds to fund more Bitcoin buys On May 1, Metaplanet said it would launch a wholly
+    owned US subsidiary, Metaplanet Treasury, based in Florida. It plans to raise
+    $250 million to further its Bitcoin strategy and tap the US capital markets.Related:
+    How much Bitcoin can Berkshire Hathaway buy?Meanwhile, a growing number of companies
+    have decided to add Bitcoin to their balance sheets, following in the steps of
+    Michael Saylor’s company, Strategy, formerly MicroStrategy.  Strive Asset Management
+    announced on May 7 that it will transition into a Bitcoin treasury company. Meanwhile,
+    video game retailer GameStop Corporation (GME) finished a convertible debt offering
+    on April 1 that raised $1.5 billion, with some proceeds earmarked for buying Bitcoin. Magazine:
+    Rise of MicroStrategy clones, Asia dominates crypto adoption: Asia Express 2024
+    review\n\n            "
+  published: 2025-05-09 07:18:18.000000000 +01:00
+- title: " Bitcoin at $103K hurtles MARA stack toward $5B, holdings triple "
+  url: https://cointelegraph.com/news/mara-holdings-bitcoin-holdings-value-surge-price-btc-q1-results?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin mining firm MARA Holdings (MARA) nearly tripled its Bitcoin holdings
+    over 12 months, according to its newly released Q1 results.However, its Bitcoin
+    production fell, and total earnings slightly missed Wall Street estimates in Q1.MARA,
+    formerly Marathon Digital, saw its Bitcoin (BTC) holdings increase to 47,531 BTC,
+    up 175% from the 17,320 BTC the firm was holding at the end of Q1 2024.MARA holdings
+    inch closer to $5B after Bitcoin pumpMARA holds the second-largest amount of Bitcoin
+    among all publicly traded companies, according to CoinGecko data. Strategy (MSTR)
+    holds the number one spot with 555,450 Bitcoin.The holdings represent a total
+    value of approximately $4.9 billion, based on Bitcoin’s current price of $102,660
+    at the time of publication, according to CoinMarketCap data. Over the past 24
+    hours, Bitcoin’s price spiked 4.86%.Bitcoin is trading at $102,660 at the time
+    of publication. Source: CoinMarketCapHowever, the amount of Bitcoin that MARA
+    produced over the quarter fell 19% compared to the same quarter in 2024 to 2,286
+    Bitcoin. MARA attributed this to the last Bitcoin halving event, which reduced
+    mining rewards to 3.125 BTC per block and tightened overall supply.MARA fell short
+    of analyst revenue expectations by 0.35%, according to Zacks Research. The analysts
+    pointed out that MARA has only surpassed consensus revenue estimates once in the
+    past four quarters.MARA is trading at $14.20 at the time of publication. Source:
+    Google FinanceDespite this, MARA’s stock price jumped 7.2% during trading on May
+    8 but has since pulled back nearly 2% in after-hours trading, according to data
+    from Google Finance.Bitcoin mining firms share same frustrationsBitcoin miner
+    Riot Platforms echoed similar difficulties in their recent Q1 financial report. Riot
+    said that the average cost to mine Bitcoin over the quarter was $43,808, almost
+    90% more than the $23,034 it cost to mine Bitcoin in the same period last year.
+    However, Riot beat its $159.8 million revenue consensus estimate by 1%.Related:
+    Bitcoin miner Hive taps Paraguay for low-cost energy partnershipSeveral other
+    Bitcoin mining firms also fell short of Wall Street’s revenue expectations.Bitcoin
+    miner CleanSpark missed consensus estimates by 0.58%, reporting quarterly revenue
+    of $181.71 million.Bitcoin miner Core Scientific also fell short of analyst expectations
+    with total Q1 revenue reaching $79.5 million, missing Zacks analysts’ estimates
+    by 8.11% and falling from its $179.3 million revenue for Q1 2024. Meanwhile, Bitcoin
+    miner Hut8 reported the widest miss among Bitcoin mining firms, falling 35% short
+    of Wall Street expectations.Zacks Research had projected Hut8 to post first-quarter
+    revenue of $35 million, but Hut8 came in significantly lower at just $21 million.Magazine:
+    ChatGPT a ‘schizophrenia-seeking missile,’ AI scientists prep for 50% deaths:
+    AI EyeThis article does not contain investment advice or recommendations. Every
+    investment and trading move involves risk, and readers should conduct their own
+    research when making a decision.\n\n            "
+  published: 2025-05-09 04:46:19.000000000 +01:00
 - title: " Bitcoin options could pave the path for new BTC price highs — Here is how "
   url: https://cointelegraph.com/news/bitcoin-options-could-pave-the-path-for-new-btc-price-highs-here-is-how?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key takeaways:97% of the $8.3 billion in Bitcoin put options expire worthless
@@ -760,715 +1497,6 @@
     involves risk, and readers should conduct their own research when making a decision.\n\n
     \           "
   published: 2025-05-08 06:31:50.000000000 +01:00
-- title: " Texas House committee passes Bitcoin reserve bill for full floor vote "
-  url: https://cointelegraph.com/news/texas-house-committee-passes-bitcoin-reserve-bill-for-full-floor-vote?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "A Texas House Committee has passed a Republican-backed bill to create
-    a Bitcoin reserve, which now only needs a successful full floor vote before heading
-    to the governor’s desk.The Texas House Committee on Delivery of Government Efficiency
-    passed Senate Bill 21 with no amendments on May 7 in a 9-4 vote along party lines.
-    The bill has already passed the Texas Senate, in a 25-5 vote on March 6.  SB 21
-    would establish the “Texas Strategic Bitcoin Reserve,” controlled by the state’s
-    comptroller — currently Glenn Hegar — who would be permitted to invest in digital
-    assets that have obtained a market cap of at least $500 billion over the last
-    twelve months, which would currently only include Bitcoin (BTC).Source: Pierre
-    RochardRepublican Senator Charles Schwertner initially introduced SB 21 in January
-    as a Bitcoin-only bill.However, the bill was refiled to include the potential
-    inclusion of other digital assets in February.Bitcoin Laws founder Julian Fahrer
-    said on X that the fate of SB 21 should be determined before June 2, when the
-    Texas legislature adjourns.If the bill sees a successful full floor vote, it would
-    head to Governor Greg Abbott’s desk. Abbott expressed his desire to make Texas
-    the “crypto capital” of the US in November and accepted Bitcoin donations as part
-    of his campaign in 2014 Two Bitcoin reserve bills now signed into lawThe Texas
-    vote comes the same day as Arizona Governor Katie Hobbs signed a bill into law
-    that allowed the state to keep unclaimed crypto and establish a Bitcoin and Digital
-    Asset Reserve Fund that won’t use taxpayer or state funds.The state can also stake
-    abandoned crypto to earn rewards or receive airdrops, which can then be deposited
-    into its crypto fund.Related: Swedish MP proposes Bitcoin reserve to finance ministerNew
-    Hampshire Governor Kelly Ayotte also signed House Bill 302 into law days earlier
-    on May 6, allowing the state’s treasury to use funds to invest in cryptocurrencies
-    with a market cap of more than $500 billion.Florida, however, removed two Bitcoin
-    reserve bills on May 3 — a day when state lawmakers passed 230 bills ranging from
-    prohibiting putting fluoride in water, protecting state parks, and banning smartphone
-    use in schools.Magazine: Adam Back says Bitcoin price cycle is ’10x bigger’, has
-    ’empathy’ for ETF buyers\n\n            "
-  published: 2025-05-08 06:14:39.000000000 +01:00
-- title: " Bitcoin returns to $98K as Fed holds rates steady despite Trump’s demand "
-  url: https://cointelegraph.com/news/bitcoin-price-98k-federal-reserve-interest-rate-cuts-donald-trump-demands?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin has reclaimed $98,000 for the first time in almost three months
-    after the US Federal Reserve said it would keep interest rates the same for another
-    month.The Fed’s decision to keep interest rates unchanged comes despite mounting
-    pressure from US President Donald Trump, who just weeks ago threatened to fire
-    Fed chair Jerome Powell for being “too late” in cutting rates.Fed cites higher
-    unemployment, inflation riskPowell said on May 7 that the Federal Reserve rate-setting
-    committee held rates in the 4.25% to 4.50% range due to the rising risks of higher
-    unemployment and higher inflation.He added inflation has “come down a great deal
-    but has been running above our 2% longer objective.” Powell said surveys in households
-    and businesses showed a “sharp decline in sentiment” mainly due to concerns over
-    Trump’s trade policy.However, Powell said that “despite heightened uncertainty,
-    the economy is still in a solid position.” In the days leading up to the announcement,
-    data from CME Group’s FedWatch Tool indicated that the futures market expected
-    minimal odds of a rate cut.Powell said the unemployment rate remains low, and
-    the labor market is “at or near maximum employment.” The market expects the Fed
-    to drop the Fed funds rate to 3.6% by the end of 2025.Bitcoin fell below $96,000
-    before retracing back above $98,000 just hours later on May 7. Source: CoinMarketCapBitcoin
-    (BTC) dropped below $97,000 to $95,866 after Powell’s speech, but it shot up to
-    tap $98,000 for the first time since Feb. 21 just hours later. Bitcoin momentum
-    has been building, with the Crypto Fear & Greed Index returning to “Greed” territory,
-    and spot Bitcoin exchange-traded funds (ETFs) posting inflows of almost $4.41
-    billion since March 26.Related: Bitcoin price rallied 1,550% the last time the
-    ‘BTC risk-off’ metric fell this lowOn March 9, network economist Timothy Peterson
-    warned that if the Fed holds off on rate cuts in 2025, it may cause a broader
-    market downturn, potentially dragging Bitcoin back toward $70,000.Peterson’s forecast
-    came after Powell said in March that “we do not need to be in a hurry and are
-    well-positioned to wait for greater clarity.”Magazine: Adam Back says Bitcoin
-    price cycle is’ 10x bigger’, has’ empathy’ for ETF buyersThis article does not
-    contain investment advice or recommendations. Every investment and trading move
-    involves risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-08 03:49:00.000000000 +01:00
-- title: " Bitcoin miner Core Scientific posts $580M Q1 profit but misses revenue
-    estimates "
-  url: https://cointelegraph.com/news/core-scientific-misses-q1-revenue-posts-580-million-q1-profit?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Nasdaq-listed Bitcoin mining firm Core Scientific Inc. posted a net profit
-    of $580 million with its first quarter results, but missed analyst revenue estimates
-    after a drop in its mining profits.Core Scientific’s Q1 2025 results, published
-    on May 7, saw it more than double its $210 million net income from the year-ago
-    quarter, while its total revenue reached $79.5 million, missing Zacks analysts'
-    estimates by 8.11%, and falling from its $179.3 million in revenues for Q1 2024. The
-    firm’s primary source of revenue came from $67.2 million in self-mining revenue,
-    $3.8 million in hosted mining revenue, and $8.6 million in colocation, formerly
-    listed as high-performance computing (HPC) hosting.Source: Core ScientificCore
-    Scientific said its drop in Bitcoin (BTC) mined and revenue was due to the halving
-    on April 20, 2024, when mining rewards were cut from 6.25 BTC to 3.125 BTC, and
-    its operational shift to HPC hosting, primarily used for artificial intelligence.However,
-    the losses were partially offset by a 74% increase in the average price of Bitcoin
-    and a 33% decrease in power costs due to lower rates and usage. As part of its
-    HPC hosting shift, Core Scientific inked a deal in February with AI startup CoreWeave
-    for a $1.2 billion data center expansion. As a result, Core Scientific anticipates
-    entering 2026 with annualized colocation revenue of $360 million.Inflection point
-    for miners in AI shiftCore Scientific CEO Adam Sullivan said in a statement that
-    its first quarter was an “inflection point,” as the firm positioned itself at
-    the “center of one of the most important shifts in modern computing,” as the demand
-    for high-performance data infrastructure has accelerated.Related: Robinhood beats
-    Q1 estimates despite revenue, crypto trading dipShares in Core Scientific (CORZ)
-    closed May 7 trading down 1%, falling to $8.90, according to Google Finance. However,
-    they jumped over 3% to trade at $9.24 after the bell.Core Scientific’s stock has
-    jumped slightly after the bell, after dropping during the regular session. Source:
-    Google Finance In an August report, asset manager VanEck estimated that if publicly
-    traded Bitcoin mining companies shifted 20% of their energy capacity to AI and
-    HPC by 2027, they could increase additional yearly profits by $13.9 billion over
-    13 years.Riot Platforms appointed three new directors to its board in February,
-    one of whom has experience converting Bitcoin mining assets toward HPC.Hive Digital,
-    Hut 8 and Iris Energy converted part of their operations to HPC and AI last year,
-    and TeraWulf sold its stake in a Bitcoin mining facility for $92 million in October,
-    with the proceeds marked for hosting AI and building HPC data centers. Magazine:
-    Adam Back says Bitcoin price cycle is ’10x bigger’, has ’empathy’ for ETF buyers\n\n
-    \           "
-  published: 2025-05-08 03:32:07.000000000 +01:00
-- title: " Arizona governor signs law for state to keep unclaimed crypto "
-  url: https://cointelegraph.com/news/arizona-governor-signs-bitcoin-reserve-keep-unclaimed-crypto?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Arizona Governor Katie Hobbs has signed a bill into law allowing the US
-    state to keep unclaimed crypto and establish a “Bitcoin Reserve Fund” that won’t
-    use any taxpayer money or state funds.Hobbs signed House Bill 2749 into law on
-    May 7, which allows Arizona to claim ownership of abandoned digital assets if
-    the owner fails to respond to communications within three years.The state’s custodians
-    can stake the crypto to earn rewards or receive airdrops, which can then be deposited
-    into what Arizona has called a Bitcoin and Digital Asset Reserve Fund.“This law
-    ensures Arizona doesn’t leave value sitting on the table and puts us in a position
-    to lead the country in how we secure, manage, and ultimately benefit from abandoned
-    digital currency,” the bill’s sponsor, Jeff Weninger, said in a May 7 statement.Arizona
-    House Representative Jeff Weninger’s statement on the signing of HB 2749 into
-    law. Source: Jeff Weninger“We’ve built a structure that protects property rights,
-    respects ownership, and gives the state tools to account for a new category of
-    value in the economy,” Weninger added.On May 3, Hobbs vetoed a similar Bitcoin
-    (BTC) reserve bill, Senate Bill 1025, which would have allowed the state to invest
-    seized funds into Bitcoin, citing concerns over using public funds for \"untested
-    assets.”Hobbs’ move gives hope for future crypto billsBitcoin Laws founder Julian
-    Fahrer said on X that Hobbs’ signing of HB 2749 offers more hope that she may
-    also sign Senate Bill 1373, which is currently on her desk.Related: Bitcoin bros
-    at ‘the club’ may stop US gov’t from buying BTC — Arthur HayesSB 1373 would authorize
-    Arizona’s treasurer, currently Kimberly Yee, to allocate up to 10% of Arizona’s
-    Budget Stabilization Fund into Bitcoin. The bill’s passage in Arizona follows
-    New Hampshire Governor Kelly Ayotte on May 6 signing House Bill 302 into law,
-    allowing her state’s treasury to use funds to invest in cryptocurrencies with
-    a market capitalization of more than $500 billion.Bitcoin is currently the only
-    cryptocurrency that meets that threshold.Magazine: Crypto wanted to overthrow
-    banks, and now it’s becoming them in stablecoin fight\n\n            "
-  published: 2025-05-08 03:05:03.000000000 +01:00
-- title: " Falling DXY part of US financial system’s ‘long-term transition’ — Will
-    Bitcoin continue to shine? "
-  url: https://cointelegraph.com/news/falling-dxy-part-of-us-financial-system-s-long-term-transition-will-bitcoin-continue-to-shine?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "What to know:Lyn Alden says a weaker dollar is necessary for the US to
-    stabilize its financial system.Bitcoin and gold are well-positioned to benefit
-    from de-dollarization.Sovereign wealth funds and various nations are already increasing
-    their Bitcoin exposure as the dollar’s global dominance starts to wane.The weakening
-    of the US dollar (DXY) is no longer headline news. With mounting disruptions across
-    the US economy, a declining greenback has become part of the backdrop. Since the
-    start of 2025, the US Dollar Index has dropped 11%, now hovering around levels
-    last seen in April 2022. Markets have largely responded with a shrug. After all,
-    in times of deep restructuring, isn’t some dollar weakness to be expected?The
-    trouble is, this might not be a temporary dip. The dollar’s slide could reflect
-    a deeper, long-term reconfiguration of both the US economy and the global monetary
-    order. In a May 4 newsletter, independent market analyst Lyn Alden made a compelling
-    case: Not only is a weaker dollar likely, but it may be necessary. According to
-    Alden, a controlled retreat from dollar hegemony might be one of the few paths
-    left to stabilize an increasingly fragile system. And if the US relinquishes its
-    role at the center of the monetary universe, the world will need alternatives.
-    Neutral assets like gold and Bitcoin could be well-positioned to take on a more
-    central role.The US and the dollar are in a “long-term transition”Fractional reserve
-    banking, the system that fiat money relies on, creates money through lending.
-    Each time a bank issues a loan, it expands the supply of broad money, without
-    necessarily creating enough base money to cover the loan principal and its interest.
-    This means that the current financial system relies on continual credit expansion
-    and refinancing to remain solvent.Today, the US economy holds around $102 trillion
-    in public and private dollar-denominated debt, with another $18 trillion owed
-    by borrowers outside the US. And that’s not even counting derivatives, which would
-    push the total much higher. Yet only $5.8 trillion in base money actually exists.“It’s
-    like a game of musical chairs with more than 20 kids for every chair,” Alden writes.
-    “And the music can’t stop for long.”The US plays a special role in this system.
-    It imports more than it exports, while surplus countries funnel their dollar earnings
-    back into American stocks, bonds, real estate, and private equity. For the $18
-    trillion in dollar liabilities held abroad, non-US entities hold roughly $61 trillion
-    in US dollar assets. But when dollar liquidity tightens — when the music stops
-    — foreign holders often have to sell those assets to service their debts, which,
-    in turn, threatens US financial stability.This happened in March 2020, when parts
-    of the Treasury market froze during the peak panic stage of the COVID-19 pandemic.
-    The Fed stepped in, quickly opening emergency swap lines with foreign central
-    banks and printing trillions in base money to re-float the system. That solved
-    the liquidity issue but unleashed inflation, hitting lower-income Americans the
-    hardest.Combined with decades of industrial decline and widening social gaps,
-    this situation eventually created the political mandate for Donald Trump and his
-    protectionist agenda. However, the tariff shock is unlikely to be successful,
-    Alden argues. The current system implies that the US must run structural trade
-    deficits to provide the global economy with enough dollars to keep the greenback’s
-    dominance. The only way of rebalancing trade flows is through a weak dollar and
-    a step back from monetary hegemony.As Alden puts it:“I view the United States
-    and indeed the global financial system as likely beginning a very long-term transition.”The
-    Bitcoin to DXY relationshipBitcoin (BTC) and DXY are inversely correlated. When
-    the dollar strengthens, risk-on assets like BTC lose some of their appeal to investors.
-    When the dollar weakens, BTC becomes more attractive not just as a speculative
-    play, but as an alternative currency. In a system where fiat must effectively
-    lose value over time to function, Bitcoin’s fixed supply and monetary neutrality
-    offer a compelling hedge.Overlaying BTC and DXY charts reveals that major divergences
-    between the two often align with Bitcoin trend reversals. In April 2018 and March
-    2022, such divergences signaled bear markets, while November 2020 marked the start
-    of a bullish rally. In the 2023-2026 cycle, BTC caught up with the DXY in early
-    2024, and the two moved largely in sync until recently. A clear divergence began
-    at the beginning of April 2025, with the DXY dropping below 100 for the first
-    time in two years. If past patterns are any guide, this could signal the start
-    of a new BTC rally. And if the US moves to strategically weaken the dollar in
-    the long term, the impact could extend well beyond Bitcoin’s usual cyclical price
-    action.DXY vs BTC/USD 1-day. Source: Marie Poteriaieva, TradingViewRelated: How
-    much Bitcoin can Berkshire Hathaway buy?Where to invest in a post-dollar era?Periods
-    of monetary upheaval are notoriously difficult to navigate. While short-term tactics
-    may differ, longer-term strategies point to neutral, high-quality reserve assets
-    — especially those that stand to benefit structurally from de-dollarization.Gold
-    fits this bill. So does Bitcoin.Several sovereign entities are already stockpiling
-    Bitcoin. El Salvador and Bhutan are directly buying and mining BTC. Abu Dhabi’s
-    Mubadala Investment Co. and the US state of Wisconsin’s pension fund have exposure
-    via spot BTC ETFs. A dozen US states hold equity in Michael Saylor’s Strategy,
-    as well as over 13,000 companies and institutions. Even Norway’s sovereign wealth
-    fund, the world’s largest, has Bitcoin exposure through its holdings of Strategy,
-    Mara Holdings, Coinbase, and Riot.With the dollar retreating from the global financial
-    arena, space will open for other currencies. There are more and more examples
-    of international trade deals settled in yuan, dirham, or other national currencies.
-    Reuters reports that cross-border yuan payments surged to a record in March. The
-    euro is also on the rise, gaining 10% against the dollar since February. This
-    is all the more impressive taking into account that the European Central Bank
-    has been continuously cutting interest rates, which now stand at just 2.5%, far
-    below the Fed’s 4.5%.The idea of “de-dollarization” is beginning to take shape
-    in practical terms. As some countries and companies consider alternatives for
-    trade settlement and value storage, Bitcoin’s borderless and politically independent
-    features have attracted attention as one possible option.This article does not
-    contain investment advice or recommendations. Every investment and trading move
-    involves risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-07 22:30:00.000000000 +01:00
-- title: " Bitcoin ‘Realized Cap’ hits $890B as BTC traders focus on recapturing $100K "
-  url: https://cointelegraph.com/news/bitcoin-realized-cap-hits-890-b-as-btc-traders-focus-on-recapturing-100-k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Key Takeaways: Bitcoin’s realized capitalization hit a record $890 billion,
-    reflecting strong investor conviction as long-term and short-term holders increased
-    allocations. Large Bitcoin holders with over 1,000 BTC have accumulated significantly
-    since March 2025, reflecting the Q1 2024 trend.Bitcoin (BTC) price saw a short-squeeze
-    above $97,000 on May 6, shortly after US Treasury Secretary Scott Bessent announced
-    that trade talks would commence with China on May 10. At the same time, BTC’s
-    realized capitalization, a metric adding the dollar value of all coins at their
-    last moved price, soared to a new all-time high of $890 billion on May 7, 2025.
-    The surge also marks the metric’s third consecutive week of record-breaking growth.Bitcoin
-    realized cap. Source: CryptoQuantThe realized cap’s rise highlights the total
-    investment held by Bitcoin owners, with long-term holders (LTHs) and short-term
-    holders (STHs) increasing their positions. It reflects investors’ conviction,
-    signaling a potential anticipation for a price breakout. Recent market trends
-    have supported this optimism. Cointelegraph reported that large Bitcoin holders
-    have been actively accumulating Bitcoin since late March 2025. Data indicates
-    that wallets between 10 and 10,000 BTC added 81,338 BTC over six weeks. This accumulation
-    signals confidence in the current price uptrend and the possibility of BTC returning
-    to $100,000.Glassnode data revealed a notable rise in Bitcoin whale addresses
-    holding over 1,000 BTC, climbing from 1,945 on March 1 to 2,006 on May 7. This
-    marks the most significant 30-day increase for this cohort in 2025 and the highest
-    surge since Q1 2024, when a similar accumulation trend preceded Bitcoin's all-time
-    high in March 2024.Bitcoin whale count balance >1K BTC. Source: GlassnodeRelated:
-    Why is Bitcoin price up today?Can Bitcoin rally to $100,000?Bitcoin’s support
-    zone between $93,000 and $95,000 showed resilience on May 6, with BTC bulls holding
-    the level, supported by activity in long perpetual positions.There is downside
-    liquidity between $91,600 and $89,000, which Bitcoin could retest if bearish momentum
-    persists after this week’s FOMC minutes and Federal Reserve presser. However,
-    if BTC breaks above the resistance zone of $97,000 to $99,000, the higher time
-    frame (HTF) outlook could tilt toward bulls.Bitcoin 1-day chart. Source: Cointelegraph/TradingViewThis
-    resistance area carries weight due to a price cluster formed in Q1, which previously
-    led to a downward move. If BTC price clears $99,000, it might shift market dynamics,
-    potentially pressuring short positions and adding to bullish liquidity.The $100,000
-    level appears to be more of a psychological marker than a significant resistance
-    level. If BTC surpasses the $97,000-$99,000 resistance and establishes it as support,
-    it could pave the way for a move toward $110,000, although this would depend on
-    market conditions and momentum.Michael van de Poppe, founder of MN Capital, suggested
-    that the dip below $94,000 and subsequent recovery may indicate a market bottom.
-    He expressed optimism about a potential Bitcoin breakout to $100,000 within the
-    next two weeks.On the other hand, crypto trader Honey expected a steady rise for
-    BTC, predicting a new all-time high of $111,111 by the end of Q2. Related: Bitcoin
-    $1B daily realized profits signal 'late-stage bull market'This article does not
-    contain investment advice or recommendations. Every investment and trading move
-    involves risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-07 19:09:23.000000000 +01:00
-- title: " Strive to become Bitcoin treasury company "
-  url: https://cointelegraph.com/news/strive-to-become-bitcoin-treasury-company?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Strive Asset Management, founded by entrepreneur and former presidential
-    candidate Vivek Ramaswamy, has revealed plans to transition into a Bitcoin treasury
-    company.According to a May 7 announcement, Strive is going public through a reverse
-    merger and plans to use the combined company’s stock to accumulate Bitcoin (BTC).The
-    deal will see Strive merging with Asset Entities, a social media marketing company
-    listed on the Nasdaq. The combined entity will operate under the Strive brand
-    and use its access to the public equity markets to finance Bitcoin purchases,
-    the company said. Once the deal closes, Strive plans to issue approximately $1
-    billion in equity and debt and use the proceeds to accumulate BTC. The asset manager
-    “intends to use all available mechanisms to build a Bitcoin war chest […] and
-    build a long-term investment approach designed to outperform Bitcoin,” it said.Strive
-    plans to allow “Bitcoin holders to contribute Bitcoin in exchange for public stock
-    through a structure that is intended to be tax-free,” it said. As of May 7, the
-    company manages approximately $2 billion in net assets across a variety of funds. In
-    December, Strive filed to list an exchange-traded fund (ETF) investing in convertible
-    bonds issued by Strategy and other corporate Bitcoin buyers.Related: Trump-linked
-    Strive files for ‘Bitcoin Bond’ ETFCorporate Bitcoin treasuries are increasingly
-    popular. Source: Bitcointreasuries.netCorporate Bitcoin treasuriesCorporate Bitcoin
-    treasuries have become popular since the approval of Bitcoin exchange-traded funds
-    (ETFs) on Wall Street. Companies pioneering the Bitcoin buyer approach, such as
-    Strategy have seen their share prices surge by 350% in 2024. Analysts say adding
-    Bitcoin to corporate treasuries can “potentially be a valuable hedge against growing
-    fiscal deficits, currency debasement, and geopolitical risks,” asset manager Fidelity
-    Digital Assets said in a 2024 report.Corporate Bitcoin treasuries collectively
-    hold roughly $74 billion worth of BTC as of May 7, according to Bitcointreasuries.net. Ramaswamy
-    founded Strive in 2022. Source: StriveTrump connectionRamaswamy, an outspoken
-    ally of President-elect Donald Trump, founded Strive in 2022. Its stated goal
-    is to help investors “harness the power of capitalism,” according to Strive’s
-    website. In 2023, Ramaswamy — who largely earned his $1 billion net worth from
-    biotechnology startup Roivant Sciences — campaigned against Trump in the Republican
-    presidential primary. He later endorsed the president-elect.Magazine: Bitcoin’s
-    $100K push wakes taxman, Vitalik visits real Moo Deng: Asia Express\n\n            "
-  published: 2025-05-07 19:00:09.000000000 +01:00
-- title: " Price predictions 5/7: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, LINK, AVAX "
-  url: https://cointelegraph.com/news/price-predictions-5-7-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Key points:Bitcoin price hangs near $97,000 as traders await today’s FOMC
-    minutes.Bitcoin holding $95,000 as support is key for bullish price expansion
-    in the short term.Select altcoins are holding their respective support levels,
-    opening the gates for a short-term rally.Bitcoin (BTC) bulls are trying to knock
-    down the immediate resistance at $97,895 and challenge the all-important $100,000
-    level. Crypto analytics platform Santiment said in a post on X that Bitcoin wallets
-    holding between 10 and 10,000 Bitcoin are positive about further gains as they
-    have acquired 81,338 Bitcoin over the past six weeks.Investors have also been
-    piling into BlackRock’s spot Bitcoin exchange-traded fund for the past 16 days,
-    which has boosted its new capital inflows to about $4.7 billion, according to
-    ETF Store President Nate Geraci.Bloomberg ETF analyst Eric Balchunas also suggested
-    that the spot Bitcoin ETF “will have triple gold’s ETF assets under management
-    in 3 to 5 years.”Crypto market data daily view. Source: Coin360According to Bitfinex
-    data, Bitcoin must hold above $95,000 to signal a “structural shift” into bullish
-    territory, opening the doors for a rally to an all-time high. However, if the
-    $95,000 level cracks, the analysts expect Bitcoin to witness a deeper correction.Could
-    Bitcoin challenge the $100,000 resistance? Are select altcoins showing signs of
-    a short-term up move? Let’s analyze the charts of the top 10 cryptocurrencies
-    to find out.Bitcoin price predictionBitcoin rebounded off the 20-day exponential
-    moving average ($93,091) on May 6, indicating that the sentiment remains positive
-    and traders are buying on dips.BTC/USDT daily chart. Source: Cointelegraph/TradingViewThere
-    is minor resistance at $97,895, but if the level is crossed, the BTC/USDT pair
-    could challenge the psychological resistance at $100,000. Sellers are expected
-    to vigorously defend the level because a break above it could propel the pair
-    to $107,000.Time is running out for the bears. If they want to make a comeback,
-    they will have to sink and sustain the price below the 20-day EMA. If they succeed,
-    the pair could tumble to the 50-day simple moving average ($87,441).Ether price
-    predictionThe bears are struggling to pull Ether (ETH) below the moving averages,
-    indicating a lack of selling at lower levels.ETH/USDT daily chart. Source: Cointelegraph/TradingViewBuyers
-    will try to take advantage of the situation and push the price above the immediate
-    resistance at $1,873. If they do that, the ETH/USDT pair could pick up momentum
-    and soar toward $2,111. There is minor resistance at $1,957, but it is likely
-    to be scaled. Sellers are likely to have other plans. They will try to tug the
-    price below the moving averages, opening the gates for a fall to $1,537. Buyers
-    will try to defend the $1,537 level, but if they fail in their endeavor, the pair
-    may collapse to the vital support at $1,368.XRP price predictionXRP (XRP) fell
-    below the moving averages on May 4, but the bears could not sink the price to
-    the $2 support.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThe flattish
-    moving averages and the RSI just below the midpoint suggest that the XRP/USDT
-    pair may remain stuck between the resistance line and the $2 support for some
-    more time.A break and close above the resistance line signals a potential trend
-    change. The pair could then rally toward $3. Conversely, a break and close below
-    $2 opens the gates for a collapse to the $1.72 to $1.61 support zone.BNB price
-    predictionThe failure of the bears to sustain BNB (BNB) below the moving averages
-    indicates demand at lower levels.BNB/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    bulls will have to try and overcome the barrier at $620 to clear the path for
-    a rally to the strong overhead resistance at $644. Sellers will try to halt the
-    recovery at $644, but if the bulls prevail, the next stop could be $680.This positive
-    view will be invalidated in the near term if the BNB/USDT pair turns down and
-    breaks below the $576 support. That heightens the risk of a fall to $520. Buyers
-    are expected to aggressively defend the $500 to $520 zone.Solana price predictionSolana
-    (SOL) is finding support at the moving averages, signaling a positive sentiment
-    where dips are being purchased.SOL/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    bulls will try to strengthen their position by pushing the price above the $153
-    resistance. If they can pull it off, the SOL/USDT pair could climb to $180 and
-    then to $200. That signals the pair may swing inside the large $110 to $260 range
-    for a while.Sellers will have to drag the price below the 20-day EMA to prevent
-    the upside. The pair could then tumble to the 50-day SMA ($133). That indicates
-    a consolidation between $110 and $153 for a few days.Dogecoin price predictionDogecoin
-    (DOGE) has been clinging to the moving averages, signaling a balance between supply
-    and demand.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewIf the price
-    closes below the moving averages, the bears will try to pull the DOGE/USDT pair
-    to the support of the range at $0.14. The bulls will attempt to keep the pair
-    inside the range by buying near $0.14.On the upside, buyers will have to drive
-    and maintain the price above $0.21 to suggest a short-term trend change. The pair
-    could rally to $0.25 and subsequently to the pattern target of $0.28.Cardano price
-    predictionCardano (ADA) is witnessing a tough battle between the buyers and sellers
-    near the moving averages.ADA/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    flattish moving averages and the RSI near the midpoint do not give a clear advantage
-    either to the bulls or the bears. If the price moves up from the current level,
-    it is expected to face selling at $0.75. A break and close above $0.75 could propel
-    the pair to $0.83.On the downside, there is solid support at $0.58. If the price
-    rebounds off $0.58, the ADA/USDT pair could form a range. Sellers will seize control
-    on a break below the $0.58 support. The pair may then descend to the $0.54 to
-    $0.50 support zone.Related: Can XRP price reach $4 in May? Analysts are watching
-    these key levelsSui price predictionSui (SUI) rebounded off the 20-day EMA ($3.14)
-    on May 6, indicating that lower levels are attracting buyers.SUI/USDT daily chart.
-    Source: Cointelegraph/TradingViewThere is minor resistance at $3.50, but if it
-    is crossed, the SUI/USDT pair could ascend to $3.90. Sellers are expected to defend
-    the $3.90 level with all their might because a break above it could propel the
-    SUI/USDT pair to $4.25 and eventually to $5.Instead, if the price turns down and
-    breaks below the 20-day EMA, it suggests that the bulls are rushing to the exit.
-    The pair risks dropping to the solid support at $2.86 and then to the 50-day SMA
-    ($2.61).Chainlink price predictionChainlink (LINK) is finding support at the 50-day
-    SMA ($13.66), but the failure to start a strong rebound suggests the bears have
-    kept up the pressure.LINK/USDT daily chart. Source: Cointelegraph/TradingViewIf
-    the 50-day SMA gives way, the LINK/USDT pair could slump to $11.68. Buyers will
-    try to defend the level, but the relief rally is likely to face selling at the
-    moving averages. If the price turns down from the moving averages, the pair could
-    fall to the support line of the descending channel.Contrarily, if the price turns
-    up from the current level and maintains above the 20-day EMA ($13.99), the pair
-    could rally toward the resistance line. Buyers will have to pierce the resistance
-    line to signal that the downtrend could be over.Avalanche price predictionAvalanche
-    (AVAX) has slipped below the 50-day SMA ($19.90), indicating that the range-bound
-    action could continue for a few more days.  AVAX/USDT daily chart. Source: Cointelegraph/TradingViewIf
-    the price skids below $18.50, the AVAX/USDT pair could drop to the support of
-    the range at $15.27. Buyers are expected to aggressively defend the $15.27 level,
-    as a break below it may resume the downtrend.Alternatively, a bounce off the current
-    level suggests the bulls are trying to keep the pair inside the upper half of
-    the range. Buyers will have to drive the price above $23.50 to start an up move
-    to $28.78 and then to the pattern target of $31.73.This article does not contain
-    investment advice or recommendations. Every investment and trading move involves
-    risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-07 18:06:37.000000000 +01:00
-- title: " Bybit recovers liquidity levels 30 days after hack — Kaiko "
-  url: https://cointelegraph.com/news/bybit-recovers-liquidity-30-days-after-hack?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "The Bybit exchange has recovered its liquidity to pre-hack levels just
-    30 days following the February 2025 attack that drained nearly $1.5 billion in
-    funds.According to a report from crypto research and analytics firm Kaiko, Bitcoin's
-    (BTC) 1% market depth, a measure of liquidity, returned to pre-hack levels of
-    around $13 million per day in March 2025.Bitcoin liquidity on Bybit exchange rebounds
-    to pre-hack levels. Source: KaikoAltcoin liquidity levels on the exchange have
-    been slower to recover than Bitcoin but have rebounded to around 80% of the pre-hack
-    levels. The authors of the Kaiko report added:\"This lag is largely due to the
-    risk-off market environment, which has impacted altcoins more severely. While
-    Bitcoin is still seen as a risky asset, it remains the crypto market’s safe haven.\"Overall,
-    the exchange's trading volumes remain in recovery; however, the report notes that
-    this drop reflects the broader market trend in response to the ongoing macroeconomic
-    uncertainty that has rattled risk asset markets and is not an effect of the biggest
-    hack in crypto history.Altcoin liquidity on the platform has been slower to recover
-    than Bitcoin liquidity. Source: KaikoRelated: Hacken CEO sees ‘no shift’ in crypto
-    security as April hacks hit $357MBybit’s incident responseThe Bybit exchange was
-    hacked by cybercriminals on Feb. 21, resulting in $1.5 billion in stolen funds.
-    A post-mortem update revealed a compromised device from a SafeWallet developer,
-    the firm responsible for the multi-signature wallet custody solution used by the
-    exchange, as the cause of the hack.Bybit kept withdrawals open during the incident,
-    allowing users to access and pull their funds with little delay during the crisis.A
-    condensed timeline of events of the February 2025 Bybit hack. Source: KaikoBen
-    Zhou, the CEO of Bybit, reassured investors that the exchange was solvent and
-    said that the company's reserves could cover the shortfall, whether or not the
-    stolen funds were ever recovered.Zhou's response united the crypto industry behind
-    Bybit, with many competitors providing bridge loans to the exchange, technical
-    assistance, and freezing the stolen funds on their protocols.Magazine: Deposit
-    risk: What do crypto exchanges really do with your money?\n\n            "
-  published: 2025-05-07 17:50:00.000000000 +01:00
-- title: " Bitcoin $1B daily realized profits signal &#039;late-stage bull market&#039; "
-  url: https://cointelegraph.com/news/bitcoin-1b-daily-realized-profits-signal-late-stage-bull-market?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Key points:Bitcoin investors are making the most of the highest price
-    levels in several months by cashing out profits.These are averaging $1 billion
-    per day, leading to concerns that the market comeback may stall or even reverse.Institutional
-    participation has not led to a change in mindset, CryptoQuant says.Bitcoin (BTC)
-    risks a “local top or sharp correction” if current levels of profit-taking continue,
-    new research warns.In a “Quicktake” blog post on May 8, onchain analytics platform
-    CryptoQuant flagged elevated realized profits among BTC investors.BTC profit-taking
-    spikes to January highsBitcoin realized profits have spiked to multimonth highs
-    this week as BTC/USD reached close to $98,000.For CryptoQuant, the market is becoming
-    comparable to late 2024, when the pair broke through old all-time highs and hit
-    $100,000 for the first time.“Even after positive price action after March-April
-    drop in 2025, profit taking is still aggressive. Maybe not like November-December
-    2024 but still high,” contributor Kripto Mevsimi wrote.“This is historically consistent
-    with late-stage bull market behavior — where profit-taking dominates, even as
-    price continues to rise.”Bitcoin net realized profit and loss. Source: CryptoQuantCryptoQuant
-    data puts the current 7-day moving average realized profit across the hodler spectrum
-    at approximately $1 billion per day.“If we look back at similar cycles (e.g. 2021),
-    this phase often preceded a local top or sharp correction, especially when profit-taking
-    stayed high and continuous,” it continued.No hiding from Bitcoin “investor psychology”As
-    Cointelegraph reported, some market commentators have argued that the Bitcoin
-    investment landscape has fundamentally changed thanks to increased institutional
-    participation.Related: Bitcoin pushes for $98K as 2025 Fed rate cut odds flip
-    'pessimistic'Chief among the new players are the US spot Bitcoin exchange-traded
-    funds (ETFs), the largest of which, BlackRock’s iShares Bitcoin Trust (IBIT),
-    has seen net inflows every day for more than two weeks.Despite this, Kripto Mevsimi
-    contends that underlying reactions to BTC price changes remain the same.“Since
-    spot ETFs launched in January 2024, market structure has changed — but investor
-    psychology hasn’t,” he summarized.Source: Farside InvestorsThis article does not
-    contain investment advice or recommendations. Every investment and trading move
-    involves risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-07 16:52:16.000000000 +01:00
-- title: " Crypto miner deserts Pennsylvania site, fails to plug wells: Report "
-  url: https://cointelegraph.com/news/diversified-energy-crypto-mine-abandonment-pennsylvania?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Cryptocurrency miner Diversified Energy quietly vacated a natural gas-powered
-    crypto mining site in Elk County, Pennsylvania, reportedly leaving behind unplugged
-    wells and regulatory violations.The site, known as Longhorn Pad A, was revived
-    in 2022 after sitting dormant for nearly a decade when Diversified began using
-    it to fuel on-site generators powering cryptocurrency mining computers, according
-    to a report by the Erie Times-News.Per the report, the operation was launched
-    without obtaining an air quality permit from the Pennsylvania Department of Environmental
-    Protection (DEP).Though the company was later granted the permit in December 2023,
-    a March 2025 inspection revealed that Diversified had already removed the mining
-    infrastructure.Empty metallic sheds and missing production equipment led the DEP
-    to issue a formal violation notice for well abandonment. Diversified reportedly
-    denied that the site was abandoned, saying that it may resume gas production.However,
-    the DEP and environmental advocates say the company has failed to meet its obligations.
-    Under a 2021 agreement, Diversified had committed to plugging Longhorn A and 13
-    other wells at the end of their operational life, an obligation it has reportedly
-    not fulfilled.An image of the site. Source: The Erie Times-NewsCointelegraph has
-    reached out to Diversified for comment.Related: Bitcoin miners should pay costs
-    in depreciating currency — Ledn execDiversified under scrutiny over business modelEnvironmentalists
-    have long raised concerns about Diversified’s business model, which involves acquiring
-    aging, low-producing wells and extracting remaining value without sufficient plans
-    for decommissioning.Plugging a single well can cost over $100,000, and Pennsylvania
-    already has over 350,000 orphaned and abandoned wells, making the stakes particularly
-    high.A 2022 report labeled the company’s approach a “business model built to fail
-    Appalachia,” warning that taxpayers could be left footing the bill for thousands
-    of unplugged wells.Diversified recently agreed to plug 3,000 wells by 2034 in
-    a separate legal settlement but continues to face regulatory scrutiny, including
-    a probe by the US House Committee on Energy and Commerce.Horton Township officials,
-    where the Longhorn site is located, say they’ve received no updates from the company.Local
-    supervisor PJ Piccirillo told the Erie Times-News that generators and tanks were
-    removed without notice. “All we know is that the property seems to have been abandoned,”
-    he said.Related: Bitcoin mining — Institutions boost investments amid favorable
-    US climateUS cities confront crypto miningOn April 25, the planning commission
-    of Vilonia, Arkansas, unanimously rejected a proposal to establish a cryptocurrency
-    mining facility within the city limits, following opposition from residents.In
-    January, Arkansas lawmakers introduced a bill that would ban crypto mining operations
-    within 30 miles of any US military facility in the state.The opposition to crypto
-    miners in Arkansas follows a broader trend across US municipalities where crypto-mining
-    initiatives have faced increasing scrutiny.In October 2024, a group of residents
-    in Granbury, Texas, filed a lawsuit against Marathon Digital, alleging that its
-    mining facility generated too much noise.Magazine: 12 minutes of nail-biting tension
-    when Ethereum’s Pectra fork goes live\n\n            "
-  published: 2025-05-07 12:52:41.000000000 +01:00
-- title: " Bitcoin-backed loans ‘obvious’ next step — Xapo Bank CEO "
-  url: https://cointelegraph.com/news/bitcoin-backed-loans-growth-xapo-bank-ceo?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin holders are becoming more comfortable borrowing against their
-    crypto as market confidence grows, according to Seamus Rocca, CEO of the Gibraltar-based
-    private bank, Xapo Bank. In an interview at the Token2049 event in Dubai, Rocca
-    told Cointelegraph that with Bitcoin (BTC) hovering around $95,000 and institutional
-    adoption starting to catch on, the mood among investors has shifted from short-term
-    speculation to a more long-term outlook. “I’m not sure that confidence would have
-    been there three or four years ago,” Rocca told Cointelegraph. “But today, people
-    are more comfortable to borrow against Bitcoin because we’re nowhere near the
-    levels that would trigger liquidation.”On March 18, Xapo Bank launched a lending
-    product that allows users to borrow US dollars using their Bitcoin as collateral.
-    With the product, qualified clients can access up to $1 million in loans while
-    keeping their BTC.Xapo Bank CEO Seamus Rocca at the Token2049 media lounge. Source:
-    CointelegraphBitcoin-backed loans are an “obvious” next stepRocca told Cointelegraph
-    that growing confidence in crypto’s long-term trajectory had fueled demand for
-    the product. This has been driven by developments leading to broader institutional
-    adoption. “Expectations are for institutional space coming in, the ETFs, and the
-    mood music on Bitcoin is much more about wider adoption and long-term thinking
-    than very short-term speculation,” Rocca said. He said this shift is the key to
-    unlocking demand for borrowing against BTC, as investors feel more secure and
-    feel that sharp price drops are less likely to happen. The Xapo Bank CEO said
-    that its Bitcoin-backed loans offer loan-to-value (LTV) ratios of 20%, 30% and
-    40%, giving borrowers flexibility while managing risk. “If you get a 20% LTV loan
-    and you have 100 Bitcoin, as a lot of early adopters do, that’s still a couple
-    of million dollars you can borrow without having to sell them,” Rocca said. With
-    conservative LTV levels like 20%, Bitcoin must fall below $40,000 for borrowers
-    to get liquidated. “We’re nowhere near $40,000,” Rocca told Cointelegraph, pointing
-    to the current price stability as a reason for growing borrower confidence.Related:
-    Blockchains ready for institutions, lawyers hesitate: DoubleZero CEOBorrowing
-    helps investors avoid selling in emergenciesRocca said Bitcoin-backed loans provide
-    a solution for holders who want to stay exposed to BTC when facing life’s unexpected
-    expenses. “If you follow the ethos of investing, the smart thing to do would be
-    not to sell it in three days if it goes to $100,000,” Rocca said.“But life gets
-    in the way,” Rocca added. He told Cointelegraph that unexpected costs, like medical
-    bills or replacing a car, often force investors to liquidate assets at unfavorable
-    times. Rocca said that instead of selling Bitcoin for a $10,000 expense, investors
-    could borrow against their holdings while simply paying interest on the loan.“You
-    continue to have the upside potential of the price appreciation of the Bitcoin
-    because you haven’t sold it,” he said. “But you get liquidity to pay for things
-    that you need in everyday life.”With institutional adoption deepening and the
-    Bitcoin market maturing, the Xapo Bank executive is betting that more long-term
-    holders will be ready to tap into crypto liquidity without selling their BTC.
-    This marks a shift from the “hodl” culture to an age where Bitcoin owners can
-    do more with the asset. Magazine: 12 minutes of nail-biting tension when Ethereum’s
-    Pectra fork goes live\n\n            "
-  published: 2025-05-07 11:03:16.000000000 +01:00
-- title: " Why is Bitcoin price up today? "
-  url: https://cointelegraph.com/news/why-is-bitcoin-price-up-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Key takeaways:Bitcoin gained 2% to $96,530 on May 7, fueled by US-China
-    trade deal hopes.BTC price rises with $83.6 million in short liquidations, with
-    open interest up 26% to $64.4 billion, signaling strong bullish momentum.A classic
-    bullish reversal pattern is still in play, targeting BTC price at $100,000 and
-    beyond.Bitcoin (BTC) is up today, rising over 3% in the last 24 hours to over
-    $97,000 on May 7. Its daily trading volume has jumped 37% to $31.7 billion.BTC/USD
-    daily chart. Source: Cointelegraph/TradingViewLet’s take a look at the factors
-    driving Bitcoin price up today.Bitcoin rises on hopes of a US-China trade dealBitcoin
-    briefly hit $97,700 during the early Asian trading hours on May 7, driven by optimism
-    over potential US-China trade talks. Disclosing plans to travel to Switzerland
-    to meet a team from China’s Ministry of Commerce, US Treasury Secretary Scott
-    Bessent said:“The current tariffs and trade barriers are unsustainable, but we
-    don’t want to decouple.”Source: Treasury Secretary Scott BessentChina's commerce
-    ministry signaled openness to negotiations following US outreach. This has boosted
-    risk appetite across markets, including cryptocurrencies.Despite the surge, skepticism
-    remains, with Polymarket bettors giving only a 25% chance of a deal by June.The
-    focus remains on the May 7 FOMC meeting, where the US Federal Reserve is expected
-    to deliver its decision on interest rate cuts. Traders are growing less confident
-    that the Fed will ease monetary policy, with the chances of interest rates remaining
-    unchanged after today’s meeting standing at 95.6%, as per the CME FedWatch Tool. Target
-    probabilities for May 7 Fed meeting. Source: CME FedWatchWhile numerous analysts
-    believe that Bitcoin’s price will rally regardless of the Fed's decision, traders
-    remain on edge. Any shift in Fed Chair Jerome Powell's tone could impact risk
-    appetite and trigger market volatility.Over $83 million in BTC shorts liquidatedBTC’s
-    recovery on May 7 is accompanied by significant liquidations in the derivatives
-    market, signaling strong upward momentum.Over $83.6 million of short Bitcoin positions
-    have been liquidated over the last 24 hours, compared to $15 million in long liquidations.
-    Bearish traders are forced to sell their positions when short positions are liquidated.Total
-    Bitcoin liquidations. Source: CoinGlassThe scale of these liquidations mirrors
-    the period between March 23 and March 25, when a total of $122 million in short
-    BTC positions were wiped out, accompanying a 6% rise in price over the same period.Bitcoin’s
-    open interest (OI) has also climbed steadily over the last 30 days, up 26% from
-    $50.8 billion on April 8 to $64.4 billion at the time of writing. BTC OI has jumped
-    by 4% over the last 24 hours, reflecting increased trader participation. BTC futures
-    open interest. Source: CoinGlassAlthough the funding rate briefly flipped negative
-    on May 5, it increased to 0.0046% on May 7, suggesting a stronger bullish conviction.BTC
-    OI-weighted funding rate. Source: CoinGlassBitcoin price still validating falling
-    wedge patternBitcoin’s ongoing price rise is part of a breakout from its prevailing
-    falling wedge, a classic bullish reversal pattern.Additionally, Bitcoin has reclaimed
-    key support levels, including all the major moving averages and the yearly open
-    at $93,000. A key barrier now sits at $98,000. A breach of this level will see
-    Bitcoin’s price rise to hit the technical target of the falling wedge at $100,200.BTC/USD
-    daily chart. Source: Cointelegraph/TradingViewOn the other hand, the emergence
-    of the bearish divergence from the RSI points to a possible weakening of momentum.
-    A daily candlestick close below $93,000 could drive prices back toward the $90,000-$87,000
-    level, where the 200-day, 10-day and 50-day SMAs are.This article does not contain
-    investment advice or recommendations. Every investment and trading move involves
-    risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-07 10:57:22.000000000 +01:00
-- title: " Bitcoin miner Hive taps Paraguay for low-cost energy partnership "
-  url: https://cointelegraph.com/news/hive-digital-expands-bitcoin-mining-paraguay-latam?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Several crypto-focused organizations — including Bitcoin (BTC) mining
-    companies — are eyeing a US return, primarily driven by uncertain geopolitical
-    tensions. Still, BTC miner Hive Digital Technologies is doubling down on the untapped
-    potential of the Latin American (LATAM) market.In an exclusive interview with
-    Cointelegraph, Hive Digital Technologies’ president and CEO, Aydin Kilic, said
-    that Paraguay presents a compelling long-term opportunity equipped with “geopolitical
-    stability, low-cost hydro energy, and a government open to foreign investment”.Picking
-    up from where Bitfarms left offHive acquired Bitfarms’ 200 megawatt (MW) Yguazú
-    facility for $56 million in January. Phase one infrastructure of a 100 MW data
-    center at the site was completed in April, supporting five exahashes per second
-    (EH/s) of application-specific integrated circuit (ASIC) mining.Hive plans to
-    expand to 300 MW of mining facilities in Paraguay in 2025. It aims to increase
-    its hashrate to 25 EH/s by September.Related: Bitfarms sells Paraguay site to
-    Hive for $85M, refocuses on USThe CEO said Hive has spent over a year cultivating
-    strong, cooperative relationships with local stakeholders in Paraguay. “We are
-    investing in local hiring, training programs and strong vendor partnerships. Our
-    goal is to create a local ecosystem of support that keeps costs stable while boosting
-    uptime and efficiency,” he added.While there was a proposed ban on crypto mining
-    in Paraguay due to the pressure it poses on the country’s electricity supply and
-    potential rising electricity prices, Aydin said that their team is actively involved
-    with policymakers to support clarity and cooperation in mining legislation.Hive
-    embraces global diversification to hedge against geopolitical risksHive has data
-    centers in Canada, Sweden and Paraguay. Contrasting with its ongoing LATAM expansion,
-    the miner is relocating its headquarters to San Antonio, Texas. “Our growing presence
-    in North and South America creates a balanced footprint resilient to geopolitical
-    or trade policy shocks,” Kilic said.The US tariff on China raised concerns about
-    the rising cost of mining equipment, like ASICs. Kilic told Cointelegraph that
-    they have diversified sourcing channels for ASICs and electrical components to
-    avoid single-region dependencies. Related: Bitcoin miners should pay costs in
-    depreciating currency — Ledn execTo ensure scaling from six to 25 EH/s, the CEO
-    said the company has locked in key ASIC orders, secured power access through long-term
-    power purchase agreements, and expanded engineering capacity across three continents
-    to deal with market and technological uncertainties.Profitability in Bitcoin mining
-    is ultimately a physics equationKilic sees Bitcoin mining profit as a physics
-    equation. He told Cointelegraph that capital and operational expenses depend on
-    hashrate-sensitive analysis to seek the most accretive way to fund their business
-    through BTC treasury and ATM sales.While the solo mining community may have more
-    difficulty making profits, the CEO suggested the focus should be on the variables
-    it can control: “Whether you run one rig or ten thousand, it comes down to controlling
-    inputs like opex, power costs, and machine uptime to drive predictable outputs
-    —  maximizing energy efficiency, minimizing downtime and being disciplined with
-    treasury management.”Magazine: Korea to lift corporate crypto ban, beware crypto
-    mining HDs: Asia Express\n\n            "
-  published: 2025-05-07 10:54:25.000000000 +01:00
-- title: " Bitcoin pushes for $98K as 2025 Fed rate cut odds flip &#039;pessimistic&#039; "
-  url: https://cointelegraph.com/news/bitcoin-pushes-for-98k-2025-fed-rate-cut-odds-flip-pessimistic?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Key points:Bitcoin and gold trade in lockstep on low timeframes as macro
-    volatility triggers heighten.The Federal Reserve interest rate decision and news
-    conference are just hours away.Market sentiment for rate cuts in 2025 decreases
-    sharply ahead of the FOMC meeting.Bitcoin (BTC) saw a flash short-term trend change
-    on May 7 as geopolitical triggers gave risk assets fresh volatility.BTC/USD 1-hour
-    chart. Source: Cointelegraph/TradingViewBitcoin traders eye Fed for “tone changes”Data
-    from Cointelegraph Markets Pro and TradingView showed an abrupt turnaround for
-    BTC/USD after the pair dipped under $94,000 to set new May lows.The previous day’s
-    Wall Street trading session set the stage for a return to strength, even as stocks
-    finished lower.XAU/USD 4-hour chart. Source: Cointelegraph/TradingViewBitcoin
-    and gold reached local highs of $97,700 and $3,435, respectively, before consolidating.News
-    of tensions boiling over between India and Pakistan, along with potential progress
-    on a US-China trade deal, kept markets lively. This reaction to US-China trade
-    talks being scheduled tells you all you need to know.A LOT is already priced-in
-    here. pic.twitter.com/jT6pKOdgiQ— The Kobeissi Letter (@KobeissiLetter) May 7,
-    2025Traders had no time to relax, with the Federal Reserve interest rate decision
-    due later on May 7.While market expectations for the Federal Open Market Committee
-    (FOMC) meeting were practically unanimous, as Cointelegraph reported, Fed Chair
-    Jerome Powell’s subsequent statement and news conference were of more interest. “The
-    market will be eager to watch for any dovish or hawkish changes in their tone,
-    which has been pretty mixed recently,” popular trader Daan Crypto Trades summarized
-    in an ongoing X analysis alongside data from CME Group’s FedWatch Tool.Fed target
-    rate probabilities for May 7 FOMC meeting. Source: CME GroupExamining Bitcoin
-    order book activity, Keith Alan, co-founder of trading resource Material Indicators,
-    said that nearby liquidity had been “cleared out” before the event.“Pleasantly
-    surprised BTC held above the YOU, but won’t be surprised if price round trips
-    the range before the end of the week,” he told X followers, referring to the yearly
-    open level at $93,500 as a potential downside target.BTC/USDT order book data.
-    Source: Keith Alan/X”Clearly pessimistic”Continuing, Darkfost, a contributor to
-    onchain analytics platform CryptoQuant, noted declining odds of rate cuts coming
-    sooner in 2025.Related: Bitcoin could rally regardless of what the Federal Reserve
-    FOMC decides this week: Here’s whyAt the time of writing, the June FOMC meeting
-    had combined rate cut odds of around 30% — noticeably lower than in recent weeks.“Expectations
-    are clearly pessimistic for now,” he concluded. “If the Fed does decide to cut
-    rates in this context, it will trigger volatility and might spark fear among investors
-    (depending about how many Bps).”Fed target rate probability comparison for June
-    18 FOMC meeting. Source: CME GroupThis article does not contain investment advice
-    or recommendations. Every investment and trading move involves risk, and readers
-    should conduct their own research when making a decision.\n\n            "
-  published: 2025-05-07 07:41:07.000000000 +01:00
 - title: " Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug
     for 5 Years "
   url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound

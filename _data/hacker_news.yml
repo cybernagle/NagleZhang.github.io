@@ -1,121 +1,123 @@
 ---
-- title: 'Void: Open-source Cursor alternative'
-  url: https://github.com/voideditor/void
+- title: Charles Bukowski, William Burroughs, and the Computer (2009)
+  url: https://realitystudio.org/bibliographic-bunker/charles-bukowski-william-burroughs-and-the-computer/
   summary: Comments
-  published: 2025-05-08 16:35:34.000000000 +00:00
-- title: 'Fui: C library for interacting with the framebuffer in a TTY context'
-  url: https://github.com/martinfama/fui
+  published: 2025-05-10 00:45:47.000000000 +00:00
+- title: WebGL Water (2010)
+  url: https://madebyevan.com/webgl-water/
   summary: Comments
-  published: 2025-05-08 22:05:37.000000000 +00:00
-- title: Reservoir Sampling
-  url: https://samwho.dev/reservoir-sampling/
+  published: 2025-05-10 00:13:38.000000000 +00:00
+- title: Brandon's Semiconductor Simulator
+  url: https://brandonli.net/semisim/
   summary: Comments
-  published: 2025-05-08 17:02:10.000000000 +00:00
-- title: 'From: Steve Jobs. "Great idea, thank you."'
-  url: https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html
+  published: 2025-05-10 00:37:48.000000000 +00:00
+- title: Fleurs du Mal
+  url: https://fleursdumal.org
   summary: Comments
-  published: 2025-05-08 18:40:12.000000000 +00:00
-- title: Progress toward fusion energy gain as measured against the Lawson criteria
-  url: https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria
+  published: 2025-05-09 22:42:05.000000000 +00:00
+- title: ALICE detects the conversion of lead into gold at the LHC
+  url: https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc
   summary: Comments
-  published: 2025-05-08 15:49:37.000000000 +00:00
-- title: Phoenician culture spread mainly through cultural exchange
-  url: https://www.mpg.de/24574685/0422-evan-phoenician-culture-spread-mainly-through-cultural-exchange-150495-x
+  published: 2025-05-09 14:31:20.000000000 +00:00
+- title: Business books are entertainment, not strategic tools
+  url: https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste
   summary: Comments
-  published: 2025-05-05 21:06:46.000000000 +00:00
-- title: Gorilla study reveals complex pros and cons of friendship
-  url: https://www.sciencedaily.com/releases/2025/05/250505170816.htm
+  published: 2025-05-09 20:51:45.000000000 +00:00
+- title: What’s new in Swift 6.2
+  url: https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2
   summary: Comments
-  published: 2025-05-06 06:33:31.000000000 +00:00
-- title: Notes on rolling out Cursor and Claude Code
-  url: https://ghiculescu.substack.com/p/nobody-codes-here-anymore
+  published: 2025-05-09 20:20:52.000000000 +00:00
+- title: 'Sofie: open-source web based system for automating live TV news production'
+  url: https://nrkno.github.io/sofie-core/
   summary: Comments
-  published: 2025-05-08 16:34:39.000000000 +00:00
-- title: How the US Built 5k Ships in WWII
-  url: https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii
+  published: 2025-05-09 13:18:42.000000000 +00:00
+- title: 'Launch HN: Nao Labs (YC X25) – Cursor for Data'
+  url: https://news.ycombinator.com/item?id=43938607
   summary: Comments
-  published: 2025-05-08 20:58:37.000000000 +00:00
-- title: When Abandoned Mines Collapse
-  url: https://practical.engineering/blog/2025/5/6/when-abandoned-mines-collapse
+  published: 2025-05-09 16:28:28.000000000 +00:00
+- title: Fighting Unwanted Notifications with Machine Learning in Chrome
+  url: https://blog.chromium.org/2025/05/fighting-unwanted-notifications-with.html
   summary: Comments
-  published: 2025-05-06 18:38:14.000000000 +00:00
-- title: 'Podfox: First Container-Aware Browser'
-  url: https://val.packett.cool/blog/podfox/
+  published: 2025-05-08 19:34:00.000000000 +00:00
+- title: 21 GB/s CSV Parsing Using SIMD on AMD 9950X
+  url: https://nietras.com/2025/05/09/sep-0-10-0/
   summary: Comments
-  published: 2025-05-08 22:19:12.000000000 +00:00
-- title: 'Show HN: Using eBPF to see through encryption without a proxy'
-  url: https://github.com/qpoint-io/qtap
+  published: 2025-05-09 13:38:06.000000000 +00:00
+- title: Rust’s dependencies are starting to worry me
+  url: https://vincents.dev/blog/rust-dependencies-scare-me/?
   summary: Comments
-  published: 2025-05-08 16:49:11.000000000 +00:00
-- title: How to start a school with your friends
-  url: https://prigoose.substack.com/p/how-to-start-a-university
+  published: 2025-05-09 09:11:05.000000000 +00:00
+- title: Math Machine – A notebook will show your kid how far they have travelled
+  url: https://kidswholovemath.substack.com/p/math-machine
   summary: Comments
-  published: 2025-05-08 19:34:36.000000000 +00:00
-- title: Stability by Design
-  url: https://potetm.com/devtalk/stability-by-design.html
+  published: 2025-05-06 09:29:15.000000000 +00:00
+- title: Past, present, and future of Sorbet type syntax
+  url: https://blog.jez.io/history-of-sorbet-syntax/
   summary: Comments
-  published: 2025-05-08 19:51:29.000000000 +00:00
-- title: Mathematical Problem Solving
-  url: https://www.cip.ifi.lmu.de/~grinberg/t/20f/
+  published: 2025-05-09 16:09:45.000000000 +00:00
+- title: Some novelists are becoming video game writers – and vice-versa
+  url: https://www.theguardian.com/games/2025/apr/30/novelists-video-game-writers
   summary: Comments
-  published: 2025-05-05 08:05:35.000000000 +00:00
-- title: First American pope elected and will be known as Pope Leo XIV
-  url: https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25
+  published: 2025-05-07 17:20:41.000000000 +00:00
+- title: 'Show HN: Hydra (YC W22) – Serverless Analytics on Postgres'
+  url: https://www.hydra.so/
   summary: Comments
-  published: 2025-05-08 16:30:45.000000000 +00:00
-- title: Newsreels from the UCLA Film and Television Archive
-  url: https://newsreels.net/
+  published: 2025-05-09 15:24:35.000000000 +00:00
+- title: 'New Tool: lsds – List All Linux Block Devices and Settings in One Place'
+  url: https://tanelpoder.com/posts/lsds-list-linux-block-devices-and-their-config/
   summary: Comments
-  published: 2025-05-08 22:32:41.000000000 +00:00
-- title: Gender characteristics of service robots can influence customer decisions
-  url: https://www.psu.edu/news/health-and-human-development/story/gender-characteristics-service-robots-can-influence-customer
+  published: 2025-05-09 18:13:38.000000000 +00:00
+- title: Itter.sh – Micro-Blogging via Terminal
+  url: https://www.itter.sh/
   summary: Comments
-  published: 2025-05-08 23:12:32.000000000 +00:00
-- title: 'Block Diffusion: Interpolating Autoregressive and Diffusion Language Models'
-  url: https://m-arriola.com/bd3lms/
+  published: 2025-05-09 14:02:02.000000000 +00:00
+- title: 'Show HN: Aberdeen – An elegant approach to reactive UIs'
+  url: https://aberdeenjs.org/
   summary: Comments
-  published: 2025-05-08 18:18:20.000000000 +00:00
-- title: Static as a Server
-  url: https://overreacted.io/static-as-a-server/
+  published: 2025-05-09 12:42:29.000000000 +00:00
+- title: 'Reverse Engineering "DNA Sequences" in the Lost World: Jurassic Park Video
+    Game'
+  url: https://32bits.substack.com/p/under-the-microscope-the-lost-world
   summary: Comments
-  published: 2025-05-08 17:49:02.000000000 +00:00
-- title: The Rise and Fall of the Visual Telegraph (2017)
-  url: https://parisianfields.com/2017/11/05/the-rise-and-fall-of-the-visual-telegraph/
+  published: 2025-05-07 15:51:08.000000000 +00:00
+- title: Odin, a Pragmatic C Alternative with a Go Flavour
+  url: http://bitshifters.cc/2025/05/04/odin.html
   summary: Comments
-  published: 2025-05-08 19:13:29.000000000 +00:00
-- title: A flat pricing subscription for Claude Code
-  url: https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan
+  published: 2025-05-09 18:01:56.000000000 +00:00
+- title: 'Show HN: Hyvector – A fast and modern SVG editor'
+  url: https://www.hyvector.com
   summary: Comments
-  published: 2025-05-08 21:12:32.000000000 +00:00
-- title: Prepare your apps for Google Play's 16 KB page size compatibility requirement
-  url: https://android-developers.googleblog.com/2025/05/prepare-play-apps-for-devices-with-16kb-page-size.html
+  published: 2025-05-09 10:45:40.000000000 +00:00
+- title: PlainBudget – Minimalist Plain Text Budgeting
+  url: https://plainbudget.com/
   summary: Comments
-  published: 2025-05-08 21:46:14.000000000 +00:00
-- title: Ciro (YC S22) is hiring a software engineer to build AI agents for sales
-  url: https://www.ycombinator.com/companies/ciro/jobs
+  published: 2025-05-09 23:22:20.000000000 +00:00
+- title: Rollstack (YC W23) Is Hiring TypeScript Engineers (Remote US/CA)
+  url: https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-software-engineer-typescript-us-canada
   summary: Comments
-  published: 2025-05-08 17:00:38.000000000 +00:00
-- title: A Brief History of Cursor's Tab-Completion
-  url: https://www.coplay.dev/blog/a-brief-history-of-cursor-s-tab-completion
+  published: 2025-05-09 17:00:49.000000000 +00:00
+- title: NSF faces shake-up as officials abolish its 37 divisions
+  url: https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions
   summary: Comments
-  published: 2025-05-06 15:55:42.000000000 +00:00
-- title: Egyptologist uncovers hidden messages on Paris’s iconic obelisk
-  url: https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508
+  published: 2025-05-09 12:13:36.000000000 +00:00
+- title: 'CryptPad: An Alternative to the Google Suite'
+  url: https://cryptpad.org/
   summary: Comments
-  published: 2025-05-08 08:04:12.000000000 +00:00
-- title: 'Show HN: Req Update Check'
-  url: https://github.com/ontherivt/req-update-check
+  published: 2025-05-09 11:37:40.000000000 +00:00
+- title: 'Show HN: Oliphaunt – A native Mastodon client for macOS'
+  url: https://testflight.apple.com/join/Epq1P3Cw
   summary: Comments
-  published: 2025-05-08 22:30:17.000000000 +00:00
-- title: How Obama’s BlackBerry got secured (2013)
-  url: https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html
+  published: 2025-05-09 16:21:19.000000000 +00:00
+- title: 'Show HN: A backend agnostic Ruby framework for building reactive desktop
+    apps'
+  url: https://codeberg.org/skinnyjames/hokusai
   summary: Comments
-  published: 2025-05-05 07:54:44.000000000 +00:00
-- title: 'Ask HN: What are good high-information density UIs (screenshots, apps, sites)?'
-  url: https://news.ycombinator.com/item?id=43925732
+  published: 2025-05-09 16:01:11.000000000 +00:00
+- title: All BART trains were stopped due to ‘computer networking problem’
+  url: https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem
   summary: Comments
-  published: 2025-05-08 13:05:10.000000000 +00:00
-- title: AI focused on brain regions recreates what you're looking at (2024)
-  url: https://www.newscientist.com/article/2438107-mind-reading-ai-recreates-what-youre-looking-at-with-amazing-accuracy/
+  published: 2025-05-09 14:33:49.000000000 +00:00
+- title: Bento gets a makeover
+  url: https://warpstreamlabs.github.io/bento/
   summary: Comments
-  published: 2025-05-06 20:52:45.000000000 +00:00
+  published: 2025-05-08 21:30:41.000000000 +00:00
