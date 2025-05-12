@@ -1,7 +1,285 @@
 ---
+- title: " Here’s what happened in crypto today "
+  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Today in crypto, White House announces trade deal with China, but no details
+    are announced, Ethereum’s Pectra has opened a new attack vector that could allow
+    hackers to drain funds using only an offchain signature, Bitcoin SV (BSV) investors
+    attempt to rekindle 2019 Binance lawsuit.White House claims trade deal reached
+    with China, but investors remain doubtfulThe White House announced progress toward
+    a trade deal with China. However, no official details of the purported trade deal
+    were aired alongside the announcement, casting doubt about the substance of the
+    agreement.According to an announcement from the White House, details of the supposed
+    trade deal will be revealed in a briefing on May 12. Treasury Secretary Scott
+    Bessent released this statement about the trade talks:\"I am happy to report that
+    we made substantial progress between the United States and China in the very important
+    trade talks. First, I want to thank our Swiss host. The Swiss government has been
+    very kind in providing us with this wonderful venue.\"While investors continue
+    to monitor the ongoing trade talks for any potential deal that could restore confidence
+    in financial markets, many market participants say the details of the agreement
+    may be underwhelming or lack any real substance that would establish a long-standing
+    trade deal between the two countries.US Treasury Secretary Scott Bessent tells
+    the media that the US-China trade talks were productive. Source: Fox NewsPectra
+    lets hackers drain wallets with just an offchain signatureEthereum’s latest network
+    upgrade, Pectra, introduced powerful new features aimed at improving scalability
+    and smart account functionality — but it also opened a dangerous new attack vector
+    that could allow hackers to drain funds from user wallets using only an offchain
+    signature.Under the Pectra upgrade, which went live on May 7 at epoch 364032,
+    attackers can exploit a new transaction type to take control of externally owned
+    accounts (EOAs) without requiring the user to sign an onchain transaction.Arda
+    Usman, a Solidity smart contract auditor, confirmed to Cointelegraph that “it
+    becomes possible for an attacker to drain an EOA’s funds using only an offchain
+    signed message (no direct onchain transaction signed by the user).”At the center
+    of the risk is EIP-7702, a core component of the Pectra upgrade. The Ethereum
+    Improvement Proposal introduces the SetCode transaction (type 0x04), which enables
+    users to delegate control of their wallet to another contract simply by signing
+    a message.If an attacker obtains this signature — say, via a phishing site — they
+    can overwrite the wallet’s code with a small proxy that forwards calls to their
+    malicious contract.Source: Vladimir S. | Officer's NotesBitcoin Satoshi's Vision
+    investors attempt to rekindle lawsuit against BinanceA group of Bitcoin Satoshi's
+    Vision (BSV) investors is attempting to rekindle a 2019 lawsuit against Binance,
+    alleging that the crypto exchange caused price damage to the altcoin by delisting
+    BSV in 2019.Attorneys for the plaintiffs argued that a previous ruling from the
+    United Kingdom Competition Appeal Tribunal, throwing out the claims of undue damage
+    from the delisting, should be examined again, according to legal outlet Law360.BSV
+    has experienced a long-term price decline since 2021. Source: TradingViewIf successful,
+    the litigants could demand up to 10 billion British pounds (GBP), or roughly $13
+    billion, in damages from the exchange.BSV continues to suffer from a multitude
+    of issues, including a long-term price decline, several 51% attacks that compromised
+    the blockchain network's security, and criticism from the crypto community.\n\n
+    \           "
+  published: 2025-05-11 22:43:24.000000000 +01:00
+- title: " Bitcoin price inches closer to new all-time high as ETH, DOGE, PEPE and
+    ATOM rally "
+  url: https://cointelegraph.com/news/bitcoin-price-inches-closer-to-new-all-time-high-as-eth-doge-pepe-and-atom-rally?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key points:Bitcoin holds on to its recent gains, increasing the possibility
+    of a retest of the all-time high at $109,588.BlackRock’s spot Bitcoin ETF records
+    19 days of successive inflows, showing solid demand. Select altcoins are showing
+    strength, having broken out of their large basing patterns.Bitcoin (BTC) made
+    a decisive move above the psychologically crucial $100,000 level during the week,
+    signaling that the bulls are back in the game. Buyers are trying to hold on to
+    the 10% weekly gains over the weekend.Bitcoin’s rally has been backed by solid
+    inflows into the BlackRock spot Bitcoin exchange-traded fund (IBIT). According
+    to Farside Investors’ data, the fund stretched its inflows streak to 19 days,
+    with the latest trading week attracting $1.03 billion in inflows.Crypto market
+    data daily view. Source: Coin360The rally was not limited to Bitcoin alone, as
+    several altcoins also moved higher. That has prompted analysts to announce the
+    start of an altseason, with some predicting sharp rallies in altcoins over the
+    next few months. However, not everyone believes that an altseason has started
+    because the altcoins have only made modest moves compared to the massive price
+    erosion from their respective all-time highs.  Could Bitcoin break out to a new
+    all-time high and maintain it? If it does, let’s study the charts of the cryptocurrencies
+    that may move higher in the near term.Bitcoin price predictionBitcoin has been
+    gradually inching toward the all-time high of $109,588, indicating that the bulls
+    are in no hurry to book profits.BTC/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    rally has pushed the relative strength index (RSI) into the overbought zone, suggesting
+    a correction or consolidation in the near term. Any pullback is expected to find
+    support between $100,000 and the 20-day exponential moving average ($96,626).
+    If the price rebounds off the support zone, it increases the possibility of a
+    break above $109,588. If that happens, the BTC/USDT pair could surge toward $130,000.Time
+    is running out for the bears. If they want to make a comeback, they will have
+    to swiftly yank the price below the 20-day EMA. If they succeed, the pair could
+    plunge to the 50-day simple moving average ($88,962).BTC/USDT 4-hour chart. Source:
+    Cointelegraph/TradingViewThe pair continues to climb higher, but the bears are
+    expected to fiercely defend the $107,000 to $109,588 zone. If the price turns
+    down from the overhead zone, the 20-EMA is likely to act as strong support. A
+    bounce off the 20-EMA signals that the bullish momentum remains intact. That enhances
+    the prospects of a breakout above $109,588.Sellers will have to tug the price
+    below $100,000 to weaken the positive momentum. That opens the doors for a fall
+    to $93,000 and subsequently to $83,000.Ether price predictionEther (ETH) skyrocketed
+    from $1,808 on May 8 to $2,600 on May 10, indicating aggressive buying by the
+    bulls.ETH/USDT daily chart. Source: Cointelegraph/TradingViewThe up move pushed
+    the RSI into the overbought territory, indicating a minor pullback or consolidation
+    is possible in the near term. The first support on the downside is $2,320 and
+    then $2,111. If the price turns up from the support levels, the ETH/USDT pair
+    could extend the rally to $2,850 and later to $3,000.The optimistic view will
+    be invalidated in the near term if the price breaks below $2,111. That could result
+    in a range formation between $1,754 and $2,600.ETH/USDT 4-hour chart. Source:
+    Cointelegraph/TradingViewThe bulls pushed the price above the $2,550 resistance
+    but could not sustain the higher levels. A minor positive in favor of the bulls
+    is that they have not ceded much ground to the bears. That suggests the bulls
+    are holding on to their positions as they anticipate the up move to continue.
+    If the price turns up from the current level of the 20-EMA and breaks above $2,609,
+    the rally could reach $3,000. A deeper correction could begin if the price continues
+    lower and plummets below the 20-EMA. That could sink the pair toward the solid
+    support at $2,111.Dogecoin price predictionDogecoin (DOGE) soared above the $0.21
+    overhead resistance on May 10, indicating a change in the short-term trend.DOGE/USDT
+    daily chart. Source: Cointelegraph/TradingViewThe rally is facing selling at $0.26,
+    which could result in a retest of the breakout level of $0.21. If the price rebounds
+    off $0.21 with strength, it suggests a change in sentiment from selling on rallies
+    to buying on dips. That increases the likelihood of a rally to $0.31. If buyers
+    want to prevent the upside, they will have to pull the price below the 20-day
+    EMA ($0.19). If they do that, the DOGE/USDT pair could swing inside a large range
+    between $0.26 and $0.14 for a while. DOGE/USDT 4-hour chart. Source: Cointelegraph/TradingViewThe
+    pair has turned down from $0.26, with immediate support at $0.22 and then at $0.21.
+    If the price rebounds off the support zone, it suggests a positive sentiment where
+    dips are being purchased. The bulls will then again try to resume the uptrend
+    by pushing the price above $0.26.Conversely, a drop below $0.21 signals that the
+    bulls are rushing to the exit. That could pull the price to the 50-day SMA.Related:
+    Ethereum to $10K 'can't be ruled out' as ETH price makes sharp gains vs. SOL,
+    XRPPepe price predictionPepe (PEPE) rallied sharply from the 50-day SMA ($0.000008)
+    and broke above the $0.000011 overhead resistance on May 8.PEPE/USDT daily chart.
+    Source: Cointelegraph/TradingViewThe rally has pushed the RSI into the overbought
+    zone, signaling a pullback may be around the corner. The PEPE/USDT pair could
+    drop to the breakout level of $0.000011. If the price rebounds off $0.000011,
+    it suggests that the bulls have flipped the level into support. That improves
+    the prospects for a rally to $0.000017 and then to $0.000020.This optimistic view
+    will be negated in the near term if the price turns down and breaks below the
+    20-day EMA ($0.000009).PEPE/USDT 4-hour chart. Source: Cointelegraph/TradingViewThe
+    4-hour chart shows that the bears are aggressively defending the $0.000014 level.
+    That could pull the price down to the 20-EMA, which is a vital level to keep an
+    eye on. If the price rebounds off the 20-EMA, the bulls will make another attempt
+    to shove the pair above $0.000014. If they can pull it off, the pair could ascend
+    to $0.000017.On the contrary, a break and close below the 20-EMA could sink the
+    pair to $0.000011. Buyers are expected to defend the $0.000011 level with all
+    their might because a slide below it may extend the pullback to the 50-SMA.Cosmos
+    price predictionCosmos (ATOM) broke out of the large base when it closed above
+    $5.15 on May 10. That signals a potential trend change.ATOM/USDT daily chart.
+    Source: Cointelegraph/TradingViewHowever, the bears are unlikely to give up easily.
+    They will try to pull the price back below the $5.15 level. If they manage to
+    do that, the aggressive bulls may get trapped, pulling the price to the moving
+    averages. Alternatively, if buyers sustain the price above $5.15, the ATOM/USDT
+    pair could pick up momentum and rally to $6.50. Sellers will try to halt the up
+    move at $6.50, but if the bulls prevail, the pair could rally to $7.50.ATOM/USDT
+    4-hour chart. Source: Cointelegraph/TradingViewThe sharp rally has pushed the
+    RSI into the overbought zone on the 4-hour chart, suggesting a short-term correction
+    or consolidation. The bulls will have to defend the critical $5.15 level if they
+    want to keep the positive momentum intact. If they manage to do that, the pair
+    could rally to $6.60.Contrarily, a break and close below $5.15 could pull the
+    price down to the 20-EMA. This is an important level to watch out for because
+    a break below it may sink the pair to $4.70.This article does not contain investment
+    advice or recommendations. Every investment and trading move involves risk, and
+    readers should conduct their own research when making a decision.\n\n            "
+  published: 2025-05-11 19:35:07.000000000 +01:00
+- title: " Bitcoin must close the week above this level to start &#039;price discovery
+    2&#039; "
+  url: https://cointelegraph.com/news/bitcoin-must-close-week-this-level-start-price-discovery?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Key points:Bitcoin analysis identifies the all-important price point to
+    hold into the weekly close as all-time highs loom.Liquidity is tightly clustered
+    around current spot price, with $106,000 the likely next battleground.Some traders
+    are expecting the bid to enter price discovery to fail.Bitcoin (BTC) preserved
+    giant gains into the May 11 weekly close as analysis flagged the key level to
+    hold next.BTC/USD 1-hour chart. Source: Cointelegraph/TradingViewAnalysis: BTC
+    price can “kickstart the breakout process”Data from Cointelegraph Markets Pro
+    and TradingView showed weekend upside volatility, delivering new multimonth highs
+    of nearly $105,000.A lack of liquidity during “out of hours” trading contributed
+    to the move, which once more came on the back of positive rumors over a US-China
+    trade deal.$BTCalmost tagging $105K off again headlinesmarkets will want to see
+    fruition of Trumps comments regarding a path forward with trade between US & ChinaShipping
+    data does already suggest insiders know hence container volume has briefly picked
+    up again pic.twitter.com/AijqalylwS— Skew Δ (@52kskew) May 10, 2025Now, popular
+    trader and analyst Rekt Capital confirmed that Bitcoin could even kickstart a
+    return to all-time highs and price discovery.The all-important weekly close level
+    to flip to support, he said, lay at around $104,500.“Can Bitcoin do it? Can Bitcoin
+    Weekly Close above the Range High of its recently reclaimed Re-Accumulation Range
+    to kickstart the breakout process?” he queried in a post on X alongside an explanatory
+    chart.“Bitcoin is on the cusp of beginning Price Discovery Uptrend 2.”BTC/USD
+    1-week chart. Source: Rekt Capital/XAn additional update calculated the current
+    Bitcoin bull market as 85.5% complete, yet with the most erratic upswings still
+    to come.#BTC Bull Market Progress:▓▓▓▓▓▓▓▓░░ 85.5%(Progress will speed up on Parabolic
+    advances)$BTC #Crypto #Bitcoin pic.twitter.com/Qe88NVmo2z— Rekt Capital (@rektcapital)
+    May 9, 2025A look at the latest exchange order book data from monitoring resource
+    CoinGlass showed a large cloud of asks clustered around the area immediately below
+    $106,000 at the time of writing.Bids were laddered down to $102,000, creating
+    a thickening band of liquidity around spot price into the weekly close.BTC liquidation
+    heatmap. Source: CoinGlassBitcoin can still retrace “entire move”Some market participants
+    remained bearish on short timeframes.Related: Is Bitcoin about to go parabolic?
+    BTC price targets include $160K nextOn X, popular trader HTL-NL argued that the
+    current push toward all-time highs would end as a “fakeout” to trap late longs.“Will
+    $BTC close/open the week remaining within the range, will it do a 'fake out (UTAD)'
+    or was this really a reaccumulation range as many want to believe,” he wrote on
+    the day. “To be honest, although I still favour the first 2 options based on M/Q
+    charts, it being reaccumulation is not impossible.”BTC/USDT 1-hour chart. Source:
+    HTL-NL/XAnother voice of caution, one all too familiar in Bitcoin trading circles,
+    came in the form of fellow trader Il Capo of Crypto.In his latest X updates, the
+    pseudonymous commentator warned that BTC/USD could correct to the extent that
+    its entire rebound disappears.“This is the time to scale out, not in,” he argued
+    on May 10. “Strong resistances are being tested, and if this is just a correction
+    of the downtrend since January, the entire move could eventually be fully reversed.”Il
+    Capo of Crypto originally gained notoriety for his $12,000 BTC price targets at
+    the start of the bull market in 2023.This article does not contain investment
+    advice or recommendations. Every investment and trading move involves risk, and
+    readers should conduct their own research when making a decision.\n\n            "
+  published: 2025-05-11 14:31:39.000000000 +01:00
+- title: " Altseason is coming, 40% daily gains to become ‘new normal’ — Analyst "
+  url: https://cointelegraph.com/news/altseason-2025-analysts-split-on-40-percent-daily-gains?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Altcoin markets are flashing early signs of a breakout, with several analysts
+    calling for a potential surge over the next few months.Crypto commentator Mister
+    Crypto predicts the next 3 to 6 months could be “life-changing,” suggesting daily
+    gains of up to 40% may soon become the norm.In a May 11 post on X, he pointed
+    to a chart from BlockchainCenter.net that shows whether the crypto market favors
+    Bitcoin (BTC) or altcoins.When the index is below 25, it’s considered “Bitcoin
+    Season,” meaning Bitcoin is outperforming most altcoins. When it’s above 75, it’s
+    “Altcoin Season,” meaning altcoins are doing better than Bitcoin.Currently, the
+    chart shows a breakout from a downward trend just below the 29 mark, suggesting
+    a possible shift away from Bitcoin dominance. This breakout hints that altcoins
+    may start gaining momentum, potentially entering a period where they outperform
+    Bitcoin.Source: Mister CryptoRelated: Chance of Bitcoin price highs above $110K
+    in May increasing — Here’s whyThis Altseason may be differentOthers see the rally
+    but warn it’s not the same as previous cycles. Analyst 2Lambroz agrees that the
+    altseason may have arrived but says the dynamics have changed.“People want to
+    bid but lack belief in any strong narrative,” he wrote on X. He noted that unlike
+    2021, there’s no sign of retail investors entering the market. Traders are rotating
+    capital faster, with little incentive to hold long-term positions.Technical trader
+    Moustache offered a more optimistic view. He shared a chart showing repeating
+    altcoin accumulation phases followed by explosive growth. According to him, the
+    current structure mirrors those of 2016 and 2020. “Altseason 2025 has officially
+    begun,” he said.However, skeptics remain. Commentator Rekt Fencer pointed out
+    that most altcoins have been down 90% since December. A modest 10% bounce this
+    week sparked exaggerated optimism, prompting him to mock the rally. “This is the
+    ALTSEASON we’ve all been waiting for,” he joked.Source: Rekt FencerRelated: Bitcoin
+    ‘more likely’ to hit $110K before $76.5K — Arthur HayesCrypto market rallies on
+    global optimismCrypto markets started the weekend with strong bullish momentum,
+    driven by renewed investor confidence. Bitcoin surged to $104,900, just 4% below
+    its all-time high after President Donald Trump announced positive developments
+    in US-China trade talks.The rally extended beyond Bitcoin, with Ether (ETH) posting
+    one of its best daily performances in weeks. Memecoins also rebounded sharply,
+    signaling renewed risk appetite across the broader altcoin market.“Crypto rallied
+    on a wave of global optimism,” Hank Huang, CEO of Kronos Research, told Cointelegraph.
+    “Ceasefire talks between India and Pakistan eased regional tensions, while news
+    on U.S.-China trade tariffs signaled renewed cooperation between major economies.”Huang
+    added that Ether’s strong rally added fuel, lifting altcoins across the board.
+    “Bitcoin surged to $105K as investors returned to risk assets, clarity replaced
+    uncertainty,” he noted.Magazine: Bitcoin eyes ‘crazy numbers,’ JD Vance set for
+    Bitcoin talk: Hodler’s Digest, May 4 – 10\n\n            "
+  published: 2025-05-11 08:34:52.000000000 +01:00
+- title: " Coinbase considered Saylor-like Bitcoin strategy before opting out: Bloomberg "
+  url: https://cointelegraph.com/news/coinbase-considered-michael-saylor-like-bitcoin-strategy-but-opted-against-it?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Coinbase reportedly considered adopting a Bitcoin investment playbook
+    like Michael Saylor’s Strategy on multiple occasions, but decided against it each
+    time out of fear that it would kill the firm’s crypto exchange, Bloomberg reported.“There
+    were definitely moments over the last 12 years where we thought, man, should we
+    put 80% of our balance sheet into crypto — into Bitcoin specifically,” Coinbase
+    CEO Brian Armstrong told Bloomberg in a May 9 video call.Armstrong said the Bitcoin
+    (BTC) strategy could have risked the company’s cash position and potentially killed
+    the crypto exchange. “We made a conscious choice about risk,” he added.Coinbase
+    Chief Financial Officer Alesia Haas, who also attended the video call, added that
+    the firm didn’t want to be seen as directly competing against its customers over
+    which cryptocurrencies would outperform. “Rest assured, we are not stopping there,”
+    Haas said, as Coinbase reported purchasing another $153 million worth of crypto
+    assets in its first quarter results statement on May 8, which was primarily concentrated
+    in Bitcoin.According to BitcoinTreasuries.net, Coinbase holds 9,480 Bitcoin —
+    worth $988 million at current market prices — which makes up the majority of its
+    $1.3 billion crypto asset holdings.Armstrong’s crypto exchange is the ninth-largest
+    corporate Bitcoin holder, trailing the likes of Strategy, Bitcoin miner MARA Holdings
+    and Tesla.Related: $45 million stolen from Coinbase users in the last week — ZachXBTSeveral
+    companies have begun copying Saylor’s Bitcoin playbook, funding purchases through
+    stock and debt sales on the bet that Bitcoin’s price appreciation will boost their
+    share prices.Over 100 public companies have now reported holding Bitcoin around
+    the world, while another 40 exchange-traded fund issuers, 26 private firms and
+    12 nation states have also reported holding the cryptocurrency.Source: Mitchell
+    AskewCoinbase deepens derivative offerings through Deribit acquisitionOn May 8,
+    Coinbase agreed to acquire crypto derivatives platform Deribit for $2.9 billion,
+    marking the industry’s largest corporate acquisition to date. The acquisition
+    will expand Coinbase’s footprint in the crypto derivatives market immensely, which
+    previously had been limited to its Bermuda-based platform.Coinbase noted that
+    Deribit facilitated over $1 trillion in trading volume in 2024 and has around
+    $30 billion of current open interest.The deal now makes Coinbase the “global leader”
+    in crypto derivatives trading, the firm said.Magazine: Crypto wanted to overthrow
+    banks, now it’s becoming them in stablecoin fight\n\n            "
+  published: 2025-05-11 04:43:42.000000000 +01:00
 - title: " Ex-UFC champ Conor McGregor touts Irish Bitcoin reserve in presidential
     bid "
-  url: https://cointelegraph.com/news/ex-ufc-champ-conor-mcgregor-touts-irish-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/ex-ufc-champ-conor-mcgregor-touts-irish-bitcoin-reserve?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "UFC fighter turned Irish political candidate Conor McGregor has endorsed
     the idea of building a Bitcoin reserve in his country to give more “power back
     to the people.”“Crypto in it's origin was founded to give power back to the people.
@@ -34,54 +312,8 @@
     Back says Bitcoin price cycle ’10x bigger’ but will still decisively break above
     $100K\n\n            "
   published: 2025-05-11 01:19:20.000000000 +01:00
-- title: " Here’s what happened in crypto today "
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, Bitcoin SV (BSV) investors attempt to rekindle 2019 Binance
-    lawsuit, Robert Kiyosaki has urged his followers to abandon what he calls “fake
-    money” and adopt alternatives like Bitcoin, gold and silver, and BlackRock’s spot
-    Bitcoin ETF posts 19-day inflow streak.Bitcoin Satoshi's Vision investors attempt
-    to rekindle lawsuit against BinanceA group of Bitcoin Satoshi's Vision (BSV) investors
-    is attempting to rekindle a 2019 lawsuit against Binance, alleging that the crypto
-    exchange caused price damage to the altcoin by delisting BSV in 2019.Attorneys
-    for the plaintiffs argued that a previous ruling from the United Kingdom Competition
-    Appeal Tribunal, throwing out the claims of undue damage from the delisting, should
-    be examined again, according to legal outlet Law360.BSV has experienced a long-term
-    price decline since 2021. Source: TradingViewIf successful, the litigants could
-    demand up to 10 billion British pounds (GBP), or roughly $13 billion, in damages
-    from the exchange.BSV continues to suffer from a multitude of issues, including
-    a long-term price decline, several 51% attacks that compromised the blockchain
-    network's security, and criticism from the crypto community.Robert Kiyosaki says
-    ditch ‘fake money’ for Bitcoin, gold, and silverRobert Kiyosaki, businessman and
-    best-selling author of Rich Dad Poor Dad, is once again sounding the alarm on
-    the dangers of centralized monetary policy, urging his followers to abandon what
-    he calls “fake money” and adopt alternatives like Bitcoin, gold, and silver.In
-    a May 10 post on X, Kiyosaki backed a hardline stance against central banking
-    systems, particularly the Federal Reserve, while quoting former US Congressman
-    Ron Paul.Ron Paul, a longtime critic of the Fed and author of End the Fed, described interest
-    rate setting by central banks as “price fixing,” equating it to socialist and
-    Marxist economic control.Paul warned that such mechanisms erode personal wealth
-    and undermine economic freedom — a sentiment that aligns closely with Kiyosaki’s
-    long-held concerns.“Fake money leads to dishonest money, dishonest statistics,
-    dishonest accounting, dishonest balance sheets, dishonest compensation, dishonest
-    relations, dishonest leaders, and corruption in everyday life,” Kiyosaki wrote.He
-    called on Americans to “fight back” by opting out of fiat systems and instead
-    embracing decentralized stores of value like Bitcoin (BTC) and precious metals.Source:
-    Robert KiyosakiBlackRock’s Bitcoin ETF posts $356M inflows, longest inflow streak
-    in 2025BlackRock’s spot Bitcoin ETF (IBIT) capped off the trading week with another
-    day of inflows, pulling in $356.2 million on May 9. The fund has now extended
-    its inflow streak to 19 consecutive days — its longest run of inflows so far this
-    year.IBIT’s inflow streak has been ongoing since April 14, and has coincided with
-    a volatile Bitcoin market, with the asset trading between $83,152 and $103,000
-    over the period. However, market sentiment has been increasing after the asset
-    reclaimed and held above the $90,000 price on April 23 before reclaiming the $100,000
-    price on May 8 for the first time since Feb. 1.Over the past trading week alone,
-    IBIT posted $1.03 billion in inflows, according to Farside data.Prior to the current
-    19-day streak, IBIT’s longest inflow streak in 2025 was a nine-day stretch surrounding
-    US President Donald Trump’s inauguration on Jan. 20, spanning from Jan. 15 to
-    Jan. 28.\n\n            "
-  published: 2025-05-10 23:11:04.000000000 +01:00
 - title: " El Salvador stacks 7 Bitcoin in last week, despite IMF deal "
-  url: https://cointelegraph.com/news/el-salvador-stacks-7-bitcoin-week-despite-imf-deal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/el-salvador-stacks-7-bitcoin-week-despite-imf-deal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "The government of El Salvador continues stacking Bitcoin (BTC) for its
     national crypto reserve, despite an ongoing deal with the International Monetary
     Fund (IMF) stipulating that the Central American country stop using public funds
@@ -116,7 +348,7 @@
     Argentina\n\n            "
   published: 2025-05-10 22:51:42.000000000 +01:00
 - title: " Bitcoin now deflationary due to Strategy&#039;s BTC purchases — Analyst "
-  url: https://cointelegraph.com/news/bitcoin-deflationary-due-strategy-btc-purchases?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-deflationary-due-strategy-btc-purchases?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Strategy, a Bitcoin (BTC) treasury company, is accumulating Bitcoin at
     a faster rate than total miner output, giving the supply-capped asset a -2.33%
     annual deflation rate, according to CryptoQuant CEO and market analyst Ki Young
@@ -155,7 +387,7 @@
     solutions (2025–2035)\n\n            "
   published: 2025-05-10 19:01:28.000000000 +01:00
 - title: " Robert Kiyosaki says ditch ‘fake money’ for Bitcoin, gold, and silver "
-  url: https://cointelegraph.com/news/robert-kiyosaki-bitcoin-gold-silver-fake-money?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/robert-kiyosaki-bitcoin-gold-silver-fake-money?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Robert Kiyosaki, businessman and best-selling author of Rich Dad Poor
     Dad, is once again sounding the alarm on the dangers of centralized monetary policy,
     urging his followers to abandon what he calls “fake money” and adopt alternatives
@@ -193,7 +425,7 @@
   published: 2025-05-10 09:19:40.000000000 +01:00
 - title: " BlackRock’s Bitcoin ETF posts $356 million inflows, marking the longest
     streak of 2025 "
-  url: https://cointelegraph.com/news/blackrock-ibit-bitcoin-etf-inflow-streak-largest-2025?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/blackrock-ibit-bitcoin-etf-inflow-streak-largest-2025?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "BlackRock’s spot Bitcoin ETF (IBIT) capped off the trading week with another
     day of inflows, pulling in $356.2 million on May 9. The fund has now extended
     its inflow streak to 19 consecutive days — its longest run of inflows so far this
@@ -224,7 +456,7 @@
     decisively break above $100K\n\n            "
   published: 2025-05-10 07:58:32.000000000 +01:00
 - title: " Bitcoin won’t see ‘gigantic’ SWF buying until laws greenlit — Scaramucci "
-  url: https://cointelegraph.com/news/bitcoin-buying-sovereign-wealth-funds-united-states-legislation-anthony-scaramucci?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-buying-sovereign-wealth-funds-united-states-legislation-anthony-scaramucci?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Sovereign Wealth Funds are already gaining exposure to Bitcoin, but significant
     allocations won’t happen until the United States establishes clearer regulations
     for the digital assets industry, says SkyBridge founder Anthony Scaramucci.“I
@@ -257,7 +489,7 @@
     price cycle’ 10x bigger’ but will still decisively break above $100K\n\n            "
   published: 2025-05-10 05:52:17.000000000 +01:00
 - title: " Bitcoin yet to hit $150K because outsiders are ghosting — Michael Saylor "
-  url: https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-price-lagging-rotation-new-investors?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Strategy founder Michael Saylor says Bitcoin hasn’t reached $150,000 yet
     because holders without a long-term outlook have been selling off while a new
     cohort of investors are beginning to enter the market.“I think we’re going through
@@ -294,7 +526,7 @@
     for 50% deaths: AI Eye\n\n            "
   published: 2025-05-10 03:18:57.000000000 +01:00
 - title: " Price predictions 5/9: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, LINK, AVAX "
-  url: https://cointelegraph.com/news/price-predictions-5-9-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/price-predictions-5-9-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key points:Bitcoin holding $100,000 as a level of support would confirm
     the current trend change.Ether leads among altcoins, and DeFi tokens could follow.Bitcoin
     (BTC) broke above the psychologically critical $100,000 level on May 8, and the
@@ -395,7 +627,7 @@
     \           "
   published: 2025-05-09 21:52:29.000000000 +01:00
 - title: " TeraWulf Q1 loss widens amid rising costs, falling revenue "
-  url: https://cointelegraph.com/news/terawulf-q1-loss-widens-amid-rising-costs-falling-revenue?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/terawulf-q1-loss-widens-amid-rising-costs-falling-revenue?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Mining firm TeraWulf reported a net loss of approximately $61.4 million
     in its earnings for the first quarter of 2025, further deteriorating from the
     same period last year.Revenue fell to $34.4 million from $42.4 million in the
@@ -429,7 +661,7 @@
     as … a fake Bitcoin mine? Soldier scams in China: Asia Express\n\n            "
   published: 2025-05-09 21:48:56.000000000 +01:00
 - title: " Bitcoin price rallies as global liquidity growth accelerates — Analysts "
-  url: https://cointelegraph.com/news/bitcoin-price-rallies-as-global-liquidity-growth-accelerates-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-price-rallies-as-global-liquidity-growth-accelerates-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key takeaways:Bitcoin’s price closely tracks global liquidity growth,
     with liquidity explaining up to 90% of its price movements, according to Raoul
     Pal.In the long term, global liquidity continues to expand, driven by the increasing
@@ -496,7 +728,7 @@
     should conduct their own research when making a decision.\n\n            "
   published: 2025-05-09 20:00:00.000000000 +01:00
 - title: " Bitcoin hits $103K but DeFi is a mixed bag: Finance Redefined "
-  url: https://cointelegraph.com/news/bitcoin-defi-tvl-drop-april-hacks-ai-dapps-btc-loans?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-defi-tvl-drop-april-hacks-ai-dapps-btc-loans?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "The cryptocurrency market continued to surge this past week as the overall
     digital asset market capitalization exceeded $3.27 trillion, an 8.6% increase
     over the previous week.Bitcoin (BTC) reached a high of $103,600 on May 8 after
@@ -567,7 +799,7 @@
     advancing space.\n\n            "
   published: 2025-05-09 19:00:00.000000000 +01:00
 - title: " Chance of Bitcoin price highs above $110K in May increasing — Here’s why "
-  url: https://cointelegraph.com/news/chance-of-bitcoin-price-highs-above-110-k-in-may-increasing-here-s-why?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/chance-of-bitcoin-price-highs-above-110-k-in-may-increasing-here-s-why?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key Takeaways:Bitcoin is driven by its ability to perform well in risk-on
     and risk-off environments, according to Bitcoin Suisse. Bitcoin’s Sharpe ratio
     of 1.72, second only to gold, underscores its maturity as an asset, offering superior
@@ -611,7 +843,7 @@
     readers should conduct their own research when making a decision.\n\n            "
   published: 2025-05-09 17:14:13.000000000 +01:00
 - title: " Is Bitcoin about to go parabolic? BTC price targets include $160K next "
-  url: https://cointelegraph.com/news/is-bitcoin-about-to-parabolic-btc-price-160k-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/is-bitcoin-about-to-parabolic-btc-price-160k-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key points:Bitcoin continues to attack a key resistance zone below all-time
     highs.“Parabolic” BTC price talk begins to resurface as bulls hold six figures
     after the Wall Street open.Signs of profit-taking are increasing amid the highest
@@ -652,7 +884,7 @@
     when making a decision.\n\n            "
   published: 2025-05-09 15:59:44.000000000 +01:00
 - title: " Institutional investors continue to scoop up Bitcoin above $100K "
-  url: https://cointelegraph.com/news/institutional-investors-continue-to-scoop-up-bitcoin-above-100-k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/institutional-investors-continue-to-scoop-up-bitcoin-above-100-k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Bitcoin crossed the $100,000 mark again on May 8 as institutional investors
     continue stacking sats.Farside Investors’ data shows that spot Bitcoin (BTC) exchange-traded
     funds (ETFs) recorded cumulative net inflows of $142.3 million on May 7, in a
@@ -690,7 +922,7 @@
     will still decisively break above $100K\n\n            "
   published: 2025-05-09 14:46:23.000000000 +01:00
 - title: " Gemini to launch crypto derivatives in Europe with new license "
-  url: https://cointelegraph.com/news/gemini-launches-crypto-derivatives-europe-new-license?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/gemini-launches-crypto-derivatives-europe-new-license?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Gemini, the cryptocurrency exchange founded by Cameron and Tyler Winklevoss,
     has received regulatory approval to expand crypto derivatives trading across Europe.Gemini
     secured a Markets in Financial Instruments Directive II (MiFID II) license from
@@ -724,7 +956,7 @@
     of nail-biting tension when Ethereum’s Pectra fork goes live\n\n            "
   published: 2025-05-09 13:51:25.000000000 +01:00
 - title: " Taiwan lawmaker calls for Bitcoin reserve at national conference "
-  url: https://cointelegraph.com/news/taiwan-lawmaker-pushes-bitcoin-reserve-national-conference?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/taiwan-lawmaker-pushes-bitcoin-reserve-national-conference?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Taiwanese lawmaker Ko Ju-Chun has called on the government to consider
     adding Bitcoin to its national reserves, suggesting it could serve as a hedge
     against global economic uncertainty.  Ko, a legislator at-large in Taiwan’s legislative
@@ -769,7 +1001,7 @@
     $100K\n\n            "
   published: 2025-05-09 12:45:38.000000000 +01:00
 - title: " Bitcoin eyes sub-$100K liquidity — Watch these BTC price levels next "
-  url: https://cointelegraph.com/news/bitcoin-eyes-sub-100k-liquidity-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-eyes-sub-100k-liquidity-watch-these-btc-price-levels-next?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key points:Bitcoin (BTC) is at its highest levels since January, and traders
     are eyeing key levels to watch for what’s next.After hitting $104,000, BTC/USD
     is retracing to establish support, but the fate of $100,000 is among the concerns
@@ -818,7 +1050,7 @@
     when making a decision.\n\n            "
   published: 2025-05-09 11:05:00.000000000 +01:00
 - title: " How high can Bitcoin price go? "
-  url: https://cointelegraph.com/news/how-high-can-bitcoin-price-go?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/how-high-can-bitcoin-price-go?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key takeaways:Bitcoin was up 4.3% on May 9, after breaking $100,000  for
     the first time since February.BTC price gains trigger $800 million in short liquidations,
     the largest since 2021.A bull flag on the weekly chart suggests a $182,200 target,
@@ -871,7 +1103,7 @@
     \           "
   published: 2025-05-09 10:03:42.000000000 +01:00
 - title: " Germany seizes $38M in crypto from Bybit hack-linked eXch exchange "
-  url: https://cointelegraph.com/news/germany-seizes-38-million-crypto-bybit-hack-linked-exch?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/germany-seizes-38-million-crypto-bybit-hack-linked-exch?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "German law enforcement seized 34 million euros ($38 million) in cryptocurrency
     from eXch, a cryptocurrency platform allegedly used to launder funds stolen after
     Bybit’s record-breaking $1.4 billion hack.The seizure, announced on May 9 by Germany’s
@@ -915,7 +1147,7 @@
     with Justin Sun, Vietnam’s new national blockchain: Asia Express\n\n            "
   published: 2025-05-09 09:24:17.000000000 +01:00
 - title: " Bitcoin accepted at fast food chain Steak ’n Shake from May 16 "
-  url: https://cointelegraph.com/news/steak-n-sats-bitcoin-accepted-steak-n-shake-locations-may-16?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/steak-n-sats-bitcoin-accepted-steak-n-shake-locations-may-16?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "American fast food outlet Steak ‘n Shake has announced it will begin accepting
     Bitcoin as payment at all locations starting on May 16.The firm said on X on May
     9 that it was making the cryptocurrency available to more than 100 million customers,
@@ -951,7 +1183,7 @@
     its hat to Bitcoin: Hodler’s Digest\n\n            "
   published: 2025-05-09 07:19:13.000000000 +01:00
 - title: " Metaplanet is raising another $21M through bonds to buy more Bitcoin "
-  url: https://cointelegraph.com/news/metaplanet-raising-another-21m-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/metaplanet-raising-another-21m-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Fresh off its most recent Bitcoin purchase, Japanese investment firm Metaplanet
     is raising more funds through another bond issue to expand its growing crypto
     treasury.Through a $21.25 million issue of “0% Ordinary Bonds,”  all the “funds
@@ -985,7 +1217,7 @@
     review\n\n            "
   published: 2025-05-09 07:18:18.000000000 +01:00
 - title: " Bitcoin at $103K hurtles MARA stack toward $5B, holdings triple "
-  url: https://cointelegraph.com/news/mara-holdings-bitcoin-holdings-value-surge-price-btc-q1-results?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/mara-holdings-bitcoin-holdings-value-surge-price-btc-q1-results?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Bitcoin mining firm MARA Holdings (MARA) nearly tripled its Bitcoin holdings
     over 12 months, according to its newly released Q1 results.However, its Bitcoin
     production fell, and total earnings slightly missed Wall Street estimates in Q1.MARA,
@@ -1026,7 +1258,7 @@
     research when making a decision.\n\n            "
   published: 2025-05-09 04:46:19.000000000 +01:00
 - title: " Bitcoin options could pave the path for new BTC price highs — Here is how "
-  url: https://cointelegraph.com/news/bitcoin-options-could-pave-the-path-for-new-btc-price-highs-here-is-how?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-options-could-pave-the-path-for-new-btc-price-highs-here-is-how?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key takeaways:97% of the $8.3 billion in Bitcoin put options expire worthless
     at a $102,000 BTC price.Short covering above $105,000 could trigger a Bitcoin
     price rally to new highs.Bitcoin (BTC) soared above $101,000 on May 8, reaching
@@ -1075,7 +1307,7 @@
   published: 2025-05-08 21:38:54.000000000 +01:00
 - title: " Bitcoin hits $101.7K as US strategic reserve bills become law and BTC mass
     adoption accelerates "
-  url: https://cointelegraph.com/news/bitcoin-hits-101-7-k-as-us-strategic-reserve-bills-become-law-and-btc-mass-adoption-accelerates?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-hits-101-7-k-as-us-strategic-reserve-bills-become-law-and-btc-mass-adoption-accelerates?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Key takeaways: Bitcoin rallies to $101,707 against a backdrop of strong
     fundamentals in the regulatory and traditional finance space.Traders are confident
     that $100,000 will hold as support.Bitcoin (BTC) price rallied above $100,000
@@ -1114,7 +1346,7 @@
     should conduct their own research when making a decision.\n\n            "
   published: 2025-05-08 20:15:35.000000000 +01:00
 - title: " Bitcoin price reclaims $100K for first time since January "
-  url: https://cointelegraph.com/news/bitcoin-hits-100k-first-time-since-january?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/bitcoin-hits-100k-first-time-since-january?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Bitcoin has reclaimed the $100,000 price level for the first time since
     January, reflecting renewed bullish sentiment among investors.Bitcoin (BTC) reclaimed
     the $100,000 mark on May 8 at 3:22 pm UTC, surging 4.2% from the intraday low
@@ -1163,244 +1395,9 @@
     reporting by Amin Haqshanas.Magazine: Bitcoin to $1M ‘by 2029,’ CIA tips its hat
     to Bitcoin: Hodler’s Digest, April 27 – May 3\n\n            "
   published: 2025-05-08 16:22:53.000000000 +01:00
-- title: " Bitcoin miner Hut 8 grows hashrate 79% despite $134M quarterly loss "
-  url: https://cointelegraph.com/news/hut8-q1-2025-hashrate-expansion-loss?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
-  summary: "Cryptocurrency mining firm Hut 8 increased its hashrate by 79% during
-    the first quarter of the year.According to Hut8’s latest quarterly report released
-    on May 8, the firm saw a net loss of $134.3 million despite revenue of $21.8 million.
-    The firm’s CEO, Asher Genoot, explained that this was a result of large-scale
-    investments. “As reflected in our results, the first quarter was a deliberate
-    and necessary phase of investment,” Genoot said. “We believe the returns on this
-    work will become increasingly visible in the quarters ahead.”Hut 8 operations
-    reached a total energy capacity of 1,020 megawatts as of March 31, enough to power
-    well over 800,000 average homes in the United States. The company also has the
-    right to scale up its operation by another 2,600 MW.Related: Bitcoin mining —
-    Institutions boost investments amid favorable US climateHut 8 is scaling up operationsGenoot
-    said the financial results follow large-scale investments by Hut 8, including
-    upgrading the firm’s application-specific integrated circuit (ASIC) fleet and
-    launching the majority-owned subsidiary of Hut 8, American Bitcoin.American Bitcoin
-    was announced at the end of March, with several members of the US President Donald
-    Trump’s family as partners. According to the announcement, the new venture “aims
-    to become the world’s largest, most efficient pure-play Bitcoin miner while building
-    a robust strategic Bitcoin reserve.”Early April reports also revealed that American
-    Bitcoin has plans to raise additional capital, including through an initial public
-    offering. In today’s quarterly earnings announcement, Genoot stated:“The streamlined
-    capital allocation framework made possible by the American Bitcoin launch reinforces
-    our ability to scale lower-cost-of-capital businesses such as high-performance
-    computing.“Related: Browser-based crypto mining in 2025: Still viable or virtually
-    dead?Future expansion plansTalking about future plans, Hut 8’s CEO noted that
-    the company is pushing ahead with its plans for 2025. Those include the energization
-    of the Vega data center, the initial sitework at the River Bend data center and
-    the development of the firm’s utility-scale power portfolio. Genoot added:“We
-    believe these initiatives will further accelerate our ability to generate resilient
-    near-term cash flows while building toward enduring leadership across next-generation
-    digital infrastructure markets.”Hut 8 stock is trading at $12.66 after seeing
-    a 2.2% increase on the trading day on the Nasdaq. However, it is down by over
-    38% from $20.49 at the start of the year.Hut8 year-to-date price chart. Source:
-    Google FinanceThe announcement follows Nasdaq-listed Bitcoin (BTC) mining firm
-    Core Scientific posting a net profit of $580 million in its first quarter results,
-    missing analyst revenue estimates after a drop in its mining profits.Magazine:
-    AI may already use more power than Bitcoin — and it threatens Bitcoin mining\n\n
-    \           "
-  published: 2025-05-08 14:51:08.000000000 +01:00
-- title: " Beyond digital gold, Bitcoin’s next chapter is about to be unlocked — Dan
-    Held "
-  url: https://cointelegraph.com/news/beyond-digital-gold-bitcoin-s-next-chapter-is-about-to-be-unlocked-dan-held?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin (BTC) has long been branded as “digital gold,” a store of value
-    for believers in scarcity, decentralization and self-sovereignty. As institutional
-    interest grows, geopolitics shift, and new layers emerge on Bitcoin’s stack, is
-    it time for the narrative to evolve? In this episode of The Clear Crypto Podcast,
-    hosts Nathan Jeffay and Gareth Jenkinson speak with longtime Bitcoiner and entrepreneur
-    Dan Held, who argues that Bitcoin’s next chapter may unlock broader functionality,
-    from programmable use cases to more nuanced messaging that reaches far beyond
-    crypto-native circles.Political shiftsWith US President Donald Trump openly backing
-    Bitcoin — and reportedly owning it himself — Held said he sees a regulatory and
-    reputational change. “We have the most open administration toward Bitcoin in the
-    United States,” he said. “It kind of feels weird... Normally in the press, Bitcoin
-    mining is destroying the environment. It’s being used by money launderers… And
-    instead, you've got the president encouraging Bitcoin.”Held traced Bitcoin’s unlikely
-    rise through moments of adversity, from China’s mining crackdowns to the Biden
-    administration’s strict approach to crypto banking. Yet despite those challenges,
-    roughly 25% of Americans now own Bitcoin, he said.DeFi on BitcoinWhat comes next
-    may push the asset into a new phase. Held and Jenkinson are proponents of building
-    decentralized finance (DeFi) tools on top of Bitcoin, functionalities traditionally
-    associated with blockchains like Ethereum or Solana.“If we could bring [DeFi]
-    back to Bitcoin, then Bitcoin could utilize not just spot speculation... but these
-    other speculative games then would allow bitcoin to grow even faster.” That includes
-    borrowing, lending, and staking, all mechanisms that allow users to interact with
-    Bitcoin beyond simple holding or trading.Related: How crypto payments can become
-    the new ‘tap-and-go’ — Pulsar co-founderJenkinson echoed the potential, highlighting
-    a shift in attitude: “If you can use [Bitcoin] and bring DeFi to it, you’re basically
-    allowing people to use digital gold as the underlying asset... It’s a very hard
-    thing to do, because most hardcore Bitcoin maximalists don’t want people to give
-    up their Bitcoin for something else.”That tension between so-called “Bitcoin puritans”
-    and more moderate voices is not new, Held noted. He recounted the 2017 Bitcoin
-    Cash fork, describing it as “a civil war... brother against brother.” But unlike
-    that contentious split, today’s evolution is happening without rewriting Bitcoin’s
-    base rules. “No one’s proposing to change the rules of Bitcoin,” Held said. “This
-    is innovation built on top.”To hear the full conversation on The Clear Crypto
-    Podcast,  listen to the full episode on Cointelegraph’s Podcasts page, Apple Podcasts
-    or Spotify. And don’t forget to check out Cointelegraph’s full lineup of other
-    shows! Magazine: ZK-proofs are bringing smart contracts to Bitcoin — BitcoinOS
-    and Starknet\n\n            "
-  published: 2025-05-08 14:30:00.000000000 +01:00
-- title: " Bitcoin DeFi sees surge in mining participation despite drop in TVL "
-  url: https://cointelegraph.com/news/rootstock-bitcoin-defi-mining-tvl-drop-q1-2025?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
-  summary: "Smart contract platform Rootstock, the home of decentralized finance (DeFi)
-    on Bitcoin, saw a sharp increase in network security and mining engagement in
-    the first quarter of 2025, even as activity cooled.Merged mining participation
-    surged to an all-time high of 81%, up from 56.4% in Q4 2024, driven by the integration
-    of major mining pools Foundry and SpiderPool, according to Messari’s first “State
-    of Rootstock” report for 2025, shared with Cointelegraph.The heightened miner
-    interest boosted Rootstock’s hash power to over 740 exahashes per second, surpassing
-    the total Bitcoin network hashrate recorded in October 2024. As a result, the
-    network is now considered to be in a “mature phase” of merged mining growth.The
-    increased security coincided with a 60% reduction in transaction fees, improving
-    user experience and positioning Rootstock more competitively within the Bitcoin
-    layer-2 ecosystem.“As BTCFi continues to grow, Rootstock is well-positioned for
-    broader adoption through core upgrades like a 60% reduction in transaction fees,
-    alongside sustained investment in builder education and incentive programs,” Messari
-    analyst Andrew Yang said.Rootstock overview for Q1 2025. Source: MessariRelated:
-    Is this the end of Bitcoin DeFi?Rootstock’s DeFi TVL dropsDespite the mining milestone,
-    Rootstock’s DeFi ecosystem experienced a decline in total value locked (TVL) during
-    Q1 2025, with Bitcoin (BTC)-denominated TVL dropping 7.2% and US dollar-denominated
-    TVL falling by 20% quarter-over-quarter to $179.9 million.Although TVL briefly
-    peaked at $244.6 million in January during a Bitcoin price rally, it trended downward
-    from March, reflecting broader market cooling.For perspective, Ethereum-based
-    DeFi TVL also saw a sharp 27% decline in Q1, hit hard by macro uncertainty and
-    the $1.4 billion Bybit exploit, according to a report by DappRadar.The stablecoin
-    market on Rootstock also underwent notable changes. USDt (USDT) remained the leading
-    stablecoin by value, holding $3.8 million and a 27.5% market share. However, its
-    dominance fell significantly from 41.3% in Q4 2024.By the end of Q1, no single
-    stablecoin commanded over 30% of Rootstock’s stablecoin market.Active addresses
-    dropped by 26.5%, and new addresses plunged by 54.7%, although daily transactions
-    rose slightly by 4.3%, reaching an average of 11,524 per day.Active addresses
-    drop on Rootstock. Source: MessariRelated: Bitcoin yield demand booming as institutions
-    seek liquidity — Solv CEORootstock sees progress on development frontOn the development
-    front, the platform activated its Lovell 7.0.0 upgrade, enhancing Ethereum Virtual
-    Machine (EVM) compatibility and smart contract performance.Rootstock also expanded
-    its ecosystem through integrations with LayerZero and Meson Finance and launched
-    developer-focused initiatives, including a new hackathon and enhancements to its
-    governance platform, RootstockCollective.On May 1, Alexei Zamyatin, the co-founder
-    of the Bitcoin layer 2 Build on Bitcoin, said that the first DeFi company to launch
-    a user-friendly suite of products on Bitcoin would “win the entire market” of
-    the blockchain’s 300 million users.Magazine: ZK-proofs unlock trillions in Bitcoin
-    for DeFi — BitcoinOS and Starknet\n\n            "
-  published: 2025-05-08 14:00:00.000000000 +01:00
-- title: " What is VanEck’s Onchain Economy ETF ($NODE) and how does it work? "
-  url: https://cointelegraph.com/explained/what-is-vanecks-onchain-economy-etf-node-and-how-does-it-work?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
-  summary: "                            What is ​VanEck's Onchain Economy ETF ($NODE)
-    \                                       VanEck’s Onchain Economy ETF ($NODE) exposes
-    investors to companies driving blockchain adoption across multiple industries.
-    The fund is scheduled to begin trading on May 14, 2025, following its inception
-    on May 13, 2025.As the global economy shifts to a digital core, NODE offers active
-    equity investment in real-world companies shaping that future. This ETF is actively
-    managed, meaning a portfolio manager and not just an algorithm, selects the included
-    stocks.The ETF may allocate up to 25% of its assets to crypto-linked exchange-traded
-    products (ETPs) via a Cayman Islands subsidiary, providing indirect exposure to
-    digital assets while adhering to US tax regulations. With a management fee of
-    0.69%, $NODE offers a diversified approach to participating in the evolving digital
-    asset economy without direct cryptocurrency investments.                                                How
-    VanEck’s $NODE ETF builds its portfolio                                        VanEck’s
-    $NODE ETF is designed to expose investors to companies at the forefront of blockchain
-    and digital asset innovation. The ETF plans to hold between 30 and 60 stocks selected
-    from over 130 publicly traded enterprises integral to the digital asset ecosystem.These
-    stocks may span across the following sectors:Data centers: Infrastructure hubs
-    that deliver the computational power necessary for blockchain networks. Cryptocurrency
-    exchanges: These platforms, like Coinbase, facilitate the trading and exchange
-    of digital assets.Miners: Organizations that verify Bitcoin (BTC) transactions. Crypto-holding
-    companies: Publicly listed businesses that include Bitcoin or other cryptocurrencies
-    as part of their treasury.Traditional financial institutions: Established banks
-    and financial service providers incorporating blockchain solutions into their
-    offerings.Consumer and gaming enterprises: Enterprises adopting blockchain technology
-    in consumer applications and gaming platforms.Asset managers: Professionals and
-    firms developing and overseeing investment vehicles tied to digital asset markets.Energy
-    infrastructure providers: Businesses offering energy solutions tailored to support
-    blockchain and crypto mining operations.Semiconductor and hardware firms: Companies
-    such as Nvidia that design and manufacture chips and specialized mining equipment.To
-    further diversify its portfolio, $NODE may allocate up to 25% of its assets to
-    cryptocurrency ETPs, providing indirect exposure to digital assets. This allocation
-    is managed through a Cayman Islands subsidiary, allowing the ETF to navigate US
-    tax regulations effectively. VanEck employs a rigorous selection process for its
-    holdings, combining fundamental analysis, market trend assessment, strategic positioning
-    and valuation metrics to identify companies leading the digital transformation. According
-    to a Jan. 15 filing with US regulators regarding the proposed ETF, at least 80%
-    of its investments could be allocated to \"digital transformation companies\"
-    and digital asset instruments.Did you know? Crypto ETFs let you invest in digital
-    assets like Bitcoin or blockchain stocks without setting up a crypto wallet. They
-    are traded on traditional exchanges and offer regulated exposure to crypto markets,
-    making them accessible to mainstream investors and institutions.                                                How
-    VanEck’s $NODE ETF uses blockchain and Bitcoin cycle metrics to optimize investment
-    \                                       VanEck’s Onchain Economy ETF ($NODE) offers
-    a unique approach to blockchain investment. It focuses on companies leveraging
-    blockchain for real-world applications, rather than tracking the price of cryptocurrencies
-    like Bitcoin (BTC) or Ether (ETH). Each company in the $NODE portfolio has either
-    blockchain central to its business model or future strategy. VanEck evaluates
-    firms based on their tangible progress and innovation. Companies in the ETF’s
-    portfolio may include sectors like fintech, supply chain, gaming and digital identity.To
-    manage market volatility, VanEck utilizes Bitcoin cycle indicators — metrics based
-    on historical BTC price patterns — to adjust the ETF’s risk exposure dynamically.
-    This approach helps optimize performance by aligning the portfolio with broader
-    market sentiment and crypto-economic cycles.By investing in $NODE, investors gain
-    exposure to the expanding influence of blockchain beyond speculative assets. This
-    helps investors capture the long-term growth potential of real-world blockchain
-    integration across industries. The ETF reflects a forward-looking strategy reflecting
-    how blockchain transforms the global economy.Did you know? Canada launched the
-    world’s first spot Bitcoin ETF – Purpose Bitcoin ETF (BTCC) – in February 2021.
-    It beat the US to market and sparked a wave of regulated crypto investment products
-    globally.                                                Difference between $NODE
-    and general equity ETFs                                        VanEck’s $NODE
-    ETF stands apart from general equity ETFs in strategy and focus. Unlike broad-market
-    funds that track indexes like the S&P 500 or FTSE 100, $NODE invests exclusively
-    in companies adopting and building blockchain technology.While general equity
-    ETFs typically use passive strategies, $NODE is actively managed. VanEck’s fund
-    managers handpick portfolio companies based on their real-world contributions
-    to the blockchain economy. A management fee supports this hands-on approach, allowing
-    the ETF to stay aligned with the fast-changing blockchain landscape.$NODE does
-    not hold Bitcoin or Ether. Instead, it uses Bitcoin cycle signals — like regular
-    “halving” events that cut new supply and long-term price trends — to decide when
-    to take more or less risk in its investments. This helps VanEck adjust the fund
-    as the crypto market changes, which can affect how much money flows into blockchain
-    projects, how many people start using them and overall market sentiment.By focusing
-    on blockchain’s real-world business use rather than cryptocurrency speculation,
-    $NODE offers investors a way to participate in the digital transformation of industries
-    worldwide. It’s a future-facing alternative to general equity ETF models.The following
-    table illustrates the difference between $NODE and general equity ETFs:                                                How
-    to buy $NODE                                        To buy VanEck’s Onchain Economy
-    ETF ($NODE), investors need a brokerage account that provides them access to the
-    Cboe BZX Exchange, where the ETF is listed. Once you have set up and funded the
-    account, search for the ticker symbol “NODE.” Review the ETF’s details, including
-    its management fee and investment strategy, before placing a buy order. $NODE
-    trades during regular market hours like any standard stock or ETF. As with any
-    investment, you should understand the fund’s objectives, holdings and risks beforehand
-    to ensure it aligns with your financial goals and risk tolerance.Did you know?
-    In January 2024, the US SEC approved multiple spot Bitcoin ETFs, including those
-    from BlackRock and Fidelity. This marked a significant regulatory milestone and
-    fueled billions in inflows within weeks.                                                $NODE:
-    Institutional interest and key risks amid regulatory shifts                                        VanEck’s
-    launch of the $NODE ETF comes amid rising institutional interest in crypto-linked
-    investments and a more supportive regulatory backdrop. Still, the fund carries
-    unique risks tied to the volatile crypto ecosystem.The launch aligns with positive
-    regulatory developments, such as the proposed US Strategic Bitcoin Reserve and
-    potential stablecoin legislation, signaling stronger institutional engagement.
-    $NODE aims to capture surging demand for crypto-equity exposure. A March 2025
-    survey showed that 68% of financial advisers now seek such options for their clients.Macro
-    trends are also favorable: Bitcoin’s market dominance rose to 62.2% in Q1 2025,
-    driven by institutional preference for regulated vehicles. Public companies collectively
-    added 100,000 BTC to their treasuries, underscoring corporate confidence in Bitcoin.
-    VanEck’s bullish outlook targets – $180,000 BTC and $520 Solana (SOL) by year-end
-    — further reflect sector momentum.However, $NODE is not immune to crypto-sector
-    risks. While it doesn’t hold cryptocurrencies directly, its portfolio is still
-    exposed to market volatility, Bitcoin price swings and potential tech stock corrections.
-    Regulatory setbacks may also affect the broader blockchain industry. Additionally,
-    its derivatives strategy, managed through a Cayman subsidiary, introduces counterparty
-    and liquidity risks.Investors should weigh these factors carefully, balancing
-    the fund’s compliance-driven structure and VanEck’s asset management reputation
-    against these sector-specific vulnerabilities.                    \n\n            "
-  published: 2025-05-08 13:00:00.000000000 +01:00
 - title: " Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug
     for 5 Years "
-  url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin%3Fhttps%3A%252F%252Fcointelegraph.com%252Frss%252Ftag%252Fbitcoin%3D&utm_campaign=rss_partner_inbound
+  url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "\nUpdate: the CTO of TradingView told Cointelegraph in comments that the
     reports of a bug were inaccurate, and the Twitter user partially withdrew his
     earlier claims that the tool was broken.\nPopular chart analysis service TradingView

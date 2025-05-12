@@ -1,125 +1,121 @@
 ---
-- title: Observations from people watching
-  url: https://skincontact.substack.com/p/21-observations-from-people-watching
+- title: Plain Vanilla Web
+  url: https://plainvanillaweb.com/index.html
   summary: Comments
-  published: 2025-05-10 22:32:01.000000000 +00:00
-- title: Sierpiński Triangle? In My Bitwise and?
-  url: https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise
+  published: 2025-05-11 16:31:58.000000000 +00:00
+- title: Custom SIM card in Tesla Model 3 2024, Tesla Model Y 2025 and Cybertruck
+  url: https://olegkutkov.me/2025/05/12/custom-sim-card-in-tesla-model-3-2024-tesla-model-y-2025-and-cybertruck/
   summary: Comments
-  published: 2025-05-10 21:42:55.000000000 +00:00
-- title: Fandom Sells Giant Bomb to Independent Creators
-  url: https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators
+  published: 2025-05-12 01:04:59.000000000 +00:00
+- title: Why Bell Labs Worked
+  url: https://1517.substack.com/p/why-bell-labs-worked
   summary: Comments
-  published: 2025-05-11 00:00:14.000000000 +00:00
-- title: 'Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants'
-  url: https://github.com/blackrabbit17/xenolab
+  published: 2025-05-11 20:47:20.000000000 +00:00
+- title: Car companies are in a billion-dollar software war
+  url: https://insideevs.com/features/759153/car-companies-software-companies/
   summary: Comments
-  published: 2025-05-10 20:58:27.000000000 +00:00
-- title: US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs
-    [pdf]
-  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf
+  published: 2025-05-11 17:51:04.000000000 +00:00
+- title: Scraperr – A Self Hosted Webscraper
+  url: https://github.com/jaypyles/Scraperr
   summary: Comments
-  published: 2025-05-10 14:15:56.000000000 +00:00
-- title: A critical look at MCP
-  url: https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp
+  published: 2025-05-11 18:29:18.000000000 +00:00
+- title: High-school shop students attract skilled-trades job offers
+  url: https://www.wsj.com/lifestyle/careers/skilled-trades-high-school-recruitment-fd9f8257
   summary: Comments
-  published: 2025-05-10 14:37:59.000000000 +00:00
-- title: For $595, you get what nobody else can give you for twice the price (1982)
-    [pdf]
-  url: https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf
+  published: 2025-05-11 15:31:39.000000000 +00:00
+- title: Title of work deciphered in sealed Herculaneum scroll via digital unwrapping
+  url: https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping
   summary: Comments
-  published: 2025-05-10 18:05:09.000000000 +00:00
-- title: Why the Apple II Didn't Support Lowercase Letters (2020)
-  url: https://www.vintagecomputing.com/index.php/archives/2833/why-the-apple-ii-didnt-support-lowercase-letters
+  published: 2025-05-11 14:02:03.000000000 +00:00
+- title: Burrito Now, Pay Later
+  url: https://enterprisevalue.substack.com/p/burrito-now-pay-later
   summary: Comments
-  published: 2025-05-10 21:15:04.000000000 +00:00
-- title: 'Pope Leo XIV: "AI poses new challenges re: human dignity, justice and labour"'
-  url: https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html
+  published: 2025-05-11 20:09:04.000000000 +00:00
+- title: LSP client in Clojure in 200 lines of code
+  url: https://vlaaad.github.io/lsp-client-in-200-lines-of-code
   summary: Comments
-  published: 2025-05-10 19:20:03.000000000 +00:00
-- title: Reverse engineering the 386 processor's prefetch queue circuitry
-  url: http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html
+  published: 2025-05-11 17:38:38.000000000 +00:00
+- title: Writing an LLM from scratch, part 13 – attention heads are dumb
+  url: https://www.gilesthomas.com/2025/05/llm-from-scratch-13-taking-stock-part-1-attention-heads-are-dumb
   summary: Comments
-  published: 2025-05-10 16:23:06.000000000 +00:00
-- title: 'Show HN: LoopMix128 – Fast C PRNG (.46ns), 2^128 Period, BigCrush/PractRand
-    Pass'
-  url: https://github.com/danielcota/LoopMix128
+  published: 2025-05-08 21:06:02.000000000 +00:00
+- title: Monitoring my Minecraft server with OpenTelemetry and Prometheus
+  url: https://www.dash0.com/blog/monitoring-minecraft-with-opentelemetry
   summary: Comments
-  published: 2025-05-10 21:25:21.000000000 +00:00
-- title: Comparison of C/POSIX standard library implementations for Linux
-  url: https://www.etalabs.net/compare_libcs.html
+  published: 2025-05-08 11:03:14.000000000 +00:00
+- title: Avoiding AI is hard – but our freedom to opt out must be protected
+  url: https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873
   summary: Comments
-  published: 2025-05-10 14:55:52.000000000 +00:00
-- title: Embracer Games Archive is preserving 75000 video games and needs contributions
-  url: https://embracergamesarchive.com/
+  published: 2025-05-12 00:09:48.000000000 +00:00
+- title: I hacked my clock to control my focus
+  url: https://www.paepper.com/blog/posts/how-i-hacked-my-clock-to-control-my-focus.md/
   summary: Comments
-  published: 2025-05-10 11:19:39.000000000 +00:00
-- title: Eagle Hunters of Kyrgyzstan
-  url: https://magazine.atavist.com/the-eagle-hunters-of-kyrgyzstan-world-nomad-games/
+  published: 2025-05-11 23:12:42.000000000 +00:00
+- title: One-Click RCE in Asus's Preinstalled Driver Software
+  url: https://mrbruh.com/asusdriverhub/
   summary: Comments
-  published: 2025-05-07 00:51:01.000000000 +00:00
-- title: The History and Legacy of Visual Basic
-  url: https://retool.com/visual-basic
+  published: 2025-05-11 05:11:18.000000000 +00:00
+- title: The most valuable commodity in the world is friction
+  url: https://kyla.substack.com/p/the-most-valuable-commodity-in-the
   summary: Comments
-  published: 2025-05-10 23:24:18.000000000 +00:00
-- title: Adventures in Imbalanced Learning and Class Weight
-  url: http://andersource.dev/2025/05/05/imbalanced-learning.html
+  published: 2025-05-09 01:45:16.000000000 +00:00
+- title: An online exhibition of pretty software bugs
+  url: https://glitchgallery.org/
   summary: Comments
-  published: 2025-05-08 13:41:23.000000000 +00:00
-- title: Arduino is at work to make bio-based PCBs
-  url: https://blog.arduino.cc/2025/04/22/arduino-is-at-work-to-make-bio-based-pcbs/
+  published: 2025-05-11 17:29:16.000000000 +00:00
+- title: I built a native Windows Todo app in pure C (278 KB, no frameworks)
+  url: https://github.com/Efeckc17/simple-todo-c
   summary: Comments
-  published: 2025-05-08 15:30:30.000000000 +00:00
-- title: 'Show HN: Code Claude Code'
-  url: https://github.com/RVCA212/codesys
+  published: 2025-05-11 15:57:39.000000000 +00:00
+- title: Absolute Zero Reasoner
+  url: https://andrewzh112.github.io/absolute-zero-reasoner/
   summary: Comments
-  published: 2025-05-10 14:47:12.000000000 +00:00
-- title: Microsoft Teams will soon block screen capture during meetings
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/
+  published: 2025-05-08 01:48:00.000000000 +00:00
+- title: Leaving Google
+  url: https://www.airs.com/blog/archives/670
   summary: Comments
-  published: 2025-05-10 19:39:57.000000000 +00:00
-- title: Adaptive Hashing
-  url: https://quotenil.com/adaptive-hashing.html
+  published: 2025-05-11 03:01:56.000000000 +00:00
+- title: 'ToyDB rewritten: a distributed SQL database in Rust, for education'
+  url: https://github.com/erikgrinaker/toydb
   summary: Comments
-  published: 2025-05-08 22:16:05.000000000 +00:00
-- title: Weave (YC W25) is hiring a founding engineer
-  url: https://www.ycombinator.com/companies/weave-3/jobs
+  published: 2025-05-11 19:49:09.000000000 +00:00
+- title: The Epochalypse Project
+  url: https://epochalypse-project.org/
   summary: Comments
-  published: 2025-05-10 17:00:39.000000000 +00:00
-- title: How much information is in DNA?
-  url: https://dynomight.substack.com/p/dna
+  published: 2025-05-11 10:08:53.000000000 +00:00
+- title: SDFs and the Fast sweeping algorithm in Jax
+  url: https://rohangautam.github.io/blog/fast_sweeping/fastsweeping/
   summary: Comments
-  published: 2025-05-08 17:42:33.000000000 +00:00
-- title: The State of SSL Stacks
-  url: https://www.haproxy.com/blog/state-of-ssl-stacks
+  published: 2025-05-08 09:32:57.000000000 +00:00
+- title: Synder (YC S21) Is Hiring
+  url: https://www.ycombinator.com/companies/synder/jobs/2Wnbc1f-business-development-representative
   summary: Comments
-  published: 2025-05-07 04:06:10.000000000 +00:00
-- title: 'Intel: Winning and Losing'
-  url: https://www.abortretry.fail/p/intel-winning-and-losing
+  published: 2025-05-11 17:00:00.000000000 +00:00
+- title: Lazarus Release 4.0
+  url: https://forum.lazarus.freepascal.org/index.php?topic=71050.0
   summary: Comments
-  published: 2025-05-10 11:19:39.000000000 +00:00
-- title: Ireland given two months to implement hate speech laws or face action from
-    EU
-  url: https://www.thejournal.ie/ireland-given-two-months-to-start-implementing-hate-speech-laws-6697853-May2025/
+  published: 2025-05-07 08:36:57.000000000 +00:00
+- title: Gonzalo Guerrero
+  url: https://en.wikipedia.org/wiki/Gonzalo_Guerrero
   summary: Comments
-  published: 2025-05-11 00:51:00.000000000 +00:00
-- title: React Three Ecosystem
-  url: https://www.react-three.org/
+  published: 2025-05-11 14:54:56.000000000 +00:00
+- title: Why not object capability languages?
+  url: https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682
   summary: Comments
-  published: 2025-05-10 13:02:55.000000000 +00:00
-- title: Not a three-year-old chimney sweep (2022)
-  url: https://fakehistoryhunter.net/2022/07/26/not-a-3-year-old-chimney-sweep/
+  published: 2025-05-11 18:57:07.000000000 +00:00
+- title: 'Ink and Algorithms: Techniques, tools and the craft of pen plotting'
+  url: https://penplotter.art/
   summary: Comments
-  published: 2025-05-10 06:58:15.000000000 +00:00
-- title: Detect and crash Chromium bots
-  url: https://blog.castle.io/detect-and-crash-chromium-bots-with-one-weird-trick-bots-hate-it/
+  published: 2025-05-08 08:14:38.000000000 +00:00
+- title: Klarna changes its AI tune and again recruits humans for customer service
+  url: https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/
   summary: Comments
-  published: 2025-05-07 15:01:46.000000000 +00:00
-- title: Building Local-First Flutter Apps with Riverpod, Drift, and PowerSync
-  url: https://dinkomarinac.dev/building-local-first-flutter-apps-with-riverpod-drift-and-powersync
+  published: 2025-05-11 17:35:22.000000000 +00:00
+- title: Booting the RP2350 from UART
+  url: https://pfister.dev/blog/2025/rp2350-uart-bl.html
   summary: Comments
-  published: 2025-05-06 20:48:41.000000000 +00:00
-- title: The Deathbed Fallacy (2018)
-  url: https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html
+  published: 2025-05-11 14:26:49.000000000 +00:00
+- title: A simple 16x16 dot animation from simple math rules
+  url: https://tixy.land
   summary: Comments
-  published: 2025-05-10 10:04:47.000000000 +00:00
+  published: 2025-05-10 02:56:38.000000000 +00:00
