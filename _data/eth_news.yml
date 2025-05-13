@@ -1,55 +1,365 @@
 ---
-- title: " Here’s what happened in crypto today "
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Today in crypto, White House announces trade deal with China, but no details
-    are announced, Ethereum’s Pectra has opened a new attack vector that could allow
-    hackers to drain funds using only an offchain signature, Bitcoin SV (BSV) investors
-    attempt to rekindle 2019 Binance lawsuit.White House claims trade deal reached
-    with China, but investors remain doubtfulThe White House announced progress toward
-    a trade deal with China. However, no official details of the purported trade deal
-    were aired alongside the announcement, casting doubt about the substance of the
-    agreement.According to an announcement from the White House, details of the supposed
-    trade deal will be revealed in a briefing on May 12. Treasury Secretary Scott
-    Bessent released this statement about the trade talks:\"I am happy to report that
-    we made substantial progress between the United States and China in the very important
-    trade talks. First, I want to thank our Swiss host. The Swiss government has been
-    very kind in providing us with this wonderful venue.\"While investors continue
-    to monitor the ongoing trade talks for any potential deal that could restore confidence
-    in financial markets, many market participants say the details of the agreement
-    may be underwhelming or lack any real substance that would establish a long-standing
-    trade deal between the two countries.US Treasury Secretary Scott Bessent tells
-    the media that the US-China trade talks were productive. Source: Fox NewsPectra
-    lets hackers drain wallets with just an offchain signatureEthereum’s latest network
-    upgrade, Pectra, introduced powerful new features aimed at improving scalability
-    and smart account functionality — but it also opened a dangerous new attack vector
-    that could allow hackers to drain funds from user wallets using only an offchain
-    signature.Under the Pectra upgrade, which went live on May 7 at epoch 364032,
-    attackers can exploit a new transaction type to take control of externally owned
-    accounts (EOAs) without requiring the user to sign an onchain transaction.Arda
-    Usman, a Solidity smart contract auditor, confirmed to Cointelegraph that “it
-    becomes possible for an attacker to drain an EOA’s funds using only an offchain
-    signed message (no direct onchain transaction signed by the user).”At the center
-    of the risk is EIP-7702, a core component of the Pectra upgrade. The Ethereum
-    Improvement Proposal introduces the SetCode transaction (type 0x04), which enables
-    users to delegate control of their wallet to another contract simply by signing
-    a message.If an attacker obtains this signature — say, via a phishing site — they
-    can overwrite the wallet’s code with a small proxy that forwards calls to their
-    malicious contract.Source: Vladimir S. | Officer's NotesBitcoin Satoshi's Vision
-    investors attempt to rekindle lawsuit against BinanceA group of Bitcoin Satoshi's
-    Vision (BSV) investors is attempting to rekindle a 2019 lawsuit against Binance,
-    alleging that the crypto exchange caused price damage to the altcoin by delisting
-    BSV in 2019.Attorneys for the plaintiffs argued that a previous ruling from the
-    United Kingdom Competition Appeal Tribunal, throwing out the claims of undue damage
-    from the delisting, should be examined again, according to legal outlet Law360.BSV
-    has experienced a long-term price decline since 2021. Source: TradingViewIf successful,
-    the litigants could demand up to 10 billion British pounds (GBP), or roughly $13
-    billion, in damages from the exchange.BSV continues to suffer from a multitude
-    of issues, including a long-term price decline, several 51% attacks that compromised
-    the blockchain network's security, and criticism from the crypto community.\n\n
+- title: " Price predictions 5/12: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI "
+  url: https://cointelegraph.com/news/price-predictions-5-12-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-sui?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Key points:Bitcoin price saw profit booking near $105,819, signaling that
+    bears remain active at higher levels.Select altcoins have continued to move higher,
+    indicating increased investor interest.  The SPX and the DXY are playing catch-up
+    to Bitcoin following the US-China trade deal.Bitcoin (BTC) has started the new
+    week on a cautious note, falling below $103,000, but the S&P 500 Index (SPX) and
+    the US Dollar Index (DXY) have risen sharply following the announcement of the
+    US-China trade agreement. One of the reasons could be that other assets are trying
+    to play catch up with Bitcoin, and the sharp rally in the US dollar may be acting
+    as headwinds for Bitcoin in the near term.Bitwise European Head of Research André
+    Dragosch said in a post on X that the firm’s proprietary indicator has reached
+    its highest level since 2024. Historically, high levels of the indicator have
+    resulted in a short-term correction or sideways price action.Crypto market data
+    daily view. Source: Coin360The short-term uncertainty has not stopped the long-term
+    bulls from adding more Bitcoin to their portfolio. Michael Saylor’s Strategy acquired
+    13,390 Bitcoin at an average price of $99,856 between May 5 and May 11. The latest
+    purchase has boosted the firm's haul to 568,840 Bitcoin.What are the crucial support
+    levels to watch out for in Bitcoin and altcoins? Let’s analyze the charts of the
+    top 10 cryptocurrencies to find out.S&P 500 Index price predictionThe S&P 500
+    Index gapped up sharply on May 12 and rose above the stiff overhead resistance
+    at 5,800.SPX daily chart. Source: Cointelegraph/TradingViewTime is running out
+    for the bears. If they want to prevent the upside, they will have to fiercely
+    defend the 5,800 level and quickly drag the price below the 20-day exponential
+    moving average (5,570). If they manage to do that, the index could start a deeper
+    correction toward 5,400.Instead, if the price closes above 5,800, the up move
+    may continue toward the 6,000 level. There could be a minor halt at 6,000, but
+    if the bulls prevail, the index could retest the all-time high at 6,147.US Dollar
+    Index price predictionThe US Dollar Index pierced the 20-day EMA (100.42) on May
+    8, indicating that the bears are losing their grip.DXY daily chart. Source: Cointelegraph/TradingViewSellers
+    tried to pull the price back below the 20-day EMA on May 9, but the bulls held
+    their ground. The index has reached the 50-day simple moving average (102.08),
+    which is expected to behave as a resistance. If the price turns down from the
+    50-day SMA but finds support at the 20-day EMA, it suggests a positive sentiment.
+    That increases the likelihood of a rally to 103.54 and thereafter to 104.68.Bitcoin
+    price predictionBitcoin has turned down from $105,819, indicating that the bears
+    are defending the $107,000 to $109,588 zone.BTC/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    first support on the downside is the $100,000 level, and below that, the 20-day
+    EMA ($97,238). If the price rebounds off the support zone, the bulls will again
+    try to kick the BTC/USDT pair above $109,588. If they can pull it off, the pair
+    could ascend to $130,000.Conversely, if the price turns down and breaks below
+    the 20-day EMA, it signals that buyers are booking profits at higher levels. That
+    opens the doors for a fall to $93,000 and then to the 50-day SMA ($89,302).Ether
+    price predictionEther (ETH) bulls are trying to sustain the price above $2,550,
+    but the bears have kept up the selling pressure.ETH/USDT daily chart. Source:
+    Cointelegraph/TradingViewIf the price skids below $2,435, the ETH/USDT pair may
+    fall to $2,320. If the price rebounds off $2,320, the bulls will try to resume
+    the up move. There is resistance at $2,850, but if it is crossed, the pair could
+    reach $3,000.Contrary to this assumption, if the price turns down and breaks below
+    $2,320, it suggests that the bulls are booking profits. The pair may drop to the
+    breakout level of $2,111, which is likely to act as support.XRP price predictionXRP
+    (XRP) broke above the resistance line on May 10, and the bulls successfully held
+    the retest of the breakout level on May 11.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThe
+    bulls have strengthened their position by pushing the price above the $2.50 resistance.
+    There is minor resistance at $2.65, but if the level is scaled, the rally could
+    reach $3. Such a move signals a potential trend change.Alternatively, if the price
+    turns down sharply from $2.65 and breaks below the 20-day EMA ($2.27), it signals
+    a possible range formation in the near term. The XRP/USDT pair could swing between
+    $2 and $2.65 for some time.BNB price predictionBNB (BNB) turned down from $679
+    on May 10 but rebounded off the breakout level of $644 on May 12.BNB/USDT daily
+    chart. Source: Cointelegraph/TradingViewBuyers tried to resume the up move, but
+    the long wick on the candlestick shows selling near the $700 level. If the price
+    stays above $644, the bulls will make another attempt to propel the BNB/USDT pair
+    to $745.Sellers will have to pull the price below $644 to weaken the bulls. The
+    pair could then fall to the 20-day EMA ($621). Buyers are expected to defend the
+    20-day EMA because a break below it could tilt the advantage in favor of the bears.Solana
+    price predictionSolana’s (SOL) up move has stalled near the $180 resistance, but
+    a positive sign is that the bulls have not given up much ground to the bears. SOL/USDT
+    daily chart. Source: Cointelegraph/TradingViewA shallow pullback increases the
+    possibility of the continuation of the rally. If buyers drive the price above
+    $180, the SOL/USDT pair could rally to $210.The immediate support on the downside
+    is at $168. If the price slides below $168, the pair could descend to the 20-day
+    EMA ($155). A solid rebound off the 20-day EMA suggests the bulls remain in control.
+    That increases the likelihood of a break above $180. Sellers will gain the upper
+    hand on a break below $153.Related: Bitcoin set for $150K BTC price rally as US,
+    China agree to slash tariffsDogecoin price predictionDogecoin (DOGE) turned down
+    from $0.26 on May 11, indicating profit booking by short-term buyers.DOGE/USDT
+    daily chart. Source: Cointelegraph/TradingViewThe bulls are expected to aggressively
+    defend the breakout level of $0.21. If the price rebounds off $0.21 with strength,
+    it signals that the bulls have flipped the level into support. The DOGE/USDT pair
+    could then climb to $0.31.On the contrary, a break and close below the $0.21 level
+    suggests that bears remain active at higher levels. The pair could then drop to
+    the moving averages, pointing to a possible range formation between $0.14 and
+    $0.26 in the near term.Cardano price predictionCardano (ADA) is facing resistance
+    near $0.86, but a positive sign is that the bulls have not ceded much ground to
+    the bears.ADA/USDT daily chart. Source: Cointelegraph/TradingViewThe 20-day EMA
+    ($0.72) has started to turn up, and the RSI is near the overbought area, indicating
+    an advantage to buyers. If the price rebounds off the neckline, the bulls will
+    try to propel the ADA/USDT pair above $0.856. If they can pull it off, the pair
+    could travel to the target objective of $1.01.If sellers want to prevent the upside,
+    they will have to swiftly yank the price below the moving averages. If they do
+    that, the pair could descend to the solid support at $0.58.Sui price predictionSui
+    (SUI) is facing selling at $4.25, but a positive sign is that the bulls have maintained
+    the price above the breakout level of $3.90.SUI/USDT daily chart. Source: Cointelegraph/TradingViewBoth
+    moving averages are sloping up, and the RSI is near the overbought zone, indicating
+    that the path of least resistance is to the upside. If buyers clear the $4.25
+    level, the SUI/USDT pair could soar to $5.The first sign of weakness will be a
+    break and close below the $3.90 level. That opens the doors for a fall to the
+    20-day EMA ($3.48). A bounce off the 20-day EMA signals that the positive momentum
+    remains intact. The bulls will then again try to clear the overhead hurdle at
+    $4.25. This article does not contain investment advice or recommendations. Every
+    investment and trading move involves risk, and readers should conduct their own
+    research when making a decision.\n\n            "
+  published: 2025-05-12 21:55:38.000000000 +01:00
+- title: " Bitcoin, altcoins poised to rally on US-China tariff agreement "
+  url: https://cointelegraph.com/news/us-china-tariff-truce-crypto-market-rally?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "A 90-day tariff agreement between the US and China may set the stage for
+    a broader recovery of stock and cryptocurrency markets, as investors look ahead
+    to a potential tax relief package.The White House announced on May 12 that the
+    two countries will reduce their respective tariffs to 10% for an initial 90-day
+    period beginning May 14 — a 24% cut from current levels.  Speaking at a news conference
+    in Geneva, US Treasury Secretary Scott Bessent said both governments are aligned
+    on avoiding further economic decoupling.  “The consensus from both delegations
+    is neither side wants to be decoupled,” Bessent said. “What has occurred with
+    these very high tariffs was an equivalent of an embargo, and neither side wants
+    that. We do want trade. We want more balance in trade.”Joint statement on US-China
+    meeting in Geneva. Source: The White HouseRelated: Bitcoin treasury firms driving
+    $200T hyperbitcoinization — Adam BackThe constructive tone of the negotiations,
+    along with the 90-day suspension of additional tariffs, removes the risk of “sudden
+    re-escalation,” which may help altcoins and traditional stock markets follow Bitcoin’s
+    (BTC) price recovery, according to Aurelie Barthere, principal research analyst
+    at crypto intelligence platform Nansen.“Bitcoin is already trading close to its
+    all-time highs,” Barthere told Cointelegraph. “However, with the latest easing
+    in trade tensions, it now appears that altcoins, US equities, and the US Dollar
+    Index (DXY) are well-positioned for a catch-up rally.”She noted that Bitcoin has
+    outperformed risk assets in recent months due to its insulation from tariff-related
+    risks.“I also expect the US dollar to perform strongly against prior safe-haven
+    currencies such as the euro, Swiss franc and Japanese yen, reflecting improved
+    global risk sentiment,” Barthere added.Nansen previously predicted a 70% chance
+    for crypto and stocks to find their bottom by June, with their price recovery
+    depending on the outcome of trade negotiations.Related: Bitcoin ETFs, gov’t adoption
+    to drive BTC to $1M by 2029: Finance RedefinedTax relief could amplify rallyBitcoin
+    is currently 4.8% away from recapturing its all-time high of over $109,800 recorded
+    in January 2025, Cointelegraph Markets Pro data shows.BTC/USD, 1-year chart. Source:
+    Cointelegraph“There is potential for risk assets to move beyond the January peak
+    levels if we see a generous tax cut package materialize,” Barthere told Cointelegraph,
+    adding:“This would need to go beyond merely extending the expiring tax cuts, and
+    include additional income tax reductions as well as corporate tax cuts on top.”She
+    noted that Bessent hinted such a package could be unveiled by mid-July, which
+    would act as a “significant additional catalyst” for the markets.  The constructive
+    trade negotiations, paired with emerging technical chart patterns, have spurred
+    analyst calls for a Bitcoin rally to $150,000, depending on the outcome of an
+    emerging bull flag pattern on the weekly chart.Magazine: Altcoin season to hit
+    in Q2? Mantra’s plan to win trust: Hodler’s Digest, April 13 – 19\n\n            "
+  published: 2025-05-12 14:30:41.000000000 +01:00
+- title: " DeGods NFT founder steps down as collection gains traction "
+  url: https://cointelegraph.com/news/degods-frank-steps-down-ceo-nft-sales-surge?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The creator of the non-fungible token (NFT) collection DeGods announced
+    that he has stepped down as the CEO of the project amid an uptick in sales. Rohun
+    Vora, known online as “Frank DeGods” on X, said he has stepped down as the project’s
+    CEO, concluding a three-year stint as the head of one of the most popular Solana-based
+    NFT collections. He identified pseudonymous figures 0x_chill and Pastagotsauce
+    as the new leaders of DeGods. “There are no investigations, because I have never
+    done anything illegal. That’s the boring truth,” Vora wrote, addressing speculation
+    about his departure.  The announcement came as the NFT collection started gaining
+    traction on the Ethereum and Solana blockchains. Source: FrankdegodsDeGods’ sales
+    are up 101% on SolanaData tracker CryptoSlam shows that in the last seven days,
+    DeGods NFTs have seen a significant increase in sales. On May 12, DeGods on Solana
+    recorded a sales volume of around $458,000, a 101% increase over the previous
+    week. In the last 30 days, the collection had a sales volume of $1.1 million for
+    its NFTs based on the Solana network. On Ethereum, the DeGods collection recorded
+    $104,000 in sales for the past week, a 156% growth over the previous seven days.
+    In the last 30 days, the collection recorded over $250,000 in sales, a 323% increase
+    in sales volumes. Following the announcement, new DeGods project lead Pasta shared
+    plans to release a tribute to the project’s three-year history and teased a shift
+    in strategy.Pasta also hinted that there will be changes in the project’s approach.
+    “Our job isn’t to build crypto products. It’s to make DeGods as big as it can
+    possibly be. That’s what you want. That’s what we want too. So that’s exactly
+    what we’re gonna do,” Pasta wrote. Source: PastagotsauceRelated: Doodles NFT sales
+    surge 97% ahead of DOOD token airdropNFT sales are up by 17% in the last seven
+    daysMeanwhile, the broader NFT market has also gained traction in the last seven
+    days. CryptoSlam data shows that from May 6 to 12, NFTs recorded a sales volume
+    of over $120 million, a 17% increase over the previous week. Magazine: Trump-Biden
+    bet led to obsession with ‘idiotic’ NFTs —Batsoupyum, NFT Collector\n\n            "
+  published: 2025-05-12 13:27:18.000000000 +01:00
+- title: " Crypto speculation dominates $600B cross-border payments: BIS report "
+  url: https://cointelegraph.com/news/crypto-speculation-dominates-600b-cross-border-payments-bis?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Hundreds of billions of dollars in cross-border cryptocurrency payments
+    flow globally, driven primarily by speculative investment, according to a recent
+    report by the Bank for International Settlements (BIS).The BIS study, published
+    May 8, found cross-border payments using the two largest cryptocurrencies, Bitcoin
+    (BTC) and Ether (ETH), and the two largest stablecoins, USDt (USDT) and USDC (USDC),
+    totaled about $600 billion during the second quarter of 2024, the final observation
+    period covered by the analysis.“Our findings highlight speculative motives and
+    global funding conditions as key drivers of native crypto asset flows,” the BIS
+    said.Cross-border crypto asset flows by quarter. Source: BISStill, the report
+    noted that stablecoins and low-value Bitcoin transactions are frequently driven
+    by practical use cases, particularly as alternatives to traditional remittances.
+    The researchers pointed out that geographical barriers have less influence on
+    cryptocurrency transactions compared with traditional financial systems.Related:
+    Spar supermarket in Switzerland starts accepting Bitcoin paymentsSpeculative crypto
+    activity remains tied to “global conditions for funding in major crypto markets,”
+    signaling a growing “interconnectedness” between cryptocurrencies and the legacy
+    financial system, the researchers said, adding:“Concurrently, we observe that
+    tighter global funding conditions, known to curtail risk-taking in traditional
+    asset classes, are associated with reduced flows. This indicates increasing interconnectedness
+    between cryptoassets as speculative assets and mainstream finance.”Additionally,
+    crypto-specific risks and heightened public awareness significantly influence
+    crypto investment flows, reinforcing their role as speculative assets, according
+    to the BIS.The findings were published nearly a month after the BIS warned that
+    the number of investors and amount of capital in crypto and decentralized finance
+    (DeFi) had “reached a critical mass,” posing a threat to financial stability and
+    global wealth inequality, Cointelegraph reported on April 19.Related: $400M Web3
+    investment fund ABCDE halts new investments, fundraisingStablecoin, low-value
+    Bitcoin payments fueled by fiat inflation, high transfer costsBeyond speculative
+    investment tools, stablecoins and Bitcoin are also used as a “transactional medium.”“Higher
+    opportunity costs of fiat currency usage, such as high inflation, spur bilateral
+    cross-border transactions in both unbacked cryptoassets and stablecoins,” the
+    BIS stated, adding:“Likewise, greater economic activity within both sender and
+    receiver countries is often linked to increased crypto flows in most cases.”High
+    remittance fees charged by traditional financial institutions further bolster
+    crypto adoption for international money transfers, especially from developed economies
+    to emerging markets, the report stated.Global USDT flow map. Source: BISThe US
+    and the UK accounted for a cumulative 20% of cross-border payments using Bitcoin
+    and USDC, and nearly 30% using ETH.As for USDT, Russia and Turkey accounted for
+    over 12% of the cross-border transactions using the world’s largest stablecoin.Magazine:
+    Uni students crypto ‘grooming’ scandal, 67K scammed by fake women: Asia Express\n\n
     \           "
-  published: 2025-05-11 22:43:24.000000000 +01:00
-- title: " Ethereum chart pattern supports &#039;moon shot&#039; rally to new price
-    highs if confirmed — Trader "
+  published: 2025-05-12 12:49:27.000000000 +01:00
+- title: " What is RISC-V, and why does Vitalik Buterin want it for Ethereum smart
+    contracts? "
+  url: https://cointelegraph.com/explained/what-is-risc-v-and-why-does-vitalik-buterin-want-it-for-ethereum-smart-contracts?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "                            What is RISC-V?                                        RISC-V,
+    pronounced “risk five,” is a modern open-source instruction set architecture (ISA)
+    based on reduced instruction set computer (RISC) principles. In simple terms,
+    it’s like a blueprint that defines a set of instructions that a processor can
+    execute.RISC-V is designed to be highly modular, efficient and flexible. Originally
+    developed by the University of California in 2010, the open-source framework gives
+    developers the flexibility to tailor its functionality and use cases, plus offers
+    cost savings compared to proprietary ISAs like ARM or x86. This offers a wide
+    range of uses, from supercomputers to smartphones and now blockchains like Ethereum.On
+    April 20, 2025, Ethereum co-founder Vitalik Buterin unveiled a “radical” new scaling
+    proposal to replace the Ethereum Virtual Machine (EVM) with the RISC-V instruction
+    set architecture, aiming to boost the speed and efficiency of the network’s execution
+    layer. The idea is that RISC-V is the best way to solve the blockchain’s scalability
+    constraints. “It aims to greatly improve the efficiency of the Ethereum execution
+    layer, resolving one of the primary scaling bottlenecks, and can also greatly
+    improve the execution layer’s simplicity - in fact, it is perhaps the only way
+    to do so.The idea: replace the EVM with RISC-V as the virtual machine language
+    that smart contracts are written in,” said Buterin.Ethereum continues to face
+    high transaction fees and reduced transaction volume as users shift to layer 2s
+    for cheaper, faster transactions. This aligns with Ethereum’s scaling strategy
+    post-Merge (2022). Buterin’s idea to reshape the chain is seen as a chance for
+    it to modernize and retain its dominance as a top smart contracting platform.Did
+    you know? Ethereum’s execution layer has become its main scalability bottleneck.
+    The inefficient processing of smart contracts and transactions due to single-threaded
+    execution, wasteful computational design and complex state management is causing
+    network congestion.                                                How would RISC-V
+    work on Ethereum?                                        Adding RISC-V to Ethereum
+    is still just a proposal being discussed by the community and network governance.
+    Buterin outlines several approaches to implement the proposal, including running
+    two virtual machines (VMs) or a complete switch to RISC-V.The first idea to support
+    VMs would enable contracts to be written and executed in either the existing EVM
+    model or RISC-V. Both contract types would have access to functionality such as
+    persistent storage, holding Ether (ETH) balances and making and receiving calls.
+    Adding to this, the contract could integrate so they can call one another. An
+    alternative approach, described as “more radical,” would modify the protocol to
+    convert existing EVM contracts. This would require rewriting current contracts
+    to interact with an EVM interpreter, while new contracts would be written directly
+    in RISC-V.A major challenge for such a drastic change is to avoid breaking existing
+    decentralized applications (DApps) and smart contracts. Ethereum can’t risk breaking
+    existing contracts written in the current EVM code. A transitional solution could
+    involve using an interpreter — essentially a translation layer between different
+    computing languages. This would allow developers to begin building with RISC-V
+    while ensuring legacy EVM contracts continue to function without disruption.Did
+    you know? In 2022, Ethereum made a leap forward in its energy efficiency and delivered
+    more scalability, security and sustainability. In a process dubbed “The Merge,”
+    the chain switched from a proof-of-work (PoW) consensus mechanism to proof-of-stake
+    (PoS). This involved merging the Ethereum mainnet with a separate PoS blockchain
+    called Beacon Chain.                                                Key benefits
+    of RISC-V vs. EVM                                        If RISC-V causes a major
+    shift in the Ethereum architecture, what will be the benefits of making this change?
+    In the long run, RISC-V would enhance the Ethereum smart contracts’ performance
+    and processing.According to Buterin, the new architecture could theoretically
+    deliver efficiency gains of 100x; in reality, this number will be hard to reach,
+    but gains would still be significant. The efficiency gains are tied to RISC-V’s
+    suitability for both zero-knowledge (ZK) proof systems and general smart contract
+    execution, as it eliminates EVM overhead.It’s less about replacing the EVM outright
+    and more about using RISC-V as a backend for zkEVM or similar ZK rollups, where
+    proving costs dominate. Scalability improvements would largely come from offloading
+    execution to ZK rollups, with RISC-V optimizing the proving process.RISC-V smart
+    contracts could run faster and use fewer computational resources. This increased
+    efficiency would likely translate to lower gas fees for the end users. In the
+    process, it would also enable the network to handle more users and transactions
+    without slowing down. That would be a direct improvement to the scalability of
+    Ethereum, potentially solving one of the biggest criticized points of the blockchain
+    industry. Additionally, RISC-V’s simple, flexible instruction set is better suited
+    for ZK-proof computations than the EVM, which incurs overhead from administrative
+    tasks like gas accounting and state management. Rather than rebuilding the EVM
+    for ZK-proofs, RISC-V offers a streamlined alternative, simplifying the development
+    of ZK-optimized execution layers. This could accelerate Ethereum’s roadmap for
+    privacy and scalability via ZK rollups, making RISC-V a compelling complement
+    to the EVM.Below is a comparison table summarizing the key differences and benefits
+    of RISC-V vs. the EVM.Did you know? Ethereum has gone through several major development
+    milestones over its first decade. Notably, in 2016, it conducted a hard fork to
+    roll back the chain after The DAO hack. The result is still noticeable today with
+    Ethereum and Ethereum Classic chains both in existence.                                                Will
+    RISC-V be implemented in the future?                                        Buterin’s
+    proposal has sparked a lively debate among Ethereum users and developers. It is
+    an ambitious idea that could be a milestone in the development roadmap for the
+    leading smart contract blockchain. Programmer Ben Adams raised several concerns
+    about the proposal: In short, the ZK-proof might become more efficient, but there
+    could be a trade-off. Block building and execution, which run the smart contracts,
+    could end up becoming significantly slower. “The risk here is that ZK-proving
+    may get better, but block building and execution will deteriorate significantly,”
+    commented Ben Adams.A sentiment that was echoed by another anonymous commenter,
+    “I agree with Ben Adams here, The EVM as a whole is very much U256 based, so abstracting
+    down to RISC-V would decrease overall execution performance.”Others appeared to
+    agree that RISC-V was a good idea to help reduce bottlenecks but questioned if
+    it was a priority, given the potential technical difficulty and cost. “Agree,
+    it seems like a good idea for the L1 that solves points 2 and 3 of the L1 bottlenecks.
+    But is this the set of priorities we want to solve for, especially given the scale
+    of technical cost here?” added Adam Cochran. It’s clear that the proposal still
+    needs clarity and further discussions within the Ethereum community. While the
+    promise is one of radical simplification that drives efficiency and speed, it
+    also introduces a complex technical change. It would require potentially years
+    of dedication to rethinking how the layer-1 blockchain works.Of course, as with
+    any decentralized project, the green light doesn’t just rely on technical planning;
+    it needs the consent of the community. So, currently, Buterin’s proposal has opened
+    a wide conversation about any impending development action.                    \n\n
+    \           "
+  published: 2025-05-12 12:18:00.000000000 +01:00
+- title: " Ethereum flips Coca-Cola and Alibaba as ETH gains 42% in 5 days "
+  url: https://cointelegraph.com/news/ether-market-cap-surges-past-coca-cola-alibaba-pectra-upgrade?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether’s market capitalization surged 42% in five days following the successful
+    launch of Ethereum’s Pectra upgrade on its mainnet. On May 12, the company data
+    tracker 8marketcap showed Ether (ETH) surpassing Coca-Cola and Alibaba, ranking
+    as the world’s 39th-largest asset by market capitalization. ETH was trading at
+    about $2,550 at publication time, with a market cap exceeding $308 billion. By
+    comparison, Coca-Cola stock trades at around $70, giving it a market cap of $303.5
+    billion. Alibaba stock trades at about $125, with a market capitalization of $303.7
+    billion. ETH’s recent price action comes on the heels of a network upgrade that
+    improved the storage of layer-2 scaling data, validator user experience and smart
+    account wallet user experience features. Ether surpasses Coca-Cola and Alibaba
+    in market capitalization. Source: 8marketcapEthereum implements Pectra upgrade
+    on mainnetOriginally scheduled for March 2025, Pectra faced delays after technical
+    challenges arose during testing.On Feb. 24, the upgrade was deployed on Ethereum’s
+    Holesky testnet. Following the deployment, the upgrade failed to finalize on the
+    network, leading the developers to investigate and address the issues. On March
+    5, Pectra was rolled out to the Sepolia testnet, but developers encountered errors
+    made worse by an attacker who caused the mining of empty blocks. To further prepare
+    for the deployment, Ethereum core developers created a new testnet called “Hoodi”
+    before finally deploying the upgrade to the mainnet on May 7. With the upgrade,
+    externally owned accounts (EOAs) can act as smart contracts to cover gas fees
+    and payments using tokens that are not ETH. In addition, validator staking limits
+    were increased to 2,048 ETH from 32 ETH, simplifying operations for large stakers.
+    The upgrade also increased the number of data blobs per block, allowing better
+    scalability for layer-2 networks.Since the upgrade, ETH’s price has escalated.
+    On May 7, Ether traded at about $1,786, according to CoinGecko. On May 12, Ether
+    went as high as $2,550, representing a 42% increase in value. Ether’s seven-day
+    price chart. Source: CoinGeckoRelated: Vitalik Buterin outlines vision as Ethereum
+    ecosystem addresses hit new highSecurity professionals warn of risks post Pectra
+    upgradeStill, the upgrade introduced security risks. Post upgrade, cybersecurity
+    experts have warned that attackers could exploit a new transaction type to control
+    EOAs without users signing onchain transactions. Solidity smart contract auditor
+    Arda Usman previously cautioned in comments to Cointelegraph that these vulnerabilities
+    may allow attackers to drain funds through offchain signed messages.Magazine:
+    12 minutes of nail-biting tension when Ethereum’s Pectra fork goes live\n\n            "
+  published: 2025-05-12 10:16:48.000000000 +01:00
+- title: " Ethereum chart pattern supports ‘moon shot’ rally to new price highs if
+    confirmed — Trader "
   url: https://cointelegraph.com/news/ethereum-chart-pattern-supports-moon-shot-rally-to-new-price-highs-if-confirmed-trader?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Key Takeaways:Veteran trader Peter Brandt suggests a potential Ethereum
     rally to $3,800–$4,800 if ETH breaks above a rising wedge pattern.A short-term
@@ -259,60 +569,61 @@
     sign an onchain transaction.Arda Usman, a Solidity smart contract auditor, confirmed
     to Cointelegraph that “it becomes possible for an attacker to drain an EOA’s funds
     using only an offchain signed message (no direct onchain transaction signed by
-    the user).”At the center of the risk is EIP-7702, a core component of the Pectra
-    upgrade. The Ethereum Improvement Proposal introduces the SetCode transaction
-    (type 0x04), which enables users to delegate control of their wallet to another
-    contract simply by signing a message.If an attacker obtains this signature — say,
-    via a phishing site — they can overwrite the wallet’s code with a small proxy
-    that forwards calls to their malicious contract.“Once the code is set,” Usman
-    explained, “the attacker can invoke that code to transfer out the account’s ETH
-    or tokens—all without the user ever signing a normal transfer transaction.”Source:
-    Vladimir S. | Officer's NotesRelated: Ethereum Pectra upgrade adds new featuresWallets
-    can be altered with offchain signatureYehor Rudytsia, onchain researcher at Hacken,
-    noted that this new transaction type introduced by Pectra allows arbitrary code
-    to be installed on the user’s account, essentially turning their wallet into a
-    programmable smart contract.“This tx type allows the user to set arbitrary code
-    (smart contract) to be able to execute operations on the user’s behalf,” Rudytsia
-    said.Before Pectra, wallets could not be modified without a transaction signed
-    directly by the user. Now, a simple offchain signature can install code that delegates
-    complete control to an attacker’s contract.“Pre-Pectra, users needed to send transaction
-    (not sign message) to allow their funds to be moved… Post-Pectra, any operation
-    may be executed from the contract which user approved via SET_CODE,” Rudytsia
-    explained.The threat is real and immediate. “Pectra activated May 7, 2025. From
-    that moment, any valid delegation signature is actionable,” Usman warned. He added
-    that smart contracts relying on outdated assumptions, such as using tx.origin
-    or basic EOA-only checks, are particularly vulnerable.Wallets and interfaces that
-    fail to detect or properly represent these new transaction types are most at risk.
-    Rudytsia warned that “wallets are vulnerable if they do not analyze Ethereum’s
-    transaction types,” especially transaction type 0x04.He emphasized that wallet
-    engines must clearly display delegation requests and flag any suspicious addresses.This
-    new form of attack can be easily executed through common offchain interactions
-    like phishing emails, fake DApps, or Discord scams.“We believe it will be the
-    most popular attack vector regarding these breaking changes introduced by Pectra,”
-    Rudytsia said. “From now on, users have to carefully validate what they are going
-    to sign.”Source: NoirRelated: Pectra features already in use: Ethereum EIP-7702
-    wallets roll outHardware wallets are not safer anymoreHardware wallets are no
-    longer inherently safer, Rudytsia said. He added that hardware wallets from now
-    on are at the same risk as hot wallets from the perspective of signing malicious
-    messages. “If done—all the funds are gone in a moment.”There are ways to stay
-    safe, but they require awareness. “Users should not sign the messages they do
-    not understand,” Rudytsia advised. He also urged wallet developers to provide
-    clear warnings when users are asked to sign a delegation message.Special caution
-    should be taken with new delegation signature formats introduced by EIP-7702,
-    which are not compatible with existing EIP-191 or EIP-712 standards. These messages
-    often appear as simple 32-byte hashes and may bypass normal wallet warnings.“If
-    a message includes your account nonce, it’s probably affecting your account directly,”
-    Usman warned. “Normal sign-in messages or offchain commitments don’t usually involve
-    your nonce.”Adding to the risk, EIP-7702 allows for signatures with chain_id =
-    0, meaning the signed message can be replayed on any Ethereum-compatible chain.
-    “Understand it can be used anywhere,” Usman said.While multisignature wallets
-    remain more secure under this upgrade, thanks to their requirement for multiple
-    signers, single-key wallets — hardware or otherwise — must adopt new signature
-    parsing and red-flagging tools to prevent potential exploitation.Alongside EIP-7702,
-    Pectra also included EIP-7251, which raised Ethereum’s validator staking limit
-    from 32 to 2,048 ETH, and EIP-7691, which increases the number of data blobs per
-    block for better layer-2 scalability.Magazine: Bitcoin eyes ‘crazy numbers,’ JD
-    Vance set for Bitcoin talk: Hodler’s Digest, May 4 – 10\n\n            "
+    the user).”At the center of the risk is Ethereum Improvement Proposal (EIP)-7702,
+    a core component of the Pectra upgrade. The Ethereum Improvement Proposal introduces
+    the SetCode transaction (type 0x04), which enables users to delegate control of
+    their wallet to another contract simply by signing a message.If an attacker obtains
+    this signature — say, via a phishing site — they can overwrite the wallet’s code
+    with a small proxy that forward calls to their malicious contract.“Once the code
+    is set,” Usman explained, “the attacker can invoke that code to transfer out the
+    account’s ETH or tokens — all without the user ever signing a normal transfer
+    transaction.”Source: Vladimir S. | Officer's NotesRelated: Ethereum Pectra upgrade
+    adds new featuresWallets can be altered with offchain signatureYehor Rudytsia,
+    onchain researcher at Hacken, noted that this new transaction type introduced
+    by Pectra allows arbitrary code to be installed on the user’s account, essentially
+    turning their wallet into a programmable smart contract.“This tx type allows the
+    user to set arbitrary code (smart contract) to be able to execute operations on
+    the user’s behalf,” Rudytsia said.Before Pectra, wallets could not be modified
+    without a transaction signed directly by the user. Now, a simple offchain signature
+    can install code that delegates complete control to an attacker’s contract.“Pre-Pectra,
+    users needed to send transaction (not sign message) to allow their funds to be
+    moved… Post-Pectra, any operation may be executed from the contract which user
+    approved via SET_CODE,” Rudytsia explained.The threat is real and immediate. “Pectra
+    activated May 7, 2025. From that moment, any valid delegation signature is actionable,”
+    Usman warned. He added that smart contracts relying on outdated assumptions, such
+    as using tx.origin or basic EOA-only checks, are particularly vulnerable.Wallets
+    and interfaces that fail to detect or properly represent these new transaction
+    types are most at risk. Rudytsia warned that “wallets are vulnerable if they do
+    not analyze Ethereum’s transaction types,” especially transaction type 0x04.He
+    emphasized that wallet engines must clearly display delegation requests and flag
+    any suspicious addresses.This new form of attack can be easily executed through
+    common offchain interactions like phishing emails, fake decentralized applications
+    or Discord scams.“We believe it will be the most popular attack vector regarding
+    these breaking changes introduced by Pectra,” Rudytsia said. “From now on, users
+    have to carefully validate what they are going to sign.”Source: NoirRelated: Pectra
+    features already in use: Ethereum EIP-7702 wallets roll outHardware wallets are
+    not safer anymoreHardware wallets are no longer inherently safer, Rudytsia said.
+    He added that hardware wallets from now on are at the same risk as hot wallets
+    from the perspective of signing malicious messages. “If done, all the funds are
+    gone in a moment.”There are ways to stay safe, but they require awareness. “Users
+    should not sign the messages they do not understand,” Rudytsia advised. He also
+    urged wallet developers to provide clear warnings when users are asked to sign
+    a delegation message.Special caution should be taken with new delegation signature
+    formats introduced by EIP-7702, which are not compatible with existing EIP-191
+    or EIP-712 standards. These messages often appear as simple 32-byte hashes and
+    may bypass normal wallet warnings.“If a message includes your account nonce, it’s
+    probably affecting your account directly,” Usman warned. “Normal sign-in messages
+    or offchain commitments don’t usually involve your nonce.”Adding to the risk,
+    EIP-7702 allows for signatures with chain_id = 0, meaning the signed message can
+    be replayed on any Ethereum-compatible chain. “Understand it can be used anywhere,”
+    Usman said.While multisignature wallets remain more secure under this upgrade,
+    thanks to their requirement for multiple signers, single-key wallets — hardware
+    or otherwise — must adopt new signature parsing and red-flagging tools to prevent
+    potential exploitation.Alongside EIP-7702, Pectra also included EIP-7251, which
+    raised Ethereum’s validator staking limit from 32 to 2,048 ETH, and EIP-7691,
+    which increases the number of data blobs per block for better layer-2 scalability.Magazine: Bitcoin
+    eyes ‘crazy numbers,’ JD Vance set for Bitcoin talk: Hodler’s Digest, May 4 –
+    10\n\n            "
   published: 2025-05-11 14:10:42.000000000 +01:00
 - title: " Why is Ethereum (ETH) price up today? "
   url: https://cointelegraph.com/news/why-is-ethereum-eth-price-up-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -1585,328 +1896,3 @@
     architecture wasn’t originally designed for sovereign execution environments.Magazine:
     What are native rollups? Full guide to Ethereum’s latest innovation\n\n            "
   published: 2025-05-05 10:00:28.000000000 +01:00
-- title: " Ethereum nears key Bitcoin price level that last time sparked 450% gains "
-  url: https://cointelegraph.com/news/ethereum-nears-key-bitcoin-price-level-last-time-450-gains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum’s Ether (ETH) token is approaching a critical price zone against
-    Bitcoin (BTC), which historically marked the beginning of a massive rebound.ETH
-    price fractal from 2019 hints at bottom The ETH/BTC pair, currently trading near
-    0.019 BTC, is edging closer to 0.016 BTC — the exact level it reached in September
-    2019 before rallying nearly 450% over the following year.ETH/BTC weekly performance
-    chart. Source: TradingViewThe current ETH/BTC setup resembles 2019, with both
-    periods marked by oversold relative strength index (RSI), long stretches below
-    key moving averages, and multiyear declines.In 2019, ETH/BTC fell over 90% in
-    the prior two years, driven by the ICO collapse. As of 2025, the pair is down
-    over 80% from its 2021 peak, weighed by skepticism over Ethereum’s switch to proof-of-stake
-    (PoS), rising competition, and Bitcoin’s growing dominance as an institutional
-    asset.In response to the growing concerns, Ethereum co-founder Vitalik Buterin
-    has proposed new architecture and protocol-wide standards to make Ethereum simpler,
-    faster, and as maintainable as Bitcoin within five years. Related: Ethereum to
-    simplify crosschain transactions with new token standardsOne analyst called Buterin’s
-    proposal “the most bullish thing for ETH.”The bullish hopes come as ETH/BTC attempts
-    to break free from its multi-year “bearish parabola.” This resistance curve has
-    been instrumental in limiting the pair’s upside attempts since December 2021 but
-    showed signs of exhaustion as of May 3.Edit the caption here or remove the text“We
-    might see an end of this bearish parabola,” wrote chartist Jimie.He noted that
-    if the curved resistance holds, ETH/BTC could drop toward 0.016 BTC — the same
-    level where it bottomed in September 2019 before rallying by roughly 450%.Flush
-    ETH and buy Bitcoin, says Adam BackSkeptics like Bitcoin’s proof-of-work pioneer, Adam
-    Back, argue that Buterin is overlooking deeper design flaws while proposing to
-    simplify Ethereum in the coming years. Back criticizes Ethereum’s account-based
-    system, saying it adds unnecessary complexity compared to Bitcoin’s simpler UTXO
-    (unspent transaction output) model. He argues this growing complexity increases
-    technical risks and makes Ethereum harder to scale and secure.Source: X/Adam BackHe
-    also warns that Ethereum’s shift to PoS has concentrated power among insiders
-    by redirecting miner rewards to large tokenholders.“At this point, just flush
-    ETH before it hits zero and buy Bitcoin,” he wrote, suggesting no upgrade can
-    fix what he views as Ethereum’s flawed foundation.This article does not contain
-    investment advice or recommendations. Every investment and trading move involves
-    risk, and readers should conduct their own research when making a decision.\n\n
-    \           "
-  published: 2025-05-03 18:45:00.000000000 +01:00
-- title: " Vitalik wants to make Ethereum ‘as simple as Bitcoin’ in 5 years "
-  url: https://cointelegraph.com/news/vitalikbuterin-ethereum-simplification-bitcoin-inspired-redesign?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum co-founder Vitalik Buterin called for simplifying Ethereum’s
-    base protocol, aiming to make the network more efficient, secure and accessible,
-    drawing inspiration from Bitcoin’s minimalist design.In a blog post titled “Simplifying
-    the L1,” published on May 3, Buterin laid out a vision to restructure Ethereum’s
-    architecture across consensus, execution and shared components.“This post will
-    describe how Ethereum 5 years from now can become close to as simple as Bitcoin,”
-    Buterin wrote, arguing that simplicity is key to Ethereum’s resilience and long-term
-    scalability.While recent upgrades like proof-of-stake (PoS) and Zero-Knowledge
-    Succinct Non-Interactive Argument of Knowledge (zk-SNARK) integration have made
-    Ethereum more robust, he said that technical complexity has led to bloated development
-    cycles, higher costs and greater risks of bugs:“Historically, Ethereum has often
-    not done this (sometimes because of my own decisions), and this has contributed
-    to much of our excessive development expenditure, all kinds of security risk,
-    and insularity of R&D culture, often in pursuit of benefits that have proven illusory.”Buterin
-    praises Bitcoin for its simplicity. Source: Vitalik ButerinRelated: ‘Vitalik:
-    An Ethereum Story’ is less about crypto and more about being humanEthereum eyes
-    “3-Slot Finality” to simplify consensusOne key area of focus is Ethereum’s consensus
-    layer. Central to this effort is the proposed “3-slot finality” model, which eliminates
-    complex components like epochs, sync committees and validator shuffling.“The reduced
-    number of active validators at a time means that it becomes safer to use simpler
-    implementations of the fork choice rule,” Buterin wrote.Other proposed improvements
-    include allowing for more straightforward fork choice rules and adopting Scalable
-    Transparent Argument of Knowledge (STARK)-based aggregation protocols to decentralize
-    and simplify network coordination.On the execution layer, Buterin proposed a shift
-    from the Ethereum Virtual Machine (EVM) to a simpler, ZK-friendly virtual machine
-    like RISC-V. This move could offer 100x performance improvements for zero-knowledge
-    proofs and significantly simplify the protocol.RISC-V is an open-source instruction
-    set architecture (ISA) used in designing computer processors. It follows a minimalist
-    design philosophy, using a small set of simple instructions for high efficiency
-    and easier implementation.To preserve backward compatibility, Buterin suggested
-    running legacy EVM contracts onchain via a RISC-V interpreter while supporting
-    both VMs concurrently during a transitional phase.Source: Vitalik ButerinRelated:
-    Ethereum community members propose new fee structure for the app layerButerin
-    calls for protocol-wide standardsButerin also advocated for protocol-wide standardization.
-    He suggested adopting a single erasure coding method, serialization format (favoring
-    SSZ), and tree structure to reduce redundant complexity and streamline Ethereum’s
-    tooling and infrastructure.“Simplicity is in many ways similar to decentralization,”
-    Buterin wrote. He suggested Ethereum adopt a “max line-of-code” target similar
-    to what Tinygrad does, keeping consensus-critical logic as lean and auditable
-    as possible.Non-critical legacy features would remain but reside outside the core
-    specification.Buterin’s proposal aimed at simplifying Ethereum comes as the network
-    continues to lose market share to competing blockchains.During a panel discussion
-    at the LONGITUDE by Cointelegraph event on May 2, Alex Svanevik, CEO of data service
-    Nansen, said Ethereum’s relative dominance among L1 blockchain networks has declined.“If
-    you’d asked me 3–4 years ago whether Ethereum would dominate crypto, I’d have
-    said yes,” Svanevik said during a panel discussion at the LONGITUDE by Cointelegraph
-    event. “But now, it’s clear that’s not what’s happening.”Magazine: ZK-proofs are
-    bringing smart contracts to Bitcoin — BitcoinOS and Starknet\n\n            "
-  published: 2025-05-03 09:30:15.000000000 +01:00
-- title: " Ethereum’s era of crypto dominance is over — LONGITUDE panel "
-  url: https://cointelegraph.com/news/ethereum-no-longer-on-track-to-dominate-crypto-nansen-ceo?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum’s relative dominance among layer-1 (L1) blockchain networks has
-    declined, resulting in an “open race” to become the leading Web3 platform, according
-    to Alex Svanevik, CEO of data service Nansen.“If you’d asked me 3–4 years ago
-    whether Ethereum would dominate crypto, I’d have said yes,” Svanevik said during
-    a panel discussion at the LONGITUDE by Cointelegraph event. “But now, it’s clear
-    that’s not what’s happening.”Ethereum is still the most popular L1 network. According
-    to data from DefiLlama, its roughly $52 billion in total value locked (TVL) represents
-    51% of cryptocurrency residing on blockchain networks.However, Ethereum’s dominance
-    has diminished sharply since 2021, when the L1 controlled as much as 96% of aggregate
-    TVL, the data shows. Panelists at the LONGITUDE by Cointelegraph event in Dubai.
-    Source: Cointelegraph“It’s an open race between multiple L1s for becoming the
-    go-to platform for trading and broader blockchain use,” Svanevik said.“We’re seeing
-    smaller chains grow extremely fast, and a group of five or six chains emerging
-    as leaders. It’s an exciting time,” he said.Cointelegraph’s LONGITUDE is an event
-    series that brings together leaders and innovators from the blockchain and Web3
-    space for exclusive discussions.TVL distribution among blockchain networks. Source:
-    DeFiLlamaRise of SolanaSolana (SOL), an alternative layer-1 known for faster transactions
-    and lower fees than Ethereum, is in pole position to become Web3’s next leading
-    chain, according to the Nansen CEO. “Solana has overtaken Ethereum on most onchain
-    metrics — active addresses, transaction volume, even gas fees,” Svanevik said.
-    “Ethereum still leads in TVL, and stablecoin issuance is still strong, but Solana’s
-    growth is undeniable.”Meanwhile, dozens of smaller L1s are also vying for market
-    share — and not all of them are gaining sustainable traction, Vardan Khachatryan,
-    chief legal officer of trading platform Fastex, told Cointelegraph during the
-    panel. \"Unfortunately, what we see in reality is that chains become popular when
-    they are the hype of that particular bull run, new coins, airdrops, etc., rather
-    than sustained adoption,” Khachatryan said.Magazine: ZK-proofs are bringing smart
-    contracts to Bitcoin — BitcoinOS and Starknet\n\n            "
-  published: 2025-05-02 21:39:57.000000000 +01:00
-- title: " Bitcoin ETFs, gov’t adoption to drive BTC to $1M by 2029: Finance Redefined "
-  url: https://cointelegraph.com/news/bitcoin-etfs-gov-t-adoption-btc-1-m-by-2029-finance-redefined?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The cryptocurrency market continued its recovery in the past week as the
-    total crypto market capitalization breached the $3 trillion mark for the first
-    time since the beginning of March.Bitcoin (BTC) rose to an over two-month high
-    of $97,300 last seen at the end of February, before the “Liberation Day” tariffs
-    announcement in the US, bolstering analyst predictions for a rally driven by “structural”
-    institutional and exchange-traded fund (ETF) inflows into the world’s first cryptocurrency.Risk
-    appetite continued rising among crypto investors, as Chinese state-linked news
-    outlets indicated that the Trump administration has quietly contacted Beijing
-    to discuss tariff reductions.Total crypto market cap, 1-year chart. Source: CoinMarketCapIn
-    the wider crypto space, Ethereum developers proposed a new token standard to improve
-    the interoperability of the world’s second-largest blockchain network.Bitcoin
-    to $1 million by 2029 fueled by ETF and gov’t demand — Bitwise execBitcoin’s expanding
-    institutional adoption may provide the “structural” inflows necessary to surpass
-    gold’s market capitalization and push its price beyond $1 million by 2029, according
-    to Bitwise’s head of European research, André Dragosch.“Our in-house prediction
-    is $1 million by 2029. So that Bitcoin will match gold's market cap and total
-    addressable market by 2029,” he told Cointelegraph during the Chain Reaction daily
-    X spaces show on April 30.Gold is currently the world’s largest asset, valued
-    at over $21.7 trillion. In comparison, Bitcoin’s market capitalization sits at
-    $1.9 trillion, making it the seventh-largest asset globally, according to CompaniesMarketCap
-    data.Top 10 global assets by market capitalization. Source: CompaniesMarketCapFor
-    the 2025 market cycle, Bitcoin may surpass $200,000 in the “base case” and $500,000
-    with more governmental adoption, Dragosch said.Continue readingEric Trump: USD1
-    will be used for $2 billion MGX investment in BinanceAbu Dhabi-based investment
-    firm MGX will use a stablecoin linked to US President Donald Trump’s family to
-    settle a $2 billion investment in Binance, the world’s largest cryptocurrency
-    exchange.The World Liberty Financial USD (USD1) US dollar-pegged stablecoin was
-    launched by the Trump-associated crypto platform World Liberty Financial (WLFI)
-    in March 2025.MGX will use the USD1 stablecoin for its $2 billion investment in
-    the Binance exchange, according to an announcement by Eric Trump during a panel
-    discussion at Token2049 in Dubai. Trump, the son of the president, serves as executive
-    vice president of the Trump Organization.Source: CointelegraphMGX announced its
-    investment in Binance on March 12, marking the first institutional investment
-    in the exchange and one of the biggest funding deals in the entire Web3 industry.At
-    the time, Binance declined Cointelegraph’s request to disclose what stablecoin
-    was used in the transaction.  This marks the Abu Dhabi-based investment firm’s
-    first venture into the cryptocurrency space.Continue readingEthereum to simplify
-    crosschain transactions with new token standardsEthereum developers are working
-    to improve blockchain interoperability with two new token standards: ERC-7930
-    and ERC-7828.“There’s no standard way for wallets, apps, or protocols to interpret
-    or display this information,” decentralized finance (DeFi) ecosystem development
-    organization Wonderland wrote in a May 1 X post. Wallets, decentralized applications
-    (DApps), block explorers and smart contracts follow different rules.“The result?
-    A messy, inconsistent experience that breaks crosschain UX,“ Wonderland stated.Wonderland
-    is a group of developers, researchers and data scientists focused on improving
-    the Ethereum DeFi ecosystem. The organization partnered with multiple DeFi protocols,
-    including Optimism, Aztec, Connext and Yearn.Wonderland’s ERC-7828 and ERC-7930
-    explanation post. Source: WonderlandIn the post, the organization shared what
-    was discussed at a recent Ethereum Foundation interoperability working group call.
-    Teddy from Wonderland explained that the current goal is to finalize both token
-    standards within the next two weeks. He added:“We badly need feedback on the ETH-Magicians
-    forum.”Continue readingCrypto hackers hit DeFi for $92 million in April as attacks
-    double from MarchCryptocurrency hackers stole more than $90 million in April,
-    dealing another blow to the industry’s mainstream reputation despite ongoing efforts
-    to improve cybersecurity.Hackers made off with $92 million of digital assets across
-    15 incidents in April, according to an April 30 research report by blockchain
-    cybersecurity firm Immunefi.The total marks a 124% month-over-month increase from
-    March, when hackers stole $41 million.Crypto stole in April 2025. Source: ImmunefiThe
-    month’s largest hack on open-source platform UPCX accounted for most of the damage
-    in April, with over $70 million in losses, while KiloEx lost $7.5 million as April’s
-    second-largest hack.The KiloEx exploiter returned the stolen funds just days after
-    the attack occurred.All of April’s reported attacks targeted decentralized finance
-    (DeFi) platforms. Centralized exchanges reported no incidents during the month,
-    the report noted.Top 10 losses in April. Source: ImmunefiImmunefi, which says
-    it helps protect $190 billion in user funds, has paid more than $116 million in
-    bounties to white hat hackers.Continue readingCrypto group asks Trump to end prosecution
-    of crypto devs, Roman StormThe crypto lobby group, the DeFi Education Fund, has
-    petitioned the Trump administration to end what it claimed was the “lawless prosecution”
-    of open-source software developers, including Roman Storm, a creator of the crypto
-    mixing service Tornado Cash.In an April 28 letter to White House crypto czar David
-    Sacks, the group urged President Donald Trump “to take immediate action to discontinue
-    the Biden-era Department of Justice's lawless campaign to criminalize open-source
-    software development.” The letter specifically mentioned the prosecution of Storm,
-    who was charged in August 2023 with helping launder over $1 billion in crypto
-    through Tornado Cash. His trial is still set for July, and his fellow charged
-    co-founder, Roman Semenov, is at large and believed to be in Russia.The DeFi Education
-    Fund said that in Storm’s case, the Department of Justice is attempting to hold
-    software developers criminally liable for how others use their code, which is
-    “not only absurd in principle, but it sets a precedent that potentially chills
-    all crypto development in the United States.”The group also called for the recognition
-    that the prosecution contradicts the Treasury Department’s Financial Crimes Enforcement
-    Network (FinCEN) guidance from Trump’s first term, which established that developers
-    of self-custodial, peer-to-peer protocols are not money transmitters. Source:
-    DeFi Education Fund“This kind of legal environment does not just chill innovation
-    — it freezes it,” they argued. The letter added that it also “empowers politically-motivated
-    enforcement and puts every open-source developer at risk, regardless of industry.”In
-    January, a federal court in Texas ruled that the Treasury overstepped its authority
-    by sanctioning Tornado Cash. Continue readingDeFi market overviewAccording to
-    data from Cointelegraph Markets Pro and TradingView, most of the 100 largest cryptocurrencies
-    by market capitalization ended the week in the green.The Virtuals Protocol (VIRTUAL)
-    token rose over 103% as the week’s biggest gainer, followed by the Solayer (LAYER)
-    token, up over 29% during the past week.Total value locked in DeFi. Source: DefiLlamaThanks
-    for reading our summary of this week’s most impactful DeFi developments. Join
-    us next Friday for more stories, insights and education regarding this dynamically
-    advancing space.\n\n            "
-  published: 2025-05-02 19:00:00.000000000 +01:00
-- title: " Price predictions 5/2: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, LINK, AVAX "
-  url: https://cointelegraph.com/news/price-predictions-5-2-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Key points:Bitcoin trends toward $100,000. Will bears sell at this level?Altcoins
-    are trading above their respective support levels, suggesting that an altcoin
-    rally is brewing.Bitcoin’s (BTC) tight consolidation resolved in favor of the
-    bulls with a break above the $95,000 barrier on May 1. The bulls are trying to
-    push the price to the psychologically crucial level at $100,000, which may again
-    witness a tough battle between the bulls and the bears. Veteran trader Peter Brandt
-    sounded positive when he said in a post on X that Bitcoin could rally to the $125,000
-    to $150,000 range by August or September 2025 if it manages to regain its broken
-    parabolic slope. However, Brandt cautioned that the rally could be followed by
-    a sharp correction of more than 50%.Crypto market data daily view. Source: Coin360As
-    Bitcoin nears the 100,000 mark, onchain analytics firm Glassnode cautions that
-    the long-term holders (LTHs) may be tempted to book profits. The firm said in
-    its newsletter that the LTHs tend to book profits when their profit margin reaches
-    350%, and that level will be hit at $99,900. A significant amount of buy-side
-    pressure is needed to overcome the selling to continue the up move.Could Bitcoin
-    break above $100,000, pulling select altcoins higher? Let’s analyze the charts
-    of the top 10 cryptocurrencies to find out.Bitcoin price predictionBitcoin’s break
-    above $95,000 signals an advantage to buyers, but the bears are unlikely to give
-    up easily.BTC/USDT daily chart. Source: Cointelegraph/TradingViewSellers will
-    try to pull the price back below $95,000, trapping the aggressive bulls. If they
-    can pull it off, the BTC/USDT pair could test the 20-day exponential moving average
-    ($91,391). This is a necessary support to watch out for as a solid bounce off
-    the 20-day EMA suggests the bullish sentiment remains intact. That increases the
-    likelihood of a break above $100,000. The pair may then reach $107,000.This optimistic
-    view will be invalidated in the short term if the price turns down and breaks
-    below the 20-day EMA. The pair may then tumble to the 50-day simple moving average
-    ($86,236).Ether price predictionBuyers successfully defended Ether’s (ETH) drop
-    to the 20-day EMA ($1,757) on April 30, signaling demand at lower levels.ETH/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe gradually upsloping 20-day EMA
-    and the RSI in the positive territory indicate a slight edge to the bulls. If
-    the price maintains above $1,857, the ETH/USDT pair could climb to the breakdown
-    level of $2,111. There is minor resistance at $1,957, but that is likely to be
-    crossed.This positive view will be invalidated in the near term if the price turns
-    down and plunges below the moving averages. That could pull the pair down to $1,537,
-    which is expected to attract buyers.XRP price predictionThe bulls have managed
-    to keep XRP (XRP) above the moving averages, but the bounce lacks strength.XRP/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe flattening 20-day EMA ($2.17)
-    and the RSI just above the midpoint do not give a clear advantage either to the
-    bulls or the bears. Buyers will seize control on a break and close above the resistance
-    line. That clears the path for a rally to $3.On the contrary, a break and close
-    below the moving averages could sink the XRP/USDT pair to the solid support at
-    $2. This is a critical level to keep an eye on because a break below $2 could
-    pull the pair to $1.61.BNB price predictionBNB (BNB) is witnessing a seesaw battle
-    between the bulls and the bears at the moving averages.BNB/USDT daily chart. Source:
-    Cointelegraph/TradingViewIf the price maintains below the moving averages, the
-    BNB/USDT pair could slump to $576 and later to $566. Buyers are expected to vigorously
-    defend the $566 level because a break below it may sink the pair to $520.The bulls
-    will have to push the price above $620 to signal strength. The pair could then
-    rise to $644, which is likely to act as a strong resistance. If buyers bulldoze
-    their way through, the pair could surge to $680.Solana price predictionSolana
-    (SOL) continues to face selling at the $153 level, but a positive sign is that
-    the bulls have not ceded much ground to the bears.SOL/USDT daily chart. Source:
-    Cointelegraph/TradingViewThe upsloping 20-day EMA ($142) and the RSI in the positive
-    zone suggest that the path of least resistance is to the upside. If buyers push
-    and maintain the price above $153, the SOL/USDT pair could rally to $180.Contrary
-    to this assumption, if the price turns down sharply and breaks below the 20-day
-    EMA, it suggests profit booking by the short-term bulls. The pair could then slump
-    to the 50-day SMA ($132).Dogecoin price predictionDogecoin (DOGE) rebounded off
-    the moving averages on May 1, indicating that the bulls are trying to keep the
-    price inside the upper half of the range.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    bulls will attempt to push the price to the top of the range at $0.21, which is
-    a critical near-term resistance level to watch out for. If buyers pierce the $0.21
-    level, the DOGE/USDT pair will complete a double-bottom pattern. That could start
-    a move to $0.25 and then to the pattern target of $0.28.Contrarily, a break and
-    close below the moving averages opens the doors for a fall to the support of the
-    range at $0.14. Buyers are expected to defend the $0.14 level with all their might
-    because a break below it may sink the pair to $0.10.Cardano price predictionBuyers
-    bought the dip to the moving averages in Cardano (ADA), but the failure to build
-    upon the rebound suggests a lack of demand at higher levels.ADA/USDT daily chart.
-    Source: Cointelegraph/TradingViewBuyers will have to drive the price above the
-    $0.75 resistance to gain the upper hand. If they do that, the ADA/USDT pair could
-    rally to $0.83. Sellers will try to halt the up move at $0.83, but if the bulls
-    prevail, the pair could reach $1.On the downside, a break and close below the
-    moving averages tilts the short-term advantage in favor of the bears. The pair
-    could slide to $0.58, where the buyers are expected to step in. Related: Moon
-    soon? XRP's strongest spot premium aligns with 70% rally setupSui price predictionBuyers
-    pushed Sui (SUI) toward the $3.90 overhead resistance on May 1, but the long wick
-    on the candlestick shows that bears are aggressively defending the level.SUI/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe first support on the downside
-    is $3.27, and then the 20-day EMA ($3.01). If the price rebounds off the 20-day
-    EMA with strength, the bulls will again try to drive the SUI/USDT pair above $3.90.
-    If they manage to do that, the pair could rally to $4.25 and subsequently to $5.Instead,
-    if the price breaks below the 20-day EMA, it suggests that the bulls have given
-    up. The pair may slump to the solid support at $2.86. If the price rebounds off
-    the $2.86 support, the pair may form a range.Chainlink price predictionChainlink
-    (LINK) turned up from the moving averages on May 1, indicating that the sentiment
-    remains positive.LINK/USDT daily chart. Source: Cointelegraph/TradingViewBuyers
-    will try to push the price above the $16 overhead resistance and challenge the
-    resistance line of the descending channel pattern. Sellers are expected to fiercely
-    defend the resistance line because a break and close above it signals a potential
-    trend change.If the price turns down from the overhead resistance and breaks below
-    the moving averages, it suggests selling on rallies. The LINK/USDT pair may drop
-    to $11.68, extending its stay inside the channel for some more time.Avalanche
-    price predictionAvalanche (AVAX) bounced off the 20-day EMA ($20.89) on May 1,
-    indicating that the bulls are buying on dips.  AVAX/USDT daily chart. Source:
-    Cointelegraph/TradingViewBuyers will try to propel the price above the $23.50
-    overhead resistance. If they manage to do that, the AVAX/USDT pair will complete
-    a double-bottom pattern. That may start an up move to $28.78 and later to the
-    pattern target of $31.73.The moving averages are the crucial support to watch
-    out for. If the price turns down from the current level or the overhead resistance
-    and breaks below the 50-day SMA ($19.79), it suggests that the range-bound action
-    may continue for a few more days.This article does not contain investment advice
-    or recommendations. Every investment and trading move involves risk, and readers
-    should conduct their own research when making a decision.\n\n            "
-  published: 2025-05-02 18:54:06.000000000 +01:00
