@@ -1,123 +1,124 @@
 ---
-- title: 'FastVLM: Dramatically Faster Vision Language Model from Apple'
-  url: https://github.com/apple/ml-fastvlm
+- title: Your fingers wrinkle the same way every time you're in the water too long
+  url: https://www.binghamton.edu/news/story/5547/do-your-fingers-wrinkle-the-same-way-every-time-youre-in-the-water-too-long-new-research-says-yes
   summary: Comments
-  published: 2025-05-13 01:16:02.000000000 +00:00
-- title: A conversation about AI for science with Jason Pruet
-  url: https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet
+  published: 2025-05-13 23:34:07.000000000 +00:00
+- title: Type-constrained code generation with language models
+  url: https://arxiv.org/abs/2504.09246
   summary: Comments
-  published: 2025-05-12 19:52:40.000000000 +00:00
-- title: Understanding LucasArts' iMUSE System
-  url: https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md
+  published: 2025-05-13 22:15:30.000000000 +00:00
+- title: Flattening Rust's learning curve
+  url: https://corrode.dev/blog/flattening-rusts-learning-curve/
   summary: Comments
-  published: 2025-05-12 22:41:30.000000000 +00:00
-- title: Air Traffic Control
-  url: https://computer.rip/2025-05-11-air-traffic-control.html
+  published: 2025-05-13 22:25:29.000000000 +00:00
+- title: 'Branch Privilege Injection: Exploiting branch predictor race conditions'
+  url: https://comsec.ethz.ch/research/microarch/branch-privilege-injection/
   summary: Comments
-  published: 2025-05-12 00:39:22.000000000 +00:00
-- title: How to avoid P hacking
-  url: https://www.nature.com/articles/d41586-025-01246-1
+  published: 2025-05-13 16:44:51.000000000 +00:00
+- title: DeepSeek’s ‘tech madman’ founder is threatening US dominance in AI race
+  url: https://www.bloomberg.com/news/features/2025-05-13/deepseek-races-after-chatgpt-as-china-s-ai-industry-soars
   summary: Comments
-  published: 2025-05-09 07:53:54.000000000 +00:00
-- title: The Barbican
-  url: https://arslan.io/2025/05/12/barbican-estate/
+  published: 2025-05-14 01:07:23.000000000 +00:00
+- title: Map of Palaeohispanic Coins and Inscriptions
+  url: http://hesperia.ucm.es/consulta_hesperia/mapas.php
   summary: Comments
-  published: 2025-05-12 15:28:38.000000000 +00:00
-- title: FedRAMP 20x – One Month in and Moving Fast
-  url: https://www.fedramp.gov/2025-04-24-fedramp-20x-one-month-in-and-moving-fast/
+  published: 2025-05-14 00:10:51.000000000 +00:00
+- title: Airbnb Is in Midlife Crisis Mode
+  url: https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/
   summary: Comments
-  published: 2025-05-13 00:30:35.000000000 +00:00
-- title: HealthBench – An evaluation for AI systems and human health
-  url: https://openai.com/index/healthbench/
+  published: 2025-05-13 19:17:54.000000000 +00:00
+- title: Build real-time knowledge graph for documents with LLM
+  url: https://cocoindex.io/blogs/knowledge-graph-for-docs/
   summary: Comments
-  published: 2025-05-12 17:42:37.000000000 +00:00
-- title: RIP Usenix ATC
-  url: https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/
+  published: 2025-05-13 19:48:04.000000000 +00:00
+- title: 'Google is building its own DeX: First look at Android''s Desktop Mode'
+  url: https://www.androidauthority.com/android-desktop-mode-leak-3550321/
   summary: Comments
-  published: 2025-05-12 16:29:05.000000000 +00:00
-- title: Can you trust that permission pop-up on macOS?
-  url: https://wts.dev/posts/tcc-who/
+  published: 2025-05-13 14:30:35.000000000 +00:00
+- title: Failed Soviet Venus lander Kosmos 482 crashes to Earth after 53 years in
+    orbit
+  url: https://www.space.com/space-exploration/launches-spacecraft/failed-soviet-venus-lander-kosmos-482-crashes-to-earth-after-53-years-in-orbit
   summary: Comments
-  published: 2025-05-12 18:26:44.000000000 +00:00
-- title: The Beam
-  url: https://www.erlang-solutions.com/blog/the-beam-erlangs-virtual-machine/
+  published: 2025-05-10 13:51:53.000000000 +00:00
+- title: When graphic design saves lives
+  url: https://news.harvard.edu/gazette/story/2025/05/when-graphic-design-saves-lives/
   summary: Comments
-  published: 2025-05-09 18:48:03.000000000 +00:00
-- title: 'Wtfis: Passive hostname, domain and IP lookup tool for non-robots'
-  url: https://github.com/pirxthepilot/wtfis
+  published: 2025-05-10 19:35:14.000000000 +00:00
+- title: 'Show HN: HelixDB – Open-source vector-graph database for AI applications
+    (Rust)'
+  url: https://github.com/HelixDB/helix-db/
   summary: Comments
-  published: 2025-05-12 22:15:12.000000000 +00:00
-- title: NASA Study Reveals Venus Crust Surprise
-  url: https://science.nasa.gov/science-research/astromaterials/nasa-study-reveals-venus-crust-surprise/
+  published: 2025-05-13 17:26:38.000000000 +00:00
+- title: 'Launch HN: Miyagi (YC W25) turns YouTube videos into online, interactive
+    courses'
+  url: https://news.ycombinator.com/item?id=43972425
   summary: Comments
-  published: 2025-05-09 19:25:05.000000000 +00:00
-- title: 'Launch HN: ParaQuery (YC X25) – GPU Accelerated Spark/SQL'
-  url: https://news.ycombinator.com/item?id=43964505
+  published: 2025-05-13 12:56:42.000000000 +00:00
+- title: PDF to Text, a challenging problem
+  url: https://www.marginalia.nu/log/a_119_pdf/
   summary: Comments
-  published: 2025-05-12 16:01:31.000000000 +00:00
-- title: Build your own Siri locally and on-device
-  url: https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device
+  published: 2025-05-13 15:01:09.000000000 +00:00
+- title: Multiple security issues in GNU Screen
+  url: https://www.openwall.com/lists/oss-security/2025/05/12/1
   summary: Comments
-  published: 2025-05-12 19:32:19.000000000 +00:00
-- title: A community-led fork of Organic Maps
-  url: https://www.comaps.app/news/2025-05-12/3/
+  published: 2025-05-13 11:28:49.000000000 +00:00
+- title: A visual history of the safety pin
+  url: https://museumofeverydaylife.org/current-exhibitions/a-visual-history-of-the-safety-pin
   summary: Comments
-  published: 2025-05-12 11:40:24.000000000 +00:00
-- title: University of Texas-led team solves a big problem for fusion energy
-  url: https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/
+  published: 2025-05-11 17:22:45.000000000 +00:00
+- title: It Awaits Your Experiments
+  url: https://www.rifters.com/crawl/?p=11511
   summary: Comments
-  published: 2025-05-12 12:21:33.000000000 +00:00
-- title: Reviving a modular cargo bike design from the 1930s
-  url: https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s
+  published: 2025-05-13 15:27:47.000000000 +00:00
+- title: Coffee for people who don't like coffee
+  url: https://ostwilkens.se/blog/coffee
   summary: Comments
-  published: 2025-05-12 14:29:33.000000000 +00:00
-- title: 'Ruby 3.5 Feature: Namespace on read'
-  url: https://bugs.ruby-lang.org/issues/21311
+  published: 2025-05-10 13:46:20.000000000 +00:00
+- title: Garbage collection of object storage at scale
+  url: https://www.warpstream.com/blog/taking-out-the-trash-garbage-collection-of-object-storage-at-massive-scale
   summary: Comments
-  published: 2025-05-12 13:39:34.000000000 +00:00
-- title: 'Show HN: Lumoar – Free SOC 2 tool for SaaS startups'
-  url: https://www.lumoar.com
+  published: 2025-05-10 13:23:35.000000000 +00:00
+- title: 'A tool to verify estimates, II: a flexible proof assistant'
+  url: https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/
   summary: Comments
-  published: 2025-05-12 19:05:03.000000000 +00:00
-- title: Writing N-body gravity simulations code in Python
-  url: https://alvinng4.github.io/grav_sim/5_steps_to_n_body_simulation/
+  published: 2025-05-10 10:41:21.000000000 +00:00
+- title: How (memory) safe is Zig? (2021)
+  url: https://www.scattered-thoughts.net/writing/how-safe-is-zig/
   summary: Comments
-  published: 2025-05-10 08:10:18.000000000 +00:00
-- title: The Acid King (2001)
-  url: https://www.rollingstone.com/feature/acid-lsd-king-william-leonard-pickard-prison-pete-wilkinson-184390/
+  published: 2025-05-13 22:12:11.000000000 +00:00
+- title: The world could run on older hardware if software optimization was a priority
+  url: https://twitter.com/ID_AA_Carmack/status/1922100771392520710
   summary: Comments
-  published: 2025-05-09 21:30:16.000000000 +00:00
-- title: Demonstrably Secure Software Supply Chains with Nix
-  url: https://nixcademy.com/posts/secure-supply-chain-with-nix/
+  published: 2025-05-13 10:31:09.000000000 +00:00
+- title: 'Cardiac: A CARDboard Illustrative Aid to Computation [pdf]'
+  url: https://www.cs.drexel.edu/~bls96/museum/CARDIAC_manual.pdf
   summary: Comments
-  published: 2025-05-12 14:54:31.000000000 +00:00
-- title: Legion Health (YC S21) is hiring engineers to help fix mental health with
-    AI
-  url: https://www.workatastartup.com/jobs/75011
+  published: 2025-05-13 21:49:42.000000000 +00:00
+- title: OpenTelemetry protocol with Apache Arrow
+  url: https://opentelemetry.io/blog/2025/otel-arrow-phase-2/
   summary: Comments
-  published: 2025-05-12 17:01:42.000000000 +00:00
-- title: Universe expected to decay in 10⁷⁸ years, much sooner than previously thought
-  url: https://phys.org/news/2025-05-universe-decay-years-sooner-previously.html
+  published: 2025-05-13 17:57:57.000000000 +00:00
+- title: I learned Snobol and then wrote a toy Forth
+  url: https://ratfactor.com/snobol/
   summary: Comments
-  published: 2025-05-12 09:46:36.000000000 +00:00
-- title: Continuous glucose monitors reveal variable glucose responses to the same
-    meals
-  url: https://examine.com/research-feed/study/1jjKq1/
+  published: 2025-05-11 06:38:27.000000000 +00:00
+- title: Using obscure graph theory to solve programming languages problems
+  url: https://reasonablypolymorphic.com/blog/solving-lcsa/
   summary: Comments
-  published: 2025-05-10 06:44:00.000000000 +00:00
-- title: 'Show HN: Airweave – Let agents search any app'
-  url: https://github.com/airweave-ai/airweave
+  published: 2025-05-13 20:09:54.000000000 +00:00
+- title: 'Membrane: Media Framework for Elixir'
+  url: https://membrane.stream/
   summary: Comments
-  published: 2025-05-12 15:34:21.000000000 +00:00
-- title: Why GADTs matter for performance (2015)
-  url: https://blog.janestreet.com/why-gadts-matter-for-performance/
+  published: 2025-05-10 13:33:00.000000000 +00:00
+- title: Insurers launch cover for losses caused by AI chatbot errors
+  url: https://www.ft.com/content/1d35759f-f2a9-46c4-904b-4a78ccc027df
   summary: Comments
-  published: 2025-05-10 13:55:43.000000000 +00:00
-- title: Has anyone coined the term “fast tech” yet?
-  url: https://chaos.social/@gsuberland/114485304658708399
+  published: 2025-05-11 10:07:22.000000000 +00:00
+- title: 'Turritopsis dohrnii: Immortal jellyfish'
+  url: https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html
   summary: Comments
-  published: 2025-05-10 20:48:01.000000000 +00:00
-- title: Spade Hardware Description Language
-  url: https://spade-lang.org/
+  published: 2025-05-09 20:45:11.000000000 +00:00
+- title: Starcloud
+  url: https://www.ycombinator.com/companies/starcloud
   summary: Comments
-  published: 2025-05-12 12:19:50.000000000 +00:00
+  published: 2025-05-13 20:13:54.000000000 +00:00

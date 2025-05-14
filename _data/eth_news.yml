@@ -1,4 +1,46 @@
 ---
+- title: " Solana co-founder proposes meta chain to fix blockchain fragmentation "
+  url: https://cointelegraph.com/news/solana-co-founder-meta-blockchain-unify-blockchain-data?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Solana Labs co-founder Anatoly Yakovenko proposed a new data availability
+    (DA) solution to improve persistent fragmentation and lack of interoperability
+    across blockchain networks.In a May 12 post on X, Yakovenko proposed a “meta blockchain”
+    to aggregate and order data posted across multiple layer-1 chains, including Ethereum,
+    Celestia and Solana.“This would actually allow the meta chain to use the cheapest
+    currently available DA offer,” Yakovenko said. Data availability layers are third-party
+    solutions ensuring that blockchains have the necessary data to validate transactions.Source:
+    Anatoly YakovenkoBlockchain interoperability is one of the most pressing issues
+    for Web3 developers, since today’s siloed layer-1 (L1) blockchain networks have
+    no means of communicating or exchanging data, creating a need for crosschain interoperability
+    solutions like DA layers.Other leading blockchains are also focused on improving
+    DA solutions. Ethereum’s upcoming Fusaka upgrade, expected in late 2025, will
+    focus on scaling the Ethereum mainnet’s capacity as a DA layer by introducing
+    EIP-7594.Ethereum data capacity upgrades. Source: Binance ResearchThis upgrade
+    may boost Ethereum’s value accrual, depending on whether existing layer-2 blockchains
+    continue choosing Ethereum for data availability in the future, a Binance Research
+    spokesperson told Cointelegraph.Related: Nasdaq-listed GDC plans to buy Bitcoin
+    and TRUMP memecoin for $300MMaking data availability cheap makes “everything else
+    cheap”Creating cheaper DA solutions is essential to reduce the costs associated
+    with blockchain-based transactions, Yakovenko said in a response to his initial
+    post, adding:“Making data availability cheap allows for making everything else
+    cheap. Bandwidth is the irreducible bottleneck.”He also suggested that a more
+    advanced solution could eliminate external sequencers by using a rule-based system
+    to merge transactions across chains, allowing users to send transactions “anywhere.”Related:
+    Bunq, Europe’s second-largest neobank, expands into cryptoOther prominent blockchain
+    industry leaders have also called for more interoperability and collaborative
+    tokenomics among the leading blockchains.Speaking at Paris Blockchain Week 2025,
+    Cardano founder Charles Hoskinson emphasized the need for collaborative economics
+    in the crypto industry to counter growing competition from traditional tech firms
+    entering the blockchain space.Charles Hoskinson. Source: Cointelegraph“The problem
+    right now, with the way we’ve done things in the cryptocurrency space, is the
+    tokenomics and the market structure are intrinsically adversarial. It’s sum 0,”
+    said Hoskinson. “Instead of picking a fight, what you have to do is you have to
+    find tokenomics and market structure that allows you to be in a cooperative equilibrium.”Aiming
+    to align blockchain network incentives, Cardano has been working on “Minotaur,”
+    a multi-resource consensus protocol that combines multiple consensus mechanisms
+    and networks to pay a unified block reward to multiple networks at the same time.Magazine:
+    Bitcoin eyes ‘crazy numbers,’ JD Vance set for Bitcoin talk: Hodler’s Digest\n\n
+    \           "
+  published: 2025-05-13 12:00:28.000000000 +01:00
 - title: " Price predictions 5/12: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI "
   url: https://cointelegraph.com/news/price-predictions-5-12-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-sui?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Key points:Bitcoin price saw profit booking near $105,819, signaling that
@@ -321,43 +363,6 @@
     a wide conversation about any impending development action.                    \n\n
     \           "
   published: 2025-05-12 12:18:00.000000000 +01:00
-- title: " Ethereum flips Coca-Cola and Alibaba as ETH gains 42% in 5 days "
-  url: https://cointelegraph.com/news/ether-market-cap-surges-past-coca-cola-alibaba-pectra-upgrade?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether’s market capitalization surged 42% in five days following the successful
-    launch of Ethereum’s Pectra upgrade on its mainnet. On May 12, the company data
-    tracker 8marketcap showed Ether (ETH) surpassing Coca-Cola and Alibaba, ranking
-    as the world’s 39th-largest asset by market capitalization. ETH was trading at
-    about $2,550 at publication time, with a market cap exceeding $308 billion. By
-    comparison, Coca-Cola stock trades at around $70, giving it a market cap of $303.5
-    billion. Alibaba stock trades at about $125, with a market capitalization of $303.7
-    billion. ETH’s recent price action comes on the heels of a network upgrade that
-    improved the storage of layer-2 scaling data, validator user experience and smart
-    account wallet user experience features. Ether surpasses Coca-Cola and Alibaba
-    in market capitalization. Source: 8marketcapEthereum implements Pectra upgrade
-    on mainnetOriginally scheduled for March 2025, Pectra faced delays after technical
-    challenges arose during testing.On Feb. 24, the upgrade was deployed on Ethereum’s
-    Holesky testnet. Following the deployment, the upgrade failed to finalize on the
-    network, leading the developers to investigate and address the issues. On March
-    5, Pectra was rolled out to the Sepolia testnet, but developers encountered errors
-    made worse by an attacker who caused the mining of empty blocks. To further prepare
-    for the deployment, Ethereum core developers created a new testnet called “Hoodi”
-    before finally deploying the upgrade to the mainnet on May 7. With the upgrade,
-    externally owned accounts (EOAs) can act as smart contracts to cover gas fees
-    and payments using tokens that are not ETH. In addition, validator staking limits
-    were increased to 2,048 ETH from 32 ETH, simplifying operations for large stakers.
-    The upgrade also increased the number of data blobs per block, allowing better
-    scalability for layer-2 networks.Since the upgrade, ETH’s price has escalated.
-    On May 7, Ether traded at about $1,786, according to CoinGecko. On May 12, Ether
-    went as high as $2,550, representing a 42% increase in value. Ether’s seven-day
-    price chart. Source: CoinGeckoRelated: Vitalik Buterin outlines vision as Ethereum
-    ecosystem addresses hit new highSecurity professionals warn of risks post Pectra
-    upgradeStill, the upgrade introduced security risks. Post upgrade, cybersecurity
-    experts have warned that attackers could exploit a new transaction type to control
-    EOAs without users signing onchain transactions. Solidity smart contract auditor
-    Arda Usman previously cautioned in comments to Cointelegraph that these vulnerabilities
-    may allow attackers to drain funds through offchain signed messages.Magazine:
-    12 minutes of nail-biting tension when Ethereum’s Pectra fork goes live\n\n            "
-  published: 2025-05-12 10:16:48.000000000 +01:00
 - title: " Ethereum chart pattern supports ‘moon shot’ rally to new price highs if
     confirmed — Trader "
   url: https://cointelegraph.com/news/ethereum-chart-pattern-supports-moon-shot-rally-to-new-price-highs-if-confirmed-trader?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
