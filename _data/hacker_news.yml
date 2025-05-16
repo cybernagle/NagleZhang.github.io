@@ -1,121 +1,122 @@
 ---
-- title: 'AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms'
-  url: https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/
+- title: Baby is healed with first personalized gene-editing treatment
+  url: https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html
   summary: Comments
-  published: 2025-05-14 15:10:15.000000000 +00:00
-- title: 'Show HN: Muscle-Mem, a behavior cache for AI agents'
-  url: https://github.com/pig-dot-dev/muscle-mem
+  published: 2025-05-15 18:06:06.000000000 +00:00
+- title: A leap year check in three instructions
+  url: https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
   summary: Comments
-  published: 2025-05-14 19:38:26.000000000 +00:00
-- title: Migrating to Postgres
-  url: https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d
+  published: 2025-05-15 21:57:19.000000000 +00:00
+- title: Teal – A statically-typed dialect of Lua
+  url: https://teal-language.org/
   summary: Comments
-  published: 2025-05-14 21:39:45.000000000 +00:00
-- title: isc.ro
-  url: https://isc.ro/
+  published: 2025-05-16 00:40:35.000000000 +00:00
+- title: Initialization in C++ is bonkers (2017)
+  url: https://blog.tartanllama.xyz/initialization-is-bonkers/
   summary: Comments
-  published: 2025-05-11 23:34:12.000000000 +00:00
-- title: What is HDR, anyway?
-  url: https://www.lux.camera/what-is-hdr/
+  published: 2025-05-15 21:27:10.000000000 +00:00
+- title: Tek – A music making program for 24-bit Unicode terminals
+  url: https://codeberg.org/unspeaker/tek
   summary: Comments
-  published: 2025-05-14 12:46:39.000000000 +00:00
-- title: 'Copaganda: How Police and the Media Manipulate Our News'
-  url: https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news
+  published: 2025-05-15 19:56:59.000000000 +00:00
+- title: The unreasonable effectiveness of an LLM agent loop with tool use
+  url: https://sketch.dev/blog/agent-loop
   summary: Comments
-  published: 2025-05-14 23:39:09.000000000 +00:00
-- title: A server that wasn't meant to exist
-  url: https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/
+  published: 2025-05-15 19:33:44.000000000 +00:00
+- title: How and Why to Disappear from the Attention Economy
+  url: https://indignified.substack.com/p/how-to-disappear-from-the-attention
   summary: Comments
-  published: 2025-05-14 15:50:30.000000000 +00:00
-- title: 'Show HN: Semantic Calculator (king-man+woman=?)'
-  url: https://calc.datova.ai
+  published: 2025-05-16 01:19:37.000000000 +00:00
+- title: NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
+  url: https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/
   summary: Comments
-  published: 2025-05-14 19:54:31.000000000 +00:00
-- title: 'Show HN: YapCards (iOS) – Voice-driven flashcards with AI feedback'
-  url: https://news.ycombinator.com/item?id=43990868
+  published: 2025-05-16 00:29:09.000000000 +00:00
+- title: The current state of TLA⁺ development
+  url: https://ahelwer.ca/post/2025-05-15-tla-dev-status/
   summary: Comments
-  published: 2025-05-15 01:14:44.000000000 +00:00
-- title: 'Git Bug: Distributed, Offline-First Bug Tracker Embedded in Git, with Bridges'
-  url: https://github.com/git-bug/git-bug
+  published: 2025-05-15 18:53:55.000000000 +00:00
+- title: 'Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI'
+  url: https://news.ycombinator.com/item?id=43996555
   summary: Comments
-  published: 2025-05-13 11:07:29.000000000 +00:00
-- title: 'Hegel 2.0: The imaginary history of ternary computing (2018)'
-  url: https://www.cabinetmagazine.org/issues/65/weatherby.php
+  published: 2025-05-15 16:19:00.000000000 +00:00
+- title: 'Show HN: Easel – Code multiplayer games like singleplayer'
+  url: https://easel.games/about
   summary: Comments
-  published: 2025-05-12 20:59:10.000000000 +00:00
-- title: Changes since congestion pricing started in New York
-  url: https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html
+  published: 2025-05-14 10:31:18.000000000 +00:00
+- title: GTK Krell Monitors
+  url: https://gkrellm.srcbox.net/
   summary: Comments
-  published: 2025-05-13 10:43:20.000000000 +00:00
-- title: Getting Started with Celtic Coins – Crude and Barbarous, or Just Different?
-  url: https://collectingancientcoins.co.uk/getting-started-with-celtic-coins-crude-and-barbarous-or-just-different/
+  published: 2025-05-13 06:19:43.000000000 +00:00
+- title: A Tiny Boltzmann Machine
+  url: https://eoinmurray.info/boltzmann-machine
   summary: Comments
-  published: 2025-05-11 04:26:01.000000000 +00:00
-- title: NASA Stennis Releases First Open-Source Software
-  url: https://www.nasa.gov/centers-and-facilities/stennis/stennis-first-open-source-software/
+  published: 2025-05-15 13:41:37.000000000 +00:00
+- title: Rolling Highway
+  url: https://en.wikipedia.org/wiki/Rolling_highway
   summary: Comments
-  published: 2025-05-13 12:02:53.000000000 +00:00
-- title: Our narrative prison
-  url: https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot
+  published: 2025-05-13 10:27:43.000000000 +00:00
+- title: Malicious compliance by booking an available meeting room
+  url: https://www.clientserver.dev/p/malicious-compliance-by-booking-an
   summary: Comments
-  published: 2025-05-14 16:27:48.000000000 +00:00
-- title: StackAI (YC W23) Is Hiring Pydantic and FastAPI Wizard
-  url: https://www.ycombinator.com/companies/stackai/jobs/8nYnmlN-backend-engineer
+  published: 2025-05-15 13:20:28.000000000 +00:00
+- title: 'Show HN: Min.js style compression of tech docs for LLM context'
+  url: https://github.com/marv1nnnnn/llm-min.txt
   summary: Comments
-  published: 2025-05-14 21:01:15.000000000 +00:00
-- title: Smalltalk-78 Xerox NoteTaker in-browser emulator
-  url: https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html
+  published: 2025-05-15 13:40:04.000000000 +00:00
+- title: Refactoring Clojure
+  url: https://www.orsolabs.com/post/refactoring-clojure-1/
   summary: Comments
-  published: 2025-05-14 17:05:30.000000000 +00:00
-- title: Variadic Switch
-  url: https://pydong.org/posts/variadic-switch/
+  published: 2025-05-15 19:28:01.000000000 +00:00
+- title: Improving Naval Ship Acquisition
+  url: https://www.construction-physics.com/p/fixing-naval-ship-acquisition
   summary: Comments
-  published: 2025-05-13 20:45:53.000000000 +00:00
-- title: The cryptography behind passkeys
-  url: https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/
+  published: 2025-05-15 18:15:28.000000000 +00:00
+- title: '"The Mind in the Wheel" lays out a new foundation for the science of mind'
+  url: https://www.experimental-history.com/p/new-paradigm-for-psychology-just
   summary: Comments
-  published: 2025-05-14 11:22:39.000000000 +00:00
-- title: Databricks and Neon
-  url: https://www.databricks.com/blog/databricks-neon
+  published: 2025-05-15 18:36:22.000000000 +00:00
+- title: I don't like NumPy
+  url: https://dynomight.net/numpy/
   summary: Comments
-  published: 2025-05-14 10:10:00.000000000 +00:00
-- title: Updated rate limits for unauthenticated requests
-  url: https://github.blog/changelog/2025-05-08-updated-rate-limits-for-unauthenticated-requests/
+  published: 2025-05-15 16:05:22.000000000 +00:00
+- title: In the US, a rotating detonation rocket engine takes flight
+  url: https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/
   summary: Comments
-  published: 2025-05-09 14:11:05.000000000 +00:00
-- title: UK's Ancient Tree Inventory
-  url: https://ati.woodlandtrust.org.uk/
+  published: 2025-05-15 11:29:22.000000000 +00:00
+- title: 'Show HN: Undetectag, track stolen items with AirTag'
+  url: https://undetectag.com/
   summary: Comments
-  published: 2025-05-14 10:11:56.000000000 +00:00
-- title: How the economics of multitenancy work
-  url: https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud
+  published: 2025-05-15 15:46:26.000000000 +00:00
+- title: Fetii (YC S22) Is Hiring
+  url: https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii
   summary: Comments
-  published: 2025-05-14 13:08:26.000000000 +00:00
-- title: 'Launch HN: Jazzberry (YC X25) – AI agent for finding bugs'
-  url: https://news.ycombinator.com/item?id=43985994
+  published: 2025-05-15 17:00:07.000000000 +00:00
+- title: Dr. Dobb's Journal interviews Jef Raskin (1986)
+  url: https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin
   summary: Comments
-  published: 2025-05-14 15:52:21.000000000 +00:00
-- title: 'How to Build a Smartwatch: Picking a Chip'
-  url: https://ericmigi.com/blog/how-to-build-a-smartwatch-picking-a-chip/
+  published: 2025-05-15 18:43:43.000000000 +00:00
+- title: Stop using REST for state synchronization (2024)
+  url: https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/
   summary: Comments
-  published: 2025-05-14 07:02:54.000000000 +00:00
-- title: Interferometer Device Sees Text from a Mile Away
-  url: https://physics.aps.org/articles/v18/99
+  published: 2025-05-15 17:30:03.000000000 +00:00
+- title: 'Show HN: Real-Time Gaussian Splatting'
+  url: https://github.com/axbycc/LiveSplat
   summary: Comments
-  published: 2025-05-10 14:05:14.000000000 +00:00
-- title: 'Show HN: Lumier – Run macOS VMs in a Docker'
-  url: https://github.com/trycua/cua/tree/main/libs/lumier
+  published: 2025-05-15 13:26:49.000000000 +00:00
+- title: The Scalar Select Anti-Pattern
+  url: https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html
   summary: Comments
-  published: 2025-05-14 15:19:41.000000000 +00:00
-- title: Uber to introduce fixed-route shuttles in major US cities
-  url: https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/
+  published: 2025-05-14 20:19:23.000000000 +00:00
+- title: Pathfinding
+  url: https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding
   summary: Comments
-  published: 2025-05-14 15:40:17.000000000 +00:00
-- title: Perverse incentives of vibe coding
-  url: https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee
+  published: 2025-05-15 12:32:15.000000000 +00:00
+- title: Coinbase says hackers bribed staff to steal customer data, demanding $20M
+    ransom
+  url: https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html
   summary: Comments
-  published: 2025-05-14 19:29:38.000000000 +00:00
-- title: Ash Framework – Model your domain, derive the rest
-  url: https://ash-hq.org/
+  published: 2025-05-15 15:52:21.000000000 +00:00
+- title: Lua for Elixir
+  url: https://davelucia.com/blog/lua-elixir
   summary: Comments
-  published: 2025-05-10 13:32:00.000000000 +00:00
+  published: 2025-05-13 13:03:51.000000000 +00:00
