@@ -1,122 +1,123 @@
 ---
-- title: Baby is healed with first personalized gene-editing treatment
-  url: https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html
+- title: Getting AI to write good SQL
+  url: https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql
   summary: Comments
-  published: 2025-05-15 18:06:06.000000000 +00:00
-- title: A leap year check in three instructions
-  url: https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html
+  published: 2025-05-16 21:10:12.000000000 +00:00
+- title: 'Show HN: Merliot – plugging physical devices into LLMs'
+  url: https://github.com/merliot/hub
   summary: Comments
-  published: 2025-05-15 21:57:19.000000000 +00:00
-- title: Teal – A statically-typed dialect of Lua
-  url: https://teal-language.org/
+  published: 2025-05-17 01:09:38.000000000 +00:00
+- title: 'Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon'
+  url: https://github.com/dipampaul17/KVSplit
   summary: Comments
-  published: 2025-05-16 00:40:35.000000000 +00:00
-- title: Initialization in C++ is bonkers (2017)
-  url: https://blog.tartanllama.xyz/initialization-is-bonkers/
+  published: 2025-05-16 20:04:58.000000000 +00:00
+- title: Thoughts on thinking
+  url: https://dcurt.is/thinking
   summary: Comments
-  published: 2025-05-15 21:27:10.000000000 +00:00
-- title: Tek – A music making program for 24-bit Unicode terminals
-  url: https://codeberg.org/unspeaker/tek
+  published: 2025-05-16 19:09:55.000000000 +00:00
+- title: A Research Preview of Codex
+  url: https://openai.com/index/introducing-codex/
   summary: Comments
-  published: 2025-05-15 19:56:59.000000000 +00:00
-- title: The unreasonable effectiveness of an LLM agent loop with tool use
-  url: https://sketch.dev/blog/agent-loop
+  published: 2025-05-16 15:02:02.000000000 +00:00
+- title: Rustls Server-Side Performance
+  url: https://www.memorysafety.org/blog/rustls-server-perf/
   summary: Comments
-  published: 2025-05-15 19:33:44.000000000 +00:00
-- title: How and Why to Disappear from the Attention Economy
-  url: https://indignified.substack.com/p/how-to-disappear-from-the-attention
+  published: 2025-05-13 13:22:36.000000000 +00:00
+- title: ClojureScript 1.12.42
+  url: https://clojurescript.org/news/2025-05-16-release
   summary: Comments
-  published: 2025-05-16 01:19:37.000000000 +00:00
-- title: NASA keeps ancient Voyager 1 spacecraft alive with Hail Mary thruster fix
-  url: https://www.theregister.com/2025/05/15/voyager_1_survives_with_thruster_fix/
+  published: 2025-05-16 20:20:20.000000000 +00:00
+- title: WebGL Gray-Scott Explorer (2012)
+  url: http://www.mrob.com/pub/comp/xmorphia/ogl/index.html
   summary: Comments
-  published: 2025-05-16 00:29:09.000000000 +00:00
-- title: The current state of TLA⁺ development
-  url: https://ahelwer.ca/post/2025-05-15-tla-dev-status/
+  published: 2025-05-17 00:46:24.000000000 +00:00
+- title: Coding agent in 94 lines of Ruby
+  url: https://radanskoric.com/articles/coding-agent-in-ruby
   summary: Comments
-  published: 2025-05-15 18:53:55.000000000 +00:00
-- title: 'Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI'
-  url: https://news.ycombinator.com/item?id=43996555
+  published: 2025-05-14 14:17:57.000000000 +00:00
+- title: They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More
+  url: https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html
   summary: Comments
-  published: 2025-05-15 16:19:00.000000000 +00:00
-- title: 'Show HN: Easel – Code multiplayer games like singleplayer'
-  url: https://easel.games/about
+  published: 2025-05-16 23:18:41.000000000 +00:00
+- title: MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery
+  url: https://economics.mit.edu/news/assuring-accurate-research-record
   summary: Comments
-  published: 2025-05-14 10:31:18.000000000 +00:00
-- title: GTK Krell Monitors
-  url: https://gkrellm.srcbox.net/
+  published: 2025-05-16 15:09:25.000000000 +00:00
+- title: I'm Peter Roberts, immigration attorney, who does work for YC and startups.
+    AMA
+  url: https://news.ycombinator.com/item?id=44006381
   summary: Comments
-  published: 2025-05-13 06:19:43.000000000 +00:00
-- title: A Tiny Boltzmann Machine
-  url: https://eoinmurray.info/boltzmann-machine
+  published: 2025-05-16 15:05:32.000000000 +00:00
+- title: 'Show HN: Visual flow-based programming for Erlang, inspired by Node-RED'
+  url: https://github.com/gorenje/erlang-red
   summary: Comments
-  published: 2025-05-15 13:41:37.000000000 +00:00
-- title: Rolling Highway
-  url: https://en.wikipedia.org/wiki/Rolling_highway
+  published: 2025-05-16 14:54:13.000000000 +00:00
+- title: X X^t can be faster
+  url: https://arxiv.org/abs/2505.09814
   summary: Comments
-  published: 2025-05-13 10:27:43.000000000 +00:00
-- title: Malicious compliance by booking an available meeting room
-  url: https://www.clientserver.dev/p/malicious-compliance-by-booking-an
+  published: 2025-05-16 15:45:30.000000000 +00:00
+- title: 'MCP: An In-Depth Guide (With Cloudflare, Sentry, GitHub, Cline)'
+  url: https://www.speakeasy.com/mcp/mcp-tutorial
   summary: Comments
-  published: 2025-05-15 13:20:28.000000000 +00:00
-- title: 'Show HN: Min.js style compression of tech docs for LLM context'
-  url: https://github.com/marv1nnnnn/llm-min.txt
+  published: 2025-05-13 12:47:04.000000000 +00:00
+- title: 'Show HN: A C-Suite AI Agent Meant for SMB'
+  url: https://askcaa.com/
   summary: Comments
-  published: 2025-05-15 13:40:04.000000000 +00:00
-- title: Refactoring Clojure
-  url: https://www.orsolabs.com/post/refactoring-clojure-1/
+  published: 2025-05-13 21:34:01.000000000 +00:00
+- title: 'Show HN: Solidis – Tiny TS Redis client, no deps, for serverless'
+  url: https://github.com/vcms-io/solidis
   summary: Comments
-  published: 2025-05-15 19:28:01.000000000 +00:00
-- title: Improving Naval Ship Acquisition
-  url: https://www.construction-physics.com/p/fixing-naval-ship-acquisition
+  published: 2025-05-16 21:20:15.000000000 +00:00
+- title: 'The Magic Hours: The Films and Hidden Life of Terrence Malick'
+  url: https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking
   summary: Comments
-  published: 2025-05-15 18:15:28.000000000 +00:00
-- title: '"The Mind in the Wheel" lays out a new foundation for the science of mind'
-  url: https://www.experimental-history.com/p/new-paradigm-for-psychology-just
+  published: 2025-05-16 18:23:26.000000000 +00:00
+- title: The first year of free-threaded Python
+  url: https://labs.quansight.org/blog/free-threaded-one-year-recap
   summary: Comments
-  published: 2025-05-15 18:36:22.000000000 +00:00
-- title: I don't like NumPy
-  url: https://dynomight.net/numpy/
+  published: 2025-05-16 09:42:31.000000000 +00:00
+- title: 'Java at 30: Interview with James Gosling'
+  url: https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/
   summary: Comments
-  published: 2025-05-15 16:05:22.000000000 +00:00
-- title: In the US, a rotating detonation rocket engine takes flight
-  url: https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/
+  published: 2025-05-16 13:05:25.000000000 +00:00
+- title: Methodical Banality
+  url: https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam
   summary: Comments
-  published: 2025-05-15 11:29:22.000000000 +00:00
-- title: 'Show HN: Undetectag, track stolen items with AirTag'
-  url: https://undetectag.com/
+  published: 2025-05-16 20:39:30.000000000 +00:00
+- title: Material 3 Expressive
+  url: https://design.google/library/expressive-material-design-google-research
   summary: Comments
-  published: 2025-05-15 15:46:26.000000000 +00:00
-- title: Fetii (YC S22) Is Hiring
-  url: https://www.ycombinator.com/companies/fetii/jobs/QDjleWs-senior-operations-manager-fetii
+  published: 2025-05-13 17:20:11.000000000 +00:00
+- title: The Collapse of GPT
+  url: https://cacm.acm.org/news/the-collapse-of-gpt/
   summary: Comments
-  published: 2025-05-15 17:00:07.000000000 +00:00
-- title: Dr. Dobb's Journal interviews Jef Raskin (1986)
-  url: https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin
+  published: 2025-05-16 23:27:24.000000000 +00:00
+- title: Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE)
+  url: https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe
   summary: Comments
-  published: 2025-05-15 18:43:43.000000000 +00:00
-- title: Stop using REST for state synchronization (2024)
-  url: https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/
+  published: 2025-05-16 17:01:00.000000000 +00:00
+- title: What were the MS-DOS programs that the moricons.dll icons were intended for?
+  url: https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157
   summary: Comments
-  published: 2025-05-15 17:30:03.000000000 +00:00
-- title: 'Show HN: Real-Time Gaussian Splatting'
-  url: https://github.com/axbycc/LiveSplat
+  published: 2025-05-13 11:06:58.000000000 +00:00
+- title: Returning to My Roots in Hardware
+  url: https://dancrimp.nz/2025/03/31/hardware/
   summary: Comments
-  published: 2025-05-15 13:26:49.000000000 +00:00
-- title: The Scalar Select Anti-Pattern
-  url: https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html
+  published: 2025-05-13 19:12:01.000000000 +00:00
+- title: New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence
+  url: https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/
   summary: Comments
-  published: 2025-05-14 20:19:23.000000000 +00:00
-- title: Pathfinding
-  url: https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding
+  published: 2025-05-16 17:08:02.000000000 +00:00
+- title: Lawful kinematics link eye movements to the limits of high-speed perception
+  url: https://www.nature.com/articles/s41467-025-58659-9
   summary: Comments
-  published: 2025-05-15 12:32:15.000000000 +00:00
-- title: Coinbase says hackers bribed staff to steal customer data, demanding $20M
-    ransom
-  url: https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html
+  published: 2025-05-13 12:27:55.000000000 +00:00
+- title: 'Transformer: The Deep Chemistry of Life and Death'
+  url: https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/
   summary: Comments
-  published: 2025-05-15 15:52:21.000000000 +00:00
-- title: Lua for Elixir
-  url: https://davelucia.com/blog/lua-elixir
+  published: 2025-05-13 17:25:34.000000000 +00:00
+- title: 'Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA
+    2.0)'
+  url: https://github.com/browser-use/workflow-use
   summary: Comments
-  published: 2025-05-13 13:03:51.000000000 +00:00
+  published: 2025-05-16 16:05:00.000000000 +00:00
