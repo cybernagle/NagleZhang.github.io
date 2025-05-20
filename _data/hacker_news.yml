@@ -1,121 +1,122 @@
 ---
-- title: France Becomes First Government to Endorse UN Open Source Principles
-  url: https://social.numerique.gouv.fr/@codegouvfr/114529954373492878
+- title: Have I Been Pwned 2.0
+  url: https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/
   summary: Comments
-  published: 2025-05-18 22:27:07.000000000 +00:00
-- title: New research reveals the strongest solar event ever detected, in 12350 BC
-  url: https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html
+  published: 2025-05-19 21:37:23.000000000 +00:00
+- title: is-even-ai – Check if a number is even using the power of AI
+  url: https://www.npmjs.com/package/is-even-ai
   summary: Comments
-  published: 2025-05-15 13:48:46.000000000 +00:00
-- title: Spaced repetition systems have gotten better
-  url: https://domenic.me/fsrs/
+  published: 2025-05-20 00:19:44.000000000 +00:00
+- title: DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage
+  url: https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/
   summary: Comments
-  published: 2025-05-18 11:42:19.000000000 +00:00
-- title: 'Show HN: I modeled the Voynich Manuscript with SBERT to test for structure'
-  url: https://github.com/brianmg/voynich-nlp-analysis
+  published: 2025-05-20 00:52:27.000000000 +00:00
+- title: A shower thought turned into a beautiful Collatz visualization
+  url: https://abstractnonsense.com/collatz/
   summary: Comments
-  published: 2025-05-18 16:09:01.000000000 +00:00
-- title: Ditching Obsidian and building my own
-  url: https://amberwilliams.io/blogs/building-my-own-pkms
+  published: 2025-05-20 01:04:14.000000000 +00:00
+- title: The Windows Subsystem for Linux is now open source
+  url: https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/
   summary: Comments
-  published: 2025-05-18 16:21:50.000000000 +00:00
-- title: 'Show HN: Vaev – A browser engine built from scratch (It renders google.com)'
-  url: https://github.com/skift-org/vaev
+  published: 2025-05-19 16:14:15.000000000 +00:00
+- title: 'Jules: An Asynchronous Coding Agent'
+  url: https://jules.google/
   summary: Comments
-  published: 2025-05-18 17:54:12.000000000 +00:00
-- title: "$30 Homebrew Automated Blinds Opener"
-  url: https://sifter.org/~simon/journal/20240718.html
+  published: 2025-05-19 21:12:47.000000000 +00:00
+- title: Zod 4
+  url: https://zod.dev/v4
   summary: Comments
-  published: 2025-05-18 17:05:56.000000000 +00:00
-- title: 'Show HN: A platform to find tech conferences, discounts, and ticket giveaways'
-  url: https://www.tech.tickets/
+  published: 2025-05-19 15:24:58.000000000 +00:00
+- title: GitHub Copilot Coding Agent
+  url: https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
   summary: Comments
-  published: 2025-05-16 14:05:52.000000000 +00:00
-- title: There Are People Who Can See and Others Who Cannot Even Look
-  url: https://worldhistory.substack.com/p/there-are-people-who-can-see-and
+  published: 2025-05-19 16:17:56.000000000 +00:00
+- title: Claude Code SDK
+  url: https://docs.anthropic.com/en/docs/claude-code/sdk
   summary: Comments
-  published: 2025-05-19 00:31:34.000000000 +00:00
-- title: Spaced Repetition Memory System
-  url: https://notes.andymatuschak.org/Spaced_repetition_memory_system
+  published: 2025-05-19 18:04:06.000000000 +00:00
+- title: 'Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript'
+  url: https://news.ycombinator.com/item?id=44030492
   summary: Comments
-  published: 2025-05-18 15:48:57.000000000 +00:00
-- title: Hyper Typing
-  url: https://pscanf.com/s/341/
+  published: 2025-05-19 14:48:03.000000000 +00:00
+- title: Run your GitHub Actions locally
+  url: https://github.com/nektos/act
   summary: Comments
-  published: 2025-05-18 20:41:51.000000000 +00:00
-- title: 'Comparing Parallel Functional Array Languages: Programming and Performance'
-  url: https://arxiv.org/abs/2505.08906
+  published: 2025-05-16 08:55:27.000000000 +00:00
+- title: Terraform MCP Server
+  url: https://github.com/hashicorp/terraform-mcp-server
   summary: Comments
-  published: 2025-05-16 19:50:45.000000000 +00:00
-- title: 'K-Scale Labs: Open-source humanoid robots, built for developers'
-  url: https://www.kscale.dev/
+  published: 2025-05-19 22:50:26.000000000 +00:00
+- title: 'Kilo: A text editor in less than 1000 LOC with syntax highlight and search'
+  url: https://github.com/antirez/kilo
   summary: Comments
-  published: 2025-05-18 19:16:41.000000000 +00:00
-- title: The Journal of Imaginary Research
-  url: https://journalofimaginaryresearch.home.blog/
+  published: 2025-05-19 20:28:29.000000000 +00:00
+- title: 'The forbidden railway: Vienna-Pyongyang (2008)'
+  url: http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html
   summary: Comments
-  published: 2025-05-16 11:10:31.000000000 +00:00
-- title: 'Show HN: Buckaroo – Data table UI for Notebooks'
-  url: https://github.com/paddymul/buckaroo
+  published: 2025-05-19 18:45:41.000000000 +00:00
+- title: Game theory illustrated by an animated cartoon game
+  url: https://ncase.me/trust/
   summary: Comments
-  published: 2025-05-18 15:56:18.000000000 +00:00
-- title: 'Show HN: Python Simulator of David Deutsch’s "Constructor Theory of Time"'
-  url: https://github.com/gvelesandro/constructor-theory-simulator
+  published: 2025-05-19 16:28:18.000000000 +00:00
+- title: Patience too cheap to meter
+  url: https://www.seangoedecke.com/patience-too-cheap-to-meter/
   summary: Comments
-  published: 2025-05-18 20:22:33.000000000 +00:00
-- title: Green Fabrication of Sulfonium-Containing Bismuth Materials for X-Ray Detection
-  url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418626
+  published: 2025-05-17 10:57:30.000000000 +00:00
+- title: Remarks on AI from NZ
+  url: https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
   summary: Comments
-  published: 2025-05-16 01:47:02.000000000 +00:00
-- title: Living beings emit a faint light that extinguishes upon death, study
-  url: https://phys.org/news/2025-05-emit-faint-extinguishes-death.html
+  published: 2025-05-16 03:54:02.000000000 +00:00
+- title: xAI's Grok 3 comes to Microsoft Azure
+  url: https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/
   summary: Comments
-  published: 2025-05-19 00:12:16.000000000 +00:00
-- title: KDE is finally getting a native virtual machine manager called "Karton"
-  url: https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/
+  published: 2025-05-19 16:14:35.000000000 +00:00
+- title: Microbes in Gowanus teach lessons on fighting industrial pollution
+  url: https://engineering.nyu.edu/news/microbes-brooklyn-superfund-site-teach-lessons-fighting-industrial-pollution
   summary: Comments
-  published: 2025-05-18 22:33:16.000000000 +00:00
-- title: 'In Memoriam: John L. Young, Cryptome Co-Founder'
-  url: https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder
+  published: 2025-05-16 13:43:56.000000000 +00:00
+- title: Too Much Go Misdirection
+  url: https://flak.tedunangst.com/post/too-much-go-misdirection
   summary: Comments
-  published: 2025-05-15 22:16:26.000000000 +00:00
-- title: Dezyne Programming Language
-  url: https://dezyne.org/dezyne/manual/dezyne/dezyne.html
+  published: 2025-05-19 15:40:32.000000000 +00:00
+- title: Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse
+  url: https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose
   summary: Comments
-  published: 2025-05-17 09:44:19.000000000 +00:00
-- title: 'Show HN: Hardtime.nvim – break bad habits and master Vim motions'
-  url: https://github.com/m4xshen/hardtime.nvim
+  published: 2025-05-19 22:53:17.000000000 +00:00
+- title: 'WireGuard-vanity-keygen: WireGuard vanity key generator'
+  url: https://github.com/axllent/wireguard-vanity-keygen
   summary: Comments
-  published: 2025-05-18 12:08:52.000000000 +00:00
-- title: Emergent social conventions and collective bias in LLM populations
-  url: https://www.science.org/doi/10.1126/sciadv.adu9368
+  published: 2025-05-19 20:16:13.000000000 +00:00
+- title: ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support
+  url: https://github.com/clawsoftware/clawPDF
   summary: Comments
-  published: 2025-05-18 16:26:58.000000000 +00:00
-- title: Yahtzeeql – Yahtzee solver that's mostly SQL
-  url: https://github.com/charliemeyer/yahtzeeql
+  published: 2025-05-19 12:31:33.000000000 +00:00
+- title: Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools
+  url: https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker
   summary: Comments
-  published: 2025-05-15 13:51:26.000000000 +00:00
-- title: Mystical
-  url: https://suberic.net/~dmm/projects/mystical/README.html
+  published: 2025-05-19 17:00:10.000000000 +00:00
+- title: The truth behind the accuracy of weather forecasts
+  url: https://www.abc.net.au/news/2025-05-16/weather-forecast-accuracy-bom/105297540
   summary: Comments
-  published: 2025-05-17 18:21:18.000000000 +00:00
-- title: How the humble chestnut traced the rise and fall of the Roman Empire
-  url: https://www.bbc.com/future/article/20250513-what-chestnuts-reveal-about-the-roman-empire
+  published: 2025-05-16 15:27:26.000000000 +00:00
+- title: Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)
+  url: https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html
   summary: Comments
-  published: 2025-05-14 23:29:32.000000000 +00:00
-- title: How the Sun Enterprise 10000 was born (2007)
-  url: https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html
+  published: 2025-05-17 08:56:10.000000000 +00:00
+- title: Dilbert creator Scott Adams says he will die soon from same cancer as Joe
+    Biden
+  url: https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/
   summary: Comments
-  published: 2025-05-18 12:43:01.000000000 +00:00
-- title: The Fall of Roam
-  url: https://every.to/superorganizers/the-fall-of-roam
+  published: 2025-05-19 17:00:43.000000000 +00:00
+- title: 'Show HN: A MCP server to evaluate Python code in WASM VM using RustPython'
+  url: https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py
   summary: Comments
-  published: 2025-05-18 18:36:54.000000000 +00:00
-- title: 'AniSora: Open-source anime video generation model'
-  url: https://komiko.app/video/AniSora
+  published: 2025-05-17 13:49:06.000000000 +00:00
+- title: 'Show HN: Windows 98 themed website in 1 HTML file for my post punk band'
+  url: https://corp.band
   summary: Comments
-  published: 2025-05-17 23:59:03.000000000 +00:00
-- title: Building my childhood dream PC
-  url: https://fabiensanglard.net/2168/index.html
+  published: 2025-05-19 17:39:59.000000000 +00:00
+- title: Diffusion models explained simply
+  url: https://www.seangoedecke.com/diffusion-models-explained/
   summary: Comments
-  published: 2025-05-18 14:52:11.000000000 +00:00
+  published: 2025-05-19 13:06:55.000000000 +00:00
