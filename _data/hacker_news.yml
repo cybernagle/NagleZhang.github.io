@@ -1,122 +1,123 @@
 ---
-- title: Have I Been Pwned 2.0
-  url: https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/
+- title: Veo 3 and Imagen 4, and a new tool for filmmaking called Flow
+  url: https://blog.google/technology/ai/generative-media-models-io-2025/
   summary: Comments
-  published: 2025-05-19 21:37:23.000000000 +00:00
-- title: is-even-ai – Check if a number is even using the power of AI
-  url: https://www.npmjs.com/package/is-even-ai
+  published: 2025-05-20 17:46:36.000000000 +00:00
+- title: 'Litestream: Revamped'
+  url: https://fly.io/blog/litestream-revamped/
   summary: Comments
-  published: 2025-05-20 00:19:44.000000000 +00:00
-- title: DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage
-  url: https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/
+  published: 2025-05-20 19:58:27.000000000 +00:00
+- title: "“ZLinq”, a Zero-Allocation LINQ Library for .NET"
+  url: https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749
   summary: Comments
-  published: 2025-05-20 00:52:27.000000000 +00:00
-- title: A shower thought turned into a beautiful Collatz visualization
-  url: https://abstractnonsense.com/collatz/
+  published: 2025-05-20 22:29:12.000000000 +00:00
+- title: 'Gemma 3n preview: Mobile-first AI'
+  url: https://developers.googleblog.com/en/introducing-gemma-3n/
   summary: Comments
-  published: 2025-05-20 01:04:14.000000000 +00:00
-- title: The Windows Subsystem for Linux is now open source
-  url: https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/
+  published: 2025-05-20 18:03:32.000000000 +00:00
+- title: Semantic search engine for ArXiv, biorxiv and medrxiv
+  url: https://arxivxplorer.com/
   summary: Comments
-  published: 2025-05-19 16:14:15.000000000 +00:00
-- title: 'Jules: An Asynchronous Coding Agent'
-  url: https://jules.google/
+  published: 2025-05-20 21:49:36.000000000 +00:00
+- title: The NSA Selector
+  url: https://github.com/wenzellabs/the_NSA_selector
   summary: Comments
-  published: 2025-05-19 21:12:47.000000000 +00:00
-- title: Zod 4
-  url: https://zod.dev/v4
+  published: 2025-05-20 18:30:18.000000000 +00:00
+- title: Deep Learning Is Applied Topology
+  url: https://theahura.substack.com/p/deep-learning-is-applied-topology
   summary: Comments
-  published: 2025-05-19 15:24:58.000000000 +00:00
-- title: GitHub Copilot Coding Agent
-  url: https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
+  published: 2025-05-20 13:54:54.000000000 +00:00
+- title: 'Show HN: TitleBridge - A FinalCut Workflow Plugin'
+  url: https://bustin.tech/apps/titlebridge/
   summary: Comments
-  published: 2025-05-19 16:17:56.000000000 +00:00
-- title: Claude Code SDK
-  url: https://docs.anthropic.com/en/docs/claude-code/sdk
+  published: 2025-05-21 01:38:04.000000000 +00:00
+- title: Red Programming Language
+  url: https://www.red-lang.org/p/about.html
   summary: Comments
-  published: 2025-05-19 18:04:06.000000000 +00:00
-- title: 'Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript'
-  url: https://news.ycombinator.com/item?id=44030492
+  published: 2025-05-20 18:14:02.000000000 +00:00
+- title: Magic of software; what makes a good engineer also makes a good engineering
+    org
+  url: https://moxie.org/2024/09/23/a-good-engineer.html
   summary: Comments
-  published: 2025-05-19 14:48:03.000000000 +00:00
-- title: Run your GitHub Actions locally
-  url: https://github.com/nektos/act
+  published: 2025-05-19 05:26:32.000000000 +00:00
+- title: The Value Isn't in the Code
+  url: https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/
   summary: Comments
-  published: 2025-05-16 08:55:27.000000000 +00:00
-- title: Terraform MCP Server
-  url: https://github.com/hashicorp/terraform-mcp-server
+  published: 2025-05-20 23:33:27.000000000 +00:00
+- title: My favourite fonts to use with LaTeX (2022)
+  url: https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html
   summary: Comments
-  published: 2025-05-19 22:50:26.000000000 +00:00
-- title: 'Kilo: A text editor in less than 1000 LOC with syntax highlight and search'
-  url: https://github.com/antirez/kilo
+  published: 2025-05-17 02:53:34.000000000 +00:00
+- title: 'Show HN: 90s.dev – Game maker that runs on the web'
+  url: https://90s.dev/blog/finally-releasing-90s-dev.html
   summary: Comments
-  published: 2025-05-19 20:28:29.000000000 +00:00
-- title: 'The forbidden railway: Vienna-Pyongyang (2008)'
-  url: http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html
+  published: 2025-05-20 14:58:03.000000000 +00:00
+- title: 'Show HN: A Tiling Window Manager for Windows, Written in Janet'
+  url: https://agent-kilo.github.io/jwno/
   summary: Comments
-  published: 2025-05-19 18:45:41.000000000 +00:00
-- title: Game theory illustrated by an animated cartoon game
-  url: https://ncase.me/trust/
+  published: 2025-05-20 15:08:42.000000000 +00:00
+- title: New stem cell model sheds light on human amniotic sac development
+  url: https://www.crick.ac.uk/news/2025-05-15_new-stem-cell-model-sheds-light-on-human-amniotic-sac-development
   summary: Comments
-  published: 2025-05-19 16:28:18.000000000 +00:00
-- title: Patience too cheap to meter
-  url: https://www.seangoedecke.com/patience-too-cheap-to-meter/
+  published: 2025-05-17 00:18:40.000000000 +00:00
+- title: 'Robin: A multi-agent system for automating scientific discovery'
+  url: https://arxiv.org/abs/2505.13400
   summary: Comments
-  published: 2025-05-17 10:57:30.000000000 +00:00
-- title: Remarks on AI from NZ
-  url: https://nealstephenson.substack.com/p/remarks-on-ai-from-nz
+  published: 2025-05-20 16:21:03.000000000 +00:00
+- title: AI's energy footprint
+  url: https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
   summary: Comments
-  published: 2025-05-16 03:54:02.000000000 +00:00
-- title: xAI's Grok 3 comes to Microsoft Azure
-  url: https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/
+  published: 2025-05-20 10:07:55.000000000 +00:00
+- title: The Dawn of Nvidia's Technology
+  url: https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html
   summary: Comments
-  published: 2025-05-19 16:14:35.000000000 +00:00
-- title: Microbes in Gowanus teach lessons on fighting industrial pollution
-  url: https://engineering.nyu.edu/news/microbes-brooklyn-superfund-site-teach-lessons-fighting-industrial-pollution
+  published: 2025-05-20 17:04:00.000000000 +00:00
+- title: 'LLM-D: Kubernetes-Native Distributed Inference at Scale'
+  url: https://github.com/llm-d/llm-d
   summary: Comments
-  published: 2025-05-16 13:43:56.000000000 +00:00
-- title: Too Much Go Misdirection
-  url: https://flak.tedunangst.com/post/too-much-go-misdirection
+  published: 2025-05-20 23:55:18.000000000 +00:00
+- title: Why does the U.S. always run a trade deficit?
+  url: https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/
   summary: Comments
-  published: 2025-05-19 15:40:32.000000000 +00:00
-- title: Self-Hosting Moose with Docker Compose, Redis, Temporal, Redpanda and ClickHouse
-  url: https://docs.fiveonefour.com/moose/deploying/self-hosting/deploying-with-docker-compose
+  published: 2025-05-20 11:42:24.000000000 +00:00
+- title: 'Show HN: A Simple Server to Match Long/Lat to a TimeZone'
+  url: https://github.com/LittleGreenViper/LGV_TZ_Lookup
   summary: Comments
-  published: 2025-05-19 22:53:17.000000000 +00:00
-- title: 'WireGuard-vanity-keygen: WireGuard vanity key generator'
-  url: https://github.com/axllent/wireguard-vanity-keygen
+  published: 2025-05-20 21:43:50.000000000 +00:00
+- title: Linguists find proof of sweeping language pattern once deemed a 'hoax'
+  url: https://www.scientificamerican.com/article/linguists-find-proof-of-sweeping-language-pattern-once-deemed-a-hoax/
   summary: Comments
-  published: 2025-05-19 20:16:13.000000000 +00:00
-- title: ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support
-  url: https://github.com/clawsoftware/clawPDF
+  published: 2025-05-19 06:23:01.000000000 +00:00
+- title: 'Show HN: Juvio – UV Kernel for Jupyter'
+  url: https://github.com/OKUA1/juvio
   summary: Comments
-  published: 2025-05-19 12:31:33.000000000 +00:00
-- title: Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools
-  url: https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker
+  published: 2025-05-20 16:32:58.000000000 +00:00
+- title: Ashby (YC W19) Is Hiring Engineering Managers
+  url: https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a
   summary: Comments
-  published: 2025-05-19 17:00:10.000000000 +00:00
-- title: The truth behind the accuracy of weather forecasts
-  url: https://www.abc.net.au/news/2025-05-16/weather-forecast-accuracy-bom/105297540
+  published: 2025-05-20 17:00:53.000000000 +00:00
+- title: GPU-Driven Clustered Forward Renderer
+  url: https://logdahl.net/p/gpu-driven
   summary: Comments
-  published: 2025-05-16 15:27:26.000000000 +00:00
-- title: Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023)
-  url: https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html
+  published: 2025-05-20 15:57:01.000000000 +00:00
+- title: A disk is a bunch of bits (2023)
+  url: https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html
   summary: Comments
-  published: 2025-05-17 08:56:10.000000000 +00:00
-- title: Dilbert creator Scott Adams says he will die soon from same cancer as Joe
-    Biden
-  url: https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/
+  published: 2025-05-17 21:19:36.000000000 +00:00
+- title: Google AI Ultra
+  url: https://blog.google/products/google-one/google-ai-ultra/
   summary: Comments
-  published: 2025-05-19 17:00:43.000000000 +00:00
-- title: 'Show HN: A MCP server to evaluate Python code in WASM VM using RustPython'
-  url: https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py
+  published: 2025-05-20 18:20:47.000000000 +00:00
+- title: Gail Wellington, former Commodore executive, has died
+  url: https://www.legacy.com/us/obituaries/name/gail-wellington-obituary?id=58418580
   summary: Comments
-  published: 2025-05-17 13:49:06.000000000 +00:00
-- title: 'Show HN: Windows 98 themed website in 1 HTML file for my post punk band'
-  url: https://corp.band
+  published: 2025-05-17 21:27:40.000000000 +00:00
+- title: 'Show HN: Text to 3D simulation on a map (does history pretty well)'
+  url: https://mused.com/map/
   summary: Comments
-  published: 2025-05-19 17:39:59.000000000 +00:00
-- title: Diffusion models explained simply
-  url: https://www.seangoedecke.com/diffusion-models-explained/
+  published: 2025-05-20 11:43:55.000000000 +00:00
+- title: 'Launch HN: Opusense (YC X25) – AI assistant for construction inspectors
+    on site'
+  url: https://news.ycombinator.com/item?id=44042791
   summary: Comments
-  published: 2025-05-19 13:06:55.000000000 +00:00
+  published: 2025-05-20 15:35:29.000000000 +00:00
