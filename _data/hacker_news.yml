@@ -1,123 +1,122 @@
 ---
-- title: Postgres IDE in VS Code
-  url: https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648
+- title: Reinvent the Wheel
+  url: https://endler.dev/2025/reinvent-the-wheel/
   summary: Comments
-  published: 2025-05-23 15:12:44.000000000 +00:00
-- title: Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy
-  url: https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/
+  published: 2025-05-24 20:05:12.000000000 +00:00
+- title: 'Tachy0n: The Last 0day Jailbreak'
+  url: https://blog.siguza.net/tachy0n/
   summary: Comments
-  published: 2025-05-24 00:29:28.000000000 +00:00
-- title: Find Your People
-  url: https://foundersatwork.posthaven.com/find-your-people
+  published: 2025-05-24 19:50:41.000000000 +00:00
+- title: I used o3 to find a remote zeroday in the Linux SMB implementation
+  url: https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
   summary: Comments
-  published: 2025-05-23 16:02:02.000000000 +00:00
-- title: 'The Way of Code: The Timeless Art of Vibe Coding'
-  url: https://www.thewayofcode.com/
+  published: 2025-05-24 14:25:45.000000000 +00:00
+- title: CAPTCHAs are over (in ticketing)
+  url: https://behind.pretix.eu/2025/05/23/captchas-are-over/
   summary: Comments
-  published: 2025-05-24 00:11:25.000000000 +00:00
-- title: 'Mermaid: Generation of diagrams like flowcharts or sequence diagrams from
-    text'
-  url: https://github.com/mermaid-js/mermaid
+  published: 2025-05-25 00:37:08.000000000 +00:00
+- title: Using the Apple ][+ with the RetroTink-5X
+  url: https://nicole.express/2025/apple-ii-more-like-apple-5x.html
   summary: Comments
-  published: 2025-05-21 09:06:46.000000000 +00:00
-- title: 'Show HN: Genetic Boids Web Simulation'
-  url: https://attentionmech.github.io/genetic-boids/
+  published: 2025-05-24 21:27:02.000000000 +00:00
+- title: The Logistics of Road War in the Wasteland
+  url: https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/
   summary: Comments
-  published: 2025-05-23 19:40:03.000000000 +00:00
+  published: 2025-05-24 20:22:59.000000000 +00:00
+- title: Good Writing
+  url: https://paulgraham.com/goodwriting.html
+  summary: Comments
+  published: 2025-05-24 15:03:37.000000000 +00:00
+- title: 'Show HN: Rotary Phone Dial Linux Kernel Driver'
+  url: https://gitlab.com/sephalon/rotary_dial_kmod
+  summary: Comments
+  published: 2025-05-24 13:02:00.000000000 +00:00
+- title: The WinRAR Approach
+  url: https://basicappleguy.com/basicappleblog/the-winrar-approach
+  summary: Comments
+  published: 2025-05-21 05:38:47.000000000 +00:00
+- title: Lone coder cracks 50-year puzzle to find Boggle's top-scoring board
+  url: https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1
+  summary: Comments
+  published: 2025-05-24 18:24:05.000000000 +00:00
+- title: 'The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2'
+  url: https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/
+  summary: Comments
+  published: 2025-05-24 12:06:06.000000000 +00:00
+- title: An Almost Pointless Exercise in GPU Optimization
+  url: https://blog.speechmatics.com/pointless-gpu-optimization-exercise
+  summary: Comments
+  published: 2025-05-21 07:57:59.000000000 +00:00
+- title: Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)
+  url: https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html
+  summary: Comments
+  published: 2025-05-24 12:08:15.000000000 +00:00
+- title: Scientific conferences are leaving the US amid border fears
+  url: https://www.nature.com/articles/d41586-025-01636-5
+  summary: Comments
+  published: 2025-05-24 21:53:47.000000000 +00:00
+- title: 'Show HN: I built StickerFacet to turn photos into high quality vinyl stickers'
+  url: https://stickerfacet.com
+  summary: Comments
+  published: 2025-05-24 23:13:24.000000000 +00:00
+- title: One of the Most Popular Games on the Planet
+  url: https://kotaku.com/grow-a-garden-roblox-5-million-active-users-record-pc-1851781824
+  summary: Comments
+  published: 2025-05-22 00:30:28.000000000 +00:00
+- title: Domain Theory Lecture Notes
+  url: https://liamoc.net/forest/dt-001Y/index.xml
+  summary: Comments
+  published: 2025-05-25 00:07:12.000000000 +00:00
+- title: Exposed Industrial Control Systems and Honeypots in the Wild [pdf]
+  url: https://gsmaragd.github.io/publications/EuroSP2025-ICS/EuroSP2025-ICS.pdf
+  summary: Comments
+  published: 2025-05-24 18:14:43.000000000 +00:00
+- title: 'The Verse Calculus: A Core Calculus for Functional Logic Programming [pdf]'
+  url: https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf
+  summary: Comments
+  published: 2025-05-24 20:43:11.000000000 +00:00
+- title: Is Astrophotography Without Tracking Possible?
+  url: https://astroimagery.com/astrophotography/heres-how-to-do-astrophotography-without-tracking/
+  summary: Comments
+  published: 2025-05-21 10:22:08.000000000 +00:00
+- title: Peer Programming with LLMs, for Senior+ Engineers
+  url: https://pmbanugo.me/blog/peer-programming-with-llms
+  summary: Comments
+  published: 2025-05-24 13:45:02.000000000 +00:00
+- title: Trellis (YC W24) Is Hiring founding SDR to help automate healthcare paperwork
+  url: https://www.ycombinator.com/companies/trellis/jobs/7Ru1X1P-founding-sdr
+  summary: Comments
+  published: 2025-05-24 17:01:10.000000000 +00:00
+- title: 'Show HN: F2 – Cross-Platform CLI Batch Renaming Tool'
+  url: https://github.com/ayoisaiah/f2
+  summary: Comments
+  published: 2025-05-24 15:49:12.000000000 +00:00
+- title: The Last Nomads
+  url: https://www.thedial.world/articles/news/issue-28/georgia-adjara-highlands-nomads
+  summary: Comments
+  published: 2025-05-22 16:11:57.000000000 +00:00
+- title: Goethe's Faustian Life
+  url: https://www.commonwealmagazine.org/goethe-mitchell-wilson-faust-johann-biography
+  summary: Comments
+  published: 2025-05-21 04:56:44.000000000 +00:00
 - title: Root for your friends
   url: https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html
   summary: Comments
   published: 2025-05-23 23:28:11.000000000 +00:00
-- title: The world of Japan's PC-98 computer
-  url: https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/
+- title: "'Crypto king' turned NYC townhouse into torture chamber to gain partner
+    Bitcoin"
+  url: https://www.nbcnewyork.com/new-york-city/manhattan-crypto-kidnapping-torture-bitcoin-password/6277345/
   summary: Comments
-  published: 2025-05-23 20:51:29.000000000 +00:00
-- title: 'Show HN: I built a more productive way to manage AI chats'
-  url: https://contextch.at
+  published: 2025-05-24 23:17:25.000000000 +00:00
+- title: Live facial recognition cameras may become 'commonplace' as police use soars
+  url: https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales
   summary: Comments
-  published: 2025-05-23 20:46:04.000000000 +00:00
-- title: A Formal Proof of Complexity Bounds on Diophantine Equations
-  url: https://arxiv.org/abs/2505.16963
+  published: 2025-05-24 17:03:39.000000000 +00:00
+- title: The legacy of the iconic Nakagin capsule tower
+  url: https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/
   summary: Comments
-  published: 2025-05-23 20:09:01.000000000 +00:00
-- title: Positional preferences, order effects, prompt sensitivity undermine AI judgments
-  url: https://www.cip.org/blog/llm-judges-are-unreliable
+  published: 2025-05-24 13:05:56.000000000 +00:00
+- title: Why Algebraic Effects?
+  url: https://antelang.org/blog/why_effects/
   summary: Comments
-  published: 2025-05-23 17:20:40.000000000 +00:00
-- title: 'Show HN: DoubleMemory – more efficient local-first read-it-later app'
-  url: https://doublememory.com
-  summary: Comments
-  published: 2025-05-23 18:55:28.000000000 +00:00
-- title: UndoDB – The interactive time travel debugger for Linux C/C++ for debugging
-  url: https://undo.io/
-  summary: Comments
-  published: 2025-05-23 20:22:09.000000000 +00:00
-- title: 'Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate
-    Tokens'
-  url: https://arxiv.org/abs/2505.13775
-  summary: Comments
-  published: 2025-05-23 16:13:43.000000000 +00:00
-- title: John Carmack talk at Upper Bound 2025
-  url: https://twitter.com/ID_AA_Carmack/status/1925710474366034326
-  summary: Comments
-  published: 2025-05-23 05:14:16.000000000 +00:00
-- title: 'Visual Studio Code: Text Buffer Reimplementation (2018)'
-  url: https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation
-  summary: Comments
-  published: 2025-05-20 09:34:15.000000000 +00:00
-- title: 'A Bead Too Far: Rethinking Global Connections Before Columbus'
-  url: https://peterfrankopan.substack.com/p/a-bead-too-far-rethinking-global
-  summary: Comments
-  published: 2025-05-23 14:22:48.000000000 +00:00
-- title: Startup enables 100-year bridges with corrosion-resistant steel
-  url: https://news.mit.edu/2025/allium-engineering-enables-100-year-bridges-corrosion-resistant-steel-0520
-  summary: Comments
-  published: 2025-05-21 14:10:47.000000000 +00:00
-- title: Caesar's Last Breath
-  url: https://charliesabino.com/caesars-last-breath/
-  summary: Comments
-  published: 2025-05-23 14:22:53.000000000 +00:00
-- title: Types of optical systems in a lens designer's toolbox (2020)
-  url: https://www.pencilofrays.com/lens-design-forms/
-  summary: Comments
-  published: 2025-05-23 18:33:07.000000000 +00:00
-- title: How to live on $432 a month in America
-  url: https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america
-  summary: Comments
-  published: 2025-05-23 16:40:55.000000000 +00:00
-- title: Why I no longer have an old-school cert on my HTTPS site
-  url: https://rachelbythebay.com/w/2025/05/22/ssl/
-  summary: Comments
-  published: 2025-05-23 10:56:12.000000000 +00:00
-- title: 'Into The Tunnel: The secret life of wind tunnels'
-  url: https://jordanwtaylor2.substack.com/p/into-the-tunnel
-  summary: Comments
-  published: 2025-05-23 17:17:26.000000000 +00:00
-- title: The metre originated in the French Revolution
-  url: https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024
-  summary: Comments
-  published: 2025-05-23 15:43:16.000000000 +00:00
-- title: 'Show HN: High-resolution surface analysis with Lidar data'
-  url: https://github.com/r-follador/delta-relief
-  summary: Comments
-  published: 2025-05-21 20:40:02.000000000 +00:00
-- title: Japan and the Birth of Modern Shipbuilding
-  url: https://www.construction-physics.com/p/how-japan-invented-modern-shipbuilding
-  summary: Comments
-  published: 2025-05-23 18:30:07.000000000 +00:00
-- title: 'Show HN: GetStack.dev – Track GitHub open-source trends'
-  url: https://getstack.dev
-  summary: Comments
-  published: 2025-05-23 07:50:54.000000000 +00:00
-- title: 'Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page'
-  url: https://hcker.news
-  summary: Comments
-  published: 2025-05-23 18:44:31.000000000 +00:00
-- title: Writing A Job Runner (In Elixir) (Again) (10 years later)
-  url: https://github.com/notactuallytreyanastasio/genstage_tutorial_2025/blob/main/README.md
-  summary: Comments
-  published: 2025-05-23 10:41:12.000000000 +00:00
-- title: MCP is the coming of Web 2.0 2.0
-  url: https://www.anildash.com//2025/05/20/mcp-web20-20/
-  summary: Comments
-  published: 2025-05-23 15:33:00.000000000 +00:00
+  published: 2025-05-24 03:00:53.000000000 +00:00
