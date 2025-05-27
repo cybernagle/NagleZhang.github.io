@@ -1,4 +1,116 @@
 ---
+- title: " Ethereum co-founder responds to Sweden’s cashless-society rethink "
+  url: https://cointelegraph.com/news/ethereum-alternative-sweden-cashless-plans?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "As Sweden reconsiders its push toward a cashless society, Ethereum co-founder
+    Vitalik Buterin highlighted the fragility of centralized digital payments and
+    the opportunity presented by decentralized payment alternatives. In recent years,
+    Sweden has led the charge toward a cashless future, with digital payment platforms
+    becoming widespread. However, as concerns over cyber-threats, civil defense and
+    instability have emerged, Swedish authorities are now actively encouraging citizens
+    to keep some cash. Buterin noted the reversal illustrates that while centralized
+    solutions may be efficient, they may not be reliable during times of crisis. “Nordics
+    are walking back the cashless society initiative because their centralized implementation
+    of the concept is too fragile,” Buterin wrote, citing a March 16 article by The
+    Guardian. “Cash turns out necessary as a backup.”Source: Vitalik ButerinHow Ethereum
+    can play a role in a crisisA former central bank official predicted in 2018 that
+    Sweden would be cashless after seven years. In 2025, the prediction mostly held,
+    with only one in 10 transactions in the country being done in cash, according
+    to The Guardian.Still, while the Nordic country was an early adopter of digital
+    payments, its government published a brochure encouraging citizens to keep a week’s
+    worth of cash in case of war or crisis. Sweden’s reconsideration has revealed
+    the issue of centralized digital payment infrastructure remaining reliable in
+    times of instability, Buterin suggested. Buterin said Ethereum can be a decentralized
+    financial fallback in times of crisis. “Ethereum needs to be resilient enough,
+    and private enough, to be able to credibly play this kind of role,” Buterin said. When
+    asked if fully offline zero-knowledge technology-secured private transfers were
+    close to practical implementation, Buterin said the tech know-how is already there,
+    but there are still limitations: “We basically know how to do it, but with the
+    limitation that any solution depends on trusted hardware and/or post hoc enforcement
+    against double-spenders.” Related: Vitalik Buterin proposes partially stateless
+    nodes for Ethereum scalingCrypto payments exec thinks crypto won’t replace fiatWhile
+    crypto payment solutions are becoming more common, Mercuryo co-founder and CEO
+    Petr Kozyakov has said that crypto will not replace fiat. Kozyakov told Cointelegraph
+    in an interview that crypto payments are seeing an increase in demand and adoption.
+    However, the executive said that instead of cryptocurrencies fully replacing fiat
+    money as a payment method, the two payment options will coexist. Kozyakov told
+    Cointelegraph that people will use crypto when it’s easier and more practical.Magazine:
+    TradFi is building Ethereum L2s to tokenize trillions in RWAs: Inside story\n\n
+    \           "
+  published: 2025-05-26 12:51:44.000000000 +01:00
+- title: " Crypto investor loses $2.6M in stablecoins in double phishing scam "
+  url: https://cointelegraph.com/news/stablecoin-scam-zero-transfer-phishing-2-5m-loss?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "A single victim was scammed two times within three hours, losing a total
+    of $2.6 million in stablecoins.According to data shared on May 26 by crypto compliance
+    firm Cyvers, the victim sent 843,000 worth of USDt (USDT), followed by another
+    1.75 million USDt around three hours later. Cyvers said the scam used a method
+    known as a zero-value transfer, a sophisticated form of onchain phishing.Source:
+    Cyvers AlertZero-value transfers are an onchain phishing technique that abuses
+    token transfer functions to trick users into sending real funds to attackers.
+    The attackers exploit the token transfer From function to transfer zero tokens
+    from the victim’s wallet to a spoofed address.Since the amount transferred is
+    zero, no signature by the victim’s private key is necessary for onchain inclusion.
+    Consequently, the victims will see the outgoing transaction in their history.The
+    victim may trust this address since it is included in their transaction history,
+    mistaking it as a known or safe recipient. They may then send real funds to the
+    attacker’s address in a future transaction. In one high-profile case, a scammer
+    using a zero-transfer phishing attack managed to steal $20 million worth of USDT
+    before getting blacklisted by the stablecoin’s issuer in the summer of 2023.Related:
+    Hackers using fake Ledger Live app to steal seed phrases and drain cryptoAdvanced
+    form of address poisoningA zero-value transfer is considered an evolution of address
+    poisoning, a tactic where attackers send small amounts of cryptocurrency from
+    a wallet address that resembles a victim’s real address, often with the same starting
+    and ending characters. The goal is to trick the user into accidentally copying
+    and reusing the attacker’s address in future transactions, resulting in lost funds.The
+    technique exploits how users often rely on partial address matching or clipboard
+    history when sending crypto. Custom addresses with similar starting and ending
+    characters can also be combined with zero-value transfers.Related: Industry exec
+    sounds alarm on Ledger phishing letter delivered by USPSThreat growing across
+    blockchainsA January 2025 study found that over 270 million poisoning attempts
+    occurred on BNB Chain and Ethereum between July 1, 2022, and June 30, 2024. Of
+    those, 6,000 attempts were successful, leading to losses over $83 million.The
+    report followed crypto cybersecurity firm Trugard and onchain trust protocol Webacy
+    announcing an artificial intelligence-based system for detecting crypto wallet
+    address poisoning. The new tool purportedly has a success score of 97%, tested
+    across known attack cases.Magazine: Crypto scam hub expose stunt goes viral, Kakao
+    detects 70K scam apps: Asia Express\n\n            "
+  published: 2025-05-26 10:09:34.000000000 +01:00
+- title: " Crypto ETPs see $3.3B weekly inflows, top $10.8B year to date "
+  url: https://cointelegraph.com/news/crypto-etps-hit-3-3-billion-ytd-total-record-10-8-billion?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Cryptocurrency investment products saw a sharp increase in inflows last
+    week, driving the year-to-date (YTD) total above $10 billion, according to data
+    from European crypto investment manager CoinShares.Global crypto exchange-traded
+    products (ETPs) recorded $3.3 billion of inflows during the week ending May 24,
+    bringing total inflows YTD to a record $10.8 billion, CoinShares reported on May
+    26.CoinShares head of research James Butterfill said total assets under management
+    (AUM) in crypto ETPs briefly reached an all-time high of $187.5 billion, reflecting
+    strong investor interest.  “We believe that growing concerns over the US economy,
+    driven by the Moody’s downgrade and the resulting spike in treasury yields, have
+    prompted investors to seek diversification through digital assets,” Butterfill
+    wrote.Bitcoin ETPs lead with $2.9 billion in inflowsBitcoin (BTC) led last week’s
+    inflows to crypto ETPs with $2.9 billion, a quarter of total inflows for 2024.As
+    Bitcoin surged above $110,000 for the first time on May 22, some investors turned
+    to short-BTC products, with inflows surging to $12.7 million, the highest since
+    December 2024.Crypto ETP flows by asset as of May 23, 2025 (in millions of US
+    dollars). Source: CoinSharesEther (ETH) ETPs continued to see healthy inflows
+    totaling $326 million last week, marking a fifth straight week of gains as momentum
+    continued following the successful Pectra upgrade that went live on May 7.Related:
+    US Bitcoin ETFs near record month after $1.5B inflows in 2 daysWhile the majority
+    of altcoin ETPs saw meager or even zero inflows, XRP (XRP) ETPs were hit with
+    massive outflows. After posting an 80-week inflow streak, XRP investment products
+    posted $37.2 million in outflows, the largest on record, according to Butterfill.The
+    wave of outflows for XRP ETPs came amid an underperforming price despite two key
+    bullish developments for the asset, including a potential spot XRP exchange-traded
+    fund in the US and $2.2 billion in XRP futures.Crypto ETPs keep breaking recordsThe
+    latest CoinShares data marks another record-breaking milestone for crypto ETPs,
+    following a historic surge in YTD inflows the previous week.In mid-May, crypto
+    investment products added $785 million in new inflows, pushing the YTD total to
+    $7.5 billion by May 16, according to CoinShares.Weekly crypto ETP inflows since
+    late 2024. Source: CoinSharesThe new inflow record not only surpassed the previous
+    peak of $7.2 billion recorded in February 2025 but also fully recovered the nearly
+    $7 billion of outflows seen during the subsequent price correction in February
+    and March, Butterfill said.Magazine: Bitcoin bears eye $69K, CZ denies WLF ‘fixer’
+    rumors: Hodler’s Digest, May 18 – 24\n\n            "
+  published: 2025-05-26 09:12:12.000000000 +01:00
 - title: " Price predictions 5/23: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, HYPE,
     LINK "
   url: https://cointelegraph.com/news/analise-de-precos-em-23-05-btc-eth-xrp-bnb-sol-doge-ada-sui-hype-link?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -1644,193 +1756,3 @@
     asset by market cap. Magazine: Danger signs for Bitcoin as retail abandons it
     to institutions: Sky Wee\n\n            "
   published: 2025-05-15 10:01:03.000000000 +01:00
-- title: " 3 reasons why Ethereum price could rally to $5,000 in 2025 "
-  url: https://cointelegraph.com/news/3-reasons-why-ethereum-price-could-rally-to-5-000-in-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Key takeaways:A longer-term ETH price rally is dependent on SEC approval
-    of in-kind ETF creation and staking to attract more investors. AI adoption and
-    Ethereum layer-2 growth must drive onchain activity to restore the network’s deflationary
-    burn mechanism.Ether (ETH) surged 43.6% between May 7 and May 14, but its current
-    price of $2,600 still falls short of the 2021 peak of $4,868. Some analysts argue
-    that the current bullish momentum is “just the beginning of a much larger and
-    aggressive uptrend,” raising the likelihood of a near-term rally to $5,000.However,
-    the catalysts for a new ETH all-time high in 2025 remain uncertain, particularly
-    in the face of intensifying competition.Source: X/AdrianoFeriaAccording to X user
-    AdrianoFeria, ETH is “the best candidate for institutional diversification” since
-    professional fund managers appreciate “similar levels of regulatory clarity and
-    accessibility” through multiple spot exchange-traded funds (ETFs), although recent
-    data hasn’t been especially encouraging. Ether remains the sole alternative to
-    spot Bitcoin ETFsBetween May 12 and May 13, US-listed Ether ETFs saw net outflows
-    of $4 million. The size of the Ether ETF market is 92% smaller than Bitcoin’s
-    $121.5 billion, highlighting a clear lack of institutional appetite for ETH-based
-    products. This has led some traders to question whether Ether can truly gain traction
-    among professional investors.ETH/USDT vs. competitors XRP, TRX, BNB, ADA. Source:
-    TradingView / CointelegraphWhile competing cryptocurrencies have outperformed
-    ETH in 2025, their chances of being included in US state-level digital asset reserves
-    have plummeted. This follows US President Trump’s decision on March 2 to distance
-    himself from lobbyists supporting XRP, SOL, and ADA. The “Digital Asset Stockpile”
-    executive order issued on March 6 was notably more cautious, drawing a clear line
-    between Bitcoin (BTC) and other altcoins.Ether’s best-case scenario may involve
-    a lack of direct ETF competition, which would depend on the US Securities and
-    Exchange Commission (SEC) rejecting several pending applications. Analysts also
-    suggest that Ether ETFs could gain momentum from in-kind creation and staking
-    approvals — developments considered highly likely before year-end, according to
-    Bloomberg Intelligence analyst James Seyffart.Pectra upgrade improved scalability,
-    setting the stage for AI adoptionPreviously hailed as the answer to Ether’s monetary
-    policy, the built-in burn mechanism introduced in 2021 was designed to reduce
-    supply growth based on network demand. However, the shift in focus toward scalability
-    through rollups has largely offset its deflationary impact. As a result, a significant
-    increase in onchain activity is now required for Ether to become deflationary
-    once more.Ethereum rollups ranked by 30-day transactions. Source: L2BeatThe recent
-    Pectra upgrade has improved data transmission efficiency, setting the stage for
-    enhanced scalability. Layer-2 network activity rose 23% compared to the previous
-    month, with the Base network taking the lead at 244.2 million transactions in
-    30 days, according to L2beat. If this momentum holds, it could generate sustained
-    demand for ETH and help further differentiate Ethereum from rival platforms.Related:
-    Ethereum retakes 10% market share, but ETH bulls shouldn't celebrate yetSource:
-    X/econoarThe path to a $5,000 ETH price remains uncertain, but artificial intelligence
-    may serve as a powerful catalyst. Ethereum advocate Eric Conner observed that
-    ChatGPT prefers Ethereum’s layer-2 infrastructure for managing funds via multisignature
-    contracts, allowing autonomous agents to pay merchants, settle balances, and allocate
-    surplus into decentralized finance applications.Although it is difficult to predict
-    whether the AI-driven trend will fully develop, the potential for smart contract
-    activity to increase tenfold from current levels is within reach. This growth
-    could make a new all-time high for ETH in 2025 achievable, especially if institutional
-    interest accelerates following long-awaited regulatory changes.This article is
-    for general information purposes and is not intended to be and should not be taken
-    as legal or investment advice. The views, thoughts, and opinions expressed here
-    are the author’s alone and do not necessarily reflect or represent the views and
-    opinions of Cointelegraph.\n\n            "
-  published: 2025-05-14 22:59:16.000000000 +01:00
-- title: " Ethereum Foundation unveils security initiative to supplant legacy systems "
-  url: https://cointelegraph.com/news/ethereum-foundation-unveils-security-initiative-legacy-systems?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The Ethereum Foundation has launched a security initiative aimed at supporting
-    the broader adoption of onchain technologies, according to a May 14 announcement.
-    The effort is part of an ongoing push to strengthen Ethereum's role in programmable
-    digital assets.Fredrik Svantes, a protocol security research lead, and Josh Stark
-    from the Ethereum Foundation management team will be the initial co-chairs of
-    the initiative. Three contributors to the Ethereum ecosystem — samczsun, Medhi
-    Zerouali, and Zach Obront — will help guide the project.Called the Trillion Dollar
-    Security Initiative, the effort seeks to analyze, improve, and communicate to
-    Ethereum developers areas where security can be improved, including user experience,
-    wallet security, smart contract security and infrastructure.According to DefiLlama,
-    Ethereum still is the leading ecosystem for decentralized finance (DeFi), having
-    held between 50-60% of the total value locked across all blockchains since May
-    2022. The network's TVL stands at nearly $80 billion as of May 14. Blockchains
-    by total-value-locked. Source: DefiLlama“Achieving Trillion Dollar Security is
-    only possible with the support of the broad Ethereum ecosystem,” the Foundation
-    said in a statement. “Billions of individuals are each comfortable storing more
-    than $1,000 onchain, collectively amounting to trillions of dollars secured on
-    Ethereum,\" it added.Related: Vitalik Buterin outlines vision as Ethereum ecosystem
-    addresses hit new highEthereum rebounds with Pectra upgradeEthereum’s struggles
-    during this bull market have been well-documented. It has suffered from low traffic
-    and a lack of attention-grabbing use cases, and its layer-2 chains that make Ethereum
-    faster have been plagued by bad UX. But then came the Pectra upgrade.Pectra, Ethereum’s
-    most significant upgrade since The Merge, has delivered three key improvements,
-    including external accounts as smart contracts, increased staking limits and data
-    blobs per block.Ethereum’s native token (ETH) price has risen significantly since
-    the upgrade, jumping over 43% since May 7. Magazine: Comeback 2025 — Is Ethereum
-    poised to catch up with Bitcoin and Solana?\n\n            "
-  published: 2025-05-14 22:55:12.000000000 +01:00
-- title: " Price predictions 5/14: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, SUI, LINK,
-    AVAX "
-  url: https://cointelegraph.com/news/price-predictions-5-14-btc-eth-xrp-bnb-sol-doge-ada-sui-link-avax?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Key points:Bitcoin remains above $100,000, but buyers are struggling to
-    sustain prices above $105,000.Strong altcoin performances suggest an altseason
-    has started.Bitcoin (BTC) is trading above $103,000, with buyers attempting to
-    drive the price to the all-time high of $109,588. Research firm Santiment said
-    in a post on X that Bitcoin whales and sharks, holding 10 to 10,000 Bitcoin, accumulated
-    83,105 Bitcoin in the past 30 days, suggesting that “it may be a matter of time”
-    before Bitcoin's all-time high is taken out.Along with Bitcoin, analysts are also
-    gradually turning positive on altcoins. A host of factors, such as falling Bitcoin
-    and USDT dominance and a rally in select altcoins, suggest that an altcoin season
-    may be around the corner.Crypto market data daily view. Source: Coin360However,
-    not everyone is bullish in the short term. Alphractal CEO Joao Wedson said in
-    a post on X that Bitcoin is at the “Alpha Price” zone, which could attract profit
-    booking by long-term holders or whales.  Could Bitcoin challenge the all-time
-    high? Will altcoins continue their rally even if Bitcoin consolidates? Let’s analyze
-    the charts of the top 10 cryptocurrencies to find out.Bitcoin price predictionBitcoin
-    rebounded off $100,718 on May 12, indicating that the bulls are trying to flip
-    the psychologically important $100,000 level into support.BTC/USDT daily chart.
-    Source: Cointelegraph/TradingViewIf the price maintains above $100,000, the possibility
-    of a retest of the all-time high increases. There is stiff resistance in the $107,000
-    to $109,588 zone, but if it is crossed, the BTC/USDT pair could skyrocket to $130,000.The
-    risk to the upside is a sharp pullback below the 20-day exponential moving average
-    ($98,407), which could tempt several short-term buyers to book profits. That could
-    sink the pair to the 50-day simple moving average ($89,952). Ether price predictionEther
-    (ETH) skyrocketed above the $2,550 resistance on May 13, but the higher levels
-    are attracting sellers.ETH/USDT daily chart. Source: Cointelegraph/TradingViewThe
-    overbought level on the RSI signals a possible correction or consolidation in
-    the near term. If the price slips below $2,550, the bears will try to strengthen
-    their position by pulling the ETH/USDT pair below $2,400. If they can pull it
-    off, the pair could extend the pullback to the 20-day EMA ($2,147).Contrarily,
-    a bounce off $2,550 indicates that the bulls are buying on every minor dip. That
-    enhances the likelihood of a rally to $3,000.XRP price predictionXRP’s (XRP) rally
-    is facing resistance at $2.65, but a positive sign is that the bulls have not
-    ceded ground to the bears.XRP/USDT daily chart. Source: Cointelegraph/TradingViewThat
-    improves the prospects of a rally above $2.65. Once the resistance is scaled,
-    the XRP/USDT pair could ascend to $3. Buyers are expected to face significant
-    resistance from the bears in the $3 to $3.40 zone.The 20-day EMA ($2.32) is the
-    vital support to watch out for on the downside. If the price turns down sharply
-    from $2.65 and breaks below the 20-day EMA, it suggests that bears remain sellers
-    on rallies. That could result in a range formation between $2.65 and $2.BNB price
-    predictionBuyers have kept BNB (BNB) above the breakout level of $644 but are
-    struggling to push the price above the $675 level.BNB/USDT daily chart. Source:
-    Cointelegraph/TradingViewThe rising 20-day EMA ($627) and the RSI in the positive
-    territory indicate that buyers have an edge. A break and close above $675 opens
-    the doors for a possible rally to the overhead resistance of $745.This positive
-    view will be invalidated in the near term if the price turns down and breaks below
-    the 20-day EMA. If that happens, the BNB/USDT pair could descend to the 50-day
-    SMA ($603).Solana price predictionSolana (SOL) resumed its up move after breaking
-    above the $180 resistance on May 13, but the bulls are struggling to hold on to
-    the higher levels.SOL/USDT daily chart. Source: Cointelegraph/TradingViewThe bears
-    have pulled the price back below $180 on May 14. If they sustain the lower levels,
-    the SOL/USDT pair could skid to the 20-day EMA ($159). A solid bounce off the
-    20-day EMA suggests the bullish momentum remains intact. The bulls will then try
-    to catapult the pair to $210.Contrarily, a break and close below the 20-day EMA
-    signals that the breakout above $180 may have been a bull trap. The pair may then
-    tumble to $153.Dogecoin price predictionDogecoin (DOGE) bounced off the breakout
-    level of $0.21 on May 13, signaling that the bulls are trying to flip the level
-    into support.DOGE/USDT daily chart. Source: Cointelegraph/TradingViewThe 20-day
-    EMA ($0.20) has started to turn up, and the RSI is near the overbought territory,
-    indicating advantage to buyers. A break and close above $0.26 signals the resumption
-    of the rally. That opens the doors for a rally to $0.28 and thereafter to $0.31.Instead,
-    if the price turns down and breaks below $0.21, it suggests a lack of demand at
-    higher levels. The DOGE/USDT pair may then slump to the 50-day SMA ($0.17), which
-    is likely to act as strong support.Cardano price predictionBuyers have successfully
-    held the retest of the neckline in Cardano (ADA), indicating buying on dips.ADA/USDT
-    daily chart. Source: Cointelegraph/TradingViewThe bulls will try to resume the
-    up move by pushing the price above $0.86. If they manage to do that, the ADA/USDT
-    pair could pick up momentum and rally toward the pattern target of $1.01.This
-    optimistic view will be negated in the near term if the price turns down and breaks
-    below the neckline. That suggests the bears have overpowered the bulls. That could
-    sink the pair to the 50-day SMA ($0.68).Related: Ethereum retakes 10% market share,
-    but ETH bulls shouldn't celebrate yetSui price predictionSui (SUI) has been sandwiched
-    between $4.25 and $3.90 for the past few days, indicating that the bulls are holding
-    on to their positions as they anticipate another leg higher.SUI/USDT daily chart.
-    Source: Cointelegraph/TradingViewIf buyers propel the price above $4.25, the SUI/USDT
-    pair could pick up momentum and surge to $5. Buyers may find it difficult to clear
-    the overhead zone between $5 and the all-time high of $5.37.Alternatively, if
-    the price turns down and closes below $3.90, it suggests that the bulls are booking
-    profits. The pair may descend to the 20-day EMA ($3.57), which is likely to attract
-    buyers. If the price rebounds off the 20-day EMA, the bulls will make another
-    attempt to overcome the barrier at $4.25.Chainlink price predictionChainlink’s
-    (LINK) up move is facing selling at the resistance line, but a minor positive
-    is that the bulls have not ceded much ground to the bears.LINK/USDT daily chart.
-    Source: Cointelegraph/TradingViewThe upsloping 20-day EMA ($15.43) and the RSI
-    near the overbought zone indicate the path of least resistance is to the upside.
-    A short-term trend change will be signaled if buyers pierce the resistance line.
-    The LINK/USDT pair could then rally toward the target objective of $21.30.Sellers
-    will have to tug the price below the neckline to gain strength. That could pull
-    the pair to the 50-day SMA ($13.96). A break and close below the 50-day SMA suggest
-    the pair may remain inside the descending channel pattern for some more time.Avalanche
-    price predictionAvalanche (AVAX) bounced off the breakout level of $23.50, indicating
-    that the bulls have flipped the level into support.AVAX/USDT daily chart. Source:
-    Cointelegraph/TradingViewThere is minor resistance at $28.78, but it is likely
-    to be crossed. If that happens, the AVAX/USDT pair could rally to $31.73 and subsequently
-    to $36.The 20-day EMA ($22.63) is the critical support to watch out for on the
-    downside. If bears want to make a comeback, they will have to quickly pull the
-    price below the 20-day EMA. The pair may then slide to $19, which is likely to
-    attract buyers.This article does not contain investment advice or recommendations.
-    Every investment and trading move involves risk, and readers should conduct their
-    own research when making a decision.\n\n            "
-  published: 2025-05-14 19:30:00.000000000 +01:00
