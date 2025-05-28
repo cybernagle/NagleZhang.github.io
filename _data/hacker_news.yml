@@ -1,123 +1,122 @@
 ---
-- title: 15 years after servers shut down, FromSoft's mech game Chromehounds back
-    online
-  url: https://www.readonlymemo.com/interview-15-years-after-the-servers-shut-down-fromsofts-singular-mech-game-chromehounds-is-back-online/
+- title: 'Show HN: My LLM CLI tool can run tools now, from Python code or plugins'
+  url: https://simonwillison.net/2025/May/27/llm-tools/
   summary: Comments
-  published: 2025-05-27 00:52:43.000000000 +00:00
-- title: CSS Minecraft
-  url: https://benjaminaster.com/css-minecraft/
+  published: 2025-05-27 20:53:03.000000000 +00:00
+- title: A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before
+    the OS
+  url: https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution
   summary: Comments
-  published: 2025-05-26 18:28:43.000000000 +00:00
-- title: Lossless video compression using Bloom filters
-  url: https://github.com/ross39/new_bloom_filter_repo/blob/main/README.md
+  published: 2025-05-27 23:45:02.000000000 +00:00
+- title: Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B
+  url: https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles
   summary: Comments
-  published: 2025-05-26 18:32:02.000000000 +00:00
-- title: 'GitHub MCP Exploited: Accessing Private Repositories via MCP'
+  published: 2025-05-28 00:01:20.000000000 +00:00
+- title: Square Theory
+  url: https://aaronson.org/blog/square-theory
+  summary: Comments
+  published: 2025-05-27 15:33:55.000000000 +00:00
+- title: The Level Design Book
+  url: https://book.leveldesignbook.com
+  summary: Comments
+  published: 2025-05-25 11:03:26.000000000 +00:00
+- title: 'OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)'
+  url: https://github.com/UCSBarchlab/OpenTPU
+  summary: Comments
+  published: 2025-05-27 23:10:44.000000000 +00:00
+- title: Mustard Watches (1990)
+  url: https://girard.perso.math.cnrs.fr/mustard/article.html
+  summary: Comments
+  published: 2025-05-27 21:48:54.000000000 +00:00
+- title: 'Pyrefly vs. Ty: Comparing Python''s two new Rust-based type checkers'
+  url: https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
+  summary: Comments
+  published: 2025-05-27 15:01:55.000000000 +00:00
+- title: A privilege escalation from Chrome extensions (2023)
+  url: https://0x44.xyz/blog/cve-2023-4369/
+  summary: Comments
+  published: 2025-05-28 00:48:45.000000000 +00:00
+- title: How a hawk learned to use traffic signals to hunt more successfully
+  url: https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting
+  summary: Comments
+  published: 2025-05-27 11:46:30.000000000 +00:00
+- title: 'Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming'
+  url: https://nathan.rs/posts/gpu-shader-programming/
+  summary: Comments
+  published: 2025-05-27 18:02:51.000000000 +00:00
+- title: There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman
+  url: https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/
+  summary: Comments
+  published: 2025-05-24 20:53:11.000000000 +00:00
+- title: Space Selfie
+  url: https://space.crunchlabs.com/
+  summary: Comments
+  published: 2025-05-25 01:36:28.000000000 +00:00
+- title: 'Launch HN: Relace (YC W23) – Models for fast and reliable codegen'
+  url: https://news.ycombinator.com/item?id=44108206
+  summary: Comments
+  published: 2025-05-27 15:59:20.000000000 +00:00
+- title: BGP handling bug causes widespread internet routing instability
+  url: https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
+  summary: Comments
+  published: 2025-05-27 11:15:15.000000000 +00:00
+- title: Direct Preference Optimization vs. RLHF
+  url: https://www.together.ai/blog/direct-preference-optimization
+  summary: Comments
+  published: 2025-05-25 16:50:36.000000000 +00:00
+- title: Nanoparticle-cell link enables EM wireless programming of transgene expression
+  url: https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html
+  summary: Comments
+  published: 2025-05-26 01:52:18.000000000 +00:00
+- title: LumoSQL
+  url: https://lumosql.org/src/lumosql/doc/trunk/README.md
+  summary: Comments
+  published: 2025-05-27 10:39:30.000000000 +00:00
+- title: I salvaged $6k of luxury items discarded by Duke students
+  url: https://indyweek.com/culture/duke-students-dumpster-diving/
+  summary: Comments
+  published: 2025-05-27 15:59:23.000000000 +00:00
+- title: Semicolons bring the drama; that's why I love them
+  url: https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02
+  summary: Comments
+  published: 2025-05-24 14:32:11.000000000 +00:00
+- title: In Vietnam, an unlikely outpost for Chicano culture
+  url: https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam
+  summary: Comments
+  published: 2025-05-27 20:09:58.000000000 +00:00
+- title: Why the Original Macintosh Had a Screen Resolution of 512×324
+  url: https://512pixels.net/2025/05/original-macintosh-resolution/
+  summary: Comments
+  published: 2025-05-27 20:02:50.000000000 +00:00
+- title: Roundtable (YC S23) Is Hiring a Member of Technical Staff
+  url: https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff
+  summary: Comments
+  published: 2025-05-27 17:42:15.000000000 +00:00
+- title: 'GitHub MCP exploited: Accessing private repositories via MCP'
   url: https://invariantlabs.ai/blog/mcp-github-vulnerability
   summary: Comments
-  published: 2025-05-26 22:53:51.000000000 +00:00
-- title: Power Failure
-  url: https://www.gwintrob.com/power-failure-review/
+  published: 2025-05-26 13:46:25.000000000 +00:00
+- title: 'Show HN: Lazy Tetris'
+  url: https://lazytetris.com/
   summary: Comments
-  published: 2025-05-26 21:54:01.000000000 +00:00
-- title: Get PC BIOS back on UEFI only system
-  url: https://github.com/FlyGoat/csmwrap
+  published: 2025-05-27 03:58:07.000000000 +00:00
+- title: The Art of Fugue – Contrapunctus I (2021)
+  url: https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/
   summary: Comments
-  published: 2025-05-26 21:25:09.000000000 +00:00
-- title: Trying to teach in the age of the AI homework machine
-  url: https://www.solarshades.club/p/dispatch-from-the-trenches-of-the
+  published: 2025-05-27 13:25:45.000000000 +00:00
+- title: 'Show HN: Malai – securely share local TCP services (database/SSH) with others'
+  url: https://malai.sh/hello-tcp/
   summary: Comments
-  published: 2025-05-26 19:20:19.000000000 +00:00
-- title: A new class of materials that can passively harvest water from air
-  url: https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/
+  published: 2025-05-27 14:34:40.000000000 +00:00
+- title: The Hobby Computer Culture
+  url: https://technicshistory.com/2025/05/24/the-hobby-computer-culture/
   summary: Comments
-  published: 2025-05-26 13:14:29.000000000 +00:00
-- title: 'Show HN: PgDog – Shard Postgres without extensions'
-  url: https://github.com/pgdogdev/pgdog
+  published: 2025-05-24 14:33:47.000000000 +00:00
+- title: Revisiting the algorithm that changed horse race betting (2023)
+  url: https://actamachina.com/posts/annotated-benter-paper
   summary: Comments
-  published: 2025-05-26 16:55:49.000000000 +00:00
-- title: Owls in Towels
-  url: https://owlsintowels.org/
+  published: 2025-05-27 10:03:00.000000000 +00:00
+- title: Outcome-Based Reinforcement Learning to Predict the Future
+  url: https://arxiv.org/abs/2505.17989
   summary: Comments
-  published: 2025-05-26 20:27:59.000000000 +00:00
-- title: TSMC bets on unorthodox optical tech
-  url: https://spectrum.ieee.org/microled-optical-chiplet
-  summary: Comments
-  published: 2025-05-26 17:15:19.000000000 +00:00
-- title: SVG Favicons in Action
-  url: https://css-tricks.com/svg-favicons-in-action/
-  summary: Comments
-  published: 2025-05-24 19:24:12.000000000 +00:00
-- title: Highlights from the Claude 4 system prompt
-  url: https://simonwillison.net/2025/May/25/claude-4-system-prompt/
-  summary: Comments
-  published: 2025-05-26 21:25:56.000000000 +00:00
-- title: Iron Spring PL/I Compiler
-  url: http://www.iron-spring.com/
-  summary: Comments
-  published: 2025-05-26 21:19:18.000000000 +00:00
-- title: 'Changelog: Lazy trees (faster Nix builds)'
-  url: https://determinate.systems/posts/changelog-determinate-nix-352/
-  summary: Comments
-  published: 2025-05-25 10:14:30.000000000 +00:00
-- title: The Difference Between Downloading and Streaming
-  url: https://danq.me/2025/05/26/downloading-vs-streaming/
-  summary: Comments
-  published: 2025-05-26 19:56:02.000000000 +00:00
-- title: Improving performance of original dav1d video decoder
-  url: https://code.videolan.org/videolan/dav1d/-/merge_requests/1788
-  summary: Comments
-  published: 2025-05-24 23:24:56.000000000 +00:00
-- title: 'TIL: timeout in Bash scripts'
-  url: https://heitorpb.github.io/bla/timeout/
-  summary: Comments
-  published: 2025-05-26 11:34:28.000000000 +00:00
-- title: New DSL "MassQL" lets scientists query mass spectrometry data
-  url: https://news.ucr.edu/articles/2025/05/12/new-computer-language-helps-spot-hidden-pollutants
-  summary: Comments
-  published: 2025-05-23 01:28:15.000000000 +00:00
-- title: Access Control Syntax
-  url: https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/
-  summary: Comments
-  published: 2025-05-26 21:07:31.000000000 +00:00
-- title: WavePhoenix – open-source implementation of the Nintendo WaveBird protocol
-  url: https://github.com/loopj/wavephoenix
-  summary: Comments
-  published: 2025-05-26 15:37:12.000000000 +00:00
-- title: Particle Life simulation in browser using WebGPU
-  url: https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html
-  summary: Comments
-  published: 2025-05-26 12:28:12.000000000 +00:00
-- title: 'Launch HN: Nomi (YC X25) – Copilot for Sales'
-  url: https://news.ycombinator.com/item?id=44098706
-  summary: Comments
-  published: 2025-05-26 16:05:21.000000000 +00:00
-- title: Creating Debian packages from upstream Git
-  url: https://optimizedbyotto.com/post/debian-packaging-from-git/
-  summary: Comments
-  published: 2025-05-26 16:05:18.000000000 +00:00
-- title: CSS Painting API
-  url: https://developer.mozilla.org/en-US/docs/Web/API/CSS_Painting_API
-  summary: Comments
-  published: 2025-05-26 20:59:06.000000000 +00:00
-- title: 'Mathpad: A mathematical keypad for students and professionals'
-  url: https://github.com/Summa-Cogni/Mathpad
-  summary: Comments
-  published: 2025-05-25 10:24:35.000000000 +00:00
-- title: Hacker News now runs on top of Common Lisp
-  url: https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/
-  summary: Comments
-  published: 2025-05-26 16:37:02.000000000 +00:00
-- title: 'Sqawk: A fusion of SQL and Awk: Applying SQL to text-based data files'
-  url: https://github.com/jgarzik/sqawk
-  summary: Comments
-  published: 2025-05-26 21:11:58.000000000 +00:00
-- title: Claude 4 and GitHub MCP will leak your private GitHub repositories
-  url: https://twitter.com/lbeurerkellner/status/1926991491735429514
-  summary: Comments
-  published: 2025-05-26 18:20:18.000000000 +00:00
-- title: Shenandoah Students Creating VR Experience Following the Lewis and Clark
-    Trail
-  url: https://www.su.edu/blog/2025/05/21/shenandoah-students-creating-vr-experience-that-follows-the-lewis-and-clark-trail/
-  summary: Comments
-  published: 2025-05-26 21:31:07.000000000 +00:00
+  published: 2025-05-27 13:33:38.000000000 +00:00
