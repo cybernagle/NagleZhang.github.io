@@ -1,122 +1,121 @@
 ---
-- title: 'Show HN: My LLM CLI tool can run tools now, from Python code or plugins'
-  url: https://simonwillison.net/2025/May/27/llm-tools/
+- title: Long live American Science and Surplus (which needs your help)
+  url: https://milwaukeerecord.com/city-life/long-live-american-science-surplus-which-needs-your-help/
   summary: Comments
-  published: 2025-05-27 20:53:03.000000000 +00:00
-- title: A UEFI app that sends LLDP-MED pkt at boot to negotiate PoE+ power before
-    the OS
-  url: https://roderickkhan.com/posts/2025-05-16-poe-uefi-solution
+  published: 2025-05-28 20:47:30.000000000 +00:00
+- title: A toy RTOS inside Super Mario Bros. using emulator save states
+  url: https://prettygoodblog.com/p/what-threads-are-part-2
   summary: Comments
-  published: 2025-05-27 23:45:02.000000000 +00:00
-- title: Look Ma, No Bubbles Designing a Low-Latency Megakernel for Llama-1B
-  url: https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles
+  published: 2025-05-28 20:15:43.000000000 +00:00
+- title: 'Show HN: I rewrote my Mac Electron app in Rust'
+  url: https://desktopdocs.com/?v=2025
   summary: Comments
-  published: 2025-05-28 00:01:20.000000000 +00:00
-- title: Square Theory
-  url: https://aaronson.org/blog/square-theory
+  published: 2025-05-28 16:53:11.000000000 +00:00
+- title: Compiler Explorer and the promise of URLs that last forever
+  url: https://xania.org/202505/compiler-explorer-urls-forever
   summary: Comments
-  published: 2025-05-27 15:33:55.000000000 +00:00
-- title: The Level Design Book
-  url: https://book.leveldesignbook.com
+  published: 2025-05-28 16:28:20.000000000 +00:00
+- title: US Trade Court Finds Trump Tariffs Illegal
+  url: https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court
   summary: Comments
-  published: 2025-05-25 11:03:26.000000000 +00:00
-- title: 'OpenTPU: Open-Source Reimplementation of Google Tensor Processing Unit (TPU)'
-  url: https://github.com/UCSBarchlab/OpenTPU
+  published: 2025-05-29 00:06:19.000000000 +00:00
+- title: Japan Post launches 'digital address' system
+  url: https://www.japantimes.co.jp/business/2025/05/27/companies/japan-post-digital-address/
   summary: Comments
-  published: 2025-05-27 23:10:44.000000000 +00:00
-- title: Mustard Watches (1990)
-  url: https://girard.perso.math.cnrs.fr/mustard/article.html
+  published: 2025-05-28 16:33:49.000000000 +00:00
+- title: Compiling a neural net to C for a speedup
+  url: https://slightknack.dev/blog/difflogic/
   summary: Comments
-  published: 2025-05-27 21:48:54.000000000 +00:00
-- title: 'Pyrefly vs. Ty: Comparing Python''s two new Rust-based type checkers'
-  url: https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/
+  published: 2025-05-28 17:22:47.000000000 +00:00
+- title: Visualize and debug Rust programs with a new lens
+  url: https://firedbg.sea-ql.org/
   summary: Comments
-  published: 2025-05-27 15:01:55.000000000 +00:00
-- title: A privilege escalation from Chrome extensions (2023)
-  url: https://0x44.xyz/blog/cve-2023-4369/
+  published: 2025-05-25 08:33:46.000000000 +00:00
+- title: What does “Undecidable” mean, anyway
+  url: https://buttondown.com/hillelwayne/archive/what-does-undecidable-mean-anyway/
   summary: Comments
-  published: 2025-05-28 00:48:45.000000000 +00:00
-- title: How a hawk learned to use traffic signals to hunt more successfully
-  url: https://www.frontiersin.org/news/2025/05/23/street-smarts-hawk-use-traffic-signals-hunting
+  published: 2025-05-28 19:37:47.000000000 +00:00
+- title: 'Show HN: Handover.ai – Knowledge transfer made easy'
+  url: https://www.handover.ai/
   summary: Comments
-  published: 2025-05-27 11:46:30.000000000 +00:00
-- title: 'Running GPT-2 in WebGL: Rediscovering the Lost Art of GPU Shader Programming'
-  url: https://nathan.rs/posts/gpu-shader-programming/
+  published: 2025-05-29 00:40:46.000000000 +00:00
+- title: What If We Had Bigger Brains? Imagining Minds Beyond Ours
+  url: https://writings.stephenwolfram.com/2025/05/what-if-we-had-bigger-brains-imagining-minds-beyond-ours/
   summary: Comments
-  published: 2025-05-27 18:02:51.000000000 +00:00
-- title: There Is No Diffie-Hellman but Elliptic Curve Diffie-Hellman
-  url: https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/
+  published: 2025-05-25 13:46:56.000000000 +00:00
+- title: Basic for the Raspberry Pi Pico and Pico 2
+  url: https://geoffg.net/picomite.html
   summary: Comments
-  published: 2025-05-24 20:53:11.000000000 +00:00
-- title: Space Selfie
-  url: https://space.crunchlabs.com/
+  published: 2025-05-25 12:10:44.000000000 +00:00
+- title: 'Show HN: Tesseral – Open-Source Auth'
+  url: https://github.com/tesseral-labs/tesseral
   summary: Comments
-  published: 2025-05-25 01:36:28.000000000 +00:00
-- title: 'Launch HN: Relace (YC W23) – Models for fast and reliable codegen'
-  url: https://news.ycombinator.com/item?id=44108206
+  published: 2025-05-28 15:27:42.000000000 +00:00
+- title: A Visual History of Chessmen
+  url: https://chesshistory.github.io/
   summary: Comments
-  published: 2025-05-27 15:59:20.000000000 +00:00
-- title: BGP handling bug causes widespread internet routing instability
-  url: https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident
+  published: 2025-05-25 14:00:07.000000000 +00:00
+- title: 'Unlocking Ractors: class instance variables in Ruby'
+  url: https://byroot.github.io/ruby/performance/2025/05/24/unlocking-ractors-class-variables.html
   summary: Comments
-  published: 2025-05-27 11:15:15.000000000 +00:00
-- title: Direct Preference Optimization vs. RLHF
-  url: https://www.together.ai/blog/direct-preference-optimization
+  published: 2025-05-26 21:49:48.000000000 +00:00
+- title: Porting Terraria and Celeste to the Browser with WebAssembly
+  url: https://velzie.rip/blog/celeste-wasm
   summary: Comments
-  published: 2025-05-25 16:50:36.000000000 +00:00
-- title: Nanoparticle-cell link enables EM wireless programming of transgene expression
-  url: https://phys.org/news/2025-05-nanoparticle-cell-interface-enables-electromagnetic.html
+  published: 2025-05-26 20:06:25.000000000 +00:00
+- title: LLM codegen go brrr – Parallelization with Git worktrees and tmux
+  url: https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/
   summary: Comments
-  published: 2025-05-26 01:52:18.000000000 +00:00
-- title: LumoSQL
-  url: https://lumosql.org/src/lumosql/doc/trunk/README.md
+  published: 2025-05-28 15:13:38.000000000 +00:00
+- title: Grass Rendering Series
+  url: https://hexaquo.at/pages/grass-rendering-series-part-1-theory/
   summary: Comments
-  published: 2025-05-27 10:39:30.000000000 +00:00
-- title: I salvaged $6k of luxury items discarded by Duke students
-  url: https://indyweek.com/culture/duke-students-dumpster-diving/
+  published: 2025-05-26 12:29:53.000000000 +00:00
+- title: As a developer, my most important tools are a pen and a notebook
+  url: https://hamatti.org/posts/as-a-developer-my-most-important-tools-are-a-pen-and-a-notebook/
   summary: Comments
-  published: 2025-05-27 15:59:23.000000000 +00:00
-- title: Semicolons bring the drama; that's why I love them
-  url: https://www.ft.com/content/80c39c74-8753-44bf-aeb0-cf6701a64f02
+  published: 2025-05-28 06:27:11.000000000 +00:00
+- title: Deepseek R1-0528
+  url: https://huggingface.co/deepseek-ai/DeepSeek-R1-0528
   summary: Comments
-  published: 2025-05-24 14:32:11.000000000 +00:00
-- title: In Vietnam, an unlikely outpost for Chicano culture
-  url: https://www.latimes.com/world-nation/story/2025-05-27/chicano-culture-vietnam
+  published: 2025-05-28 17:59:02.000000000 +00:00
+- title: 'The Blowtorch Theory: A new model for structure formation in the universe'
+  url: https://theeggandtherock.com/p/the-blowtorch-theory-a-new-model
   summary: Comments
-  published: 2025-05-27 20:09:58.000000000 +00:00
-- title: Why the Original Macintosh Had a Screen Resolution of 512×324
-  url: https://512pixels.net/2025/05/original-macintosh-resolution/
+  published: 2025-05-28 13:43:38.000000000 +00:00
+- title: De-anonymization attacks against the privacy coin XMR
+  url: https://monero.forex/is-monero-totally-private-a-comprehensive-analysis-of-de-anonymization-attacks-against-the-privacy-coin/
   summary: Comments
-  published: 2025-05-27 20:02:50.000000000 +00:00
-- title: Roundtable (YC S23) Is Hiring a Member of Technical Staff
-  url: https://www.ycombinator.com/companies/roundtable/jobs/ZTZHEbb-member-of-technical-staff
+  published: 2025-05-28 14:11:47.000000000 +00:00
+- title: GoGoGrandparent (YC S16) is hiring Back end Engineers
+  url: https://news.ycombinator.com/item?id=44118127
   summary: Comments
-  published: 2025-05-27 17:42:15.000000000 +00:00
-- title: 'GitHub MCP exploited: Accessing private repositories via MCP'
-  url: https://invariantlabs.ai/blog/mcp-github-vulnerability
+  published: 2025-05-28 17:01:26.000000000 +00:00
+- title: 'Launch HN: MindFort (YC X25) – AI agents for continuous pentesting'
+  url: https://news.ycombinator.com/item?id=44117465
   summary: Comments
-  published: 2025-05-26 13:46:25.000000000 +00:00
-- title: 'Show HN: Lazy Tetris'
-  url: https://lazytetris.com/
+  published: 2025-05-28 16:00:44.000000000 +00:00
+- title: 'YAD: display graphical dialogs from shell scripts or command line'
+  url: http://yad-guide.ingk.se/#_introduction
   summary: Comments
-  published: 2025-05-27 03:58:07.000000000 +00:00
-- title: The Art of Fugue – Contrapunctus I (2021)
-  url: https://www.ethanhein.com/wp/2021/the-art-of-fugue-contrapunctus-i/
+  published: 2025-05-26 09:23:12.000000000 +00:00
+- title: Mathematical Fiction
+  url: https://kasmana.people.charleston.edu/MATHFICT/default.html
   summary: Comments
-  published: 2025-05-27 13:25:45.000000000 +00:00
-- title: 'Show HN: Malai – securely share local TCP services (database/SSH) with others'
-  url: https://malai.sh/hello-tcp/
+  published: 2025-05-25 12:38:27.000000000 +00:00
+- title: 'The anomalous magnetic moment of the muon in the Standard Model: an update'
+  url: https://arxiv.org/abs/2505.21476
   summary: Comments
-  published: 2025-05-27 14:34:40.000000000 +00:00
-- title: The Hobby Computer Culture
-  url: https://technicshistory.com/2025/05/24/the-hobby-computer-culture/
+  published: 2025-05-28 20:13:56.000000000 +00:00
+- title: Getting a Cease and Desist from Waffle House
+  url: https://www.jack.bio/blog/wafflehouse
   summary: Comments
-  published: 2025-05-24 14:33:47.000000000 +00:00
-- title: Revisiting the algorithm that changed horse race betting (2023)
-  url: https://actamachina.com/posts/annotated-benter-paper
+  published: 2025-05-28 15:48:37.000000000 +00:00
+- title: 'Show HN: AutoThink – Boosts local LLM performance with adaptive reasoning'
+  url: https://news.ycombinator.com/item?id=44112326
   summary: Comments
-  published: 2025-05-27 10:03:00.000000000 +00:00
-- title: Outcome-Based Reinforcement Learning to Predict the Future
-  url: https://arxiv.org/abs/2505.17989
+  published: 2025-05-28 02:39:11.000000000 +00:00
+- title: Prohibition and ice cream in the US Navy
+  url: https://www.oldsaltblog.com/2025/05/how-ice-cream-replaced-booze-in-the-us-navy-2/
   summary: Comments
-  published: 2025-05-27 13:33:38.000000000 +00:00
+  published: 2025-05-28 18:35:28.000000000 +00:00
