@@ -1,125 +1,122 @@
 ---
-- title: 'WeatherStar 4000+: Weather Channel Simulator'
-  url: https://weatherstar.netbymatt.com/
+- title: Photos taken inside musical instruments
+  url: https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments
   summary: Comments
-  published: 2025-05-29 15:38:45.000000000 +00:00
-- title: FLUX.1 Kontext
-  url: https://bfl.ai/models/flux-kontext
+  published: 2025-05-30 20:32:19.000000000 +00:00
+- title: Surprisingly Fast AI-Generated Kernels We Didn't Mean to Publish (Yet)
+  url: https://crfm.stanford.edu/2025/05/28/fast-kernels.html
   summary: Comments
-  published: 2025-05-29 17:40:35.000000000 +00:00
-- title: 'Practical SDR: Getting Started with Software-Defined Radio'
-  url: https://nostarch.com/practical-sdr
+  published: 2025-05-30 20:03:12.000000000 +00:00
+- title: 'Valkey Turns One: How the Community Fork Left Redis in the Dust'
+  url: https://www.gomomento.com/blog/valkey-turns-one-how-the-community-fork-left-redis-in-the-dust/
   summary: Comments
-  published: 2025-05-30 01:34:23.000000000 +00:00
-- title: 'Show HN: I''m starting a social club to solve the male loneliness epidemic'
-  url: https://wave3.social
+  published: 2025-05-30 22:24:22.000000000 +00:00
+- title: Mary Meeker's first Trends report since 2019, focused on AI
+  url: https://www.bondcap.com/reports/tai
   summary: Comments
-  published: 2025-05-29 23:57:11.000000000 +00:00
-- title: 'Show HN: I wrote a modern Command Line Handbook'
-  url: https://commandline.stribny.name/
+  published: 2025-05-30 19:53:59.000000000 +00:00
+- title: Reverse engineering of Linear's sync engine
+  url: https://github.com/wzhudev/reverse-linear-sync-engine
   summary: Comments
-  published: 2025-05-29 14:44:33.000000000 +00:00
-- title: Making C and Python Talk to Each Other
-  url: https://leetarxiv.substack.com/p/making-c-and-python-talk-to-each
+  published: 2025-05-29 04:29:30.000000000 +00:00
+- title: Beating Google's kernelCTF PoW using AVX512
+  url: https://anemato.de/blog/kctf-vdf
   summary: Comments
-  published: 2025-05-27 11:06:10.000000000 +00:00
-- title: Learning C3
-  url: https://alloc.dev/2025/05/29/learning_c3
+  published: 2025-05-30 16:19:50.000000000 +00:00
+- title: 'Java Virtual Threads Ate My Memory: A Web Crawler''s Tale of Speed vs. Memory'
+  url: https://dariobalinzo.medium.com/virtual-threads-ate-my-memory-a-web-crawlers-tale-of-speed-vs-memory-a92fc75085f6
   summary: Comments
-  published: 2025-05-29 13:33:31.000000000 +00:00
-- title: My website is ugly because I made it
-  url: https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/
+  published: 2025-05-29 13:08:17.000000000 +00:00
+- title: The 'white-collar bloodbath' is all part of the AI hype machine
+  url: https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap
   summary: Comments
-  published: 2025-05-28 11:53:47.000000000 +00:00
-- title: 'Flash Back: An "oral" history of Flash'
-  url: https://goodinternetmagazine.com/oral-history-of-flash/
+  published: 2025-05-30 13:38:21.000000000 +00:00
+- title: 'Show HN: Icepi Zero – The FPGA Raspberry Pi Zero Equivalent'
+  url: https://github.com/cheyao/icepi-zero
   summary: Comments
-  published: 2025-05-28 12:21:44.000000000 +00:00
-- title: A visual exploration of vector embeddings
-  url: http://blog.pamelafox.org/2025/05/a-visual-exploration-of-vector.html
+  published: 2025-05-28 13:31:04.000000000 +00:00
+- title: Systems Correctness Practices at Amazon Web Services
+  url: https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/
   summary: Comments
-  published: 2025-05-28 20:21:47.000000000 +00:00
-- title: Human coders are still better than LLMs
-  url: https://antirez.com/news/153
+  published: 2025-05-30 12:43:13.000000000 +00:00
+- title: Ray Tracing in J
+  url: https://idle.nprescott.com/2020/ray-tracing-in-j.html
   summary: Comments
-  published: 2025-05-29 16:41:04.000000000 +00:00
-- title: 'Gurus of 90s Web Design: Zeldman, Siegel, Nielsen'
-  url: https://cybercultural.com/p/web-design-1997/
+  published: 2025-05-28 17:44:43.000000000 +00:00
+- title: 'Microsandbox: Virtual Machines that feel and perform like containers'
+  url: https://github.com/microsandbox/microsandbox
   summary: Comments
-  published: 2025-05-29 07:33:02.000000000 +00:00
-- title: Open-sourcing circuit tracing tools
-  url: https://www.anthropic.com/research/open-source-circuit-tracing
+  published: 2025-05-30 13:20:04.000000000 +00:00
+- title: Revenge of the Chickenized Reverse-Centaurs
+  url: https://pluralistic.net/2022/04/17/revenge-of-the-chickenized-reverse-centaurs/
   summary: Comments
-  published: 2025-05-29 17:16:54.000000000 +00:00
-- title: Car Physics for Games (2003)
-  url: https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html
+  published: 2025-05-28 16:55:08.000000000 +00:00
+- title: Jerry Lewis's "The Day the Clown Cried" discovered in Sweden after 53 years
+  url: https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/
   summary: Comments
-  published: 2025-05-27 16:44:36.000000000 +00:00
-- title: Putting Rigid Bodies to Rest
-  url: https://twitter.com/keenanisalive/status/1925225500659658999
+  published: 2025-05-30 20:27:43.000000000 +00:00
+- title: 'Show HN: Smart Silence – Remind your iPhone to stay quiet in quiet places'
+  url: https://testflight.apple.com/join/47CJ31VK
   summary: Comments
-  published: 2025-05-29 15:43:33.000000000 +00:00
-- title: Editing repeats in Huntington's:fewer somatic repeat expansions in patient
-    cells
-  url: https://www.nature.com/articles/s41588-025-02172-8
+  published: 2025-05-28 13:51:49.000000000 +00:00
+- title: StackAI (YC W23) Is Looking for SWR and Tailwind Wizards
+  url: https://www.ycombinator.com/companies/stackai/jobs/C1rOopy-frontend-engineer
   summary: Comments
-  published: 2025-05-27 15:21:08.000000000 +00:00
-- title: Notes on Tunisia
-  url: https://mattlakeman.org/2025/05/29/notes-on-tunisia/
+  published: 2025-05-30 21:02:07.000000000 +00:00
+- title: 'Silicon Valley finally has a big electronics retailer again: Micro Center
+    opens'
+  url: https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx
   summary: Comments
-  published: 2025-05-29 20:53:39.000000000 +00:00
-- title: 'The flip phone web: browsing with the original Opera Mini'
-  url: https://www.spacebar.news/the-flip-phone-web-browsing-with-the-original-opera-mini/
+  published: 2025-05-30 22:24:09.000000000 +00:00
+- title: The radix 2^51 trick (2017)
+  url: https://www.chosenplaintext.ca/articles/radix-2-51-trick.html
   summary: Comments
-  published: 2025-05-29 15:30:17.000000000 +00:00
-- title: Why Is Everybody Knitting Chickens?
-  url: https://ironicsans.ghost.io/why-is-everybody-knitting-chickens/
+  published: 2025-05-30 03:55:37.000000000 +00:00
+- title: How to Run CRON Jobs in Postgres Without Extra Infrastructure
+  url: https://wasp.sh/blog/2025/05/28/how-to-run-cron-jobs-in-postgress-without-extra-infrastructure
   summary: Comments
-  published: 2025-05-27 15:52:49.000000000 +00:00
-- title: 'Nova: A JavaScript and WebAssembly engine written in Rust'
-  url: https://trynova.dev/
+  published: 2025-05-28 10:14:11.000000000 +00:00
+- title: Every 5x5 Nonogram
+  url: https://pixelogic.app/every-5x5-nonogram
   summary: Comments
-  published: 2025-05-29 14:05:27.000000000 +00:00
-- title: Infisical (YC W23) Is Hiring Full Stack Engineers (TypeScript) in US and
-    Canada
-  url: https://www.ycombinator.com/companies/infisical/jobs/vGwCQVk-full-stack-engineer-us-canada
+  published: 2025-05-31 00:14:27.000000000 +00:00
+- title: Copy Excel to Markdown Table (and vice versa)
+  url: https://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/
   summary: Comments
-  published: 2025-05-29 17:01:18.000000000 +00:00
-- title: Grid-Free Approach to Partial Differential Equations on Volumetric Domains
-    [pdf]
-  url: http://rohansawhney.io/RohanSawhneyPhDThesis.pdf
+  published: 2025-05-30 00:32:11.000000000 +00:00
+- title: Adam Riess and the Hubble tension
+  url: https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/
   summary: Comments
-  published: 2025-05-27 07:16:46.000000000 +00:00
-- title: 'Show HN: Typed-FFmpeg 3.0–Typed Interface to FFmpeg and Visual Filter Editor'
-  url: https://github.com/livingbio/typed-ffmpeg
+  published: 2025-05-30 15:04:56.000000000 +00:00
+- title: 'Cap: Lightweight, modern open-source CAPTCHA alternative using proof-of-work'
+  url: https://capjs.js.org/
   summary: Comments
-  published: 2025-05-29 04:23:11.000000000 +00:00
-- title: Airlines are charging solo passengers higher fares than groups
-  url: https://thriftytraveler.com/news/airlines/airlines-charging-solo-travelers-higher-fares/
+  published: 2025-05-30 16:36:10.000000000 +00:00
+- title: 'Show HN: W++ – A Python-style scripting language for .NET with NuGet support'
+  url: https://github.com/sinisterMage/WPlusPlus
   summary: Comments
-  published: 2025-05-29 18:39:22.000000000 +00:00
-- title: Simple programming language with offline usable browser IDE
-  url: https://tiki.li/apps/tut_learn.html?v=2505e
+  published: 2025-05-30 14:58:01.000000000 +00:00
+- title: De Bruijn notation, and why it's useful
+  url: https://blueberrywren.dev/blog/debruijn-explanation/
   summary: Comments
-  published: 2025-05-29 11:04:21.000000000 +00:00
-- title: I started a little math club in Bangalore
-  url: https://teachyourselfmath.app/club
+  published: 2025-05-30 15:51:24.000000000 +00:00
+- title: 'Show HN: Asdf Overlay – High performance in-game overlay library for Windows'
+  url: https://github.com/storycraft/asdf-overlay
   summary: Comments
-  published: 2025-05-29 12:39:24.000000000 +00:00
-- title: Untrusted chatbot AI between you & the internet is a disaster waiting to
-    happen
-  url: https://macwright.com/2025/05/29/putting-an-untrusted-chat-layer-is-a-disaster
+  published: 2025-05-30 18:27:44.000000000 +00:00
+- title: A Smiling Public Man
+  url: https://salmagundi.skidmore.edu/articles/1407-a-smiling-public-man
   summary: Comments
-  published: 2025-05-29 19:42:20.000000000 +00:00
-- title: Run a C# file directly using dotnet run app.cs
-  url: https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/
+  published: 2025-05-30 16:55:16.000000000 +00:00
+- title: When will M&S take online orders again?
+  url: https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems
   summary: Comments
-  published: 2025-05-29 02:30:28.000000000 +00:00
-- title: The Maid Who Restored Charles II
-  url: https://www.historytoday.com/archive/feature/maid-who-restored-charles-ii
+  published: 2025-05-30 16:11:07.000000000 +00:00
+- title: Radio Astronomy Software Defined Radio (Rasdr)
+  url: https://radio-astronomy.org/rasdr
   summary: Comments
-  published: 2025-05-29 05:58:07.000000000 +00:00
-- title: 'Civil War in 3D: Stereographs from the New-York Historical Society (2015)'
-  url: https://www.nyhistory.org/blogs/civil-war-in-3d-stereographs-from-the-new-york-historical-society
+  published: 2025-05-30 09:14:31.000000000 +00:00
+- title: 'Show HN: Git-Add–Interactive with Enhancements'
+  url: https://github.com/cwarden/git-add-interactive
   summary: Comments
-  published: 2025-05-29 15:43:56.000000000 +00:00
+  published: 2025-05-30 12:54:55.000000000 +00:00
