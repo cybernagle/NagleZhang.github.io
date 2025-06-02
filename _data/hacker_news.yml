@@ -1,122 +1,123 @@
 ---
+- title: The Visual World of 'Samurai Jack'
+  url: https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack
+  summary: Comments
+  published: 2025-06-01 21:57:35.000000000 +00:00
+- title: Root shell on a credit card terminal
+  url: https://stefan-gloor.ch/yomani-hack
+  summary: Comments
+  published: 2025-06-01 13:42:49.000000000 +00:00
+- title: LibriVox
+  url: https://librivox.org/
+  summary: Comments
+  published: 2025-06-01 21:02:58.000000000 +00:00
+- title: Cinematography of “Andor”
+  url: https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html
+  summary: Comments
+  published: 2025-06-01 09:44:04.000000000 +00:00
+- title: How Generative Engine Optimization (GEO) rewrites the rules of search
+  url: https://a16z.com/geo-over-seo/
+  summary: Comments
+  published: 2025-05-30 05:48:25.000000000 +00:00
+- title: Nitrogen Triiodide (2016)
+  url: https://www.fourmilab.ch/documents/chemistry/NI3/
+  summary: Comments
+  published: 2025-05-29 08:04:39.000000000 +00:00
+- title: Estimating Logarithms
+  url: https://obrhubr.org/logarithm-estimation
+  summary: Comments
+  published: 2025-05-31 06:22:50.000000000 +00:00
+- title: A new generation of Tailscale access controls
+  url: https://tailscale.com/blog/grants-ga
+  summary: Comments
+  published: 2025-05-29 18:23:04.000000000 +00:00
+- title: HeidiSQL Available Also for Linux
+  url: https://www.heidisql.com/forum.php?t=44068
+  summary: Comments
+  published: 2025-05-29 13:16:00.000000000 +00:00
+- title: What works (and doesn't) selling formal methods
+  url: https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods
+  summary: Comments
+  published: 2025-05-29 23:21:48.000000000 +00:00
+- title: 'When Fine-Tuning Makes Sense: A Developer''s Guide'
+  url: https://getkiln.ai/blog/why_fine_tune_LLM_models_and_how_to_get_started
+  summary: Comments
+  published: 2025-05-29 19:39:36.000000000 +00:00
 - title: Progressive JSON
   url: https://overreacted.io/progressive-json/
   summary: Comments
   published: 2025-06-01 00:58:00.000000000 +00:00
+- title: Atari Means Business with the Mega ST
+  url: https://www.goto10retro.com/p/atari-means-business-with-the-mega
+  summary: Comments
+  published: 2025-06-01 11:01:31.000000000 +00:00
+- title: Google AI Edge – On-device cross-platform AI deployment
+  url: https://ai.google.dev/edge
+  summary: Comments
+  published: 2025-06-01 06:32:20.000000000 +00:00
+- title: Making maps with noise functions (2022)
+  url: https://www.redblobgames.com/maps/terrain-from-noise/
+  summary: Comments
+  published: 2025-05-29 03:32:42.000000000 +00:00
+- title: M8.2 solar flare, Strong G4 geomagnetic storm watch
+  url: https://www.spaceweatherlive.com/en/news/view/581/20250531-m8-2-solar-flare-strong-g4-geomagnetic-storm-watch.html
+  summary: Comments
+  published: 2025-06-01 16:43:54.000000000 +00:00
+- title: How I like to install NixOS (declaratively)
+  url: https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/
+  summary: Comments
+  published: 2025-06-01 06:23:50.000000000 +00:00
+- title: 'RenderFormer: Neural rendering of triangle meshes with global illumination'
+  url: https://microsoft.github.io/renderformer/
+  summary: Comments
+  published: 2025-06-01 03:43:00.000000000 +00:00
+- title: Figma Slides Is a Beautiful Disaster
+  url: https://allenpike.com/2025/figma-slides-beautiful-disaster
+  summary: Comments
+  published: 2025-06-01 05:59:59.000000000 +00:00
+- title: "“Bugs are 100x more expensive to fix in production” study might not exist
+    (2021)"
+  url: https://www.theregister.com/2021/07/22/bugs_expense_bs/
+  summary: Comments
+  published: 2025-06-01 21:02:25.000000000 +00:00
+- title: Why DeepSeek is cheap at scale but expensive to run locally
+  url: https://www.seangoedecke.com/inference-batching-and-deepseek/
+  summary: Comments
+  published: 2025-06-01 07:31:07.000000000 +00:00
+- title: Structured Errors in Go (2022)
+  url: https://southcla.ws/structured-errors-in-go
+  summary: Comments
+  published: 2025-06-01 04:54:24.000000000 +00:00
+- title: Toying with the Lambda Calculus
+  url: https://github.com/WinVector/Examples/blob/main/lambda_calculus/toying_with_the_lambda_calculus.ipynb
+  summary: Comments
+  published: 2025-05-29 17:11:12.000000000 +00:00
+- title: Codex CLI is going native
+  url: https://github.com/openai/codex/discussions/1174
+  summary: Comments
+  published: 2025-06-01 11:22:55.000000000 +00:00
+- title: Father Ted Kilnettle Shrine Tape Dispenser
+  url: https://stephencoyle.net/kilnettle
+  summary: Comments
+  published: 2025-06-01 05:31:20.000000000 +00:00
 - title: 'Show HN: Patio – Rent tools, learn DIY, reduce waste'
   url: https://patio.so
   summary: Comments
   published: 2025-06-01 00:17:25.000000000 +00:00
-- title: Precision Clock Mk IV
-  url: https://mitxela.com/projects/precision_clock_mk_iv
+- title: Why Blender Changing to Vulkan Is Groundbreaking [video]
+  url: https://www.youtube.com/watch?v=7cta91Y53gs
   summary: Comments
-  published: 2025-05-31 15:06:03.000000000 +00:00
-- title: 'YOLO-World: Real-Time Open-Vocabulary Object Detection'
-  url: https://arxiv.org/abs/2401.17270
-  summary: Comments
-  published: 2025-05-31 20:54:30.000000000 +00:00
-- title: 'Enhancing MySQL: MySQL improvement project'
-  url: https://github.com/enhancedformysql/enhancedformysql
-  summary: Comments
-  published: 2025-06-01 01:24:56.000000000 +00:00
-- title: New Adaptive Optics Shows Details of Our Star's Atmosphere
+  published: 2025-06-01 21:05:58.000000000 +00:00
+- title: New adaptive optics shows details of our star's atmosphere
   url: https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/
   summary: Comments
   published: 2025-05-31 23:08:29.000000000 +00:00
-- title: 'Oniux: Kernel-level Tor isolation for any Linux app'
-  url: https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/
+- title: Browser extension (Firefox, Chrome, Opera, Edge) to redirect URLs based on
+    regex
+  url: https://github.com/einaregilsson/Redirector
   summary: Comments
-  published: 2025-05-31 20:46:50.000000000 +00:00
-- title: CCD co-inventor George E. Smith dies at 95
-  url: https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html
-  summary: Comments
-  published: 2025-05-31 19:56:37.000000000 +00:00
-- title: UK's Vertical VX4 eVTOL flies outside Kemble circuit for first time
-  url: https://flyer.co.uk/feature/uks-vertical-vx4-evtol-flies-outside-kemble-circuit-for-first-time/
-  summary: Comments
-  published: 2025-05-28 08:33:13.000000000 +00:00
-- title: 'Sguaba: Hard-to-misuse rigid body transforms for engineers'
-  url: https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d
-  summary: Comments
-  published: 2025-05-31 20:27:09.000000000 +00:00
+  published: 2025-06-01 07:13:46.000000000 +00:00
 - title: A Lean companion to Analysis I
   url: https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/
   summary: Comments
   published: 2025-05-31 16:55:37.000000000 +00:00
-- title: The NFS 4 Freezer Spacer In Science Fiction Sets
-  url: https://kolektiva.social/@beka_valentine/114600567753999701
-  summary: Comments
-  published: 2025-05-31 23:23:20.000000000 +00:00
-- title: Plutonium Powered Pacemaker (From 1974)
-  url: https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html
-  summary: Comments
-  published: 2025-05-31 20:51:34.000000000 +00:00
-- title: Oxfordshire clock still keeping village on time after 500 years
-  url: https://www.bbc.com/news/articles/cz70p0qevlro
-  summary: Comments
-  published: 2025-05-29 03:32:27.000000000 +00:00
-- title: Quantum Computing and the Hidden Subgroup Problem
-  url: https://www.daniellowengrub.com/blog/2025/04/23/hidden-subgroup
-  summary: Comments
-  published: 2025-05-29 17:15:45.000000000 +00:00
-- title: 'Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript
-    analysis'
-  url: https://github.com/robertjakob/rigorous
-  summary: Comments
-  published: 2025-05-31 13:51:16.000000000 +00:00
-- title: Searching for Autograms
-  url: https://curiosityarb.blog/2024/12/01/searching-for-autograms.html
-  summary: Comments
-  published: 2025-05-29 03:31:02.000000000 +00:00
-- title: AtomVM, the Erlang virtual machine for IoT devices
-  url: https://www.atomvm.net/
-  summary: Comments
-  published: 2025-05-28 13:35:27.000000000 +00:00
-- title: 'Show HN: PunchCard Key Backup'
-  url: https://github.com/volution/punchcard-key-backup
-  summary: Comments
-  published: 2025-05-31 16:09:40.000000000 +00:00
-- title: My five-year experiment with UTC
-  url: https://timestripe.com/magazine/blog/timezone/
-  summary: Comments
-  published: 2025-05-31 13:39:58.000000000 +00:00
-- title: Toxic Proteins for Drug Discovery
-  url: https://www.asimov.press/p/toxic-proteins
-  summary: Comments
-  published: 2025-05-29 16:42:52.000000000 +00:00
-- title: The Rise of the Japanese Toilet
-  url: https://www.nytimes.com/2025/05/29/business/toto-toilet-japan-bidet.html
-  summary: Comments
-  published: 2025-05-31 15:03:44.000000000 +00:00
-- title: Webb telescope helps refine Hubble constant
-  url: https://phys.org/news/2025-05-webb-telescope-refines-hubble-constant.html
-  summary: Comments
-  published: 2025-05-28 09:49:12.000000000 +00:00
-- title: Using lots of little tools to aggressively reject the bots
-  url: https://lambdacreate.com/posts/68
-  summary: Comments
-  published: 2025-05-31 08:06:21.000000000 +00:00
-- title: 'Ask HN: Anyone making a living from a paid API?'
-  url: https://news.ycombinator.com/item?id=44144473
-  summary: Comments
-  published: 2025-05-31 14:23:49.000000000 +00:00
-- title: Using Ed(1) as My Static Site Generator
-  url: https://aartaka.me/this-post-is-ed.html
-  summary: Comments
-  published: 2025-05-31 13:55:26.000000000 +00:00
-- title: Beware of Fast-Math
-  url: https://simonbyrne.github.io/notes/fastmath/
-  summary: Comments
-  published: 2025-05-31 07:05:57.000000000 +00:00
-- title: Surprisingly fast AI-generated kernels we didn't mean to publish yet
-  url: https://crfm.stanford.edu/2025/05/28/fast-kernels.html
-  summary: Comments
-  published: 2025-05-30 20:03:12.000000000 +00:00
-- title: The Two Ideals of Fields
-  url: https://susam.net/two-ideals-of-fields.html
-  summary: Comments
-  published: 2025-05-31 13:59:52.000000000 +00:00
-- title: The ‘white-collar bloodbath’ is all part of the AI hype machine
-  url: https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap
-  summary: Comments
-  published: 2025-05-30 13:38:21.000000000 +00:00
