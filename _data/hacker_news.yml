@@ -1,121 +1,122 @@
 ---
-- title: FFmpeg merges WebRTC support
-  url: https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00
+- title: 'Tokasaurus: An LLM Inference Engine for High-Throughput Workloads'
+  url: https://scalingintelligence.stanford.edu/blogs/tokasaurus/
   summary: Comments
-  published: 2025-06-04 15:58:50.000000000 +00:00
-- title: A Spiral Structure in the Inner Oort Cloud
-  url: https://iopscience.iop.org/article/10.3847/1538-4357/adbf9b
+  published: 2025-06-05 21:27:07.000000000 +00:00
+- title: 'Show HN: Claude Composer'
+  url: https://github.com/possibilities/claude-composer
   summary: Comments
-  published: 2025-06-04 23:22:07.000000000 +00:00
-- title: After court order, OpenAI is now preserving all ChatGPT user logs
-  url: https://mastodon.laurenweinstein.org/@lauren/114627064774788581
+  published: 2025-06-05 22:53:21.000000000 +00:00
+- title: I Do Not Remember My Life and It's Fine
+  url: https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine
   summary: Comments
-  published: 2025-06-04 21:47:33.000000000 +00:00
+  published: 2025-06-05 23:26:19.000000000 +00:00
+- title: The impossible predicament of the death newts
+  url: https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/
+  summary: Comments
+  published: 2025-06-05 13:40:48.000000000 +00:00
+- title: APL Interpreter – An implementation of APL, written in Haskell (2024)
+  url: https://scharenbroch.dev/projects/apl-interpreter/
+  summary: Comments
+  published: 2025-06-05 21:22:24.000000000 +00:00
+- title: What a developer needs to know about SCIM
+  url: https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim
+  summary: Comments
+  published: 2025-06-05 22:48:21.000000000 +00:00
+- title: 'Machine Learning: The Native Language of Biology'
+  url: https://decodingbiology.substack.com/p/machine-learning-the-native-language
+  summary: Comments
+  published: 2025-06-05 22:51:52.000000000 +00:00
+- title: 'Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations'
+  url: https://masonyarbrough.com/blog/ask-human
+  summary: Comments
+  published: 2025-06-05 22:57:16.000000000 +00:00
+- title: 'SkyRoof: New Ham Satellite Tracking and SDR Receiver Software'
+  url: https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/
+  summary: Comments
+  published: 2025-06-05 19:15:41.000000000 +00:00
+- title: Air Lab – A portable and open air quality measuring device
+  url: https://networkedartifacts.com/airlab/simulator
+  summary: Comments
+  published: 2025-06-05 07:42:25.000000000 +00:00
+- title: Anthropic co-founder on cutting access to Windsurf
+  url: https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/
+  summary: Comments
+  published: 2025-06-06 00:24:43.000000000 +00:00
+- title: Test Postgres in Python Like SQLite
+  url: https://github.com/wey-gu/py-pglite
+  summary: Comments
+  published: 2025-06-06 00:56:20.000000000 +00:00
+- title: 'Show HN: Lambduck, a Functional Programming Brainfuck'
+  url: https://imjakingit.github.io/lambduck/
+  summary: Comments
+  published: 2025-06-05 23:29:35.000000000 +00:00
+- title: Seven Days at the Bin Store
+  url: https://defector.com/seven-days-at-the-bin-store
+  summary: Comments
+  published: 2025-06-05 16:07:03.000000000 +00:00
+- title: The Universal Tech Tree
+  url: https://asteriskmag.com/issues/10/the-universal-tech-tree
+  summary: Comments
+  published: 2025-06-02 18:25:56.000000000 +00:00
+- title: Converge (YC S23) Well-capitalized New York startup seeks product developers
+  url: https://www.runconverge.com/careers
+  summary: Comments
+  published: 2025-06-05 21:00:04.000000000 +00:00
+- title: 'Show HN: iOS Screen Time from a REST API'
+  url: https://www.thescreentimenetwork.com/api/
+  summary: Comments
+  published: 2025-06-05 18:06:21.000000000 +00:00
+- title: Programming language Dino and its implementation
+  url: https://github.com/dino-lang/dino
+  summary: Comments
+  published: 2025-06-05 17:47:23.000000000 +00:00
 - title: A proposal to restrict sites from accessing a users’ local network
   url: https://github.com/explainers-by-googlers/local-network-access
   summary: Comments
   published: 2025-06-04 18:15:54.000000000 +00:00
-- title: Why I wrote the BEAM book
-  url: https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
+- title: 'Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and
+    HyperDX'
+  url: https://github.com/hyperdxio/hyperdx
   summary: Comments
-  published: 2025-06-04 10:36:49.000000000 +00:00
-- title: Tesla seeks to guard crash data from public disclosure
-  url: https://www.reuters.com/legal/government/musks-tesla-seeks-guard-crash-data-public-disclosure-2025-06-04/
+  published: 2025-06-05 18:01:21.000000000 +00:00
+- title: Eleven v3
+  url: https://elevenlabs.io/v3
   summary: Comments
-  published: 2025-06-04 23:40:47.000000000 +00:00
-- title: The iPhone 15 Pro’s Depth Maps
-  url: https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html
+  published: 2025-06-05 18:41:54.000000000 +00:00
+- title: How Common Is Multiple Invention?
+  url: https://www.construction-physics.com/p/how-often-do-inventions-have-multiple
   summary: Comments
-  published: 2025-06-04 17:57:15.000000000 +00:00
-- title: Apple Notes Expected to Gain Markdown Support in iOS 26
-  url: https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/
+  published: 2025-06-05 21:06:39.000000000 +00:00
+- title: 'Show HN: Container Use for Agents'
+  url: https://github.com/dagger/container-use
   summary: Comments
-  published: 2025-06-04 18:29:46.000000000 +00:00
-- title: The Prompt Engineering Playbook for Programmers
-  url: https://addyo.substack.com/p/the-prompt-engineering-playbook-for
+  published: 2025-06-05 17:44:27.000000000 +00:00
+- title: Understanding the PURL Specification (Package URL)
+  url: https://fossa.com/blog/understanding-purl-specification-package-url/
   summary: Comments
-  published: 2025-06-04 15:58:57.000000000 +00:00
-- title: Authentication with Axum
-  url: https://mattrighetti.com/2025/05/03/authentication-with-axum
+  published: 2025-06-05 16:02:54.000000000 +00:00
+- title: Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts
+  url: https://daringfireball.net/linked/2025/06/04/apple-notes-markdown
   summary: Comments
-  published: 2025-06-04 23:33:41.000000000 +00:00
-- title: How big tech monopolies made the internet worse
-  url: https://www.cascadepbs.org/news/2025/06/how-big-tech-monopolies-made-internet-worse
+  published: 2025-06-05 13:32:48.000000000 +00:00
+- title: 'Phptop: Simple PHP ressource profiler, safe and useful for production sites'
+  url: https://github.com/bearstech/phptop
   summary: Comments
-  published: 2025-06-05 00:23:35.000000000 +00:00
-- title: Cockatoos have learned to operate drinking fountains in Australia
-  url: https://www.science.org/content/article/cockatoos-have-learned-operate-drinking-fountains-australia
-  summary: Comments
-  published: 2025-06-04 09:42:29.000000000 +00:00
-- title: PromptArmor (YC W24) Is Hiring in San Francisco
-  url: https://www.ycombinator.com/companies/promptarmor/jobs/hZ3xFlj-founding-engineer-full-stack
-  summary: Comments
-  published: 2025-06-04 22:35:56.000000000 +00:00
-- title: IRS Direct File on GitHub
-  url: https://chrisgiven.com/2025/05/direct-file-on-github/
-  summary: Comments
-  published: 2025-06-04 16:16:39.000000000 +00:00
-- title: Not All Tokens Are Meant to Be Forgotten
-  url: https://arxiv.org/abs/2506.03142
-  summary: Comments
-  published: 2025-06-04 23:15:48.000000000 +00:00
-- title: 'When memory was measured in kilobytes: The art of efficient vision'
-  url: https://www.softwareheritage.org/2025/06/04/history_computer_vision/
-  summary: Comments
-  published: 2025-06-04 16:46:24.000000000 +00:00
-- title: Ada and SPARK enter the automotive ISO-26262 market with Nvidia
-  url: https://www.adacore.com/press/ada-and-spark-enter-the-automotive-iso-26262-market-with-nvidia
-  summary: Comments
-  published: 2025-06-04 19:59:51.000000000 +00:00
-- title: A practical guide to building agents [pdf]
-  url: https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf
-  summary: Comments
-  published: 2025-06-04 15:21:22.000000000 +00:00
+  published: 2025-06-05 08:52:56.000000000 +00:00
 - title: Autonomous drone defeats human champions in racing first
   url: https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first
   summary: Comments
   published: 2025-06-04 20:03:43.000000000 +00:00
-- title: 'Show HN: GPT image editing, but for 3D models'
-  url: https://www.adamcad.com/
+- title: Twitter's new encrypted DMs aren't better than the old ones
+  url: https://mjg59.dreamwidth.org/71646.html
   summary: Comments
-  published: 2025-06-04 16:00:52.000000000 +00:00
-- title: 'VectorSmuggle: Covertly Exfiltrate Data in Embeddings'
-  url: https://github.com/jaschadub/VectorSmuggle
+  published: 2025-06-05 13:37:29.000000000 +00:00
+- title: Aurora, a foundation model for the Earth system
+  url: https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html
   summary: Comments
-  published: 2025-06-04 20:31:37.000000000 +00:00
-- title: How we reduced the impact of zombie clients
-  url: https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/
+  published: 2025-06-05 19:17:00.000000000 +00:00
+- title: OpenAI slams court order to save all ChatGPT logs, including deleted chats
+  url: https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/
   summary: Comments
-  published: 2025-06-04 15:58:36.000000000 +00:00
-- title: AGI is not multimodal
-  url: https://thegradient.pub/agi-is-not-multimodal/
-  summary: Comments
-  published: 2025-06-04 15:15:33.000000000 +00:00
-- title: Flight Simulator Gave Birth to 3D Video-Game Graphics
-  url: https://spectrum.ieee.org/microsoft-flight-simulator
-  summary: Comments
-  published: 2025-06-04 21:40:09.000000000 +00:00
-- title: Redesigned Swift.org is now live
-  url: https://swift.org/
-  summary: Comments
-  published: 2025-06-04 19:26:25.000000000 +00:00
-- title: Comparing Claude System Prompts Reveal Anthropic's Priorities
-  url: https://www.dbreunig.com/2025/06/03/comparing-system-prompts-across-claude-versions.html
-  summary: Comments
-  published: 2025-06-04 21:38:27.000000000 +00:00
-- title: 'Show HN: App.build, an open-source AI agent that builds full-stack apps'
-  url: https://www.app.build/
-  summary: Comments
-  published: 2025-06-04 19:58:49.000000000 +00:00
-- title: Doubling Down on Open Source
-  url: https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product
-  summary: Comments
-  published: 2025-06-04 14:14:40.000000000 +00:00
-- title: The Right to Repair Is Law in Washington State
-  url: https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state
-  summary: Comments
-  published: 2025-06-04 15:00:29.000000000 +00:00
-- title: Arthur C. Clarke predicted a computer-dominated future in the ’70s (2024)
-  url: https://www.openculture.com/2024/12/arthur-c-clarke-predicts-the-rise-of-artificial-intelligence-questions-what-will-happen-to-humanity-1978.html
-  summary: Comments
-  published: 2025-06-04 21:39:35.000000000 +00:00
+  published: 2025-06-04 21:47:33.000000000 +00:00
