@@ -1,122 +1,123 @@
 ---
-- title: 'Tokasaurus: An LLM Inference Engine for High-Throughput Workloads'
-  url: https://scalingintelligence.stanford.edu/blogs/tokasaurus/
+- title: Researchers develop ‘transparent paper’ as alternative to plastics
+  url: https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/
   summary: Comments
-  published: 2025-06-05 21:27:07.000000000 +00:00
-- title: 'Show HN: Claude Composer'
-  url: https://github.com/possibilities/claude-composer
+  published: 2025-06-06 21:43:10.000000000 +00:00
+- title: A year of funded FreeBSD development
+  url: https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html
   summary: Comments
-  published: 2025-06-05 22:53:21.000000000 +00:00
-- title: I Do Not Remember My Life and It's Fine
-  url: https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine
+  published: 2025-06-06 19:35:54.000000000 +00:00
+- title: How we decreased GitLab repo backup times from 48 hours to 41 minutes
+  url: https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/
   summary: Comments
-  published: 2025-06-05 23:26:19.000000000 +00:00
-- title: The impossible predicament of the death newts
-  url: https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/
+  published: 2025-06-06 15:43:05.000000000 +00:00
+- title: The time bomb in the tax code that's fueling mass tech layoffs
+  url: https://qz.com/tech-layoffs-tax-code-trump-section-174-microsoft-meta-1851783502
   summary: Comments
-  published: 2025-06-05 13:40:48.000000000 +00:00
-- title: APL Interpreter – An implementation of APL, written in Haskell (2024)
-  url: https://scharenbroch.dev/projects/apl-interpreter/
+  published: 2025-06-04 13:30:21.000000000 +00:00
+- title: Medieval Africans Had a Unique Process for Purifying Gold with Glass (2019)
+  url: https://www.atlasobscura.com/articles/medieval-african-gold
   summary: Comments
-  published: 2025-06-05 21:22:24.000000000 +00:00
-- title: What a developer needs to know about SCIM
-  url: https://tesseral.com/blog/what-a-developer-needs-to-know-about-scim
+  published: 2025-06-06 22:21:39.000000000 +00:00
+- title: Highly efficient matrix transpose in Mojo
+  url: https://veitner.bearblog.dev/highly-efficient-matrix-transpose-in-mojo/
   summary: Comments
-  published: 2025-06-05 22:48:21.000000000 +00:00
-- title: 'Machine Learning: The Native Language of Biology'
-  url: https://decodingbiology.substack.com/p/machine-learning-the-native-language
+  published: 2025-06-06 19:28:29.000000000 +00:00
+- title: Falsehoods Programmers Believe About Aviation
+  url: https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/
   summary: Comments
-  published: 2025-06-05 22:51:52.000000000 +00:00
-- title: 'Show HN: Ask-human-mcp – zero-config human-in-loop hatch to stop hallucinations'
-  url: https://masonyarbrough.com/blog/ask-human
+  published: 2025-06-06 22:20:33.000000000 +00:00
+- title: Sandia turns on brain-like storage-free supercomputer
+  url: https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/
   summary: Comments
-  published: 2025-06-05 22:57:16.000000000 +00:00
-- title: 'SkyRoof: New Ham Satellite Tracking and SDR Receiver Software'
-  url: https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/
+  published: 2025-06-06 15:24:44.000000000 +00:00
+- title: What "Working" Means in the Era of AI Apps
+  url: https://a16z.com/revenue-benchmarks-ai-apps/
   summary: Comments
-  published: 2025-06-05 19:15:41.000000000 +00:00
-- title: Air Lab – A portable and open air quality measuring device
-  url: https://networkedartifacts.com/airlab/simulator
+  published: 2025-06-06 22:36:33.000000000 +00:00
+- title: 'The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs
+    [pdf]'
+  url: https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf
   summary: Comments
-  published: 2025-06-05 07:42:25.000000000 +00:00
-- title: Anthropic co-founder on cutting access to Windsurf
-  url: https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/
+  published: 2025-06-06 18:18:36.000000000 +00:00
+- title: I Read All of Cloudflare's Claude-Generated Commits
+  url: https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/
   summary: Comments
-  published: 2025-06-06 00:24:43.000000000 +00:00
-- title: Test Postgres in Python Like SQLite
-  url: https://github.com/wey-gu/py-pglite
+  published: 2025-06-06 22:35:01.000000000 +00:00
+- title: Odyc.js – A tiny JavaScript library for narrative games
+  url: https://odyc.dev
   summary: Comments
-  published: 2025-06-06 00:56:20.000000000 +00:00
-- title: 'Show HN: Lambduck, a Functional Programming Brainfuck'
-  url: https://imjakingit.github.io/lambduck/
+  published: 2025-06-06 13:46:01.000000000 +00:00
+- title: A masochist's guide to web development
+  url: https://sebastiano.tronto.net/blog/2025-06-06-webdev/
   summary: Comments
-  published: 2025-06-05 23:29:35.000000000 +00:00
-- title: Seven Days at the Bin Store
-  url: https://defector.com/seven-days-at-the-bin-store
+  published: 2025-06-06 13:48:52.000000000 +00:00
+- title: A leaderless NASA faces its biggest-ever cuts
+  url: https://www.economist.com/science-and-technology/2025/06/04/a-leaderless-nasa-faces-its-biggest-ever-cuts
   summary: Comments
-  published: 2025-06-05 16:07:03.000000000 +00:00
-- title: The Universal Tech Tree
-  url: https://asteriskmag.com/issues/10/the-universal-tech-tree
+  published: 2025-06-06 18:03:41.000000000 +00:00
+- title: Onyx (YC W24) – AI Assistants for Work Hiring Founding AE
+  url: https://www.ycombinator.com/companies/onyx/jobs/Gm0Hw6L-founding-account-executive
   summary: Comments
-  published: 2025-06-02 18:25:56.000000000 +00:00
-- title: Converge (YC S23) Well-capitalized New York startup seeks product developers
-  url: https://www.runconverge.com/careers
+  published: 2025-06-06 21:00:00.000000000 +00:00
+- title: Dear High Schoolers, Time Is Precious
+  url: https://byronsharman.com/blog/dear-high-schoolers
   summary: Comments
-  published: 2025-06-05 21:00:04.000000000 +00:00
-- title: 'Show HN: iOS Screen Time from a REST API'
-  url: https://www.thescreentimenetwork.com/api/
+  published: 2025-06-06 23:15:46.000000000 +00:00
+- title: Smalltalk, Haskell and Lisp
+  url: https://storytotell.org/smalltalk-haskell-and-lisp
   summary: Comments
-  published: 2025-06-05 18:06:21.000000000 +00:00
-- title: Programming language Dino and its implementation
-  url: https://github.com/dino-lang/dino
+  published: 2025-06-06 20:55:34.000000000 +00:00
+- title: 'Workhorse LLMs: Why Open Source Models Dominate Closed Source for Batch
+    Tasks'
+  url: https://sutro.sh/blog/workhorse-llms-why-open-source-models-win-for-batch-tasks
   summary: Comments
-  published: 2025-06-05 17:47:23.000000000 +00:00
-- title: A proposal to restrict sites from accessing a users’ local network
-  url: https://github.com/explainers-by-googlers/local-network-access
+  published: 2025-06-06 18:38:36.000000000 +00:00
+- title: 'Meta: Shut down your invasive AI Discover feed'
+  url: https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/
   summary: Comments
-  published: 2025-06-04 18:15:54.000000000 +00:00
-- title: 'Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and
-    HyperDX'
-  url: https://github.com/hyperdxio/hyperdx
+  published: 2025-06-06 15:33:10.000000000 +00:00
+- title: Series C and scale
+  url: https://www.cursor.com/en/blog/series-c
   summary: Comments
-  published: 2025-06-05 18:01:21.000000000 +00:00
-- title: Eleven v3
-  url: https://elevenlabs.io/v3
+  published: 2025-06-06 17:18:08.000000000 +00:00
+- title: Too Many Open Files
+  url: https://mattrighetti.com/2025/06/04/too-many-files-open
   summary: Comments
-  published: 2025-06-05 18:41:54.000000000 +00:00
-- title: How Common Is Multiple Invention?
-  url: https://www.construction-physics.com/p/how-often-do-inventions-have-multiple
+  published: 2025-06-06 15:18:46.000000000 +00:00
+- title: Why You Should Move Your Site Away from Weebly (YC W07)
+  url: https://www.articulation.blog/p/why-you-should-move-your-site-away-from-weebly
   summary: Comments
-  published: 2025-06-05 21:06:39.000000000 +00:00
-- title: 'Show HN: Container Use for Agents'
-  url: https://github.com/dagger/container-use
+  published: 2025-06-07 00:08:53.000000000 +00:00
+- title: Curate your shell history
+  url: https://esham.io/2025/05/shell-history
   summary: Comments
-  published: 2025-06-05 17:44:27.000000000 +00:00
-- title: Understanding the PURL Specification (Package URL)
-  url: https://fossa.com/blog/understanding-purl-specification-package-url/
+  published: 2025-06-06 13:46:17.000000000 +00:00
+- title: United States Digital Service Origins
+  url: https://usdigitalserviceorigins.org/
   summary: Comments
-  published: 2025-06-05 16:02:54.000000000 +00:00
-- title: Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts
-  url: https://daringfireball.net/linked/2025/06/04/apple-notes-markdown
+  published: 2025-06-06 19:43:01.000000000 +00:00
+- title: SaaS is just vendor lock-in with better branding
+  url: https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding
   summary: Comments
-  published: 2025-06-05 13:32:48.000000000 +00:00
-- title: 'Phptop: Simple PHP ressource profiler, safe and useful for production sites'
-  url: https://github.com/bearstech/phptop
+  published: 2025-06-06 18:10:29.000000000 +00:00
+- title: Wendelstein 7-X sets new fusion record
+  url: https://www.heise.de/en/news/Wendelstein-7-X-sets-new-fusion-record-10422955.html
   summary: Comments
-  published: 2025-06-05 08:52:56.000000000 +00:00
-- title: Autonomous drone defeats human champions in racing first
-  url: https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first
+  published: 2025-06-03 09:52:35.000000000 +00:00
+- title: What you need to know about EMP weapons
+  url: https://www.aardvark.co.nz/daily/2025/0606.shtml
   summary: Comments
-  published: 2025-06-04 20:03:43.000000000 +00:00
-- title: Twitter's new encrypted DMs aren't better than the old ones
-  url: https://mjg59.dreamwidth.org/71646.html
+  published: 2025-06-06 11:06:48.000000000 +00:00
+- title: 4-7-8 Breathing
+  url: https://www.breathbelly.com/exercises/4-7-8-breathing
   summary: Comments
-  published: 2025-06-05 13:37:29.000000000 +00:00
-- title: Aurora, a foundation model for the Earth system
-  url: https://www.nytimes.com/2025/05/21/climate/ai-weather-models-aurora-microsoft.html
+  published: 2025-06-06 15:36:00.000000000 +00:00
+- title: Researchers find a way to make the HIV virus visible within white blood cells
+  url: https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed
   summary: Comments
-  published: 2025-06-05 19:17:00.000000000 +00:00
-- title: OpenAI slams court order to save all ChatGPT logs, including deleted chats
-  url: https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/
+  published: 2025-06-06 16:44:12.000000000 +00:00
+- title: A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square
+  url: https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/
   summary: Comments
-  published: 2025-06-04 21:47:33.000000000 +00:00
+  published: 2025-06-06 18:56:03.000000000 +00:00
