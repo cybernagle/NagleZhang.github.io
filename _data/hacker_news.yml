@@ -1,122 +1,122 @@
 ---
-- title: Why Android can't use CDC Ethernet (2023)
-  url: https://jordemort.dev/blog/why-android-cant-use-cdc-ethernet/
+- title: 'Tell HN: Help restore the tax deduction for software dev in the US (Section
+    174)'
+  url: https://news.ycombinator.com/item?id=44226145
   summary: Comments
-  published: 2025-06-08 20:49:07.000000000 +00:00
-- title: Riding high in Germany on the world's oldest suspended railway
-  url: https://www.theguardian.com/travel/2025/jun/09/riding-high-in-germany-on-the-worlds-oldest-suspended-railway
+  published: 2025-06-09 16:28:51.000000000 +00:00
+- title: Containerization is a Swift package for running Linux containers on macOS
+  url: https://github.com/apple/containerization
   summary: Comments
-  published: 2025-06-08 23:38:58.000000000 +00:00
-- title: Tracking Copilot vs. Codex vs. Cursor vs. Devin PR Performance
-  url: https://aavetis.github.io/ai-pr-watcher/
+  published: 2025-06-09 20:53:29.000000000 +00:00
+- title: Apple announces Foundation Models and Containerization frameworks, etc
+  url: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/
   summary: Comments
-  published: 2025-06-05 06:22:09.000000000 +00:00
-- title: Omnimax
-  url: https://computer.rip/2025-06-08-Omnimax.html
+  published: 2025-06-09 17:44:16.000000000 +00:00
+- title: Sly Stone has died
+  url: https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345
   summary: Comments
-  published: 2025-06-08 20:41:35.000000000 +00:00
-- title: Building supercomputers for autocrats probably isn't good for democracy
-  url: https://helentoner.substack.com/p/supercomputers-for-autocrats
+  published: 2025-06-09 21:42:25.000000000 +00:00
+- title: Implementing DOES> in Forth, the entire reason I started this mess
+  url: https://boston.conman.org/2025/06/09.1
   summary: Comments
-  published: 2025-06-08 21:11:18.000000000 +00:00
-- title: 'Zig Devlog: Self-Hosted x86 Back End Is Now Default in Debug Mode'
-  url: https://ziglang.org/devlog/2025/#2025-06-08
+  published: 2025-06-10 01:36:39.000000000 +00:00
+- title: Why agents are bad pair programmers
+  url: https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/
   summary: Comments
-  published: 2025-06-08 22:24:14.000000000 +00:00
-- title: Analyzing IPv4 Trades with Gnuplot
-  url: https://ipv4a-5539ad.gitlab.io/
+  published: 2025-06-09 23:36:23.000000000 +00:00
+- title: 'Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels'
+  url: https://github.com/jgalecki/qrawl-tiny-mass-disco
   summary: Comments
-  published: 2025-06-09 01:08:00.000000000 +00:00
-- title: 'Panjandrum: The ''giant firework'' built to break Hitler''s Atlantic Wall'
-  url: https://www.bbc.com/future/article/20250603-the-giant-firework-built-to-break-hitlers-atlantic-wall
+  published: 2025-06-06 10:20:50.000000000 +00:00
+- title: 'Show HN: Munal OS: a graphical experimental OS with WASM sandboxing'
+  url: https://github.com/Askannz/munal-os
   summary: Comments
-  published: 2025-06-05 02:21:28.000000000 +00:00
-- title: Administering immunotherapy in the morning seems to matter. Why?
-  url: https://www.owlposting.com/p/the-time-of-day-that-immunotherapy
+  published: 2025-06-09 17:34:29.000000000 +00:00
+- title: Apple introduces a universal design across platforms
+  url: https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/
   summary: Comments
-  published: 2025-06-08 16:18:32.000000000 +00:00
-- title: 'Show HN: Let’s Bend – Open-Source Harmonica Bending Trainer'
-  url: https://letsbend.de
+  published: 2025-06-09 17:09:47.000000000 +00:00
+- title: The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)
+  url: https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
   summary: Comments
-  published: 2025-06-08 16:00:22.000000000 +00:00
-- title: Endangered classic Mac plastic color returns as 3D-printer filament
-  url: https://arstechnica.com/apple/2025/06/new-filament-lets-you-3d-print-parts-in-authentic-1980s-apple-computer-color/
+  published: 2025-06-09 21:25:44.000000000 +00:00
+- title: 'Las Vegas is embracing a simple climate solution: More trees'
+  url: https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees
   summary: Comments
-  published: 2025-06-05 04:44:37.000000000 +00:00
-- title: 'Poison everywhere: No output from your MCP server is safe'
-  url: https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe
+  published: 2025-06-10 00:21:40.000000000 +00:00
+- title: What methylene blue can (and can’t) do for the brain
+  url: https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/
   summary: Comments
-  published: 2025-06-08 22:00:12.000000000 +00:00
-- title: I used AI-powered calorie counting apps, and they were even worse than expected
-  url: https://lifehacker.com/health/ai-powered-calorie-counting-apps-worse-than-expected
+  published: 2025-06-06 14:15:28.000000000 +00:00
+- title: 'Container: Apple''s Linux-Container Runtime'
+  url: https://github.com/apple/container
   summary: Comments
-  published: 2025-06-08 23:25:41.000000000 +00:00
-- title: Gaussian integration is cool
-  url: https://rohangautam.github.io/blog/chebyshev_gauss/
+  published: 2025-06-09 20:42:23.000000000 +00:00
+- title: 'Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking'
+  url: https://news.ycombinator.com/item?id=44225930
   summary: Comments
-  published: 2025-06-08 08:35:54.000000000 +00:00
-- title: Generating Pixels One by One
-  url: https://tunahansalih.github.io/blog/autoregressive-vision-generation-part-1/
+  published: 2025-06-09 16:09:03.000000000 +00:00
+- title: Go is a good fit for agents
+  url: https://docs.hatchet.run/blog/go-agents
   summary: Comments
-  published: 2025-06-05 06:59:19.000000000 +00:00
-- title: How Compiler Explorer Works in 2025
-  url: https://xania.org/202506/how-compiler-explorer-works
+  published: 2025-06-04 12:14:39.000000000 +00:00
+- title: Doctors could hack the nervous system with ultrasound
+  url: https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes
   summary: Comments
-  published: 2025-06-04 17:32:34.000000000 +00:00
-- title: How to get started with writing tech video essays
-  url: https://news.ycombinator.com/item?id=44189391
+  published: 2025-06-09 14:27:30.000000000 +00:00
+- title: 'Show HN: Somo – a human friendly alternative to netstat'
+  url: https://github.com/theopfr/somo
   summary: Comments
-  published: 2025-06-05 07:53:14.000000000 +00:00
-- title: The last six months in LLMs, illustrated by pelicans on bicycles
-  url: https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+  published: 2025-06-09 17:59:40.000000000 +00:00
+- title: 'Hokusai Moyo Gafu: an album of dyeing patterns'
+  url: https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo
   summary: Comments
-  published: 2025-06-08 07:38:37.000000000 +00:00
-- title: Binfmtc – binfmt_misc C scripting interface
-  url: https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en
+  published: 2025-06-09 14:42:03.000000000 +00:00
+- title: Bruteforcing the phone number of any Google user
+  url: https://brutecat.com/articles/leaking-google-phones
   summary: Comments
-  published: 2025-06-08 12:38:55.000000000 +00:00
-- title: Joining Apple Computer (2018)
-  url: https://www.folklore.org/Joining_Apple_Computer.html
+  published: 2025-06-09 14:06:51.000000000 +00:00
+- title: Pi in Pascal's Triangle (2014)
+  url: https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml
   summary: Comments
-  published: 2025-06-07 20:32:54.000000000 +00:00
-- title: Cheap yet ultrapure titanium might enable widespread use in industry (2024)
-  url: https://phys.org/news/2024-06-cheap-ultrapure-titanium-metal-enable.amp
+  published: 2025-06-06 12:38:16.000000000 +00:00
+- title: Why quadratic funding is not optimal
+  url: https://jonathanwarden.com/quadratic-funding-is-not-optimal/
   summary: Comments
-  published: 2025-06-04 22:00:38.000000000 +00:00
-- title: Efficient mRNA delivery to resting T cells to reverse HIV latency
-  url: https://www.nature.com/articles/s41467-025-60001-2
+  published: 2025-06-09 14:33:14.000000000 +00:00
+- title: A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square
+  url: https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/
   summary: Comments
-  published: 2025-06-05 09:37:09.000000000 +00:00
-- title: 'Self-Host and Tech Independence: The Joy of Building Your Own'
-  url: https://www.ssp.sh/blog/self-host-self-independence/
+  published: 2025-06-06 18:56:03.000000000 +00:00
+- title: Debugging Azure Networking for Elastic Cloud Serverless
+  url: https://www.elastic.co/observability-labs/blog/debugging-aks-packet-loss
   summary: Comments
-  published: 2025-06-07 17:51:51.000000000 +00:00
-- title: "<Blink> and <Marquee> (2020)"
-  url: https://danq.me/2020/11/11/blink-and-marquee/
+  published: 2025-06-06 17:18:51.000000000 +00:00
+- title: Algovivo an energy-based formulation for soft-bodied virtual creatures
+  url: https://juniorrojas.com/algovivo/
   summary: Comments
-  published: 2025-06-08 04:17:43.000000000 +00:00
-- title: Launching the BeOS on Hitachi Flora Prius Systems (1999)
-  url: http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/guides/hitachi_boot.html
+  published: 2025-06-09 15:54:16.000000000 +00:00
+- title: How do you prototype a nice language?
+  url: https://kevinlynagh.com/newsletter/2025_06_03_prototyping_a_language/
   summary: Comments
-  published: 2025-06-08 14:46:21.000000000 +00:00
-- title: Building an AI server on a budget
-  url: https://www.informationga.in/blog/building-an-ai-server-on-a-budget
+  published: 2025-06-06 01:10:23.000000000 +00:00
+- title: 'Show HN: Most users won''t report bugs unless you make it stupidly easy'
+  url: https://news.ycombinator.com/item?id=44225352
   summary: Comments
-  published: 2025-06-06 02:33:16.000000000 +00:00
-- title: FAA to eliminate floppy disks used in air traffic control systems
-  url: https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems
+  published: 2025-06-09 15:16:48.000000000 +00:00
+- title: The new Gödel Prize winner tastes great and is less filling
+  url: https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html
   summary: Comments
-  published: 2025-06-08 07:11:34.000000000 +00:00
-- title: 'tcpulse: A TCP/UDP load generator that provides fine-grained, flow-level
-    control'
-  url: https://github.com/yuuki/tcpulse
+  published: 2025-06-09 14:42:33.000000000 +00:00
+- title: Finding Shawn Mendes (2019)
+  url: https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/
   summary: Comments
-  published: 2025-06-08 21:19:40.000000000 +00:00
-- title: Focus and Context and LLMs
-  url: https://taras.glek.net/posts/focus-and-context-and-llms/
+  published: 2025-06-09 07:16:26.000000000 +00:00
+- title: A man rebuilding the last Inca rope bridge
+  url: https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition
   summary: Comments
-  published: 2025-06-08 09:09:19.000000000 +00:00
-- title: Coventry Very Light Rail
-  url: https://www.coventry.gov.uk/coventry-light-rail
+  published: 2025-06-06 23:44:26.000000000 +00:00
+- title: 'Show HN: Glowstick – type level tensor shapes in stable rust'
+  url: https://github.com/nicksenger/glowstick
   summary: Comments
-  published: 2025-06-07 21:35:44.000000000 +00:00
+  published: 2025-06-09 16:08:22.000000000 +00:00
