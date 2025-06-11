@@ -1,10 +1,105 @@
 ---
+- title: " Bitcoin update to raise data limit on divisive OP_RETURN function "
+  url: https://cointelegraph.com/news/bitcoin-op-return-data-limit-raise-next-update?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin Core dev Gloria Zhao says the data limit for OP_RETURN will be
+    raised in October, infuriating several Bitcoin users who prefer images, text and
+    audio to stay off the blockchain.\n                                "
+  published: 2025-06-11 02:28:19.000000000 +01:00
 - title: " Here’s what happened in crypto today "
   url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "Need to know what happened in crypto today? Here is the latest news on
     daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3
     and crypto regulation.\n                                "
-  published: 2025-06-09 23:11:14.000000000 +01:00
+  published: 2025-06-10 23:37:45.000000000 +01:00
+- title: " Bitcoin’s &#039;fair value&#039; could be as high as $230K — Bitwise analysts "
+  url: https://cointelegraph.com/news/bitcoin-fair-value-could-be-as-high-as-230k-bitwise-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Trump’s tax cuts and soaring US debt fuel Bitcoin’s rise as a hedge against
+    sovereign default risks, potentially pushing BTC price toward $200,000 or more
+    by 2025.\n                                "
+  published: 2025-06-10 19:04:50.000000000 +01:00
+- title: " How to use Grok for real-time crypto trading signals "
+  url: https://cointelegraph.com/news/how-to-use-grok-for-crypto-trading?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Grok scans posts and sentiment shifts on X to help crypto traders identify
+    early signals, memes and macro-driven momentum plays.\n                                "
+  published: 2025-06-10 18:37:52.000000000 +01:00
+- title: " Bitcoin traders now see $107K retest before new all-time highs "
+  url: https://cointelegraph.com/news/bitcoin-traders-see-107k-retest-before-new-all-time-highs?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin is due a modest consolidation phase before taking a run at price
+    discovery, says the latet analysis — will US inflation data help it get there?\n
+    \                               "
+  published: 2025-06-10 16:23:54.000000000 +01:00
+- title: " Meta’s Bitcoin rejection means Big Tech is still skeptical "
+  url: https://cointelegraph.com/news/meta-bitcoin-big-tech?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The case for holding Bitcoin on a firm’s balance sheet is compelling,
+    CoinShares’ Butterfill told Cointelegraph, and “the pace of adoption is accelerating.”\n
+    \                               "
+  published: 2025-06-10 15:00:00.000000000 +01:00
+- title: " How to report a Bitcoin scam using Chainabuse and Scamwatch "
+  url: https://cointelegraph.com/news/how-to-use-chainabuse-and-scamwatch-to-report-a-bitcoin-scammer?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Got scammed or worried about Bitcoin fraud? Learn how sharing your story
+    with Chainabuse and Scamwatch can help protect you and others from falling victim.\n
+    \                               "
+  published: 2025-06-10 14:40:20.000000000 +01:00
+- title: " Trump-backed American Bitcoin accumulates 215 BTC since April launch "
+  url: https://cointelegraph.com/news/eric-trumps-american-bitcoin-hits-215-btc-reserve?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "American Bitcoin, backed by Eric Trump and Donald Trump Jr., has quietly
+    amassed over $23 million in BTC while preparing to go public via a Gryphon merger.\n
+    \                               "
+  published: 2025-06-10 14:35:52.000000000 +01:00
+- title: " Mystery whale opens $300M leveraged Bitcoin bet: James Wynn alt account? "
+  url: https://cointelegraph.com/news/whale-300m-bitcoin-james-wynn-alt?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The mysterious $300 million leveraged Bitcoin long comes days after Wynn’s
+    second $100 million leveraged Bitcoin position was liquidated, causing a near
+    $25 million loss.\n                                "
+  published: 2025-06-10 14:20:47.000000000 +01:00
+- title: " Strategy Inc vs. BlackRock: Which is the better Bitcoin proxy stock for
+    your portfolio? "
+  url: https://cointelegraph.com/explained/strategy-inc-vs-blackrock-which-is-the-better-bitcoin-proxy-stock-for-your-portfolio?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "                        Strategy Inc vs. IBIT: Best Bitcoin Proxy Stock
+    in 2025?                    \n                                "
+  published: 2025-06-10 13:47:00.000000000 +01:00
+- title: " ‘Apple should buy Bitcoin,’ Saylor says, as share buyback disappoints "
+  url: https://cointelegraph.com/news/apple-buy-bitcoin-stock-buybacks-michael-saylor?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin exposure may provide a lucrative financial opportunity for Apple’s
+    stock buyback program, according to Michael Saylor.\n                                "
+  published: 2025-06-10 12:53:07.000000000 +01:00
+- title: " Bank of Japan pivot to QE may fuel Bitcoin rally — Arthur Hayes "
+  url: https://cointelegraph.com/news/boj-june-introduce-qe-next-bitcoin-catalyst-arthur-hayes?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The Bank of Japan’s June meeting could trigger a Bitcoin rally if it restarts
+    quantitative easing, as bond yield concerns push institutions toward BTC as a
+    hedge.\n                                "
+  published: 2025-06-10 11:49:03.000000000 +01:00
+- title: " Why is the crypto market up today? "
+  url: https://cointelegraph.com/news/why-is-the-crypto-market-up-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "The crypto market is up today, reflecting investors' optimism for a possible
+    continued rally amid increasing institutional demand for cryptocurrency investment
+    products.\n                                "
+  published: 2025-06-10 10:54:51.000000000 +01:00
+- title: " Bitcoin Coinbase Premium hits 4-month high as 550K BTC leaves exchanges "
+  url: https://cointelegraph.com/news/bitcoin-coinbase-premium-hits-4-month-high-550k-btc-leaves-exchanges?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin demand in the US is rising, while spot exchanges see their reserves
+    decline by one third in less than a year, per new data from CryptoQuant.\n                                "
+  published: 2025-06-10 09:44:01.000000000 +01:00
+- title: " Why is Bitcoin price up today? "
+  url: https://cointelegraph.com/news/why-is-bitcoin-price-up-today?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin price recovers above $109,000 as multiple BTC market metrics show
+    an improvement in investor sentiment.\n                                "
+  published: 2025-06-10 08:59:17.000000000 +01:00
+- title: " Bitcoin lacks strong catalyst to beat its $112K ATH: Analyst "
+  url: https://cointelegraph.com/news/bitcoin-price-lacks-fuel-surpass-all-time-high?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitfinex analysts say that Bitcoin holders who bought in Q1 are now being
+    tested as “the price churns sideways near ATH levels.”\n                                "
+  published: 2025-06-10 07:11:00.000000000 +01:00
+- title: " Bitcoin, US crypto stocks rise as more firms plan BTC buys "
+  url: https://cointelegraph.com/news/crypto-stocks-bitcoin-gain-companies-buy-btc?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Crypto-tied US companies gained alongside Bitcoin on Monday, as public
+    firms continued to scoop up the cryptocurrency.\n                                "
+  published: 2025-06-10 05:13:25.000000000 +01:00
+- title: " BlackRock’s Bitcoin fund blows past $70B in record pace for ETFs "
+  url: https://cointelegraph.com/news/blackrock-bitcoin-etf-fastest-70-billion-assets-under-management?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "BlackRock’s Bitcoin ETF milestone came shortly after the fund wrapped
+    up a massive 31-day inflow streak.\n                                "
+  published: 2025-06-10 05:02:37.000000000 +01:00
 - title: " Bitcoin price shows strength, but will BTC bulls be able to push through
     $110K? "
   url: https://cointelegraph.com/news/bitcoin-price-shows-strength-but-will-btc-bulls-be-able-to-push-through-110k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
@@ -34,8 +129,8 @@
   summary: "Analysts say Bitcoin could break its all-time high within one to two weeks,
     following breakout patterns seen recently in gold and the S&P 500.\n                                "
   published: 2025-06-09 17:06:14.000000000 +01:00
-- title: " Tether plans to open-source Bitcoin mining OS; CEO says &#039;no need&#039;
-    for 3rd party vendors "
+- title: " Tether plans to open-source Bitcoin mining OS; CEO says ‘no need’ for 3rd
+    party vendors "
   url: https://cointelegraph.com/news/tether-bitcoin-mining-software-open-source?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: "The USDt issuer plans to launch its open-source project by the fourth
     quarter of 2025, according to CEO Paolo Ardoino.\n                                "
@@ -71,96 +166,6 @@
   summary: "The Paris-based crypto company already holds $154 million worth of Bitcoin,
     claiming to be Europe’s first BTC treasury company.\n                                "
   published: 2025-06-09 09:09:44.000000000 +01:00
-- title: " $100K becomes bulls&#039; key level: 5 things to know in Bitcoin this week "
-  url: https://cointelegraph.com/news/100k-becomes-bulls-key-level-5-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin liquidity conditions form the backdrop of a battle for BTC price
-    support, and bull market continuation, over the coming week.\n                                "
-  published: 2025-06-09 08:24:28.000000000 +01:00
-- title: " Metaplanet shares jump after $5.4B plan to buy Bitcoin "
-  url: https://cointelegraph.com/news/metaplanet-stock-bitcoin-acquisition-plan?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Metaplanet hopes to buy 210,000 Bitcoin by the end of 2027, which would
-    make it the second-largest holder of Bitcoin among public companies.\n                                "
-  published: 2025-06-09 07:29:48.000000000 +01:00
-- title: " Bitcoin quantum threat is a ploy by ‘yo-yo token’ sellers: Saylor "
-  url: https://cointelegraph.com/news/strategy-saylor-downplays-quantum-threat-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Strategy’s Michael Saylor says even if a legitimate quantum computing
-    threat emerged from a tech giant, it won't be released.\n                                "
-  published: 2025-06-09 06:56:46.000000000 +01:00
-- title: " Michael Saylor teases fresh Bitcoin buy after $1B stock offering "
-  url: https://cointelegraph.com/news/strategy-bitcoin-buy-signal-stock-offering?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "“Send more Orange,” Strategy executive chairman Michael Saylor wrote on
-    X, signaling another Bitcoin purchase from the company.\n                                "
-  published: 2025-06-08 14:59:47.000000000 +01:00
-- title: " ‘Bitcoin Family’ revamps security after crypto crime wave "
-  url: https://cointelegraph.com/news/bitcoin-family-splits-seed-phrase-global-security-upgrade?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "After a wave of crypto crimes, Didi Taihuttu and his “Bitcoin Family”
-    revamped their security by splitting their Bitcoin seed phrase across four continents.\n
-    \                               "
-  published: 2025-06-08 11:56:00.000000000 +01:00
-- title: " Bitcoin can liquidate $15B in shorts with 10% BTC price uptick — Data "
-  url: https://cointelegraph.com/news/bitcoin-can-liquidate-15b-shorts-10-btc-price-uptick-data?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin traders eye key levels to hold and reclaim into the weekly close,
-    but the chances of a major liquidity grab are growing.\n                                "
-  published: 2025-06-08 10:48:20.000000000 +01:00
-- title: " Tether CEO snubs IPO, says $515B valuation is ’a bit bearish’ "
-  url: https://cointelegraph.com/news/tether-ceo-paolo-ardoino-no-public-plans-bearish-valuation?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Tether’s CEO points to the company’s growing Bitcoin and gold treasury
-    as a reason why a speculative $515 billion valuation might actually be “a bit
-    bearish.”\n                                "
-  published: 2025-06-08 07:08:25.000000000 +01:00
-- title: " Bitcoin core devs’ joint statement sparks heated debate among Bitcoiners "
-  url: https://cointelegraph.com/news/bitcoiners-debate-bitcoin-core-developers-use-cases-transaction-relay?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "The Bitcoin community is divided after core developers released a joint
-    statement on transaction relay policy and use cases amid the ongoing OP_RETURN
-    debate.\n                                "
-  published: 2025-06-08 05:05:18.000000000 +01:00
-- title: " Is a Bitcoin price rally to $150K possible by year’s end? "
-  url: https://cointelegraph.com/news/is-bitcoin-price-rally-to-150k-possible-by-year-end?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "A bearish RSI divergence, similar to 2021, suggests Bitcoin could face
-    a 50%+ correction toward $64,000, challenging the $150K year-end target.\n                                "
-  published: 2025-06-07 15:05:00.000000000 +01:00
-- title: " Bitcoin DeFi platform Alex Protocol loses $8.3M to exploit "
-  url: https://cointelegraph.com/news/bitcoin-defi-platform-alex-protocol-loses-8-3m-to-exploit?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Alex Lab Foundation said it will fully reimburse users affected by the
-    $8.3 million exploit, with compensation issued in USDC following a structured
-    claims process.\n                                "
-  published: 2025-06-07 13:21:35.000000000 +01:00
-- title: " Singapore’s ousted crypto firms may not find shelter elsewhere "
-  url: https://cointelegraph.com/news/singapore-crypto-shelter-elsewhere?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Singapore’s ousting of unlicensed firms was not a sudden move and it’s
-    among several regions tightening licensing duties.\n                                "
-  published: 2025-06-07 10:32:36.000000000 +01:00
-- title: " ‘Full porting Bitcoin’ could be Musk&#039;s Trump card in feud: Bitcoiners "
-  url: https://cointelegraph.com/news/full-porting-bitcoin-could-be-musk-s-trump-card-in-feud-bitcoiners?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "JAN3 founder Samson Mow says Elon Musk should go all in on Bitcoin before
-    “they freeze his fiat assets.”\n                                "
-  published: 2025-06-07 06:05:46.000000000 +01:00
-- title: " Reality show to pit Twitch streamers against each other to win 1 BTC "
-  url: https://cointelegraph.com/news/reality-show-twitch-streamers-win-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "The series’ website issued a notice in May warning of a “fraudulent cryptocurrency
-    scheme” using its branding to lure investors.\n                                "
-  published: 2025-06-06 23:27:26.000000000 +01:00
-- title: " Stablecoin legislation to drive Bitcoin market cycle in 2025: Finance Redefined "
-  url: https://cointelegraph.com/news/stablecoin-legislation-bitcoin-market-2025-finance-redefined-may-30-june-6?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin’s consolidation phase may break out into the next phase of price
-    discovery, catalyzed by forthcoming US stablecoin rules.\n                                "
-  published: 2025-06-06 19:00:00.000000000 +01:00
-- title: " Has Bitcoin been captured by politics and institutions? "
-  url: https://cointelegraph.com/news/has-bitcoin-been-captured-by-politics-institutions?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin is now front and center at political conferences and corporate
-    boardrooms. In this episode of Byte-Sized Insight, we're at Bitcoin 2025 exploring
-    whether it has been captured, or simply arrived.\n                                "
-  published: 2025-06-06 17:45:17.000000000 +01:00
-- title: " Price predictions 6/6: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, SUI, LINK "
-  url: https://cointelegraph.com/news/price-predictions-6-6-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin’s sharp rebound off the $100,000 level shows a positive sentiment,
-    but higher levels may attract sellers.\n                                "
-  published: 2025-06-06 17:03:24.000000000 +01:00
-- title: " Bitcoin rebounds to $105K, but is a &#039;bull trap&#039; underway? "
-  url: https://cointelegraph.com/news/bitcoin-rebounds-above-105k-but-is-a-bull-trap-underway?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: "Market uncertainty grows as traders question leverage risks, custodian
-    practices, and strategic reserve delays.\n                                "
-  published: 2025-06-06 16:20:00.000000000 +01:00
 - title: " Twitter User Claims TradingView Has Ignored a Fibonacci Retracement Bug
     for 5 Years "
   url: https://cointelegraph.com/news/twitter-user-claims-tradingview-has-ignored-a-fibonacci-retracement-bug-for-5-years?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound

@@ -1,122 +1,122 @@
 ---
-- title: 'Tell HN: Help restore the tax deduction for software dev in the US (Section
-    174)'
-  url: https://news.ycombinator.com/item?id=44226145
+- title: 'Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills'
+  url: https://news.ycombinator.com/item?id=44240302
   summary: Comments
-  published: 2025-06-09 16:28:51.000000000 +00:00
-- title: Containerization is a Swift package for running Linux containers on macOS
-  url: https://github.com/apple/containerization
+  published: 2025-06-10 19:12:17.000000000 +00:00
+- title: 'Show HN: I made a 3D printed VTOL drone'
+  url: https://www.tsungxu.com/p/i-made-a-3d-printed-vtol-that-can
   summary: Comments
-  published: 2025-06-09 20:53:29.000000000 +00:00
-- title: Apple announces Foundation Models and Containerization frameworks, etc
-  url: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/
+  published: 2025-06-10 20:47:11.000000000 +00:00
+- title: Magistral — the first reasoning model by Mistral AI
+  url: https://mistral.ai/news/magistral
   summary: Comments
-  published: 2025-06-09 17:44:16.000000000 +00:00
-- title: Sly Stone has died
-  url: https://abcnews.go.com/US/sly-stone-pioneering-leader-funk-band-sly-family/story?id=122666345
+  published: 2025-06-10 14:08:01.000000000 +00:00
+- title: 'Low-background Steel: content without AI contamination'
+  url: https://blog.jgc.org/2025/06/low-background-steel-content-without-ai.html
   summary: Comments
-  published: 2025-06-09 21:42:25.000000000 +00:00
-- title: Implementing DOES> in Forth, the entire reason I started this mess
-  url: https://boston.conman.org/2025/06/09.1
+  published: 2025-06-10 17:55:08.000000000 +00:00
+- title: The librarian immediately attempts to sell you a vuvuzela
+  url: https://kaveland.no/posts/2025-06-06-library
   summary: Comments
-  published: 2025-06-10 01:36:39.000000000 +00:00
-- title: Why agents are bad pair programmers
-  url: https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/
+  published: 2025-06-07 17:04:49.000000000 +00:00
+- title: It's the end of observability as we know it (and I feel fine)
+  url: https://www.honeycomb.io/blog/its-the-end-of-observability-as-we-know-it-and-i-feel-fine
   summary: Comments
-  published: 2025-06-09 23:36:23.000000000 +00:00
-- title: 'Show HN: An open-source rhythm dungeon crawler in 16 x 9 pixels'
-  url: https://github.com/jgalecki/qrawl-tiny-mass-disco
+  published: 2025-06-11 00:34:55.000000000 +00:00
+- title: Xeneva Operating System
+  url: https://github.com/manaskamal/XenevaOS
   summary: Comments
-  published: 2025-06-06 10:20:50.000000000 +00:00
-- title: 'Show HN: Munal OS: a graphical experimental OS with WASM sandboxing'
-  url: https://github.com/Askannz/munal-os
+  published: 2025-06-10 19:08:29.000000000 +00:00
+- title: 'Show HN: A “Course” as an MCP Server'
+  url: https://mastra.ai/course
   summary: Comments
-  published: 2025-06-09 17:34:29.000000000 +00:00
-- title: Apple introduces a universal design across platforms
-  url: https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/
+  published: 2025-06-10 20:36:55.000000000 +00:00
+- title: 'You Can Drive but Not Hide: Detection of Hidden Cellular GPS Vehicle Trackers'
+  url: https://www.researchgate.net/publication/391704077_You_Can_Drive_But_You_Cannot_Hide_Detection_of_Hidden_Cellular_GPS_Vehicle_Trackers
   summary: Comments
-  published: 2025-06-09 17:09:47.000000000 +00:00
-- title: The Xerox Alto, Smalltalk, and Rewriting a Running GUI (2017)
-  url: https://www.righto.com/2017/10/the-xerox-alto-smalltalk-and-rewriting.html
+  published: 2025-06-10 19:10:12.000000000 +00:00
+- title: 'Malleable software: Restoring user agency in a world of locked-down apps'
+  url: https://www.inkandswitch.com/essay/malleable-software/
   summary: Comments
-  published: 2025-06-09 21:25:44.000000000 +00:00
-- title: 'Las Vegas is embracing a simple climate solution: More trees'
-  url: https://www.npr.org/2025/06/09/nx-s1-5340363/las-vegas-climate-change-solution-trees
+  published: 2025-06-10 15:16:27.000000000 +00:00
+- title: 'Modern Minimal Perfect Hashing: A Survey'
+  url: https://arxiv.org/abs/2506.06536
   summary: Comments
-  published: 2025-06-10 00:21:40.000000000 +00:00
-- title: What methylene blue can (and can’t) do for the brain
-  url: https://neurofrontiers.blog/what-methylene-blue-can-and-cant-do-for-the-brain/
+  published: 2025-06-10 21:46:44.000000000 +00:00
+- title: OpenAI dropped the price of o3 by 80%
+  url: https://twitter.com/sama/status/1932434606558462459
   summary: Comments
-  published: 2025-06-06 14:15:28.000000000 +00:00
-- title: 'Container: Apple''s Linux-Container Runtime'
-  url: https://github.com/apple/container
+  published: 2025-06-10 17:41:29.000000000 +00:00
+- title: 'Show HN: Chili3d – A open-source, browser-based 3D CAD application'
+  url: https://news.ycombinator.com/item?id=44238171
   summary: Comments
-  published: 2025-06-09 20:42:23.000000000 +00:00
-- title: 'Launch HN: Chonkie (YC X25) – Open-Source Library for Advanced Chunking'
-  url: https://news.ycombinator.com/item?id=44225930
+  published: 2025-06-10 15:39:57.000000000 +00:00
+- title: Mikeal Rogers has died
+  url: https://b.h4x.zip/mikeal/
   summary: Comments
-  published: 2025-06-09 16:09:03.000000000 +00:00
-- title: Go is a good fit for agents
-  url: https://docs.hatchet.run/blog/go-agents
+  published: 2025-06-10 13:43:21.000000000 +00:00
+- title: 'Launch HN: BitBoard (YC X25) – AI agents for healthcare back-offices'
+  url: https://news.ycombinator.com/item?id=44237769
   summary: Comments
-  published: 2025-06-04 12:14:39.000000000 +00:00
-- title: Doctors could hack the nervous system with ultrasound
-  url: https://spectrum.ieee.org/focused-ultrasound-stimulation-inflammation-diabetes
+  published: 2025-06-10 15:09:30.000000000 +00:00
+- title: A Blacklisted American Magician Became a Hero in Brazil
+  url: https://www.wsj.com/lifestyle/careers/magician-brazil-national-celebrity-d31f547a
   summary: Comments
-  published: 2025-06-09 14:27:30.000000000 +00:00
-- title: 'Show HN: Somo – a human friendly alternative to netstat'
-  url: https://github.com/theopfr/somo
+  published: 2025-06-10 17:10:51.000000000 +00:00
+- title: Denuvo Analysis
+  url: https://connorjaydunn.github.io/blog/posts/denuvo-analysis/
   summary: Comments
-  published: 2025-06-09 17:59:40.000000000 +00:00
-- title: 'Hokusai Moyo Gafu: an album of dyeing patterns'
-  url: https://ndlsearch.ndl.go.jp/en/imagebank/theme/hokusaimoyo
+  published: 2025-06-09 16:50:37.000000000 +00:00
+- title: The Gentle Singularity
+  url: https://blog.samaltman.com/the-gentle-singularity
   summary: Comments
-  published: 2025-06-09 14:42:03.000000000 +00:00
-- title: Bruteforcing the phone number of any Google user
-  url: https://brutecat.com/articles/leaking-google-phones
+  published: 2025-06-10 21:17:08.000000000 +00:00
+- title: A Thousand Tiny Optimisations
+  url: https://leejo.github.io/2025/06/08/alttpr/
   summary: Comments
-  published: 2025-06-09 14:06:51.000000000 +00:00
-- title: Pi in Pascal's Triangle (2014)
-  url: https://www.cut-the-knot.org/arithmetic/algebra/PiInPascal.shtml
+  published: 2025-06-08 13:50:41.000000000 +00:00
+- title: 'Another Crack in the Chain of Trust: Uncovering (Yet Another) Secure Boot
+    Bypass'
+  url: https://www.binarly.io/blog/another-crack-in-the-chain-of-trust
   summary: Comments
-  published: 2025-06-06 12:38:16.000000000 +00:00
-- title: Why quadratic funding is not optimal
-  url: https://jonathanwarden.com/quadratic-funding-is-not-optimal/
+  published: 2025-06-10 19:55:18.000000000 +00:00
+- title: A Family of Non-Periodic Tilings, Describable Using Elementary Tools
+  url: https://arxiv.org/abs/2506.07638
   summary: Comments
-  published: 2025-06-09 14:33:14.000000000 +00:00
-- title: A Rippling Townhouse Facade by Alex Chinneck Takes a Seat in a London Square
-  url: https://www.thisiscolossal.com/2025/05/alex-chinneck-a-week-at-the-knees/
+  published: 2025-06-10 19:47:37.000000000 +00:00
+- title: Sophie Germain Prime Project
+  url: https://palaiologos.rocks/sophie-germain/
   summary: Comments
-  published: 2025-06-06 18:56:03.000000000 +00:00
-- title: Debugging Azure Networking for Elastic Cloud Serverless
-  url: https://www.elastic.co/observability-labs/blog/debugging-aks-packet-loss
+  published: 2025-06-07 19:43:15.000000000 +00:00
+- title: Android 16 is here
+  url: https://blog.google/products/android/android-16/
   summary: Comments
-  published: 2025-06-06 17:18:51.000000000 +00:00
-- title: Algovivo an energy-based formulation for soft-bodied virtual creatures
-  url: https://juniorrojas.com/algovivo/
+  published: 2025-06-10 18:29:43.000000000 +00:00
+- title: Faster, easier 2D vector rendering [video]
+  url: https://www.youtube.com/watch?v=_sv8K190Zps
   summary: Comments
-  published: 2025-06-09 15:54:16.000000000 +00:00
-- title: How do you prototype a nice language?
-  url: https://kevinlynagh.com/newsletter/2025_06_03_prototyping_a_language/
+  published: 2025-06-10 13:17:01.000000000 +00:00
+- title: Chatbots are replacing Google's search, devastating traffic for some publishers
+  url: https://www.wsj.com/tech/ai/google-ai-news-publishers-7e687141
   summary: Comments
-  published: 2025-06-06 01:10:23.000000000 +00:00
-- title: 'Show HN: Most users won''t report bugs unless you make it stupidly easy'
-  url: https://news.ycombinator.com/item?id=44225352
+  published: 2025-06-10 21:03:27.000000000 +00:00
+- title: Spoofing OpenPGP.js signature verification
+  url: https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/
   summary: Comments
-  published: 2025-06-09 15:16:48.000000000 +00:00
-- title: The new Gödel Prize winner tastes great and is less filling
-  url: https://blog.computationalcomplexity.org/2025/06/the-new-godel-prize-winner-tastes-great.html
+  published: 2025-06-10 13:58:30.000000000 +00:00
+- title: 'Show HN: High End Color Quantizer'
+  url: https://github.com/big-nacho/patolette
   summary: Comments
-  published: 2025-06-09 14:42:33.000000000 +00:00
-- title: Finding Shawn Mendes (2019)
-  url: https://ericneyman.wordpress.com/2019/11/26/finding-shawn-mendes/
+  published: 2025-06-10 11:50:15.000000000 +00:00
+- title: 'Show HN: MidWord – A Word-Guessing Game'
+  url: https://midword.com/
   summary: Comments
-  published: 2025-06-09 07:16:26.000000000 +00:00
-- title: A man rebuilding the last Inca rope bridge
-  url: https://www.atlasobscura.com/articles/last-inca-rope-bridge-qeswachaka-tradition
+  published: 2025-06-10 18:42:52.000000000 +00:00
+- title: Dubious Math in Infinite Jest (2009)
+  url: https://www.thehowlingfantods.com/dfw/dubious-math-in-infinite-jest.html
   summary: Comments
-  published: 2025-06-06 23:44:26.000000000 +00:00
-- title: 'Show HN: Glowstick – type level tensor shapes in stable rust'
-  url: https://github.com/nicksenger/glowstick
+  published: 2025-06-10 15:04:38.000000000 +00:00
+- title: Fine-Tuning LLMs Is a Waste of Time
+  url: https://codinginterviewsmadesimple.substack.com/p/fine-tuning-llms-is-a-huge-waste
   summary: Comments
-  published: 2025-06-09 16:08:22.000000000 +00:00
+  published: 2025-06-10 23:44:05.000000000 +00:00
