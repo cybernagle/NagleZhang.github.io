@@ -1,123 +1,123 @@
 ---
+- title: Jemalloc Postmortem
+  url: https://jasone.github.io/2025/06/12/jemalloc-postmortem/
+  summary: Comments
+  published: 2025-06-13 01:37:17.000000000 +00:00
+- title: Frequent reauth doesn't make you more secure
+  url: https://tailscale.com/blog/frequent-reath-security
+  summary: Comments
+  published: 2025-06-12 19:05:12.000000000 +00:00
+- title: The Case for Software Craftsmanship in the Era of Vibes
+  url: https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes
+  summary: Comments
+  published: 2025-06-12 23:42:00.000000000 +00:00
+- title: A Dark Adtech Empire Fed by Fake CAPTCHAs
+  url: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
+  summary: Comments
+  published: 2025-06-12 22:15:43.000000000 +00:00
+- title: A receipt printer cured my procrastination
+  url: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination
+  summary: Comments
+  published: 2025-06-12 11:41:04.000000000 +00:00
+- title: iPhone 11 emulation done in QEMU
+  url: https://github.com/ChefKissInc/QEMUAppleSilicon
+  summary: Comments
+  published: 2025-06-12 15:04:59.000000000 +00:00
+- title: 'Show HN: Tritium – The Legal IDE in Rust'
+  url: https://tritium.legal/preview
+  summary: Comments
+  published: 2025-06-12 12:06:59.000000000 +00:00
+- title: 'The curse of Toumaï: an ancient skull and a bitter feud over humanity''s
+    origins'
+  url: https://www.theguardian.com/science/2025/may/27/the-curse-of-toumai-ancient-skull-disputed-femur-feud-humanity-origins
+  summary: Comments
+  published: 2025-06-12 21:50:08.000000000 +00:00
+- title: 'Show HN: Tool-Assisted Speedrunning the Boring Parts of Animal Crossing
+    (GCN)'
+  url: https://github.com/hunterirving/pico-crossing
+  summary: Comments
+  published: 2025-06-12 13:37:06.000000000 +00:00
+- title: Maximizing Battery Storage Profits via High-Frequency Intraday Trading
+  url: https://arxiv.org/abs/2504.06932
+  summary: Comments
+  published: 2025-06-12 09:43:47.000000000 +00:00
+- title: Worldwide power grid with glass insulated HVDC cables
+  url: https://omattos.com/2025/06/12/glass-hvdc-cables.html
+  summary: Comments
+  published: 2025-06-12 20:04:09.000000000 +00:00
+- title: 'Show HN: McWig – A modal, Vim-like text editor written in Go'
+  url: https://github.com/firstrow/mcwig
+  summary: Comments
+  published: 2025-06-12 13:32:56.000000000 +00:00
+- title: Rust compiler performance
+  url: https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html
+  summary: Comments
+  published: 2025-06-10 08:24:44.000000000 +00:00
+- title: Being Full of Value‑Added Shit
+  url: https://feld.com/archives/2025/06/being-full-of-value%e2%80%91added-shit/
+  summary: Comments
+  published: 2025-06-12 20:03:42.000000000 +00:00
+- title: Roundtable (YC S23) Is Hiring a President / CRO
+  url: https://www.ycombinator.com/companies/roundtable/jobs/wmPTI9F-president-cro-founding
+  summary: Comments
+  published: 2025-06-12 21:00:00.000000000 +00:00
+- title: Why does my ripped CD have messed up track names? And why is one track missing?
+  url: https://www.akpain.net/blog/inside-a-cd/
+  summary: Comments
+  published: 2025-06-12 15:03:52.000000000 +00:00
+- title: Solving LinkedIn Queens with SMT
+  url: https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/
+  summary: Comments
+  published: 2025-06-12 16:18:01.000000000 +00:00
+- title: Microsoft Office migration from Source Depot to Git
+  url: https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/
+  summary: Comments
+  published: 2025-06-12 00:15:23.000000000 +00:00
+- title: First thoughts on o3 pro
+  url: https://www.latent.space/p/o3-pro
+  summary: Comments
+  published: 2025-06-10 20:42:19.000000000 +00:00
 - title: Chatterbox TTS
   url: https://github.com/resemble-ai/chatterbox
   summary: Comments
   published: 2025-06-11 20:23:52.000000000 +00:00
-- title: How Long it takes to know if a Job Is Right for You or Not
-  url: https://charity.wtf/2025/06/08/on-how-long-it-takes-to-know-if-a-job-is-right-for-you-or-not/
+- title: 'Helion: A modern fast paced Doom FPS engine in C#'
+  url: https://github.com/Helion-Engine/Helion
   summary: Comments
-  published: 2025-06-09 14:11:49.000000000 +00:00
-- title: Research suggests Big Bang may have taken place inside a black hole
-  url: https://www.port.ac.uk/news-events-and-blogs/blogs/space-cosmology-and-the-universe/what-if-the-big-bang-wasnt-the-beginning-our-research-suggests-it-may-have-taken-place-inside-a-black-hole
+  published: 2025-06-10 22:56:51.000000000 +00:00
+- title: 'Dancing brainwaves: How sound reshapes your brain networks in real time'
+  url: https://www.sciencedaily.com/releases/2025/06/250602155001.htm
   summary: Comments
-  published: 2025-06-11 19:44:29.000000000 +00:00
-- title: 'Show HN: Eyesite - experimental website combining computer vision and web
-    design'
-  url: https://blog.andykhau.com/blog/eyesite
+  published: 2025-06-08 11:47:44.000000000 +00:00
+- title: Quantum Computation Lecture Notes (2022)
+  url: https://math.mit.edu/~shor/435-LN/
   summary: Comments
-  published: 2025-06-12 00:37:27.000000000 +00:00
-- title: 'Show HN: Spark, An advanced 3D Gaussian Splatting renderer for Three.js'
-  url: https://sparkjs.dev/
+  published: 2025-06-09 07:54:59.000000000 +00:00
+- title: Humans have nasal respiratory fingerprints
+  url: https://www.cell.com/current-biology/fulltext/S0960-9822(25)00583-4
   summary: Comments
-  published: 2025-06-11 17:02:56.000000000 +00:00
-- title: Congratulations on creating the one billionth repository on GitHub
-  url: https://github.com/AasishPokhrel/shit/issues/1
+  published: 2025-06-12 20:26:09.000000000 +00:00
+- title: Sorcerer (YC S24) raises $3.9M to launch more weather balloons
+  url: https://www.axios.com/pro/climate-deals/2025/06/12/sorcerer-seed-weather-balloons
   summary: Comments
-  published: 2025-06-11 21:37:04.000000000 +00:00
-- title: V-JEPA 2 world model and new benchmarks for physical reasoning
-  url: https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/
+  published: 2025-06-12 16:46:24.000000000 +00:00
+- title: US-backed Israeli company's spyware used to target European journalists
+  url: https://apnews.com/article/spyware-italy-paragon-meloni-pegasus-f36dd32106f44398ee24001317ccf2bb
   summary: Comments
-  published: 2025-06-11 14:43:27.000000000 +00:00
-- title: My Cord-Cutting Adventure
-  url: http://brander.ca/cordcut/
+  published: 2025-06-12 16:12:45.000000000 +00:00
+- title: GCP Outage
+  url: https://status.cloud.google.com/
   summary: Comments
-  published: 2025-06-09 02:07:30.000000000 +00:00
-- title: Plants hear their pollinators, and produce sweet nectar in response
-  url: https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/16150976-plants-hear-pollinators-produce-sweet-nectar-response
+  published: 2025-06-12 18:11:07.000000000 +00:00
+- title: 'Ask HN: Can anybody clarify why OpenAI reasoning now shows non-English thoughts?'
+  url: https://news.ycombinator.com/item?id=44264325
   summary: Comments
-  published: 2025-06-07 19:27:38.000000000 +00:00
-- title: How I Program with Agents
-  url: https://crawshaw.io/blog/programming-with-agents
+  published: 2025-06-12 23:33:25.000000000 +00:00
+- title: Seedance 1.0
+  url: https://seed.bytedance.com/en/seedance
   summary: Comments
-  published: 2025-06-09 05:30:14.000000000 +00:00
-- title: 'Show HN: Ikuyo a Travel Planning Web Application'
-  url: https://ikuyo.kenrick95.org/
+  published: 2025-06-12 14:26:59.000000000 +00:00
+- title: Cloudflare was down
+  url: https://www.cloudflarestatus.com/incidents/25r9t0vz99rp
   summary: Comments
-  published: 2025-06-11 12:44:15.000000000 +00:00
-- title: How Microsoft Office Moved from Source Depot to Git
-  url: https://danielsada.tech/blog/carreer-part-7-how-office-moved-to-git-and-i-loved-devex/
-  summary: Comments
-  published: 2025-06-12 00:15:23.000000000 +00:00
-- title: 'Show HN: RomM – An open-source, self-hosted ROM manager and player'
-  url: https://github.com/rommapp/romm
-  summary: Comments
-  published: 2025-06-11 14:25:05.000000000 +00:00
-- title: EchoLeak – 0-Click AI Vulnerability Enabling Data Exfiltration from 365 Copilot
-  url: https://www.aim.security/lp/aim-labs-echoleak-blogpost
-  summary: Comments
-  published: 2025-06-11 19:11:00.000000000 +00:00
-- title: Bypassing GitHub Actions policies in the dumbest way possible
-  url: https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass
-  summary: Comments
-  published: 2025-06-11 14:15:54.000000000 +00:00
-- title: Shaped (YC W22) Is Hiring
-  url: https://www.ycombinator.com/companies/shaped/jobs/qtQwxJO-head-of-engineering
-  summary: Comments
-  published: 2025-06-11 21:00:26.000000000 +00:00
-- title: Unveiling the EndBOX – A microcomputer prototype for EndBASIC
-  url: https://www.endbasic.dev/2025/06/unveiling-the-endbox.html
-  summary: Comments
-  published: 2025-06-11 23:49:42.000000000 +00:00
-- title: The Seymour Cray Era of Supercomputers
-  url: https://ztoz.blog/posts/cray-era-supercomputers/
-  summary: Comments
-  published: 2025-06-11 23:20:03.000000000 +00:00
-- title: Characterizing my first attempt at copper-only passives
-  url: https://moroso.emarhavil.com/~joshua/2pf-characterization.html
-  summary: Comments
-  published: 2025-06-08 06:01:50.000000000 +00:00
-- title: 'Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills'
-  url: https://news.ycombinator.com/item?id=44240302
-  summary: Comments
-  published: 2025-06-10 19:12:17.000000000 +00:00
-- title: 'Show HN: S3mini – Tiny and fast S3-compatible client, no-deps, edge-ready'
-  url: https://github.com/good-lly/s3mini
-  summary: Comments
-  published: 2025-06-11 08:55:47.000000000 +00:00
-- title: The nine-armed octopus and the oddities of the cephalopod nervous system
-  url: https://arstechnica.com/science/2025/06/the-nine-armed-octopus-and-the-oddities-of-the-cephalopod-nervous-system/
-  summary: Comments
-  published: 2025-06-08 04:12:33.000000000 +00:00
-- title: DeskHog, an open-source developer toy
-  url: https://posthog.com/deskhog
-  summary: Comments
-  published: 2025-06-11 13:37:31.000000000 +00:00
-- title: Dolly Parton's Dollywood Express
-  url: https://thetransitguy.substack.com/p/dolly-parton-runs-a-train-busier
-  summary: Comments
-  published: 2025-06-11 16:46:48.000000000 +00:00
-- title: 'Show HN: The Roman Industrial Revolution that could have been'
-  url: https://thelydianstone.com/
-  summary: Comments
-  published: 2025-06-11 23:51:54.000000000 +00:00
-- title: 'Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents'
-  url: https://arxiv.org/abs/2505.22954
-  summary: Comments
-  published: 2025-06-11 18:07:04.000000000 +00:00
-- title: OpenPlanetData – Free Daily Planet OSM PBF and GOL Indexed Snapshots
-  url: https://openplanetdata.com
-  summary: Comments
-  published: 2025-06-11 12:55:43.000000000 +00:00
-- title: 'Institutional Books: A 242B token dataset from Harvard Library''s collections'
-  url: https://arxiv.org/abs/2506.08300
-  summary: Comments
-  published: 2025-06-11 21:36:06.000000000 +00:00
-- title: The Diary of Samuel Pepys
-  url: https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys
-  summary: Comments
-  published: 2025-06-08 04:41:39.000000000 +00:00
-- title: Menstrual tracking app data is gold mine for advertisers that risks women
-    safety
-  url: https://www.cam.ac.uk/research/news/menstrual-tracking-app-data-is-a-gold-mine-for-advertisers-that-risks-womens-safety-report
-  summary: Comments
-  published: 2025-06-11 12:31:15.000000000 +00:00
+  published: 2025-06-12 18:24:01.000000000 +00:00
