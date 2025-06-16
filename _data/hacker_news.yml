@@ -1,122 +1,124 @@
 ---
-- title: Infinite Grid of Resistors
-  url: https://www.mathpages.com/home/kmath668/kmath668.htm
+- title: League of Professional System Administrators Board to Dissolve Organization
+  url: https://lopsa.org/blog/13510205
   summary: Comments
-  published: 2025-06-14 22:12:12.000000000 +00:00
-- title: Q-learning is not yet scalable
-  url: https://seohong.me/blog/q-learning-is-not-yet-scalable/
+  published: 2025-06-16 01:21:56.000000000 +00:00
+- title: A new high-voltage breaker can clear grid-scale faults without greenhouse
+    gas
+  url: https://spectrum.ieee.org/sf6-gas-replacement
   summary: Comments
-  published: 2025-06-15 00:56:54.000000000 +00:00
-- title: I have reimplemented Stable Diffusion 3.5 from scratch in pure PyTorch
-  url: https://github.com/yousef-rafat/miniDiffusion
+  published: 2025-06-15 23:01:38.000000000 +00:00
+- title: Telephone Exchanges in the UK
+  url: https://telephone-exchanges.org.uk/
   summary: Comments
-  published: 2025-06-14 13:56:46.000000000 +00:00
-- title: How to Bring Back Oddly Shaped App Icons in macOS 26 Tahoe
-  url: https://simonbs.dev/posts/how-to-bring-back-oddly-shaped-app-icons-on-macos-26-tahoe/
+  published: 2025-06-15 19:33:43.000000000 +00:00
+- title: Modifying an HDMI dummy plug's EDID using a Raspberry Pi
+  url: https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/
   summary: Comments
-  published: 2025-06-11 11:11:58.000000000 +00:00
-- title: Have a damaged painting? Restore it in just hours with an AI-generated "mask"
-  url: https://news.mit.edu/2025/restoring-damaged-paintings-using-ai-generated-mask-0611
+  published: 2025-06-15 16:00:43.000000000 +00:00
+- title: Twin – A Textmode WINdow Environment
+  url: https://github.com/cosmos72/twin
   summary: Comments
-  published: 2025-06-12 17:59:23.000000000 +00:00
-- title: Inside the Apollo "8-Ball" FDAI (Flight Director / Attitude Indicator)
-  url: https://www.righto.com/2025/06/inside-apollo-fdai.html
+  published: 2025-06-15 20:07:27.000000000 +00:00
+- title: Canyon.mid
+  url: https://canyonmid.com/
   summary: Comments
-  published: 2025-06-14 15:43:03.000000000 +00:00
-- title: I used ChatGPT to learn programming from zero and built a video generation
-    SaaS
-  url: https://www.vidmakerpro.com/
+  published: 2025-06-15 13:23:55.000000000 +00:00
+- title: 'Childhood leukemia: how a deadly cancer became treatable'
+  url: https://ourworldindata.org/childhood-leukemia-treatment-history
   summary: Comments
-  published: 2025-06-14 22:43:37.000000000 +00:00
-- title: Chicken Eyeglasses
-  url: https://en.wikipedia.org/wiki/Chicken_eyeglasses
+  published: 2025-06-15 13:12:42.000000000 +00:00
+- title: Why SSL was renamed to TLS in late 90s (2014)
+  url: https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html
   summary: Comments
-  published: 2025-06-11 06:13:49.000000000 +00:00
-- title: AMD's AI Future Is Rack Scale 'Helios'
-  url: https://morethanmoore.substack.com/p/amds-ai-future-is-rack-scale-helios
+  published: 2025-06-15 14:10:37.000000000 +00:00
+- title: 'Lisp-stat: Lisp environment for statistical computing'
+  url: https://lisp-stat.dev/about/
   summary: Comments
-  published: 2025-06-14 20:51:11.000000000 +00:00
-- title: Solar Orbiter gets world-first views of the Sun's poles
-  url: https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_gets_world-first_views_of_the_Sun_s_poles
+  published: 2025-06-14 11:23:55.000000000 +00:00
+- title: First 2D, non-silicon computer developed
+  url: https://www.psu.edu/news/research/story/worlds-first-2d-non-silicon-computer-developed
   summary: Comments
-  published: 2025-06-11 23:00:50.000000000 +00:00
-- title: Wrong ways to use the databases, when the pendulum swung too far
-  url: https://www.luu.io/posts/2025-database-pendulum
+  published: 2025-06-12 18:26:43.000000000 +00:00
+- title: How to modify Starlink Mini to run without the built-in WiFi router
+  url: https://olegkutkov.me/2025/06/15/how-to-modify-starlink-mini-to-run-without-the-built-in-wifi-router/
   summary: Comments
-  published: 2025-06-12 18:19:13.000000000 +00:00
-- title: Clinical knowledge in LLMs does not translate to human interactions
-  url: https://arxiv.org/pdf/2504.18919
+  published: 2025-06-15 12:40:07.000000000 +00:00
+- title: Datalog in miniKanren
+  url: https://deosjr.github.io/dynamicland/datalog.html
   summary: Comments
-  published: 2025-06-14 22:18:46.000000000 +00:00
-- title: Why sperm is still so mysterious
-  url: https://www.bbc.com/future/article/20250613-untangling-the-mysteries-of-what-we-dont-know-about-sperm
+  published: 2025-06-15 16:16:08.000000000 +00:00
+- title: Datalog in Rust
+  url: https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md
   summary: Comments
-  published: 2025-06-15 01:29:58.000000000 +00:00
-- title: Waymo rides cost more than Uber or Lyft and people are paying anyway
-  url: https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/
+  published: 2025-06-15 11:18:40.000000000 +00:00
+- title: Chemical knowledge and reasoning of large language models vs. chemist expertise
+  url: https://www.nature.com/articles/s41557-025-01815-x
   summary: Comments
-  published: 2025-06-12 14:19:43.000000000 +00:00
-- title: Debunking HDR [video]
-  url: https://yedlin.net/DebunkingHDR/index.html
+  published: 2025-06-14 10:22:06.000000000 +00:00
+- title: Simplest C++ Callback, from SumatraPDF
+  url: https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html
   summary: Comments
-  published: 2025-06-11 15:56:00.000000000 +00:00
-- title: Seven replies to the viral Apple reasoning paper and why they fall short
-  url: https://garymarcus.substack.com/p/seven-replies-to-the-viral-apple
+  published: 2025-06-15 17:26:38.000000000 +00:00
+- title: DARPA program sets distance record for power beaming
+  url: https://www.darpa.mil/news/2025/darpa-program-distance-record-power-beaming
   summary: Comments
-  published: 2025-06-14 19:52:38.000000000 +00:00
-- title: Unsupervised Elicitation of Language Models
-  url: https://arxiv.org/abs/2506.10139
+  published: 2025-06-15 22:40:40.000000000 +00:00
+- title: 'David Attenborough at 99: ''I will not see how the story ends'''
+  url: https://www.thetimes.com/life-style/celebrity/article/david-attenborough-book-extract-age-99-lj3rd2fg7
   summary: Comments
-  published: 2025-06-14 12:32:20.000000000 +00:00
-- title: 'Last fifty years of integer linear programming: Recent practical advances'
-  url: https://inria.hal.science/hal-04776866v1
+  published: 2025-06-15 21:21:28.000000000 +00:00
+- title: Cure Dolly's Japanese Grammar Lessons
+  url: https://kellenok.github.io/cure-script/
   summary: Comments
-  published: 2025-06-14 06:15:08.000000000 +00:00
-- title: How the Final Cartridge III Freezer Works
-  url: https://www.pagetable.com/?p=1810
+  published: 2025-06-14 05:38:07.000000000 +00:00
+- title: 'Show HN: Seastar – Build and dependency manager for C/C++ with Cargo''s
+    features'
+  url: https://github.com/AI314159/Seastar
   summary: Comments
-  published: 2025-06-14 16:57:22.000000000 +00:00
-- title: The Many Sides of Erik Satie
-  url: https://thereader.mitpress.mit.edu/the-many-sides-of-erik-satie/
+  published: 2025-06-15 19:36:32.000000000 +00:00
+- title: It’s nearly impossible to buy an original Bob Ross painting (2021)
+  url: https://thehustle.co/why-its-nearly-impossible-to-buy-an-original-bob-ross-painting
   summary: Comments
-  published: 2025-06-08 13:36:11.000000000 +00:00
-- title: SIMD-friendly algorithms for substring searching (2018)
-  url: http://0x80.pl/notesen/2016-11-28-simd-strfind.html
+  published: 2025-06-15 20:21:52.000000000 +00:00
+- title: How fast can the RPython GC allocate?
+  url: https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html
   summary: Comments
-  published: 2025-06-14 03:31:18.000000000 +00:00
-- title: Infineon security microcontroller flaw enabled extraction of TPM secret keys
-  url: https://it4sec.substack.com/p/a-flaw-in-infineons-security-microcontrollers
+  published: 2025-06-15 19:55:09.000000000 +00:00
+- title: Fields where Native Americans farmed a thousand years ago discovered in Michigan
+  url: https://www.smithsonianmag.com/smart-news/massive-field-where-native-american-farmers-grew-corn-beans-and-squash-1000-years-ago-discovered-in-michigan-180986758/
   summary: Comments
-  published: 2025-06-14 18:02:41.000000000 +00:00
-- title: Endometriosis is an interesting disease
-  url: https://www.owlposting.com/p/endometriosis-is-an-incredibly-interesting
+  published: 2025-06-12 13:13:39.000000000 +00:00
+- title: Cyborg Embryos Offer New Insights into Brain Growth
+  url: https://spectrum.ieee.org/embryo-electrode-array
   summary: Comments
-  published: 2025-06-13 22:40:22.000000000 +00:00
-- title: Peano arithmetic is enough, because Peano arithmetic  encodes computation
-  url: https://math.stackexchange.com/a/5075056/6708
+  published: 2025-06-12 10:11:17.000000000 +00:00
+- title: An Introduction to the Hieroglyphic Language of Early 1900s Train-Hoppers
+  url: https://www.openculture.com/2018/08/hobo-code-introduction-hieroglyphic-language-early-1900s-train-hoppers.html
   summary: Comments
-  published: 2025-06-13 16:10:38.000000000 +00:00
-- title: TimeGuessr
-  url: https://timeguessr.com/
+  published: 2025-06-15 19:55:29.000000000 +00:00
+- title: Foundations of Computer Vision
+  url: https://visionbook.mit.edu
   summary: Comments
-  published: 2025-06-10 05:56:23.000000000 +00:00
-- title: Slowing the flow of core-dump-related CVEs
-  url: https://lwn.net/SubscriberLink/1024160/f18b880c8cd1eef1/
+  published: 2025-06-15 10:11:41.000000000 +00:00
+- title: The experience continues until you stop experiencing it
+  url: https://strangemachine.tv/safespace/popov/
   summary: Comments
-  published: 2025-06-10 20:07:41.000000000 +00:00
-- title: Fixing the mechanics of my bullet chess
-  url: https://jacobbrazeal.wordpress.com/2025/06/14/fixing-the-mechanics-of-my-bullet-chess/
+  published: 2025-06-15 16:36:27.000000000 +00:00
+- title: KAIST Succeeds in Real-Time CO2 Monitoring Without Batteries or External
+    Power
+  url: https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=47450
   summary: Comments
-  published: 2025-06-14 23:40:46.000000000 +00:00
-- title: 'SSHTron: A multiplayer lightcycle game that runs through SSH'
-  url: https://github.com/zachlatta/sshtron
+  published: 2025-06-15 22:29:34.000000000 +00:00
+- title: 'Show HN: StellarSnap – Explore NASA APODs, simulate orbits, learn astronomy'
+  url: https://stellarsnap.space
   summary: Comments
-  published: 2025-06-14 16:22:41.000000000 +00:00
-- title: Peeling the Covers Off Germany's Exascale "Jupiter" Supercomputer
-  url: https://www.nextplatform.com/2025/06/11/peeling-the-covers-off-germanys-exascale-jupiter-supercomputer/
+  published: 2025-06-13 17:02:27.000000000 +00:00
+- title: SQLite Date and Time Functions (2007)
+  url: https://www2.sqlite.org/cvstrac/wiki?p=DateAndTimeFunctions
   summary: Comments
-  published: 2025-06-12 09:52:10.000000000 +00:00
-- title: Student discovers fungus predicted by Albert Hoffman
-  url: https://wvutoday.wvu.edu/stories/2025/06/02/wvu-student-makes-long-awaited-discovery-of-mystery-fungus-sought-by-lsd-s-inventor
+  published: 2025-06-14 04:54:58.000000000 +00:00
+- title: The Art of Lisp and Writing (2003)
+  url: https://www.dreamsongs.com/ArtOfLisp.html
   summary: Comments
-  published: 2025-06-11 00:36:00.000000000 +00:00
+  published: 2025-06-15 07:07:42.000000000 +00:00
