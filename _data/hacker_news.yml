@@ -1,122 +1,121 @@
 ---
-- title: Snorting the AGI with Claude Code
-  url: https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code
+- title: The Grug Brained Developer (2022)
+  url: https://grugbrain.dev/
   summary: Comments
-  published: 2025-06-16 11:01:32.000000000 +00:00
-- title: 'DRM Can Watch You Too: Privacy Effects of Browsers'' Widevine EME (2023)'
-  url: https://hal.science/hal-04179324v1/document
+  published: 2025-06-17 20:24:36.000000000 +00:00
+- title: Honda conducts successful launch and landing of experimental reusable rocket
+  url: https://global.honda/en/topics/2025/c_2025-06-17ceng.html
   summary: Comments
-  published: 2025-06-16 22:06:58.000000000 +00:00
-- title: Generative AI coding tools and agents do not work for me
-  url: https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me
+  published: 2025-06-17 15:02:12.000000000 +00:00
+- title: Resurrecting a dead torrent tracker and finding 3M peers
+  url: https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
   summary: Comments
-  published: 2025-06-17 00:33:45.000000000 +00:00
-- title: What Happens When Clergy Take Psilocybin
+  published: 2025-06-17 17:40:19.000000000 +00:00
+- title: Bzip2 crate switches from C to 100% Rust
+  url: https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/
+  summary: Comments
+  published: 2025-06-17 20:06:54.000000000 +00:00
+- title: Building Effective AI Agents
+  url: https://www.anthropic.com/engineering/building-effective-agents
+  summary: Comments
+  published: 2025-06-17 17:50:05.000000000 +00:00
+- title: 3D-printed device splits white noise into an acoustic rainbow without power
+  url: https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html
+  summary: Comments
+  published: 2025-06-15 15:54:54.000000000 +00:00
+- title: Dinesh's Mid-Summer Death Valley Walk (1998)
+  url: https://dineshdesai.info/dv/photos.html
+  summary: Comments
+  published: 2025-06-17 23:56:32.000000000 +00:00
+- title: AMD's CDNA 4 Architecture Announcement
+  url: https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement
+  summary: Comments
+  published: 2025-06-17 17:38:02.000000000 +00:00
+- title: LLMs pose an interesting problem for DSL designers
+  url: https://kirancodes.me/posts/log-lang-design-llms.html
+  summary: Comments
+  published: 2025-06-17 19:17:05.000000000 +00:00
+- title: 'Show HN: I made an online Unicode Cuneiform digital clock'
+  url: https://oisinmoran.com/sumertime
+  summary: Comments
+  published: 2025-06-15 02:38:49.000000000 +00:00
+- title: I Wrote a Compiler
+  url: https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/
+  summary: Comments
+  published: 2025-06-15 08:28:18.000000000 +00:00
+- title: Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite
+  url: https://blog.google/products/gemini/gemini-2-5-model-family-expands/
+  summary: Comments
+  published: 2025-06-17 16:06:05.000000000 +00:00
+- title: Why JPEGs still rule the web (2024)
+  url: https://spectrum.ieee.org/jpeg-image-format-history
+  summary: Comments
+  published: 2025-06-17 14:51:10.000000000 +00:00
+- title: Time Series Forecasting with Graph Transformers
+  url: https://kumo.ai/research/time-series-forecasting/
+  summary: Comments
+  published: 2025-06-17 18:05:53.000000000 +00:00
+- title: Now might be the best time to learn software development
+  url: https://substack.com/home/post/p-165655726
+  summary: Comments
+  published: 2025-06-17 14:51:40.000000000 +00:00
+- title: Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure
+  url: https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level
+  summary: Comments
+  published: 2025-06-17 21:00:27.000000000 +00:00
+- title: What Google Translate Can Tell Us About Vibecoding
+  url: https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
+  summary: Comments
+  published: 2025-06-17 19:23:10.000000000 +00:00
+- title: Iran asks its people to delete WhatsApp from their devices
+  url: https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1
+  summary: Comments
+  published: 2025-06-17 19:12:23.000000000 +00:00
+- title: Should we design for iffy internet?
+  url: https://bytes.zone/posts/should-we-design-for-iffy-internet/
+  summary: Comments
+  published: 2025-06-17 13:02:54.000000000 +00:00
+- title: After millions of years, why are carnivorous plants still so small?
+  url: https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/
+  summary: Comments
+  published: 2025-06-13 20:04:03.000000000 +00:00
+- title: Proofs Without Words
+  url: https://artofproblemsolving.com/wiki/index.php/Proofs_without_words
+  summary: Comments
+  published: 2025-06-14 11:31:49.000000000 +00:00
+- title: Tetrachromatic Vision
+  url: https://www.bookofjoe.com/2025/05/my-entry-32.html
+  summary: Comments
+  published: 2025-06-14 14:53:32.000000000 +00:00
+- title: 'The hamburger-menu icon today: Is it recognizable?'
+  url: https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/
+  summary: Comments
+  published: 2025-06-17 14:01:16.000000000 +00:00
+- title: 'AMD''s Pre-Zen Interconnect: Testing Trinity''s Northbridge'
+  url: https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing
+  summary: Comments
+  published: 2025-06-14 16:07:23.000000000 +00:00
+- title: 'Fujifilm X half: Is it the perfect family camera?'
+  url: https://arslan.io/2025/06/14/fujifilm-x-half-is-it-the-perfect-family-camera/
+  summary: Comments
+  published: 2025-06-14 13:01:47.000000000 +00:00
+- title: The magic of through running
+  url: https://www.worksinprogress.news/p/the-magic-of-through-running
+  summary: Comments
+  published: 2025-06-17 08:57:46.000000000 +00:00
+- title: US Streetlights Are Turning Purple
+  url: https://www.scientificamerican.com/article/streetlights-are-mysteriously-turning-purple-heres-why/
+  summary: Comments
+  published: 2025-06-13 15:04:40.000000000 +00:00
+- title: What happens when clergy take psilocybin
   url: https://nautil.us/clergy-blown-away-by-psilocybin-1217112/
   summary: Comments
   published: 2025-06-16 21:34:09.000000000 +00:00
-- title: 'Show HN: Chawan TUI web browser'
-  url: https://chawan.net/news/chawan-0-2-0.html
+- title: 'Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone'
+  url: https://arxiv.org/abs/2506.02774
   summary: Comments
-  published: 2025-06-16 20:48:43.000000000 +00:00
-- title: 'Show HN: Canine – A Heroku alternative built on Kubernetes'
-  url: https://github.com/czhu12/canine
+  published: 2025-06-17 13:08:01.000000000 +00:00
+- title: KiCad and Wayland Support
+  url: https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/
   summary: Comments
-  published: 2025-06-16 18:27:59.000000000 +00:00
-- title: Benzene at 200
-  url: https://www.chemistryworld.com/opinion/benzene-at-200/4021504.article
-  summary: Comments
-  published: 2025-06-16 15:16:47.000000000 +00:00
-- title: Battle to eradicate invasive pythons in Florida achieves milestone
-  url: https://phys.org/news/2025-06-eradicate-invasive-pythons-florida-stunning.html
-  summary: Comments
-  published: 2025-06-16 22:22:33.000000000 +00:00
-- title: What I talk about when I talk about IRs
-  url: https://bernsteinbear.com/blog/irs/
-  summary: Comments
-  published: 2025-06-13 15:04:57.000000000 +00:00
-- title: Retrobootstrapping Rust for some reason
-  url: https://graydon2.dreamwidth.org/317484.html
-  summary: Comments
-  published: 2025-06-16 20:19:44.000000000 +00:00
-- title: Dull Men’s Club
-  url: https://www.theguardian.com/society/2025/jun/09/meet-the-members-of-the-dull-mens-club-some-of-them-would-bore-the-ears-off-you
-  summary: Comments
-  published: 2025-06-16 18:07:37.000000000 +00:00
-- title: 'Open-Source RISC-V: Energy Efficiency of Superscalar, Out-of-Order Execution'
-  url: https://arxiv.org/abs/2505.24363
-  summary: Comments
-  published: 2025-06-16 16:46:55.000000000 +00:00
-- title: OpenAI wins $200M U.S. defense contract
-  url: https://www.cnbc.com/2025/06/16/openai-wins-200-million-us-defense-contract.html
-  summary: Comments
-  published: 2025-06-16 22:31:58.000000000 +00:00
-- title: 'OpenTelemetry for Go: Measuring overhead costs'
-  url: https://coroot.com/blog/opentelemetry-for-go-measuring-the-overhead/
-  summary: Comments
-  published: 2025-06-16 15:09:17.000000000 +00:00
-- title: Blaze (YC S24) Is Hiring
-  url: https://www.ycombinator.com/companies/blaze-2/jobs/dzNmNuw-junior-software-engineer
-  summary: Comments
-  published: 2025-06-16 21:00:47.000000000 +00:00
-- title: 'Show HN: Zeekstd – Rust Implementation of the ZSTD Seekable Format'
-  url: https://github.com/rorosen/zeekstd
-  summary: Comments
-  published: 2025-06-15 20:49:18.000000000 +00:00
-- title: Working on databases from prison
-  url: https://turso.tech/blog/working-on-databases-from-prison
-  summary: Comments
-  published: 2025-06-16 12:32:02.000000000 +00:00
-- title: Nanonets-OCR-s – OCR model that transforms documents into structured markdown
-  url: https://huggingface.co/nanonets/Nanonets-OCR-s
-  summary: Comments
-  published: 2025-06-16 06:14:56.000000000 +00:00
-- title: 'Ask HN: How to Deal with a Bad Manager?'
-  url: https://news.ycombinator.com/item?id=44294776
-  summary: Comments
-  published: 2025-06-17 01:03:19.000000000 +00:00
-- title: 'Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context
-    Horizons'
-  url: https://arxiv.org/abs/2506.01963
-  summary: Comments
-  published: 2025-06-16 19:19:57.000000000 +00:00
-- title: 'Show HN: Nexus.js - Fabric.js for 3D'
-  url: https://punk.cam/lab/nexus
-  summary: Comments
-  published: 2025-06-16 20:33:45.000000000 +00:00
-- title: Is gravity just entropy rising? Long-shot idea gets another look
-  url: https://www.quantamagazine.org/is-gravity-just-entropy-rising-long-shot-idea-gets-another-look-20250613/
-  summary: Comments
-  published: 2025-06-16 00:36:41.000000000 +00:00
-- title: Identity Assertion Authorization Grant
-  url: https://www.ietf.org/archive/id/draft-parecki-oauth-identity-assertion-authz-grant-03.html
-  summary: Comments
-  published: 2025-06-13 01:57:14.000000000 +00:00
-- title: 'Show HN: dk – A script runner and cross-compiler, written in OCaml'
-  url: https://diskuv.com/dk/help/latest/
-  summary: Comments
-  published: 2025-06-16 14:49:34.000000000 +00:00
-- title: Adding public transport data to Transitous
-  url: https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html
-  summary: Comments
-  published: 2025-06-14 12:23:09.000000000 +00:00
-- title: 'ZjsComponent: A Pragmatic Approach to Reusable UI Fragments for Web Development'
-  url: https://arxiv.org/abs/2506.11016
-  summary: Comments
-  published: 2025-06-16 15:07:42.000000000 +00:00
-- title: WhatsApp introduces ads in its app
-  url: https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html
-  summary: Comments
-  published: 2025-06-16 13:38:59.000000000 +00:00
-- title: Transparent peer review to be extended to all of Nature's research papers
-  url: https://www.nature.com/articles/d41586-025-01880-9
-  summary: Comments
-  published: 2025-06-16 18:51:33.000000000 +00:00
-- title: Start your own Internet Resiliency Club
-  url: https://bowshock.nl/irc/
-  summary: Comments
-  published: 2025-06-16 07:38:17.000000000 +00:00
-- title: Occurences of swearing in the Linux kernel source code over time
-  url: https://www.vidarholen.net/contents/wordcount/#fuck*,shit*,damn*,idiot*,retard*,crap*
-  summary: Comments
-  published: 2025-06-14 08:15:31.000000000 +00:00
+  published: 2025-06-17 09:58:54.000000000 +00:00
