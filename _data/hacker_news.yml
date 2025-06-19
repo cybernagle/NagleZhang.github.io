@@ -1,121 +1,122 @@
 ---
-- title: The Grug Brained Developer (2022)
-  url: https://grugbrain.dev/
+- title: 'Show HN: Unregistry – “docker push” directly to servers without a registry'
+  url: https://github.com/psviderski/unregistry
   summary: Comments
-  published: 2025-06-17 20:24:36.000000000 +00:00
-- title: Honda conducts successful launch and landing of experimental reusable rocket
-  url: https://global.honda/en/topics/2025/c_2025-06-17ceng.html
+  published: 2025-06-18 23:17:10.000000000 +00:00
+- title: 'Andrej Karpathy: Software in the era of AI [video]'
+  url: https://www.youtube.com/watch?v=LCEmiRjPEtQ
   summary: Comments
-  published: 2025-06-17 15:02:12.000000000 +00:00
-- title: Resurrecting a dead torrent tracker and finding 3M peers
-  url: https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
+  published: 2025-06-19 00:33:21.000000000 +00:00
+- title: Websites Are Tracking You via Browser Fingerprinting
+  url: https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html
   summary: Comments
-  published: 2025-06-17 17:40:19.000000000 +00:00
-- title: Bzip2 crate switches from C to 100% Rust
-  url: https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/
+  published: 2025-06-18 20:55:06.000000000 +00:00
+- title: Fang, the CLI Starter Kit
+  url: https://github.com/charmbracelet/fang
   summary: Comments
-  published: 2025-06-17 20:06:54.000000000 +00:00
-- title: Building Effective AI Agents
-  url: https://www.anthropic.com/engineering/building-effective-agents
+  published: 2025-06-18 22:40:32.000000000 +00:00
+- title: MCP Specification – version 2025-06-18 changes
+  url: https://modelcontextprotocol.io/specification/2025-06-18/changelog
   summary: Comments
-  published: 2025-06-17 17:50:05.000000000 +00:00
-- title: 3D-printed device splits white noise into an acoustic rainbow without power
-  url: https://phys.org/news/2025-06-3d-device-white-noise-acoustic.html
+  published: 2025-06-18 23:59:47.000000000 +00:00
+- title: The Missing 11th of the Month
+  url: https://drhagen.com/blog/the-missing-11th-of-the-month/
   summary: Comments
-  published: 2025-06-15 15:54:54.000000000 +00:00
-- title: Dinesh's Mid-Summer Death Valley Walk (1998)
-  url: https://dineshdesai.info/dv/photos.html
+  published: 2025-06-18 21:45:46.000000000 +00:00
+- title: 'Show HN: Workout.cool – Open-source fitness coaching platform'
+  url: https://github.com/Snouzy/workout-cool
   summary: Comments
-  published: 2025-06-17 23:56:32.000000000 +00:00
-- title: AMD's CDNA 4 Architecture Announcement
-  url: https://chipsandcheese.com/p/amds-cdna-4-architecture-announcement
+  published: 2025-06-18 12:33:49.000000000 +00:00
+- title: The unreasonable effectiveness of fuzzing for porting programs
+  url: https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing
   summary: Comments
-  published: 2025-06-17 17:38:02.000000000 +00:00
-- title: LLMs pose an interesting problem for DSL designers
-  url: https://kirancodes.me/posts/log-lang-design-llms.html
+  published: 2025-06-18 16:26:35.000000000 +00:00
+- title: 'My iPhone 8 Refuses to Die: Now It''s a Solar-Powered Vision OCR Server'
+  url: https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/
   summary: Comments
-  published: 2025-06-17 19:17:05.000000000 +00:00
-- title: 'Show HN: I made an online Unicode Cuneiform digital clock'
-  url: https://oisinmoran.com/sumertime
+  published: 2025-06-18 15:49:53.000000000 +00:00
+- title: 'Bento: A Steam Deck in a Keyboard'
+  url: https://github.com/lunchbox-computer/bento
   summary: Comments
-  published: 2025-06-15 02:38:49.000000000 +00:00
-- title: I Wrote a Compiler
-  url: https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/
+  published: 2025-06-18 21:21:26.000000000 +00:00
+- title: Poline – An enigmatic color palette generator using polar coordinates
+  url: https://meodai.github.io/poline/
   summary: Comments
-  published: 2025-06-15 08:28:18.000000000 +00:00
-- title: Making 2.5 Flash and 2.5 Pro GA, and introducing Gemini 2.5 Flash-Lite
-  url: https://blog.google/products/gemini/gemini-2-5-model-family-expands/
+  published: 2025-06-14 23:38:56.000000000 +00:00
+- title: 'Writing documentation for AI: best practices'
+  url: https://docs.kapa.ai/improving/writing-best-practices
   summary: Comments
-  published: 2025-06-17 16:06:05.000000000 +00:00
-- title: Why JPEGs still rule the web (2024)
-  url: https://spectrum.ieee.org/jpeg-image-format-history
+  published: 2025-06-18 16:23:46.000000000 +00:00
+- title: DropZap World – my falling block game with lasers, released after years of
+    work
+  url: https://apps.apple.com/us/app/dropzap-world/id1072858930
   summary: Comments
-  published: 2025-06-17 14:51:10.000000000 +00:00
-- title: Time Series Forecasting with Graph Transformers
-  url: https://kumo.ai/research/time-series-forecasting/
+  published: 2025-06-16 11:10:04.000000000 +00:00
+- title: Homomorphically Encrypting CRDTs
+  url: https://jakelazaroff.com/words/homomorphically-encrypted-crdts/
   summary: Comments
-  published: 2025-06-17 18:05:53.000000000 +00:00
-- title: Now might be the best time to learn software development
-  url: https://substack.com/home/post/p-165655726
+  published: 2025-06-18 12:59:58.000000000 +00:00
+- title: Introduction to the A* Algorithm (2014)
+  url: https://www.redblobgames.com/pathfinding/a-star/introduction.html
   summary: Comments
-  published: 2025-06-17 14:51:40.000000000 +00:00
-- title: Foundry (YC F24) Hiring Early Engineer to Build Web Agent Infrastructure
-  url: https://www.ycombinator.com/companies/foundry/jobs/azAgJbN-foundry-software-engineer-new-grad-to-mid-level
+  published: 2025-06-17 07:25:23.000000000 +00:00
+- title: Terpstra Keyboard
+  url: http://terpstrakeyboard.com/web-app/keys.htm
   summary: Comments
-  published: 2025-06-17 21:00:27.000000000 +00:00
-- title: What Google Translate Can Tell Us About Vibecoding
-  url: https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/
+  published: 2025-06-18 10:31:44.000000000 +00:00
+- title: USDA Pomological Watercolors
+  url: https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426
   summary: Comments
-  published: 2025-06-17 19:23:10.000000000 +00:00
-- title: Iran asks its people to delete WhatsApp from their devices
-  url: https://apnews.com/article/iran-whatsapp-meta-israel-d9e6fe43280123c9963802e6f10ac8d1
+  published: 2025-06-16 06:10:22.000000000 +00:00
+- title: Is there a half-life for the success rates of AI agents?
+  url: https://www.tobyord.com/writing/half-life
   summary: Comments
-  published: 2025-06-17 19:12:23.000000000 +00:00
-- title: Should we design for iffy internet?
-  url: https://bytes.zone/posts/should-we-design-for-iffy-internet/
+  published: 2025-06-18 10:53:59.000000000 +00:00
+- title: Game Hacking – Valve Anti-Cheat (VAC)
+  url: https://codeneverdies.github.io/posts/gh-2/
   summary: Comments
-  published: 2025-06-17 13:02:54.000000000 +00:00
-- title: After millions of years, why are carnivorous plants still so small?
-  url: https://www.smithsonianmag.com/articles/carnivorous-plants-have-been-trapping-animals-for-millions-of-years-so-why-have-they-never-grown-larger-180986708/
+  published: 2025-06-18 17:19:31.000000000 +00:00
+- title: 'Show HN: I built a tensor library from scratch in C++/CUDA'
+  url: https://github.com/nirw4nna/dsc
   summary: Comments
-  published: 2025-06-13 20:04:03.000000000 +00:00
-- title: Proofs Without Words
-  url: https://artofproblemsolving.com/wiki/index.php/Proofs_without_words
+  published: 2025-06-18 15:20:05.000000000 +00:00
+- title: Yes I Will Read Ulysses Yes
+  url: https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/
   summary: Comments
-  published: 2025-06-14 11:31:49.000000000 +00:00
-- title: Tetrachromatic Vision
-  url: https://www.bookofjoe.com/2025/05/my-entry-32.html
+  published: 2025-06-18 17:31:25.000000000 +00:00
+- title: Citizen science illuminates the nature of city lights
+  url: https://www.nature.com/articles/s44284-025-00239-5
   summary: Comments
-  published: 2025-06-14 14:53:32.000000000 +00:00
-- title: 'The hamburger-menu icon today: Is it recognizable?'
-  url: https://www.nngroup.com/articles/hamburger-menu-icon-recognizability/
+  published: 2025-06-16 10:25:22.000000000 +00:00
+- title: Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer
+  url: https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer
   summary: Comments
-  published: 2025-06-17 14:01:16.000000000 +00:00
-- title: 'AMD''s Pre-Zen Interconnect: Testing Trinity''s Northbridge'
-  url: https://chipsandcheese.com/p/amds-pre-zen-interconnect-testing
+  published: 2025-06-18 17:00:36.000000000 +00:00
+- title: A deep-dive explainer on Ink and Switch's BeeKEM protocol
+  url: https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/
   summary: Comments
-  published: 2025-06-14 16:07:23.000000000 +00:00
-- title: 'Fujifilm X half: Is it the perfect family camera?'
-  url: https://arslan.io/2025/06/14/fujifilm-x-half-is-it-the-perfect-family-camera/
+  published: 2025-06-18 22:02:21.000000000 +00:00
+- title: Revisiting Minsky's Society of Mind in 2025
+  url: https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind
   summary: Comments
-  published: 2025-06-14 13:01:47.000000000 +00:00
-- title: The magic of through running
-  url: https://www.worksinprogress.news/p/the-magic-of-through-running
+  published: 2025-06-18 15:40:12.000000000 +00:00
+- title: The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]
+  url: https://www.youtube.com/watch?v=UVf7rMqnwI0
   summary: Comments
-  published: 2025-06-17 08:57:46.000000000 +00:00
-- title: US Streetlights Are Turning Purple
-  url: https://www.scientificamerican.com/article/streetlights-are-mysteriously-turning-purple-heres-why/
+  published: 2025-06-16 09:48:30.000000000 +00:00
+- title: Framework Laptop 12 review
+  url: https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/
   summary: Comments
-  published: 2025-06-13 15:04:40.000000000 +00:00
-- title: What happens when clergy take psilocybin
-  url: https://nautil.us/clergy-blown-away-by-psilocybin-1217112/
+  published: 2025-06-18 15:09:34.000000000 +00:00
+- title: It's true, "we" don't care about accessibility on Linux
+  url: https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/
   summary: Comments
-  published: 2025-06-16 21:34:09.000000000 +00:00
-- title: 'Voyager: Real-Time Splatting City-Scale 3D Gaussians on Your Phone'
-  url: https://arxiv.org/abs/2506.02774
+  published: 2025-06-19 00:19:58.000000000 +00:00
+- title: Real-time action chunking with large models
+  url: https://www.pi.website/research/real_time_chunking
   summary: Comments
-  published: 2025-06-17 13:08:01.000000000 +00:00
-- title: KiCad and Wayland Support
-  url: https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/
+  published: 2025-06-17 19:39:26.000000000 +00:00
+- title: Calling Go from Elixir with a CNode in Crystal
+  url: https://relistan.com/calling-go-from-elixir-with-a-cnode
   summary: Comments
-  published: 2025-06-17 09:58:54.000000000 +00:00
+  published: 2025-06-18 21:08:22.000000000 +00:00
