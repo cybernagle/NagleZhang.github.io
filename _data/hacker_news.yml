@@ -1,122 +1,121 @@
 ---
-- title: 'Show HN: Unregistry – “docker push” directly to servers without a registry'
-  url: https://github.com/psviderski/unregistry
+- title: 'Show HN: I wrote a new BitTorrent tracker in Elixir'
+  url: https://github.com/Dahrkael/ExTracker
   summary: Comments
-  published: 2025-06-18 23:17:10.000000000 +00:00
+  published: 2025-06-19 22:49:49.000000000 +00:00
+- title: Infinite Mac OS X
+  url: https://blog.persistent.info/2025/03/infinite-mac-os-x.html
+  summary: Comments
+  published: 2025-06-20 00:16:57.000000000 +00:00
+- title: Open Source Can't Coordinate
+  url: https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html
+  summary: Comments
+  published: 2025-06-20 01:06:12.000000000 +00:00
+- title: 'Compiling LLMs into a MegaKernel: A path to low-latency inference'
+  url: https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17
+  summary: Comments
+  published: 2025-06-19 19:20:54.000000000 +00:00
+- title: Literate programming tool for any language
+  url: https://github.com/zyedidia/Literate
+  summary: Comments
+  published: 2025-06-19 22:18:45.000000000 +00:00
+- title: FedFlix — Public Domain Stock Footage Library
+  url: https://public.resource.org/ntis.gov/index.html
+  summary: Comments
+  published: 2025-06-20 01:07:43.000000000 +00:00
+- title: 'Show HN: ATAC, an event verification platform evidence based'
+  url: https://atac.seraum.com
+  summary: Comments
+  published: 2025-06-20 01:27:16.000000000 +00:00
 - title: 'Andrej Karpathy: Software in the era of AI [video]'
   url: https://www.youtube.com/watch?v=LCEmiRjPEtQ
   summary: Comments
   published: 2025-06-19 00:33:21.000000000 +00:00
-- title: Websites Are Tracking You via Browser Fingerprinting
-  url: https://engineering.tamu.edu/news/2025/06/websites-are-tracking-you-via-browser-fingerprinting.html
+- title: Curved-Crease Sculpture
+  url: https://erikdemaine.org/curved/
   summary: Comments
-  published: 2025-06-18 20:55:06.000000000 +00:00
-- title: Fang, the CLI Starter Kit
-  url: https://github.com/charmbracelet/fang
+  published: 2025-06-19 14:13:15.000000000 +00:00
+- title: Octobass
+  url: https://www.atlasobscura.com/places/octobass
   summary: Comments
-  published: 2025-06-18 22:40:32.000000000 +00:00
-- title: MCP Specification – version 2025-06-18 changes
-  url: https://modelcontextprotocol.io/specification/2025-06-18/changelog
+  published: 2025-06-16 11:33:45.000000000 +00:00
+- title: Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in
+  url: https://mastodon.gamedev.place/@pikuma/114711138512697712
   summary: Comments
-  published: 2025-06-18 23:59:47.000000000 +00:00
-- title: The Missing 11th of the Month
-  url: https://drhagen.com/blog/the-missing-11th-of-the-month/
+  published: 2025-06-19 23:21:40.000000000 +00:00
+- title: 'Show HN: A DOS-like hobby OS written in Rust and x86 assembly'
+  url: https://github.com/krustowski/rou2exOS
   summary: Comments
-  published: 2025-06-18 21:45:46.000000000 +00:00
-- title: 'Show HN: Workout.cool – Open-source fitness coaching platform'
-  url: https://github.com/Snouzy/workout-cool
+  published: 2025-06-19 13:38:57.000000000 +00:00
+- title: 'Show HN: EnrichMCP – A Python ORM for Agents'
+  url: https://github.com/featureform/enrichmcp
   summary: Comments
-  published: 2025-06-18 12:33:49.000000000 +00:00
-- title: The unreasonable effectiveness of fuzzing for porting programs
-  url: https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing
+  published: 2025-06-19 17:32:21.000000000 +00:00
+- title: How OpenElections uses LLMs
+  url: https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html
   summary: Comments
-  published: 2025-06-18 16:26:35.000000000 +00:00
-- title: 'My iPhone 8 Refuses to Die: Now It''s a Solar-Powered Vision OCR Server'
-  url: https://terminalbytes.com/iphone-8-solar-powered-vision-ocr-server/
+  published: 2025-06-19 16:11:46.000000000 +00:00
+- title: Homegrown Closures for Uxn
+  url: https://krzysckh.org/b/Homegrown-closures-for-uxn.html
   summary: Comments
-  published: 2025-06-18 15:49:53.000000000 +00:00
-- title: 'Bento: A Steam Deck in a Keyboard'
-  url: https://github.com/lunchbox-computer/bento
+  published: 2025-06-19 17:29:35.000000000 +00:00
+- title: Guess I'm a Rationalist Now
+  url: https://scottaaronson.blog/?p=8908
   summary: Comments
-  published: 2025-06-18 21:21:26.000000000 +00:00
-- title: Poline – An enigmatic color palette generator using polar coordinates
-  url: https://meodai.github.io/poline/
+  published: 2025-06-19 10:22:06.000000000 +00:00
+- title: What newspaper are you paying for these days?
+  url: https://news.ycombinator.com/item?id=44298211
   summary: Comments
-  published: 2025-06-14 23:38:56.000000000 +00:00
-- title: 'Writing documentation for AI: best practices'
-  url: https://docs.kapa.ai/improving/writing-best-practices
+  published: 2025-06-17 12:17:02.000000000 +00:00
+- title: 'Show HN: RM2000 Tape Recorder, an audio sampler for macOS'
+  url: https://rm2000.app
   summary: Comments
-  published: 2025-06-18 16:23:46.000000000 +00:00
-- title: DropZap World – my falling block game with lasers, released after years of
-    work
-  url: https://apps.apple.com/us/app/dropzap-world/id1072858930
+  published: 2025-06-17 16:20:59.000000000 +00:00
+- title: String Interpolation in C++ Using Glaze Stencil/Mustache
+  url: https://stephenberry.github.io/glaze/stencil-mustache/
   summary: Comments
-  published: 2025-06-16 11:10:04.000000000 +00:00
-- title: Homomorphically Encrypting CRDTs
-  url: https://jakelazaroff.com/words/homomorphically-encrypted-crdts/
+  published: 2025-06-16 19:05:14.000000000 +00:00
+- title: 'Show HN: Unregistry – “docker push” directly to servers without a registry'
+  url: https://github.com/psviderski/unregistry
   summary: Comments
-  published: 2025-06-18 12:59:58.000000000 +00:00
-- title: Introduction to the A* Algorithm (2014)
-  url: https://www.redblobgames.com/pathfinding/a-star/introduction.html
+  published: 2025-06-18 23:17:10.000000000 +00:00
+- title: Public/protected/private is an unnecessary feature
+  url: https://catern.com/private.html
   summary: Comments
-  published: 2025-06-17 07:25:23.000000000 +00:00
-- title: Terpstra Keyboard
-  url: http://terpstrakeyboard.com/web-app/keys.htm
+  published: 2025-06-17 17:56:04.000000000 +00:00
+- title: Flowspace (YC S17) Is Hiring Software Engineers
+  url: https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II
   summary: Comments
-  published: 2025-06-18 10:31:44.000000000 +00:00
-- title: USDA Pomological Watercolors
-  url: https://search.nal.usda.gov/discovery/collectionDiscovery?vid=01NAL_INST:MAIN&collectionId=81279629860007426
+  published: 2025-06-19 17:00:39.000000000 +00:00
+- title: 'Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs'
+  url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
   summary: Comments
-  published: 2025-06-16 06:10:22.000000000 +00:00
-- title: Is there a half-life for the success rates of AI agents?
-  url: https://www.tobyord.com/writing/half-life
+  published: 2025-06-19 09:46:43.000000000 +00:00
+- title: DNA floating in the air tracks wildlife, viruses, even drugs
+  url: https://www.sciencedaily.com/releases/2025/06/250603114822.htm
   summary: Comments
-  published: 2025-06-18 10:53:59.000000000 +00:00
-- title: Game Hacking – Valve Anti-Cheat (VAC)
-  url: https://codeneverdies.github.io/posts/gh-2/
+  published: 2025-06-16 09:38:00.000000000 +00:00
+- title: What would a Kubernetes 2.0 look like
+  url: https://matduggan.com/what-would-a-kubernetes-2-0-look-like/
   summary: Comments
-  published: 2025-06-18 17:19:31.000000000 +00:00
-- title: 'Show HN: I built a tensor library from scratch in C++/CUDA'
-  url: https://github.com/nirw4nna/dsc
+  published: 2025-06-19 12:00:54.000000000 +00:00
+- title: We Can Just Measure Things
+  url: https://lucumr.pocoo.org/2025/6/17/measuring/
   summary: Comments
-  published: 2025-06-18 15:20:05.000000000 +00:00
-- title: Yes I Will Read Ulysses Yes
-  url: https://www.theatlantic.com/magazine/archive/2025/07/zachary-leader-richard-ellmann-james-joyce-review/682907/
+  published: 2025-06-17 11:15:25.000000000 +00:00
+- title: Star Quakes and Monster Shock Waves
+  url: https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves
   summary: Comments
-  published: 2025-06-18 17:31:25.000000000 +00:00
-- title: Citizen science illuminates the nature of city lights
-  url: https://www.nature.com/articles/s44284-025-00239-5
+  published: 2025-06-17 17:46:40.000000000 +00:00
+- title: Testing a Robust Netcode with Godot
+  url: https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html
   summary: Comments
-  published: 2025-06-16 10:25:22.000000000 +00:00
-- title: Attimet (YC F24) – Quant Trading Research Lab – Is Hiring Founding Engineer
-  url: https://www.ycombinator.com/companies/attimet/jobs/b1w9pjE-founding-engineer
+  published: 2025-06-17 10:57:09.000000000 +00:00
+- title: Visual History of the Latin Alphabet
+  url: https://uclab.fh-potsdam.de/arete/en
   summary: Comments
-  published: 2025-06-18 17:00:36.000000000 +00:00
-- title: A deep-dive explainer on Ink and Switch's BeeKEM protocol
-  url: https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/
+  published: 2025-06-17 13:51:20.000000000 +00:00
+- title: Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy
+  url: https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy
   summary: Comments
-  published: 2025-06-18 22:02:21.000000000 +00:00
-- title: Revisiting Minsky's Society of Mind in 2025
-  url: https://suthakamal.substack.com/p/revisiting-minskys-society-of-mind
-  summary: Comments
-  published: 2025-06-18 15:40:12.000000000 +00:00
-- title: The Matrix (1999) Filming Locations – Shot-for-Shot – Sydney, Australia [video]
-  url: https://www.youtube.com/watch?v=UVf7rMqnwI0
-  summary: Comments
-  published: 2025-06-16 09:48:30.000000000 +00:00
-- title: Framework Laptop 12 review
-  url: https://arstechnica.com/gadgets/2025/06/framework-laptop-12-review-im-excited-to-see-what-the-2nd-generation-looks-like/
-  summary: Comments
-  published: 2025-06-18 15:09:34.000000000 +00:00
-- title: It's true, "we" don't care about accessibility on Linux
-  url: https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/
-  summary: Comments
-  published: 2025-06-19 00:19:58.000000000 +00:00
-- title: Real-time action chunking with large models
-  url: https://www.pi.website/research/real_time_chunking
-  summary: Comments
-  published: 2025-06-17 19:39:26.000000000 +00:00
-- title: Calling Go from Elixir with a CNode in Crystal
-  url: https://relistan.com/calling-go-from-elixir-with-a-cnode
-  summary: Comments
-  published: 2025-06-18 21:08:22.000000000 +00:00
+  published: 2025-06-19 23:17:39.000000000 +00:00
