@@ -1,121 +1,123 @@
 ---
-- title: 'Show HN: I wrote a new BitTorrent tracker in Elixir'
-  url: https://github.com/Dahrkael/ExTracker
+- title: 'AbsenceBench: Language models can''t tell what''s missing'
+  url: https://arxiv.org/abs/2506.11440
   summary: Comments
-  published: 2025-06-19 22:49:49.000000000 +00:00
-- title: Infinite Mac OS X
-  url: https://blog.persistent.info/2025/03/infinite-mac-os-x.html
+  published: 2025-06-20 22:26:52.000000000 +00:00
+- title: Phoenix.new – Remote AI Runtime for Phoenix
+  url: https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
   summary: Comments
-  published: 2025-06-20 00:16:57.000000000 +00:00
-- title: Open Source Can't Coordinate
-  url: https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html
+  published: 2025-06-20 14:57:04.000000000 +00:00
+- title: 'Wiki Radio: The thrilling sound of random Wikipedia'
+  url: https://www.monkeon.co.uk/wikiradio/
   summary: Comments
-  published: 2025-06-20 01:06:12.000000000 +00:00
-- title: 'Compiling LLMs into a MegaKernel: A path to low-latency inference'
-  url: https://zhihaojia.medium.com/compiling-llms-into-a-megakernel-a-path-to-low-latency-inference-cf7840913c17
+  published: 2025-06-20 21:15:15.000000000 +00:00
+- title: 'AMD''s Freshly-Baked MI350: An Interview with the Chief Architect'
+  url: https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview
   summary: Comments
-  published: 2025-06-19 19:20:54.000000000 +00:00
-- title: Literate programming tool for any language
-  url: https://github.com/zyedidia/Literate
+  published: 2025-06-20 21:20:46.000000000 +00:00
+- title: Harper – an open-source alternative to Grammarly
+  url: https://writewithharper.com
   summary: Comments
-  published: 2025-06-19 22:18:45.000000000 +00:00
-- title: FedFlix — Public Domain Stock Footage Library
-  url: https://public.resource.org/ntis.gov/index.html
+  published: 2025-06-20 19:51:45.000000000 +00:00
+- title: 'No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]'
+  url: https://xol.io/random/vcc-paper.pdf
   summary: Comments
-  published: 2025-06-20 01:07:43.000000000 +00:00
-- title: 'Show HN: ATAC, an event verification platform evidence based'
-  url: https://atac.seraum.com
+  published: 2025-06-18 08:37:12.000000000 +00:00
+- title: Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä
+  url: https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/
   summary: Comments
-  published: 2025-06-20 01:27:16.000000000 +00:00
-- title: 'Andrej Karpathy: Software in the era of AI [video]'
-  url: https://www.youtube.com/watch?v=LCEmiRjPEtQ
+  published: 2025-06-20 15:23:29.000000000 +00:00
+- title: YouTube's new anti-adblock measures
+  url: https://iter.ca/post/yt-adblock/
   summary: Comments
-  published: 2025-06-19 00:33:21.000000000 +00:00
-- title: Curved-Crease Sculpture
-  url: https://erikdemaine.org/curved/
+  published: 2025-06-20 17:01:35.000000000 +00:00
+- title: 'Show HN: Nxtscape – an open-source agentic browser'
+  url: https://github.com/nxtscape/nxtscape
   summary: Comments
-  published: 2025-06-19 14:13:15.000000000 +00:00
-- title: Octobass
-  url: https://www.atlasobscura.com/places/octobass
+  published: 2025-06-20 16:35:55.000000000 +00:00
+- title: 'Show HN: Inspect and extract files from MSI installers directly in your
+    browser'
+  url: https://pymsi.readthedocs.io/en/latest/msi_viewer.html
   summary: Comments
-  published: 2025-06-16 11:33:45.000000000 +00:00
-- title: Sunsonic 986-II. A Thai Famicom clone with keyboard and mini CRT built-in
-  url: https://mastodon.gamedev.place/@pikuma/114711138512697712
+  published: 2025-06-20 20:04:01.000000000 +00:00
+- title: College baseball, venture capital, and the long maybe
+  url: https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/
   summary: Comments
-  published: 2025-06-19 23:21:40.000000000 +00:00
-- title: 'Show HN: A DOS-like hobby OS written in Rust and x86 assembly'
-  url: https://github.com/krustowski/rou2exOS
+  published: 2025-06-16 16:20:32.000000000 +00:00
+- title: AtomicOS – A security-first OS with real crypto and deterministic language
+  url: https://github.com/ipenas-cl/AtomicOs
   summary: Comments
-  published: 2025-06-19 13:38:57.000000000 +00:00
-- title: 'Show HN: EnrichMCP – A Python ORM for Agents'
-  url: https://github.com/featureform/enrichmcp
+  published: 2025-06-20 23:28:14.000000000 +00:00
+- title: Tuxracer.js play Tux Racer in the browser
+  url: https://github.com/ebbejan/tux-racer-js
   summary: Comments
-  published: 2025-06-19 17:32:21.000000000 +00:00
-- title: How OpenElections uses LLMs
-  url: https://thescoop.org/archives/2025/06/09/how-openelections-uses-llms/index.html
+  published: 2025-06-20 16:54:12.000000000 +00:00
+- title: Verified dynamic programming with Σ-types in Lean
+  url: https://tannerduve.github.io/blog/memoization-sigma/
   summary: Comments
-  published: 2025-06-19 16:11:46.000000000 +00:00
-- title: Homegrown Closures for Uxn
-  url: https://krzysckh.org/b/Homegrown-closures-for-uxn.html
+  published: 2025-06-17 14:28:30.000000000 +00:00
+- title: 'Cracovians: The Twisted Twins of Matrices'
+  url: https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/
   summary: Comments
-  published: 2025-06-19 17:29:35.000000000 +00:00
-- title: Guess I'm a Rationalist Now
-  url: https://scottaaronson.blog/?p=8908
+  published: 2025-06-20 16:35:05.000000000 +00:00
+- title: 'Smartphones: Parts of Our Minds? Or Parasites?'
+  url: https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070
   summary: Comments
-  published: 2025-06-19 10:22:06.000000000 +00:00
-- title: What newspaper are you paying for these days?
-  url: https://news.ycombinator.com/item?id=44298211
+  published: 2025-06-20 19:35:41.000000000 +00:00
+- title: Rose-Gold-Tinted Liquid Glasses
+  url: https://lmnt.me/blog/rose-gold-tinted-liquid-glasses.html
   summary: Comments
-  published: 2025-06-17 12:17:02.000000000 +00:00
-- title: 'Show HN: RM2000 Tape Recorder, an audio sampler for macOS'
-  url: https://rm2000.app
+  published: 2025-06-19 12:11:34.000000000 +00:00
+- title: 'Dancing Naked on the Head of a Pin: The Early History of Microphotography'
+  url: https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin
   summary: Comments
-  published: 2025-06-17 16:20:59.000000000 +00:00
-- title: String Interpolation in C++ Using Glaze Stencil/Mustache
-  url: https://stephenberry.github.io/glaze/stencil-mustache/
+  published: 2025-06-18 19:08:57.000000000 +00:00
+- title: Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor
+    (2018)
+  url: https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor
   summary: Comments
-  published: 2025-06-16 19:05:14.000000000 +00:00
-- title: 'Show HN: Unregistry – “docker push” directly to servers without a registry'
-  url: https://github.com/psviderski/unregistry
+  published: 2025-06-20 09:52:50.000000000 +00:00
+- title: Alpha Centauri
+  url: https://www.filfre.net/2025/06/alpha-centauri/
   summary: Comments
-  published: 2025-06-18 23:17:10.000000000 +00:00
-- title: Public/protected/private is an unnecessary feature
-  url: https://catern.com/private.html
+  published: 2025-06-20 16:50:14.000000000 +00:00
+- title: Proba-3's first artificial solar eclipse
+  url: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse
   summary: Comments
-  published: 2025-06-17 17:56:04.000000000 +00:00
-- title: Flowspace (YC S17) Is Hiring Software Engineers
-  url: https://flowspace.applytojob.com/apply/6oDtY2q6E9/Software-Engineer-II
+  published: 2025-06-18 12:15:56.000000000 +00:00
+- title: A brief, incomplete, and mostly wrong history of robotics
+  url: https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong
   summary: Comments
-  published: 2025-06-19 17:00:39.000000000 +00:00
-- title: 'Show HN: Claude Code Usage Monitor – real-time tracker to dodge usage cut-offs'
-  url: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+  published: 2025-06-16 16:28:10.000000000 +00:00
+- title: A Python-first data lakehouse
+  url: https://www.bauplanlabs.com/blog/everything-as-python
   summary: Comments
-  published: 2025-06-19 09:46:43.000000000 +00:00
-- title: DNA floating in the air tracks wildlife, viruses, even drugs
-  url: https://www.sciencedaily.com/releases/2025/06/250603114822.htm
+  published: 2025-06-17 22:22:03.000000000 +00:00
+- title: The JAWS shark is public domain
+  url: https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/
   summary: Comments
-  published: 2025-06-16 09:38:00.000000000 +00:00
-- title: What would a Kubernetes 2.0 look like
-  url: https://matduggan.com/what-would-a-kubernetes-2-0-look-like/
+  published: 2025-06-20 19:28:50.000000000 +00:00
+- title: BYD begins testing solid-state EV batteries in the Seal
+  url: https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/
   summary: Comments
-  published: 2025-06-19 12:00:54.000000000 +00:00
-- title: We Can Just Measure Things
-  url: https://lucumr.pocoo.org/2025/6/17/measuring/
+  published: 2025-06-20 20:42:22.000000000 +00:00
+- title: Jürgen Schmidhuber：the Father of Generative AI Without Turing Award
+  url: http://www.jazzyear.com/article_info.html?id=1352
   summary: Comments
-  published: 2025-06-17 11:15:25.000000000 +00:00
-- title: Star Quakes and Monster Shock Waves
-  url: https://www.caltech.edu/about/news/star-quakes-and-monster-shock-waves
+  published: 2025-06-20 19:00:55.000000000 +00:00
+- title: 'Klong: A Simple Array Language'
+  url: https://t3x.org/klong/
   summary: Comments
-  published: 2025-06-17 17:46:40.000000000 +00:00
-- title: Testing a Robust Netcode with Godot
-  url: https://studios.ptilouk.net/little-brats/blog/2024-10-23_netcode.html
+  published: 2025-06-20 12:44:09.000000000 +00:00
+- title: 'Show HN: SnapQL – Desktop app to query Postgres with AI'
+  url: https://github.com/NickTikhonov/snap-ql
   summary: Comments
-  published: 2025-06-17 10:57:09.000000000 +00:00
-- title: Visual History of the Latin Alphabet
-  url: https://uclab.fh-potsdam.de/arete/en
+  published: 2025-06-20 11:08:18.000000000 +00:00
+- title: Ancient termite poo reveals 120M-year-old secrets of Australia's forests
+  url: https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html
   summary: Comments
-  published: 2025-06-17 13:51:20.000000000 +00:00
-- title: Giant, All-Seeing Telescope Is Set to Revolutionize Astronomy
-  url: https://www.science.org/content/article/giant-all-seeing-telescope-set-revolutionize-astronomy
+  published: 2025-06-18 07:25:16.000000000 +00:00
+- title: Minimal auto-differentiation engine in Rust
+  url: https://github.com/e3ntity/nanograd
   summary: Comments
-  published: 2025-06-19 23:17:39.000000000 +00:00
+  published: 2025-06-20 13:53:34.000000000 +00:00
