@@ -1,123 +1,123 @@
 ---
-- title: 'AbsenceBench: Language models can''t tell what''s missing'
-  url: https://arxiv.org/abs/2506.11440
+- title: 'LaborBerlin: State-of-the-Art 16mm Projector'
+  url: https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start
   summary: Comments
-  published: 2025-06-20 22:26:52.000000000 +00:00
+  published: 2025-06-21 20:08:30.000000000 +00:00
+- title: P-Hacking in Startups
+  url: https://briefer.cloud/blog/posts/p-hacking/
+  summary: Comments
+  published: 2025-06-18 09:56:28.000000000 +00:00
+- title: Requiem for a Solar Plant
+  url: https://7goldfish.com/articles/Requiem_for_a_solar_plant.php
+  summary: Comments
+  published: 2025-06-21 22:44:28.000000000 +00:00
+- title: 'The bad boy of bar charts: William Playfair'
+  url: https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html
+  summary: Comments
+  published: 2025-06-18 13:29:31.000000000 +00:00
+- title: Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge
+  url: https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/
+  summary: Comments
+  published: 2025-06-18 12:13:15.000000000 +00:00
+- title: Airpass – easily overcome WiFi time limits
+  url: https://airpass.tiagoalves.me/
+  summary: Comments
+  published: 2025-06-18 15:29:30.000000000 +00:00
+- title: Type Inference Zoo
+  url: https://zoo.cuichen.cc/
+  summary: Comments
+  published: 2025-06-18 08:02:32.000000000 +00:00
+- title: 'AllTracker: Efficient Dense Point Tracking at High Resolution'
+  url: https://alltracker.github.io/
+  summary: Comments
+  published: 2025-06-21 17:09:35.000000000 +00:00
+- title: Trump says US has bombed Fordo nuclear plant in attack on Iran
+  url: https://www.bbc.co.uk/news/live/ckg3rzj8emjt
+  summary: Comments
+  published: 2025-06-22 00:00:16.000000000 +00:00
+- title: See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson
+    MO5)
+  url: http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html
+  summary: Comments
+  published: 2025-06-21 23:43:59.000000000 +00:00
+- title: Compact Representations for Arrays in Lua [pdf]
+  url: https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059
+  summary: Comments
+  published: 2025-06-18 23:49:18.000000000 +00:00
+- title: Samsung embeds IronSource spyware app on phones across WANA
+  url: https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/
+  summary: Comments
+  published: 2025-06-21 03:06:42.000000000 +00:00
+- title: 'Show HN: Luna Rail – treating night trains as a spatial optimization problem'
+  url: https://luna-rail.com/en/home-2
+  summary: Comments
+  published: 2025-06-18 08:50:30.000000000 +00:00
+- title: ARIA, the UK's Bet to Build Scientific Revolutions
+  url: https://www.asimov.press/p/aria
+  summary: Comments
+  published: 2025-06-21 16:39:42.000000000 +00:00
+- title: 'Tell HN: Beware confidentiality agreements that act as lifetime non competes'
+  url: https://news.ycombinator.com/item?id=44338562
+  summary: Comments
+  published: 2025-06-21 16:02:24.000000000 +00:00
+- title: Axolotls May Hold the Key to Regrowing Limbs
+  url: https://www.smithsonianmag.com/smart-news/axolotls-may-hold-the-key-to-regrowing-limbs-and-scientists-are-unraveling-their-secrets-to-help-humans-do-the-same-180986781/
+  summary: Comments
+  published: 2025-06-19 23:48:20.000000000 +00:00
+- title: Scaling our observability platform by embracing wide events and replacing
+    OTel
+  url: https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel
+  summary: Comments
+  published: 2025-06-21 09:23:21.000000000 +00:00
+- title: Using Microsoft's New CLI Text Editor on Ubuntu
+  url: https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
+  summary: Comments
+  published: 2025-06-18 05:25:36.000000000 +00:00
+- title: Compiler for the B Programming Language
+  url: https://github.com/tsoding/b
+  summary: Comments
+  published: 2025-06-18 12:27:51.000000000 +00:00
 - title: Phoenix.new – Remote AI Runtime for Phoenix
   url: https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
   summary: Comments
   published: 2025-06-20 14:57:04.000000000 +00:00
-- title: 'Wiki Radio: The thrilling sound of random Wikipedia'
-  url: https://www.monkeon.co.uk/wikiradio/
+- title: 'The inability to count correctly: Debunking Kyber-512 security calculation(2023)'
+  url: https://blog.cr.yp.to/20231003-countcorrectly.html
   summary: Comments
-  published: 2025-06-20 21:15:15.000000000 +00:00
-- title: 'AMD''s Freshly-Baked MI350: An Interview with the Chief Architect'
-  url: https://chipsandcheese.com/p/amds-freshly-baked-mi350-an-interview
+  published: 2025-06-19 16:58:50.000000000 +00:00
+- title: Unexpected security footguns in Go's parsers
+  url: https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
   summary: Comments
-  published: 2025-06-20 21:20:46.000000000 +00:00
-- title: Harper – an open-source alternative to Grammarly
-  url: https://writewithharper.com
+  published: 2025-06-18 11:35:12.000000000 +00:00
+- title: AI is ushering in a 'tiny team' era
+  url: https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley
   summary: Comments
-  published: 2025-06-20 19:51:45.000000000 +00:00
-- title: 'No More Shading Languages: Compiling C++ to Vulkan Shaders [pdf]'
-  url: https://xol.io/random/vcc-paper.pdf
+  published: 2025-06-21 18:21:27.000000000 +00:00
+- title: The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development
+  url: https://sarupro.itch.io/thenyanja
   summary: Comments
-  published: 2025-06-18 08:37:12.000000000 +00:00
-- title: Visualizing environmental costs of war in Hayao Miyazaki's Nausicaä
-  url: https://jgeekstudies.org/2025/06/20/wilted-lands-and-wounded-worlds-visualizing-environmental-costs-of-war-in-hayao-miyazakis-nausicaa-of-the-valley-of-the-wind/
+  published: 2025-06-19 00:02:20.000000000 +00:00
+- title: Weave (YC W25) is hiring a founding AI engineer
+  url: https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer
   summary: Comments
-  published: 2025-06-20 15:23:29.000000000 +00:00
-- title: YouTube's new anti-adblock measures
-  url: https://iter.ca/post/yt-adblock/
+  published: 2025-06-21 17:01:50.000000000 +00:00
+- title: Don't Read This If You Have a Security Clearance (2023)
+  url: https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/
   summary: Comments
-  published: 2025-06-20 17:01:35.000000000 +00:00
-- title: 'Show HN: Nxtscape – an open-source agentic browser'
-  url: https://github.com/nxtscape/nxtscape
+  published: 2025-06-22 00:10:48.000000000 +00:00
+- title: "'Gwada negative': French scientists find new blood type in woman"
+  url: https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html
   summary: Comments
-  published: 2025-06-20 16:35:55.000000000 +00:00
-- title: 'Show HN: Inspect and extract files from MSI installers directly in your
-    browser'
-  url: https://pymsi.readthedocs.io/en/latest/msi_viewer.html
+  published: 2025-06-21 07:38:42.000000000 +00:00
+- title: uBlock Origin Lite Beta for Safari iOS
+  url: https://testflight.apple.com/join/JjTcThrV
   summary: Comments
-  published: 2025-06-20 20:04:01.000000000 +00:00
-- title: College baseball, venture capital, and the long maybe
-  url: https://bcantrill.dtrace.org/2025/06/15/college-baseball-venture-capital-and-the-long-maybe/
+  published: 2025-06-21 08:10:50.000000000 +00:00
+- title: Delta Chat is a decentralized and secure messenger app
+  url: https://delta.chat/en/
   summary: Comments
-  published: 2025-06-16 16:20:32.000000000 +00:00
-- title: AtomicOS – A security-first OS with real crypto and deterministic language
-  url: https://github.com/ipenas-cl/AtomicOs
+  published: 2025-06-21 06:29:00.000000000 +00:00
+- title: Balatro for the Nintendo E-Reader
+  url: https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/
   summary: Comments
-  published: 2025-06-20 23:28:14.000000000 +00:00
-- title: Tuxracer.js play Tux Racer in the browser
-  url: https://github.com/ebbejan/tux-racer-js
-  summary: Comments
-  published: 2025-06-20 16:54:12.000000000 +00:00
-- title: Verified dynamic programming with Σ-types in Lean
-  url: https://tannerduve.github.io/blog/memoization-sigma/
-  summary: Comments
-  published: 2025-06-17 14:28:30.000000000 +00:00
-- title: 'Cracovians: The Twisted Twins of Matrices'
-  url: https://marcinciura.wordpress.com/2025/06/20/cracovians-the-twisted-twins-of-matrices/
-  summary: Comments
-  published: 2025-06-20 16:35:05.000000000 +00:00
-- title: 'Smartphones: Parts of Our Minds? Or Parasites?'
-  url: https://www.tandfonline.com/doi/full/10.1080/00048402.2025.2504070
-  summary: Comments
-  published: 2025-06-20 19:35:41.000000000 +00:00
-- title: Rose-Gold-Tinted Liquid Glasses
-  url: https://lmnt.me/blog/rose-gold-tinted-liquid-glasses.html
-  summary: Comments
-  published: 2025-06-19 12:11:34.000000000 +00:00
-- title: 'Dancing Naked on the Head of a Pin: The Early History of Microphotography'
-  url: https://publicdomainreview.org/essay/dancing-naked-on-the-head-of-a-pin
-  summary: Comments
-  published: 2025-06-18 19:08:57.000000000 +00:00
-- title: Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor
-    (2018)
-  url: https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor
-  summary: Comments
-  published: 2025-06-20 09:52:50.000000000 +00:00
-- title: Alpha Centauri
-  url: https://www.filfre.net/2025/06/alpha-centauri/
-  summary: Comments
-  published: 2025-06-20 16:50:14.000000000 +00:00
-- title: Proba-3's first artificial solar eclipse
-  url: https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Proba-3/Proba-3_s_first_artificial_solar_eclipse
-  summary: Comments
-  published: 2025-06-18 12:15:56.000000000 +00:00
-- title: A brief, incomplete, and mostly wrong history of robotics
-  url: https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong
-  summary: Comments
-  published: 2025-06-16 16:28:10.000000000 +00:00
-- title: A Python-first data lakehouse
-  url: https://www.bauplanlabs.com/blog/everything-as-python
-  summary: Comments
-  published: 2025-06-17 22:22:03.000000000 +00:00
-- title: The JAWS shark is public domain
-  url: https://ironicsans.ghost.io/how-the-jaws-shark-became-public-domain/
-  summary: Comments
-  published: 2025-06-20 19:28:50.000000000 +00:00
-- title: BYD begins testing solid-state EV batteries in the Seal
-  url: https://electrek.co/2025/06/20/byd-tests-solid-state-batteries-seal-ev-with-1000-miles-range/
-  summary: Comments
-  published: 2025-06-20 20:42:22.000000000 +00:00
-- title: Jürgen Schmidhuber：the Father of Generative AI Without Turing Award
-  url: http://www.jazzyear.com/article_info.html?id=1352
-  summary: Comments
-  published: 2025-06-20 19:00:55.000000000 +00:00
-- title: 'Klong: A Simple Array Language'
-  url: https://t3x.org/klong/
-  summary: Comments
-  published: 2025-06-20 12:44:09.000000000 +00:00
-- title: 'Show HN: SnapQL – Desktop app to query Postgres with AI'
-  url: https://github.com/NickTikhonov/snap-ql
-  summary: Comments
-  published: 2025-06-20 11:08:18.000000000 +00:00
-- title: Ancient termite poo reveals 120M-year-old secrets of Australia's forests
-  url: https://phys.org/news/2025-06-ancient-termite-poo-reveals-million.html
-  summary: Comments
-  published: 2025-06-18 07:25:16.000000000 +00:00
-- title: Minimal auto-differentiation engine in Rust
-  url: https://github.com/e3ntity/nanograd
-  summary: Comments
-  published: 2025-06-20 13:53:34.000000000 +00:00
+  published: 2025-06-21 16:59:47.000000000 +00:00
