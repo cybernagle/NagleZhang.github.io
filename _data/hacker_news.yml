@@ -1,123 +1,122 @@
 ---
-- title: 'LaborBerlin: State-of-the-Art 16mm Projector'
-  url: https://www.filmlabs.org/wiki/en/meetings_projects/spectral/laborberlin16mmprojector/start
+- title: 'Mechanical Watch: Exploded View'
+  url: https://fellerts.no/projects/epoch.html
   summary: Comments
-  published: 2025-06-21 20:08:30.000000000 +00:00
-- title: P-Hacking in Startups
-  url: https://briefer.cloud/blog/posts/p-hacking/
+  published: 2025-06-22 14:56:44.000000000 +00:00
+- title: I wrote my PhD Thesis in Typst
+  url: https://fransskarman.com/phd_thesis_in_typst.html
   summary: Comments
-  published: 2025-06-18 09:56:28.000000000 +00:00
-- title: Requiem for a Solar Plant
-  url: https://7goldfish.com/articles/Requiem_for_a_solar_plant.php
+  published: 2025-06-22 21:12:01.000000000 +00:00
+- title: Using Home Assistant, adguard home and an $8 smart outlet to avoid brain
+    rot
+  url: https://www.romanklasen.com/blog/beating-brainrot-by-button/
   summary: Comments
-  published: 2025-06-21 22:44:28.000000000 +00:00
-- title: 'The bad boy of bar charts: William Playfair'
-  url: https://blog.engora.com/2023/05/the-bad-boy-of-bar-charts-william.html
+  published: 2025-06-22 20:26:08.000000000 +00:00
+- title: Finding a billion factorials in 60 ms with SIMD
+  url: https://codeforces.com/blog/entry/143279
   summary: Comments
-  published: 2025-06-18 13:29:31.000000000 +00:00
-- title: Denmark's Archaeology Experiment Is Paying Off in Gold and Knowledge
-  url: https://www.scientificamerican.com/article/denmark-let-amateurs-dig-for-treasure-and-it-paid-off/
+  published: 2025-06-22 23:12:50.000000000 +00:00
+- title: Cross-Account and Cross-Region Backups with AWS Backup (and Friends)
+  url: https://tylerrussell.dev/2025/06/20/cross-account-and-region-backups-with-aws-backup-and-friends/
   summary: Comments
-  published: 2025-06-18 12:13:15.000000000 +00:00
-- title: Airpass – easily overcome WiFi time limits
-  url: https://airpass.tiagoalves.me/
+  published: 2025-06-20 23:40:14.000000000 +00:00
+- title: Hawaii Highways
+  url: http://www.hawaiihighways.com/
   summary: Comments
-  published: 2025-06-18 15:29:30.000000000 +00:00
-- title: Type Inference Zoo
-  url: https://zoo.cuichen.cc/
+  published: 2025-06-22 22:55:58.000000000 +00:00
+- title: Klein Bottle Amazon Brand Hijacking (2021)
+  url: https://www.kleinbottle.com/Amazon_Brand_Hijacking.html
   summary: Comments
-  published: 2025-06-18 08:02:32.000000000 +00:00
-- title: 'AllTracker: Efficient Dense Point Tracking at High Resolution'
-  url: https://alltracker.github.io/
+  published: 2025-06-22 19:18:41.000000000 +00:00
+- title: Optifye.ai (YC W25) – Founding Back End Engineer
+  url: https://news.ycombinator.com/item?id=44351580
   summary: Comments
-  published: 2025-06-21 17:09:35.000000000 +00:00
-- title: Trump says US has bombed Fordo nuclear plant in attack on Iran
-  url: https://www.bbc.co.uk/news/live/ckg3rzj8emjt
+  published: 2025-06-23 01:00:00.000000000 +00:00
+- title: 'Git Notes: Git''s coolest, most unloved­ feature (2022)'
+  url: https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/
   summary: Comments
-  published: 2025-06-22 00:00:16.000000000 +00:00
-- title: See Jane 128 by Arktronics run (ft. Magic Desk, 3-Plus-1 and the Thomson
-    MO5)
-  url: http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html
+  published: 2025-06-22 09:14:35.000000000 +00:00
+- title: Adobe Project Indigo is a new photo app from former Pixel camera engineers
+  url: https://www.engadget.com/apps/adobe-project-indigo-is-a-new-photo-app-from-former-pixel-camera-engineers-213453207.html
   summary: Comments
-  published: 2025-06-21 23:43:59.000000000 +00:00
-- title: Compact Representations for Arrays in Lua [pdf]
-  url: https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059
+  published: 2025-06-20 13:27:21.000000000 +00:00
+- title: Interview with Francine Prose on early-1970s San Francisco [audio]
+  url: https://www.laphamsquarterly.org/content/episode-3-francine-prose
   summary: Comments
-  published: 2025-06-18 23:49:18.000000000 +00:00
-- title: Samsung embeds IronSource spyware app on phones across WANA
-  url: https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/
+  published: 2025-06-22 19:51:44.000000000 +00:00
+- title: Radio Garden
+  url: https://radio.garden/?2025
   summary: Comments
-  published: 2025-06-21 03:06:42.000000000 +00:00
-- title: 'Show HN: Luna Rail – treating night trains as a spatial optimization problem'
-  url: https://luna-rail.com/en/home-2
+  published: 2025-06-22 21:28:54.000000000 +00:00
+- title: 10 out of 12 people cured in Type 1 Diabetes Study
+  url: https://www.nejm.org/doi/full/10.1056/NEJMoa2506549
   summary: Comments
-  published: 2025-06-18 08:50:30.000000000 +00:00
-- title: ARIA, the UK's Bet to Build Scientific Revolutions
-  url: https://www.asimov.press/p/aria
+  published: 2025-06-23 00:17:24.000000000 +00:00
+- title: Using Wave Function Collapse to solve puzzle map generation at scale
+  url: https://sublevelgames.github.io/blogs/2025-06-22-nurikabe-map-gen-with-wfc/
   summary: Comments
-  published: 2025-06-21 16:39:42.000000000 +00:00
-- title: 'Tell HN: Beware confidentiality agreements that act as lifetime non competes'
-  url: https://news.ycombinator.com/item?id=44338562
+  published: 2025-06-23 00:42:34.000000000 +00:00
+- title: LibRedirect – Redirects popular sites to alternative privacy-friendly frontends
+  url: https://libredirect.github.io
   summary: Comments
-  published: 2025-06-21 16:02:24.000000000 +00:00
-- title: Axolotls May Hold the Key to Regrowing Limbs
-  url: https://www.smithsonianmag.com/smart-news/axolotls-may-hold-the-key-to-regrowing-limbs-and-scientists-are-unraveling-their-secrets-to-help-humans-do-the-same-180986781/
+  published: 2025-06-22 06:07:48.000000000 +00:00
+- title: 2048 with only 64 bits of state
+  url: https://github.com/izabera/bitwise-challenge-2048
   summary: Comments
-  published: 2025-06-19 23:48:20.000000000 +00:00
-- title: Scaling our observability platform by embracing wide events and replacing
-    OTel
-  url: https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel
+  published: 2025-06-19 16:43:17.000000000 +00:00
+- title: How to negotiate your salary package
+  url: https://www.complexsystemspodcast.com/episodes/how-to-negotiate-your-salary-package/
   summary: Comments
-  published: 2025-06-21 09:23:21.000000000 +00:00
-- title: Using Microsoft's New CLI Text Editor on Ubuntu
-  url: https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu
+  published: 2025-06-18 22:16:53.000000000 +00:00
+- title: We’ve had a Denisovan skull since the 1930s—only nobody knew
+  url: https://arstechnica.com/science/2025/06/the-controversial-dragon-man-skull-was-a-denisovan/
   summary: Comments
-  published: 2025-06-18 05:25:36.000000000 +00:00
-- title: Compiler for the B Programming Language
-  url: https://github.com/tsoding/b
+  published: 2025-06-19 06:42:58.000000000 +00:00
+- title: The cultural decline of literary fiction
+  url: https://oyyy.substack.com/p/the-cultural-decline-of-literary
   summary: Comments
-  published: 2025-06-18 12:27:51.000000000 +00:00
-- title: Phoenix.new – Remote AI Runtime for Phoenix
-  url: https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
+  published: 2025-06-22 16:00:09.000000000 +00:00
+- title: CF-Shield – An open source tool to protect any website with Cloudflare
+  url: https://github.com/Sakura-sx/cf-shield
   summary: Comments
-  published: 2025-06-20 14:57:04.000000000 +00:00
-- title: 'The inability to count correctly: Debunking Kyber-512 security calculation(2023)'
-  url: https://blog.cr.yp.to/20231003-countcorrectly.html
+  published: 2025-06-23 00:11:00.000000000 +00:00
+- title: 'Show HN: Turn a paper''s DOI into its full reference list (BibTeX/RIS, etc.)'
+  url: https://references.mireklzicar.com
   summary: Comments
-  published: 2025-06-19 16:58:50.000000000 +00:00
-- title: Unexpected security footguns in Go's parsers
-  url: https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/
+  published: 2025-06-22 18:25:13.000000000 +00:00
+- title: FreeBSD Kernel Modules Pkg(8) Repositories
+  url: https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/
   summary: Comments
-  published: 2025-06-18 11:35:12.000000000 +00:00
-- title: AI is ushering in a 'tiny team' era
-  url: https://www.bloomberg.com/news/articles/2025-06-20/ai-is-ushering-in-the-tiny-team-era-in-silicon-valley
+  published: 2025-06-22 20:19:39.000000000 +00:00
+- title: TPU Deep Dive
+  url: https://henryhmko.github.io/posts/tpu/tpu.html
   summary: Comments
-  published: 2025-06-21 18:21:27.000000000 +00:00
-- title: The Nyanja new PC-Engine/TurboGrafx 16-bit console game in development
-  url: https://sarupro.itch.io/thenyanja
+  published: 2025-06-22 02:51:03.000000000 +00:00
+- title: Kilauea volcano errupts, lava more than 1k feet high [video]
+  url: https://www.youtube.com/watch?v=oG5zz9Sjw3E
   summary: Comments
-  published: 2025-06-19 00:02:20.000000000 +00:00
-- title: Weave (YC W25) is hiring a founding AI engineer
-  url: https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer
+  published: 2025-06-20 19:36:18.000000000 +00:00
+- title: Using an $8 smart outlet to avoid brainrot
+  url: https://www.neilchen.co/blog/kasa
   summary: Comments
-  published: 2025-06-21 17:01:50.000000000 +00:00
-- title: Don't Read This If You Have a Security Clearance (2023)
-  url: https://www.theatlantic.com/ideas/archive/2023/05/leaked-documents-security-clearance-defense/674031/
+  published: 2025-06-22 12:43:42.000000000 +00:00
+- title: How fast are Linux pipes anyway?
+  url: https://mazzo.li/posts/fast-pipes.html
   summary: Comments
-  published: 2025-06-22 00:10:48.000000000 +00:00
-- title: "'Gwada negative': French scientists find new blood type in woman"
-  url: https://www.lemonde.fr/en/science/article/2025/06/21/gwada-negative-french-scientists-find-new-blood-type-in-woman_6742577_10.html
+  published: 2025-06-22 07:27:27.000000000 +00:00
+- title: Otus Lisp
+  url: https://yuriy-chumak.github.io/ol/
   summary: Comments
-  published: 2025-06-21 07:38:42.000000000 +00:00
-- title: uBlock Origin Lite Beta for Safari iOS
-  url: https://testflight.apple.com/join/JjTcThrV
+  published: 2025-06-22 21:07:47.000000000 +00:00
+- title: I was surprised by how simple an allocator is
+  url: https://tgmatos.github.io/allocators-are-for-monkeys-with-typewriters/
   summary: Comments
-  published: 2025-06-21 08:10:50.000000000 +00:00
-- title: Delta Chat is a decentralized and secure messenger app
-  url: https://delta.chat/en/
+  published: 2025-06-19 06:20:41.000000000 +00:00
+- title: Why do all browsers' user agents start with "Mozilla/"? (2008)
+  url: https://stackoverflow.com/questions/1114254/why-do-all-browsers-user-agents-start-with-mozilla
   summary: Comments
-  published: 2025-06-21 06:29:00.000000000 +00:00
-- title: Balatro for the Nintendo E-Reader
-  url: https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/
+  published: 2025-06-22 20:04:33.000000000 +00:00
+- title: Remote MCP Support in Claude Code
+  url: https://www.anthropic.com/news/claude-code-remote-mcp?campaignId=13926158&source=i_email&medium=email&content=Oct2024AnalysisTool&messageTypeId=140367
   summary: Comments
-  published: 2025-06-21 16:59:47.000000000 +00:00
+  published: 2025-06-18 18:52:24.000000000 +00:00
