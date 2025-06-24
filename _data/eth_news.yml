@@ -1,7 +1,46 @@
 ---
+- title: " Here’s what happened in crypto today "
+  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Need to know what happened in crypto today? Here is the latest news on
+    daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3
+    and crypto regulation.\n                                "
+  published: 2025-06-23 23:08:20.000000000 +01:00
+- title: " Price predictions 6/23: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE "
+  url: https://cointelegraph.com/news/price-predictions-6-23-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin bulls proved they are ready to buy dips to $100,000 and below.
+    Which altcoins will follow?\n                                "
+  published: 2025-06-23 19:54:11.000000000 +01:00
+- title: " The crypto trap that won’t let you sell — and how to avoid it "
+  url: https://cointelegraph.com/news/what-is-a-honeypot-crypto-scam-and-how-to-spot-it?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Honeypot scams lure crypto investors into buying tokens they can’t sell,
+    locking their funds through smart contract tricks.\n                                "
+  published: 2025-06-23 15:11:29.000000000 +01:00
+- title: " Bitcoin treasury trend is new altseason for crypto speculators: Adam Back "
+  url: https://cointelegraph.com/news/bitcoin-treasury-adoption-alt-season-adam-back?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Crypto speculators may offset some of their altcoin losses by investing
+    in Bitcoin or BTC treasury firms, according to Hashcash inventor Adam Back.\n
+    \                               "
+  published: 2025-06-23 11:30:46.000000000 +01:00
+- title: " Crypto funds post $1.2B inflows despite market panic: CoinShares "
+  url: https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-panic-markets-coinshares?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "ETP sentiment cooled in the latter half of last week amid reports of US
+    involvement in the Iran conflict.\n                                "
+  published: 2025-06-23 10:25:34.000000000 +01:00
+- title: " Ethereum whales open $100M of leveraged bets after US strikes Iran "
+  url: https://cointelegraph.com/news/ether-whales-100m-leveraged-bets-after-us-airstrike-on-iran?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Whales are betting hundreds of millions on Ether’s price recovery despite
+    the industry’s most successful traders being net short amid escalating conflict
+    in the Middle East.\n                                "
+  published: 2025-06-23 10:18:30.000000000 +01:00
+- title: " Hacken token plunges 99% after hacker mints and dumps $250K "
+  url: https://cointelegraph.com/news/hacken-exploited-through-private-key-leak?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Cybersecurity firm Hacken CEO Dyma Budorin said the biggest damage has
+    been to its reputation, though the incident had nothing to do with the main business.\n
+    \                               "
+  published: 2025-06-23 03:55:40.000000000 +01:00
 - title: " Traders watch XRP, ETH, SOL and HYPE now that Bitcoin trades below $100K "
   url: https://cointelegraph.com/news/traders-watch-xrp-eth-sol-and-hype-now-that-bitcoin-trades-below-100k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin’s drop below the $100,000 support pulled ETH, XRP, SOL, and HYPE
+  summary: "Bitcoin’s drop below the $100,000 support pulled ETH, XRP, SOL and HYPE
     lower, but a relief rally may be around the corner.\n                                "
   published: 2025-06-22 22:02:16.000000000 +01:00
 - title: " Ethereum whale stacks $39M despite ETH falling harder than Bitcoin "
@@ -125,40 +164,3 @@
   summary: "With a fresh week of inflows recorded, crypto ETPs have reached a new
     record of year-to-date inflows of $13.2 billion.\n                                "
   published: 2025-06-16 09:20:17.000000000 +01:00
-- title: " Ethereum whales, sharks keep buying up ETH as retail cashes out "
-  url: https://cointelegraph.com/news/whales-chalking-up-ether-while-retail-take-profits?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Crypto analytics firm Santiment found that Ether whales boosted their
-    ETH holdings by 3.72% while retail investors have been banking profits.\n                                "
-  published: 2025-06-16 04:46:22.000000000 +01:00
-- title: " Spot Ether ETFs post outflow day after record 19-day inflow streak "
-  url: https://cointelegraph.com/news/spot-ether-etfs-outflow-day-record-inflow-streak?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Despite a record 19-day inflow streak for spot Ether ETFs, Ether is still
-    trading below where it was at the start of the run.\n                                "
-  published: 2025-06-14 06:45:24.000000000 +01:00
-- title: " ETH price trend data suggests all future dips are for buying "
-  url: https://cointelegraph.com/news/eth-price-trend-data-suggests-all-future-dips-are-for-buying?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Technical data and ETH accumulation trends suggest price dips in the $2,100
-    zone are strategic purchasing opportunities.\n                                "
-  published: 2025-06-13 22:40:00.000000000 +01:00
-- title: " Ethereum Foundation pledges $500K to Roman Storm’s defense "
-  url: https://cointelegraph.com/news/ethereum-foundation-donation-roman-storm-defense?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Roughly two years after the initial indictment, the Tornado Cash developer’s
-    criminal trial is expected to begin on July 14.\n                                "
-  published: 2025-06-13 20:25:34.000000000 +01:00
-- title: " Saylor says Bitcoin could fix Apple’s stock buybacks: Finance Redefined "
-  url: https://cointelegraph.com/news/saylor-bitcoin-fix-apple-stock-buybacks-finance-redefined?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Bitcoin exposure may provide more shareholder value to Apple investors,
-    as the tech firm’s stock is struggling to reverse a downtrend.\n                                "
-  published: 2025-06-13 19:00:00.000000000 +01:00
-- title: " Price predictions 6/13: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, SUI,
-    LINK "
-  url: https://cointelegraph.com/news/price-predictions-6-13-btc-eth-xrp-bnb-sol-doge-ada-hype-sui-link?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Dip buyers stepped in to absorb this week’s downside in Bitcoin and select
-    altcoins.\n                                "
-  published: 2025-06-13 18:39:41.000000000 +01:00
-- title: " Panic or opportunity? What crypto capitulation tells smart investors "
-  url: https://cointelegraph.com/news/what-is-crypto-market-capitulation-and-its-significance?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Crypto market capitulation refers to a point of extreme selling pressure
-    when investors panic and sell off assets, often marking the bottom of a market
-    cycle.\n                                "
-  published: 2025-06-13 16:34:26.000000000 +01:00
