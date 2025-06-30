@@ -1,10 +1,84 @@
 ---
-- title: " Here’s what happened in crypto today "
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Need to know what happened in crypto today? Here is the latest news on
-    daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3
-    and crypto regulation.\n                                "
-  published: 2025-06-23 23:08:20.000000000 +01:00
+- title: " Vitalik introduces ‘pluralistic’ IDs to protect privacy in digital identity
+    systems "
+  url: https://cointelegraph.com/news/vitalik-introduces-pluralistic-ids-protect-privacy-in-digital-systems?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Vitalik Buterin warns that single digital IDs could erode pseudonymity,
+    proposing pluralistic systems to safeguard privacy and fair access.\n                                "
+  published: 2025-06-28 12:02:45.000000000 +01:00
+- title: " Price predictions 6/27: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH,
+    LINK "
+  url: https://cointelegraph.com/news/price-predictions-6-27-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-link?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Altcoins search for direction while Bitcoin looks on track to take a stab
+    at new all-time highs.\n                                "
+  published: 2025-06-27 20:12:04.000000000 +01:00
+- title: " Bit Digital plunges 15% after $150M public offering, Ethereum pivot "
+  url: https://cointelegraph.com/news/bit-digital-stock-drops-ethereum-pivot-150m-offering?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Bit Digital’s stock plummeted after announcing a $150 million share sale
+    and a transition from Bitcoin mining to Ethereum staking.\n                                "
+  published: 2025-06-27 10:23:15.000000000 +01:00
+- title: " Ethereum set for rally as it holds above crucial $2.4K price: Analyst "
+  url: https://cointelegraph.com/news/ether-price-rally-speculation-crucial-level-holds-crypto-analyst?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Crypto analyst Michaël van de Poppe says Ether could be “testing the other
+    side of the range” in the coming weeks as it trades above $2,400.\n                                "
+  published: 2025-06-27 06:35:26.000000000 +01:00
+- title: " The multichain future might kill DeFi before it saves it "
+  url: https://cointelegraph.com/news/multichain-kill-defi?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The explosion of new blockchains has fractured DeFi’s once-unified liquidity,
+    threatening its core advantage of composability. Without infrastructure that seamlessly
+    connects siloed markets, DeFi risks losing its revolutionary qualities.\n                                "
+  published: 2025-06-26 16:00:00.000000000 +01:00
+- title: " Bit Digital falls 4% as it ditches Bitcoin mining for Ethereum "
+  url: https://cointelegraph.com/news/bit-digital-ditches-bitcoin-mining-for-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "The crypto mining firm will additionally sell its own stock to purchase
+    more ETH for its treasury.\n                                "
+  published: 2025-06-26 06:41:04.000000000 +01:00
+- title: " ETH ETF flows impress, but Ether futures data suggest traders exercise
+    caution "
+  url: https://cointelegraph.com/news/eth-etf-flows-impress-but-ether-futures-data-suggest-traders-exercise-caution?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Analysts are bullish on ETH’s long-term prospects and ETF inflows, but
+    futures data paints a different picture.\n                                "
+  published: 2025-06-25 23:39:38.000000000 +01:00
+- title: " Price predictions 6/25: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH,
+    SUI "
+  url: https://cointelegraph.com/news/price-predictions-6-25-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-sui?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin price continues moving higher as a ceasefire between Iran and
+    Israel holds and traders anticipate a round of interest rate cuts from the US
+    Federal Reserve.\n                                "
+  published: 2025-06-25 19:20:43.000000000 +01:00
+- title: " Ethereum ‘death cross’ flashes for the first time since 2022 ETH price
+    crash "
+  url: https://cointelegraph.com/news/ethereum-flashes-death-cross-for-the-first-since-2022-selloff?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "ETH’s two-week chart signals a bearish crossover, resembling a 2022 setup
+    that preceded a 40% decline in the price of Ether.\n                                "
+  published: 2025-06-25 16:17:09.000000000 +01:00
+- title: " SharpLink Gaming stock rallies 7% after $30M Ethereum buy "
+  url: https://cointelegraph.com/news/sharplink-gaming-buys-30m-eth-stock-rallie?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "SharpLink Gaming has seen its share price jump over 7% after the firm
+    boosted its Ethereum holdings to 188,000 Ether.\n                                "
+  published: 2025-06-25 07:15:34.000000000 +01:00
+- title: " Ether liquidity sits above $2.5K: Will ETH bulls grab it? "
+  url: https://cointelegraph.com/news/ether-liquidity-sits-above-2-5k-will-eth-bulls-grab-it?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether gains bullish momentum as technical indicators, rising ETF inflows
+    and a potential capital rotation from Bitcoin signal a possible breakout above
+    $2,500.\n                                "
+  published: 2025-06-24 22:00:00.000000000 +01:00
+- title: " ETH trades near $2.5K, but weak demand clouds bullish outlook "
+  url: https://cointelegraph.com/news/eth-trades-near-2-5k-but-weak-demand-clouds-bullish-outlook?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Ether bounced 17% from its recent low, but data shows pro traders unwilling
+    to flip bullish on ETH.\n                                "
+  published: 2025-06-24 20:11:06.000000000 +01:00
+- title: " Bitcoin makes up one-third of investor crypto portfolios in 2025 "
+  url: https://cointelegraph.com/news/bitcoin-accounts-one-third-investor-portfolios-in-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Institutional Bitcoin allocation is on the rise, while retail BTC holdings
+    are falling in favor of altcoins with a strong ETF approval chances, such as XRP.\n
+    \                               "
+  published: 2025-06-24 10:23:38.000000000 +01:00
+- title: " Ethereum dev floats halving slot times to 6 secs, doubling blocks "
+  url: https://cointelegraph.com/news/ethereum-dev-proposes-halving-slot-times-6-secs-doubling-blocks?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "Core developer Barnabé Monnot says six-second block times would slash
+    confirmation delays, boost DeFi efficiency and create smoother user experiences
+    across the Ethereum network.\n                                "
+  published: 2025-06-24 04:50:54.000000000 +01:00
 - title: " Price predictions 6/23: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE "
   url: https://cointelegraph.com/news/price-predictions-6-23-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: "Bitcoin bulls proved they are ready to buy dips to $100,000 and below.
@@ -94,73 +168,3 @@
   summary: "Bitcoin sell pressure ramps up as traders anticipate today’s FOMC results.
     Could BTC price fall to $100,000?\n                                "
   published: 2025-06-18 18:36:01.000000000 +01:00
-- title: " Sandeep Nailwal’s Polygon takeover is his chance to ‘go all in’ "
-  url: https://cointelegraph.com/news/polygon-sandeep-nailwal-inside-decision?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Co-founder and new CEO Sandeep Nailwal opens up about dissolving Polygon’s
-    board, closing zkEVM and why claiming sole leadership is the network’s best shot
-    at relevance.\n                                "
-  published: 2025-06-18 18:00:00.000000000 +01:00
-- title: " Iranian exchange Nobitex hacked for over $81M by Israel-linked hackers "
-  url: https://cointelegraph.com/news/iranian-crypto-exchange-nobitex-exploited-for-73m-zachxbt?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The Iranian crypto exchange’s wallets were exploited for at least $81
-    million as attackers used vanity addresses for the theft.\n                                "
-  published: 2025-06-18 08:54:56.000000000 +01:00
-- title: " Meta Pool hit with $27M exploit, but attacker flees with only $132K "
-  url: https://cointelegraph.com/news/meta-pool-exploiter-flees-132k-in-27-million-hack?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Meta Pool says an early detection system discovered the exploit, allowing
-    it to pause the affected smart contract and prevent further losses.\n                                "
-  published: 2025-06-18 03:46:28.000000000 +01:00
-- title: " Ether price stable near $2.4K as crypto investors bet on long-term growth "
-  url: https://cointelegraph.com/news/ether-price-stable-near-2-4k-as-crypto-investors-bet-on-long-term-growth?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum layer-2 growth and $830 million in spot ETH ETF inflows show
-    investors’ true feelings even as the wider crypto market crumbles.\n                                "
-  published: 2025-06-17 21:52:59.000000000 +01:00
-- title: " Staked Ethereum hits 35M ETH high as liquid supply declines "
-  url: https://cointelegraph.com/news/ethereum-staked-supply-hits-record?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Over 28% of the total Ether supply is now staked, signaling that many
-    investors are gearing up to hold their assets for the long term.\n                                "
-  published: 2025-06-17 14:58:10.000000000 +01:00
-- title: " Optimism targets decentralization with ‘season 8’ governance revamp "
-  url: https://cointelegraph.com/news/optimism-season-8-governance-decentralization-update?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "A new approval process, where most Optimism proposals will auto-pass unless
-    a stakeholder vetoes, will come into force on Aug. 1 to reduce the burden on contributors.\n
-    \                               "
-  published: 2025-06-17 06:46:54.000000000 +01:00
-- title: " Price predictions 6/16: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE "
-  url: https://cointelegraph.com/news/price-predictions-6-16-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Altcoins remain in a consolidation phase even as Bitcoin price looks ready
-    to take a stab at new all-time highs.\n                                "
-  published: 2025-06-16 19:16:44.000000000 +01:00
-- title: " ETH price slips, but institutions flock to Ethereum staking — Lido Exec "
-  url: https://cointelegraph.com/news/ethereum-staking-institutional-demand-lido-steth?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ether price has significantly underperformed in 2025, but institutional
-    demand for Ethereum staking is growing, says Lido Foundation’s Kean Gilbert.\n
-    \                               "
-  published: 2025-06-16 18:45:20.000000000 +01:00
-- title: " Trump’s Truth Social files S-1 for dual Bitcoin and Ether ETF "
-  url: https://cointelegraph.com/news/trump-truth-social-sec-s-1-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Trump’s social media platform, Truth Social, proposed the issuance of
-    a dual-spot Bitcoin and Ether ETF, backed by assets held by Crypto.com.\n                                "
-  published: 2025-06-16 14:45:55.000000000 +01:00
-- title: " Can you mine Bitcoin with a gaming PC? Here’s what you need to know "
-  url: https://cointelegraph.com/explained/can-you-mine-bitcoin-with-a-gaming-pc?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "                        Yes, you can mine Bitcoin with a gaming PC — but
-    between low performance, high electricity costs and tough competition from ASIC
-    miners, it’s rarely worth the effort.                    \n                                "
-  published: 2025-06-16 14:25:00.000000000 +01:00
-- title: " Ethereum whales are buying most ETH since 2018 "
-  url: https://cointelegraph.com/news/ethereum-whales-buying-the-most-eth-since-2018?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "Ethereum's drivers are now different, but the ETH price is consolidating
-    in a multimonth range, echoing its 2017 chart pattern, which resulted in a 1,000%
-    rally.\n                                "
-  published: 2025-06-16 12:26:57.000000000 +01:00
-- title: " Tether blocks $12.3M in USDT tied to suspicious Tron addresses "
-  url: https://cointelegraph.com/news/tether-freezes-12m-usdt-on-tron?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "The stablecoin giant froze over $12.3 million worth of funds, pointing
-    to potential illicit activity or AML violations.\n                                "
-  published: 2025-06-16 10:11:31.000000000 +01:00
-- title: " Crypto funds notch $1.9B of inflows as Bitcoin rebounds "
-  url: https://cointelegraph.com/news/crypto-funds-1-9-billion-inflows-bitcoin-surge-110000-coinshares?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "With a fresh week of inflows recorded, crypto ETPs have reached a new
-    record of year-to-date inflows of $13.2 billion.\n                                "
-  published: 2025-06-16 09:20:17.000000000 +01:00
