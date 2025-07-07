@@ -1,125 +1,123 @@
 ---
-- title: I made my VM think it has a CPU fan
-  url: https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
+- title: 'Nobody has a personality anymore: we are products with labels'
+  url: https://www.freyaindia.co.uk/p/nobody-has-a-personality-anymore
   summary: Comments
-  published: 2025-06-29 13:55:18.000000000 +00:00
-- title: 'Bitcoin''s Security Budget Issue: Problems, Solutions and Myths Debunked'
-  url: https://budget.day/
+  published: 2025-07-06 22:16:37.000000000 +00:00
+- title: Bitchat – A decentralized messaging app that works over Bluetooth mesh networks
+  url: https://github.com/jackjackbits/bitchat
   summary: Comments
-  published: 2025-06-29 22:22:30.000000000 +00:00
-- title: 'Ask HN: What Are You Working On? (June 2025)'
-  url: https://news.ycombinator.com/item?id=44416093
+  published: 2025-07-07 00:05:46.000000000 +00:00
+- title: Intel's Lion Cove P-Core and Gaming Workloads
+  url: https://chipsandcheese.com/p/intels-lion-cove-p-core-and-gaming
   summary: Comments
-  published: 2025-06-29 20:21:28.000000000 +00:00
-- title: The Book of Shaders
-  url: https://thebookofshaders.com/
+  published: 2025-07-06 22:27:39.000000000 +00:00
+- title: Building the Rust Compiler with GCC
+  url: https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html
   summary: Comments
-  published: 2025-06-26 17:48:03.000000000 +00:00
-- title: Cell Towers Can Double as Cheap Radar Systems for Ports and Harbors (2014)
-  url: https://spectrum.ieee.org/cell-tower-signals-can-improve-port-security
+  published: 2025-07-06 21:46:02.000000000 +00:00
+- title: 'Show HN: I wrote a "web OS" based on the Apple Lisa''s UI, with 1-bit graphics'
+  url: https://alpha.lisagui.com/
   summary: Comments
-  published: 2025-06-29 21:48:12.000000000 +00:00
-- title: Revisiting Knuth's "Premature Optimization" Paper
-  url: https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/
+  published: 2025-07-06 18:32:55.000000000 +00:00
+- title: Jane Street barred from Indian markets as regulator freezes $566 million
+  url: https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html
   summary: Comments
-  published: 2025-06-26 11:17:12.000000000 +00:00
-- title: Modelling API rate limits as diophantine inequalities
-  url: https://vivekn.dev/blog/rate-limit-diophantine
+  published: 2025-07-06 14:03:51.000000000 +00:00
+- title: There's a COMPUTER inside my DS flashcart [video]
+  url: https://www.youtube.com/watch?v=uq0pJmd7GAA
   summary: Comments
-  published: 2025-06-27 05:48:22.000000000 +00:00
-- title: Finding a former Australian prime minister’s passport number on Instagram
-    (2020)
-  url: https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram/
+  published: 2025-07-07 00:04:36.000000000 +00:00
+- title: I extracted the safety filters from Apple Intelligence models
+  url: https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted
   summary: Comments
-  published: 2025-06-29 22:22:32.000000000 +00:00
-- title: Error handling in Rust
-  url: https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html
+  published: 2025-07-06 19:50:02.000000000 +00:00
+- title: Data on AI-related Show HN posts
+  url: https://ryanfarley.co/ai-show-hn-data/
   summary: Comments
-  published: 2025-06-29 20:28:25.000000000 +00:00
-- title: 'Show HN: Octelium – FOSS Alternative to Teleport, Cloudflare, Tailscale,
-    Ngrok'
-  url: https://github.com/octelium/octelium
+  published: 2025-07-04 10:35:04.000000000 +00:00
+- title: 'Centaur: A Controversial Leap Towards Simulating Human Cognition'
+  url: https://insidescientific.com/centaur-a-controversial-leap-towards-simulating-human-cognition/
   summary: Comments
-  published: 2025-06-29 11:24:17.000000000 +00:00
-- title: Nearly 20% of cancer drugs defective in 4 African nations
-  url: https://www.dw.com/en/nearly-20-of-cancer-drugs-defective-in-4-african-nations/a-73062221
+  published: 2025-07-06 23:12:05.000000000 +00:00
+- title: 'Swedish Campground: "There are too many Apples on the screen!" (1983)'
+  url: https://www.folklore.org/Swedish_Campground.html
   summary: Comments
-  published: 2025-06-29 23:23:09.000000000 +00:00
-- title: 4-10x faster in-process pub/sub for Go
-  url: https://github.com/kelindar/event
+  published: 2025-07-06 23:49:52.000000000 +00:00
+- title: 'Opencode: AI coding agent, built for the terminal'
+  url: https://github.com/sst/opencode
   summary: Comments
-  published: 2025-06-29 15:19:19.000000000 +00:00
-- title: Bloom Filters by Example
-  url: https://llimllib.github.io/bloomfilter-tutorial/
+  published: 2025-07-06 17:26:47.000000000 +00:00
+- title: Get the location of the ISS using DNS
+  url: https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/
   summary: Comments
-  published: 2025-06-29 11:56:09.000000000 +00:00
-- title: We accidentally solved robotics by watching 1M hours of YouTube
-  url: https://ksagar.bearblog.dev/vjepa/
+  published: 2025-07-06 12:32:46.000000000 +00:00
+- title: Functions Are Vectors (2023)
+  url: https://thenumb.at/Functions-are-Vectors/
   summary: Comments
-  published: 2025-06-29 16:08:53.000000000 +00:00
-- title: Many ransomware strains will abort if they detect a Russian keyboard installed
-    (2021)
-  url: https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/
+  published: 2025-07-06 15:18:35.000000000 +00:00
+- title: I don't think AGI is right around the corner
+  url: https://www.dwarkesh.com/p/timelines-june-2025
   summary: Comments
-  published: 2025-06-29 18:29:55.000000000 +00:00
-- title: Using the Internet without IPv4 connectivity
-  url: https://jamesmcm.github.io/blog/no-ipv4/
+  published: 2025-07-06 20:45:20.000000000 +00:00
+- title: Backlog.md – Markdown‑native Task Manager and Kanban visualizer for any Git
+    repo
+  url: https://github.com/MrLesk/Backlog.md
   summary: Comments
-  published: 2025-06-29 08:23:40.000000000 +00:00
-- title: 'The Medley Interlisp Project: Reviving a Historical Software System [pdf]'
-  url: https://interlisp.org/documentation/young-ccece2025.pdf
+  published: 2025-07-06 19:55:30.000000000 +00:00
+- title: Lessons from creating my first text adventure
+  url: https://entropicthoughts.com/lessons-from-creating-first-text-adventure
   summary: Comments
-  published: 2025-06-29 14:45:10.000000000 +00:00
-- title: Commodore acquired for a 'low seven figure' price – CEO from retro community
-  url: https://www.tomshardware.com/video-games/retro-gaming/commodore-acquired-for-a-low-seven-figure-price-new-acting-ceo-comes-from-the-retro-community
+  published: 2025-07-04 13:48:19.000000000 +00:00
+- title: Crypto 101 – Introductory course on cryptography
+  url: https://www.crypto101.io/
   summary: Comments
-  published: 2025-06-29 23:03:07.000000000 +00:00
-- title: China Dominates 44% of Visible Fishing Activity Worldwide
-  url: https://oceana.org/press-releases/china-dominates-44-of-visible-fishing-activity-worldwide/
+  published: 2025-07-06 21:09:42.000000000 +00:00
+- title: Evaluating the factuality of verifiable claims in long-form text generation
+  url: https://aclanthology.org/2024.findings-emnlp.552/
   summary: Comments
-  published: 2025-06-29 21:43:50.000000000 +00:00
-- title: 'Several Anker power bank models recalled: Supplier''s batteries pose fire
-    hazard'
-  url: https://www.heise.de/en/news/Fire-hazard-Anker-recalls-several-power-bank-models-also-in-Germany-10463193.html
+  published: 2025-07-04 05:12:55.000000000 +00:00
+- title: A non-anthropomorphized view of LLMs
+  url: http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html
   summary: Comments
-  published: 2025-06-29 23:28:00.000000000 +00:00
-- title: Loss of key US satellite data could send hurricane forecasting back 'decades'
-  url: https://www.theguardian.com/us-news/2025/jun/28/noaa-cuts-hurricane-forecasting-climate
+  published: 2025-07-06 22:26:44.000000000 +00:00
+- title: Corrected UTF-8 (2022)
+  url: https://www.owlfolio.org/development/corrected-utf-8/
   summary: Comments
-  published: 2025-06-29 17:39:08.000000000 +00:00
-- title: 'Show HN: Rust -> WASM, K-Means Color Quantization Crate for Image-to-Pixel-Art'
-  url: https://github.com/gametorch/image_to_pixel_art_wasm
+  published: 2025-07-03 15:29:26.000000000 +00:00
+- title: 'The Broken Microsoft Pact: Layoffs and Performance Management'
+  url: https://danielsada.tech/blog/microsoft-pact/
   summary: Comments
-  published: 2025-06-26 14:40:55.000000000 +00:00
-- title: Oldest boomerang doesn't come back
-  url: https://www.bbc.co.uk/news/articles/cren818q5x1o
+  published: 2025-07-06 22:54:21.000000000 +00:00
+- title: Metriport (YC S22) is hiring engineers to improve healthcare data exchange
+  url: https://www.ycombinator.com/companies/metriport/jobs/Rn2Je8M-software-engineer
   summary: Comments
-  published: 2025-06-26 06:22:01.000000000 +00:00
-- title: The $25k car is going extinct?
-  url: https://media.hubspot.com/why-the-25000-car-is-going-extinct
+  published: 2025-07-06 17:00:02.000000000 +00:00
+- title: Curzio Malaparte's Shock Tactics
+  url: https://www.newyorker.com/books/under-review/curzio-malapartes-shock-tactics
   summary: Comments
-  published: 2025-06-29 15:59:56.000000000 +00:00
-- title: The Unsustainability of Moore's Law
-  url: https://bzolang.blog/p/the-unsustainability-of-moores-law
+  published: 2025-07-03 16:55:37.000000000 +00:00
+- title: 'Hannah Cairo: 17-year-old teen refutes a math conjecture proposed 40 years
+    ago'
+  url: https://english.elpais.com/science-tech/2025-07-01/a-17-year-old-teen-refutes-a-mathematical-conjecture-proposed-40-years-ago.html
   summary: Comments
-  published: 2025-06-29 07:07:03.000000000 +00:00
-- title: Raymond Laflamme (1960-2025)
-  url: https://scottaaronson.blog/?p=8949
+  published: 2025-07-06 15:15:51.000000000 +00:00
+- title: Async Queue – One of my favorite programming interview questions
+  url: https://davidgomes.com/async-queue-interview-ai/
   summary: Comments
-  published: 2025-06-27 04:16:01.000000000 +00:00
-- title: Reverse Engineering the Microchip CLB
-  url: http://mcp-clb.markomo.me/
+  published: 2025-07-06 16:46:01.000000000 +00:00
+- title: 'Mirage: AI-native UGC game engine powered by real-time world model'
+  url: https://blog.dynamicslab.ai
   summary: Comments
-  published: 2025-06-29 21:30:02.000000000 +00:00
-- title: 'Show HN: A tool to benchmark LLM APIs (OpenAI, Claude, local/self-hosted)'
-  url: https://llmapitest.com/
+  published: 2025-07-06 00:47:42.000000000 +00:00
+- title: 'Paper Shaders: Zero-dependency canvas shaders'
+  url: https://github.com/paper-design/shaders
   summary: Comments
-  published: 2025-06-29 15:33:57.000000000 +00:00
-- title: More on Apple's Trust-Eroding 'F1 the Movie' Wallet Ad
-  url: https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad
+  published: 2025-07-04 15:35:32.000000000 +00:00
+- title: 'Toys/Lag: Jerk Monitor'
+  url: https://nothing.pcarrier.com/posts/lag/
   summary: Comments
-  published: 2025-06-29 07:45:56.000000000 +00:00
-- title: Anticheat Update Tracking
-  url: https://not-matthias.github.io/posts/anticheat-update-tracking/
+  published: 2025-07-06 14:33:34.000000000 +00:00
+- title: Collatz's Ant and Σ(n)
+  url: https://gbragafibra.github.io/2025/07/06/collatz_ant5.html
   summary: Comments
-  published: 2025-06-29 21:06:57.000000000 +00:00
+  published: 2025-07-06 17:12:45.000000000 +00:00
