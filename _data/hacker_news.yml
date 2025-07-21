@@ -1,123 +1,123 @@
 ---
-- title: Let's Learn x86-64 Assembly Part 0 – Setup and First Steps
-  url: https://gpfault.net/posts/asm-tut-0.txt.html
+- title: 'Show HN: X11 desktop widget that shows location of your network peers on
+    a map'
+  url: https://github.com/h2337/connmap
   summary: Comments
-  published: 2025-07-13 22:22:15.000000000 +00:00
-- title: 'OpenCut: The open-source CapCut alternative'
-  url: https://github.com/OpenCut-app/OpenCut
+  published: 2025-07-21 00:16:25.000000000 +00:00
+- title: 'Staying cool without refrigerants: Next-generation Peltier cooling'
+  url: https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling
   summary: Comments
-  published: 2025-07-13 21:08:47.000000000 +00:00
-- title: 'Emergent Misalignment: Narrow finetuning can produce broadly misaligned
-    LLMs'
-  url: https://arxiv.org/abs/2502.17424
+  published: 2025-07-20 20:18:54.000000000 +00:00
+- title: LLM Alloying Improves Performance over Single Model
+  url: https://xbow.com/blog/alloy-agents/
   summary: Comments
-  published: 2025-07-13 23:46:12.000000000 +00:00
-- title: The underground cathedral protecting Tokyo from floods (2018)
-  url: https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods
+  published: 2025-07-21 00:33:04.000000000 +00:00
+- title: XMLUI
+  url: https://blog.jonudell.net/2025/07/18/introducing-xmlui/
   summary: Comments
-  published: 2025-07-10 10:30:42.000000000 +00:00
-- title: 'APKLab: Android Reverse-Engineering Workbench for VS Code'
-  url: https://github.com/APKLab/APKLab
+  published: 2025-07-20 14:03:39.000000000 +00:00
+- title: New colors without shooting lasers into your eyes
+  url: https://dynomight.net/colors/
   summary: Comments
-  published: 2025-07-13 21:08:14.000000000 +00:00
-- title: How does a screen work?
-  url: https://www.makingsoftware.com/chapters/how-a-screen-works
+  published: 2025-07-17 16:01:17.000000000 +00:00
+- title: 'Stdio(3) change: FILE is now opaque (OpenBSD)'
+  url: https://undeadly.org/cgi?action=article;sid=20250717103345
   summary: Comments
-  published: 2025-07-13 14:09:06.000000000 +00:00
-- title: 'Show HN: Ten years of running every day, visualized'
-  url: https://nodaysoff.run
+  published: 2025-07-20 18:18:40.000000000 +00:00
+- title: What birdsong and back ends can teach us about magic
+  url: https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic
   summary: Comments
-  published: 2025-07-10 16:21:13.000000000 +00:00
-- title: A technical look at Iran's internet shutdowns
-  url: https://zola.ink/blog/posts/a-technical-look-at-irans-internet-shutdown
+  published: 2025-07-20 23:59:39.000000000 +00:00
+- title: Simulating Hand-Drawn Motion with SVG Filters
+  url: https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters
   summary: Comments
-  published: 2025-07-13 16:45:02.000000000 +00:00
-- title: The North Korean fake IT worker problem is ubiquitous
-  url: https://www.theregister.com/2025/07/13/fake_it_worker_problem/
+  published: 2025-07-17 09:12:26.000000000 +00:00
+- title: Coding with LLMs in the summer of 2025 – an update
+  url: https://antirez.com/news/154
   summary: Comments
-  published: 2025-07-13 12:06:34.000000000 +00:00
-- title: Traditional Chinese Medicine Has Not Been Vindicated by Science
-  url: https://www.mcgill.ca/oss/article/medical-critical-thinking-health-and-nutrition/no-traditional-chinese-medicine-has-not-been-vindicated-science
+  published: 2025-07-20 11:04:02.000000000 +00:00
+- title: Computational Complexity of Neural Networks
+  url: https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/
   summary: Comments
-  published: 2025-07-13 21:35:32.000000000 +00:00
-- title: 'Show HN: A Raycast-compatible launcher for Linux'
-  url: https://github.com/ByteAtATime/raycast-linux
+  published: 2025-07-21 00:23:33.000000000 +00:00
+- title: Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)
+  url: https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/
   summary: Comments
-  published: 2025-07-13 16:57:48.000000000 +00:00
-- title: Hypercapitalism and the AI Talent Wars
-  url: https://blog.johnluttig.com/p/hypercapitalism-and-the-ai-talent
+  published: 2025-07-20 21:05:19.000000000 +00:00
+- title: What My Mother Didn't Talk About (2020)
+  url: https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak
   summary: Comments
-  published: 2025-07-13 20:09:34.000000000 +00:00
-- title: Fine dining restaurants researching guests to make their dinner unforgettable
-  url: https://www.sfgate.com/food/article/data-deep-dives-bay-area-fine-dining-restaurants-20404434.php
+  published: 2025-07-17 21:43:23.000000000 +00:00
+- title: FFmpeg devs boast of another 100x leap thanks to handwritten assembly code
+  url: https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code
   summary: Comments
-  published: 2025-07-13 15:30:29.000000000 +00:00
-- title: How to scale RL to 10^26 FLOPs
-  url: https://blog.jxmo.io/p/how-to-scale-rl-to-1026-flops
+  published: 2025-07-20 20:51:41.000000000 +00:00
+- title: Logical implication is a comparison operator
+  url: https://btdmaster.bearblog.dev/logical-implication-as-comparison/
   summary: Comments
-  published: 2025-07-10 20:47:34.000000000 +00:00
-- title: C3 solved memory lifetimes with scopes
-  url: https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/
+  published: 2025-07-17 19:15:52.000000000 +00:00
+- title: Speeding up my ZSH shell
+  url: https://scottspence.com/posts/speeding-up-my-zsh-shell
   summary: Comments
-  published: 2025-07-11 14:27:42.000000000 +00:00
-- title: 'Show HN: Learn LLMs LeetCode Style'
-  url: https://github.com/Exorust/TorchLeet
+  published: 2025-07-20 15:51:44.000000000 +00:00
+- title: Subreply – an open source text-only social network
+  url: https://github.com/lucianmarin/subreply
   summary: Comments
-  published: 2025-07-13 13:03:13.000000000 +00:00
-- title: Axon's Draft One AI Police Report Generator Is Designed to Defy Transparency
-  url: https://www.eff.org/deeplinks/2025/07/axons-draft-one-designed-defy-transparency
+  published: 2025-07-20 18:46:14.000000000 +00:00
+- title: IPv6 Based Canvas
+  url: https://canvas.openbased.org/
   summary: Comments
-  published: 2025-07-11 00:21:16.000000000 +00:00
-- title: 'Show HN: FFmpeg in plain English – LLM-assisted FFmpeg in the browser'
-  url: https://vidmix.app/ffmpeg-in-plain-english/
+  published: 2025-07-20 22:29:04.000000000 +00:00
+- title: The Genius Device That Rocked F1
+  url: https://www.youtube.com/watch?v=FhmLb2DhNYM
   summary: Comments
-  published: 2025-07-10 13:32:49.000000000 +00:00
-- title: Investors bought 27% of US homes in Q1, as traditional buyers struggle to
-    afford
-  url: https://abcnews.go.com/Business/wireStory/investors-snap-growing-share-us-homes-traditional-buyers-123560969
+  published: 2025-07-20 23:42:26.000000000 +00:00
+- title: Discovering what we think we know is wrong
+  url: https://www.science.org/content/blog-post/tell-me-again-about-neurons-now
   summary: Comments
-  published: 2025-07-13 23:21:21.000000000 +00:00
-- title: The Gottorf Globe and its reconstruction
-  url: https://gottorfer-globus.de/en/the-gottorf-globe
+  published: 2025-07-18 03:26:36.000000000 +00:00
+- title: Tough news for our UK users
+  url: https://blog.janitorai.com/posts/3/
   summary: Comments
-  published: 2025-07-13 19:16:07.000000000 +00:00
-- title: Astronomers Detect a Black Hole Merger That's So It Shouldn't Exist
-  url: https://gizmodo.com/astronomers-detect-a-black-hole-merger-thats-so-massive-it-shouldnt-exist-2000628197
+  published: 2025-07-20 20:43:16.000000000 +00:00
+- title: SIOF (Scheme in One File) – A Minimal R7RS Scheme System
+  url: https://github.com/false-schemers/siof
   summary: Comments
-  published: 2025-07-14 00:38:20.000000000 +00:00
-- title: Infisical (YC W23) Is Hiring DevRel Engineers
-  url: https://www.ycombinator.com/companies/infisical/jobs/qCrLiJb-developer-relations
+  published: 2025-07-19 11:17:48.000000000 +00:00
+- title: 'Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes
+    at once'
+  url: https://conductor.build/
   summary: Comments
-  published: 2025-07-13 17:00:57.000000000 +00:00
-- title: 'Ask HN: How much of OpenAI code is written by AI?'
-  url: https://news.ycombinator.com/item?id=44553379
+  published: 2025-07-17 15:43:04.000000000 +00:00
+- title: Insights on Teufel's First Open-Source Speaker
+  url: https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/
   summary: Comments
-  published: 2025-07-13 20:22:00.000000000 +00:00
-- title: Five companies now control over 90% of the restaurant food delivery market
-  url: https://marketsaintefficient.substack.com/p/five-companies-now-control-over-90
+  published: 2025-07-20 17:11:43.000000000 +00:00
+- title: Digital vassals? French Government 'exposes citizens' data to US'
+  url: https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/
   summary: Comments
-  published: 2025-07-13 20:23:37.000000000 +00:00
-- title: Does showing seconds in the system tray actually use more power?
-  url: https://www.lttlabs.com/blog/2025/07/11/does-showing-seconds-in-the-system-tray-actually-use-more-power
+  published: 2025-07-20 11:26:09.000000000 +00:00
+- title: Jove (Jonathan's Own Version of Emacs)
+  url: https://en.wikipedia.org/wiki/JOVE
   summary: Comments
-  published: 2025-07-13 17:18:20.000000000 +00:00
-- title: 'Zig''s new I/O: function coloring is inevitable?'
-  url: https://blog.ivnj.org/post/function-coloring-is-inevitable
+  published: 2025-07-17 09:35:37.000000000 +00:00
+- title: AI is killing the web – can anything save it?
+  url: https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it
   summary: Comments
-  published: 2025-07-13 15:57:34.000000000 +00:00
-- title: The upcoming GPT-3 moment for RL
-  url: https://www.mechanize.work/blog/the-upcoming-gpt-3-moment-for-rl/
+  published: 2025-07-20 09:33:48.000000000 +00:00
+- title: Hacking a Toniebox
+  url: https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/
   summary: Comments
-  published: 2025-07-09 16:59:30.000000000 +00:00
-- title: GLP-1s Are Breaking Life Insurance
-  url: https://www.glp1digest.com/p/how-glp-1s-are-breaking-life-insurance
+  published: 2025-07-20 17:16:36.000000000 +00:00
+- title: 'QuakeNotch: Quake Terminal on your MacBook''s notch'
+  url: https://quakenotch.com
   summary: Comments
-  published: 2025-07-13 18:31:47.000000000 +00:00
-- title: Monitoring My Homelab, Simply
-  url: https://b.tuxes.uk/simple-homelab-monitoring.html
+  published: 2025-07-20 17:57:44.000000000 +00:00
+- title: A Tour of Microsoft's Mac Lab (2006)
+  url: https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html
   summary: Comments
-  published: 2025-07-10 11:28:04.000000000 +00:00
-- title: Local Chatbot RAG with FreeBSD Knowledge
-  url: https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/
+  published: 2025-07-20 10:11:22.000000000 +00:00
+- title: The old Caveman Chemistry website (1996-2000)
+  url: https://cavemanchemistry.com/oldcave/
   summary: Comments
-  published: 2025-07-13 13:48:49.000000000 +00:00
+  published: 2025-07-20 14:11:26.000000000 +00:00
