@@ -1,123 +1,121 @@
 ---
-- title: 'Show HN: X11 desktop widget that shows location of your network peers on
-    a map'
-  url: https://github.com/h2337/connmap
+- title: Performance and telemetry analysis of Trae IDE, ByteDance's VSCode fork
+  url: https://github.com/segmentationf4u1t/trae_telemetry_research
   summary: Comments
-  published: 2025-07-21 00:16:25.000000000 +00:00
-- title: 'Staying cool without refrigerants: Next-generation Peltier cooling'
-  url: https://news.samsung.com/global/interview-staying-cool-without-refrigerants-how-samsung-is-pioneering-next-generation-peltier-cooling
+  published: 2025-07-27 17:57:06.000000000 +00:00
+- title: Enough AI copilots! We need AI HUDs
+  url: https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds
   summary: Comments
-  published: 2025-07-20 20:18:54.000000000 +00:00
-- title: LLM Alloying Improves Performance over Single Model
-  url: https://xbow.com/blog/alloy-agents/
+  published: 2025-07-27 22:51:28.000000000 +00:00
+- title: Dumb Pipe
+  url: https://www.dumbpipe.dev/
   summary: Comments
-  published: 2025-07-21 00:33:04.000000000 +00:00
-- title: XMLUI
-  url: https://blog.jonudell.net/2025/07/18/introducing-xmlui/
+  published: 2025-07-27 14:25:47.000000000 +00:00
+- title: I hacked my washing machine
+  url: https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/
   summary: Comments
-  published: 2025-07-20 14:03:39.000000000 +00:00
-- title: New colors without shooting lasers into your eyes
-  url: https://dynomight.net/colors/
+  published: 2025-07-27 20:09:29.000000000 +00:00
+- title: EU age verification app to ban any Android system not licensed by Google
+  url: https://www.reddit.com/r/degoogle/s/YxmPgFes8a
   summary: Comments
-  published: 2025-07-17 16:01:17.000000000 +00:00
-- title: 'Stdio(3) change: FILE is now opaque (OpenBSD)'
-  url: https://undeadly.org/cgi?action=article;sid=20250717103345
+  published: 2025-07-27 22:18:44.000000000 +00:00
+- title: 'Blender: Beyond Mouse and Keyboard'
+  url: https://code.blender.org/2025/07/beyond-mouse-keyboard/
   summary: Comments
-  published: 2025-07-20 18:18:40.000000000 +00:00
-- title: What birdsong and back ends can teach us about magic
-  url: https://digitalseams.com/blog/what-birdsong-and-backends-can-teach-us-about-magic
+  published: 2025-07-24 15:20:49.000000000 +00:00
+- title: Making Postgres slower
+  url: https://byteofdev.com/posts/making-postgres-slow/
   summary: Comments
-  published: 2025-07-20 23:59:39.000000000 +00:00
-- title: Simulating Hand-Drawn Motion with SVG Filters
-  url: https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters
+  published: 2025-07-27 21:12:59.000000000 +00:00
+- title: ZUSE – The Modern IRC Chat for the Terminal Made in Go/Bubbletea
+  url: https://github.com/babycommando/zuse
   summary: Comments
-  published: 2025-07-17 09:12:26.000000000 +00:00
-- title: Coding with LLMs in the summer of 2025 – an update
-  url: https://antirez.com/news/154
+  published: 2025-07-27 23:01:01.000000000 +00:00
+- title: Why does a fire truck cost $2m
+  url: https://thehustle.co/originals/why-does-a-fire-truck-cost-2-million
   summary: Comments
-  published: 2025-07-20 11:04:02.000000000 +00:00
-- title: Computational Complexity of Neural Networks
-  url: https://lunalux.io/introduction-to-neural-networks/computational-complexity-of-neural-networks/
+  published: 2025-07-28 00:56:04.000000000 +00:00
+- title: Why I write recursive descent parsers, despite their issues (2020)
+  url: https://utcc.utoronto.ca/~cks/space/blog/programming/WhyRDParsersForMe
   summary: Comments
-  published: 2025-07-21 00:23:33.000000000 +00:00
-- title: Peep Show – The Most Realistic Portrayal of Evil Ever Made (2020)
-  url: https://mattlakeman.org/2020/01/22/peep-show-the-most-realistic-portrayal-of-evil-ive-ever-seen/
+  published: 2025-07-24 04:07:42.000000000 +00:00
+- title: IBM Keyboard Patents
+  url: https://sharktastica.co.uk/topics/patents
   summary: Comments
-  published: 2025-07-20 21:05:19.000000000 +00:00
-- title: What My Mother Didn't Talk About (2020)
-  url: https://www.buzzfeednews.com/article/karolinawaclawiak/what-my-mother-didnt-talk-about-karolina-waclawiak
+  published: 2025-07-27 20:30:27.000000000 +00:00
+- title: 'Ask HN: What are you working on? (July 2025)'
+  url: https://news.ycombinator.com/item?id=44702833
   summary: Comments
-  published: 2025-07-17 21:43:23.000000000 +00:00
-- title: FFmpeg devs boast of another 100x leap thanks to handwritten assembly code
-  url: https://www.tomshardware.com/software/the-biggest-speedup-ive-seen-so-far-ffmpeg-devs-boast-of-another-100x-leap-thanks-to-handwritten-assembly-code
+  published: 2025-07-27 17:19:19.000000000 +00:00
+- title: Return of wolves to Yellowstone has led to a surge in aspen trees
+  url: https://www.livescience.com/animals/land-mammals/return-of-wolves-to-yellowstone-has-led-to-a-surge-in-aspen-trees-unseen-for-80-years
   summary: Comments
-  published: 2025-07-20 20:51:41.000000000 +00:00
-- title: Logical implication is a comparison operator
-  url: https://btdmaster.bearblog.dev/logical-implication-as-comparison/
+  published: 2025-07-23 12:13:52.000000000 +00:00
+- title: Designing a flatpack bed
+  url: https://kevinlynagh.com/newsletter/2025_07_flatpack/
   summary: Comments
-  published: 2025-07-17 19:15:52.000000000 +00:00
-- title: Speeding up my ZSH shell
-  url: https://scottspence.com/posts/speeding-up-my-zsh-shell
+  published: 2025-07-27 22:09:14.000000000 +00:00
+- title: 'The JJ VCS workshop: A zero-to-hero speedrun'
+  url: https://github.com/jkoppel/jj-workshop
   summary: Comments
-  published: 2025-07-20 15:51:44.000000000 +00:00
-- title: Subreply – an open source text-only social network
-  url: https://github.com/lucianmarin/subreply
+  published: 2025-07-27 12:23:31.000000000 +00:00
+- title: 'Bits 0x02: switching to orion as a browser'
+  url: https://andinfinity.eu/post/2025-07-24-bits-0x02/
   summary: Comments
-  published: 2025-07-20 18:46:14.000000000 +00:00
-- title: IPv6 Based Canvas
-  url: https://canvas.openbased.org/
+  published: 2025-07-25 10:24:44.000000000 +00:00
+- title: Tom Lehrer has died
+  url: https://www.nytimes.com/2025/07/27/arts/music/tom-lehrer-dead.html
   summary: Comments
-  published: 2025-07-20 22:29:04.000000000 +00:00
-- title: The Genius Device That Rocked F1
-  url: https://www.youtube.com/watch?v=FhmLb2DhNYM
+  published: 2025-07-27 17:13:25.000000000 +00:00
+- title: 'AlphaDec: A human-readable alternative to ULID/Snowflake IDs'
+  url: https://github.com/firasd/alphadec
   summary: Comments
-  published: 2025-07-20 23:42:26.000000000 +00:00
-- title: Discovering what we think we know is wrong
-  url: https://www.science.org/content/blog-post/tell-me-again-about-neurons-now
+  published: 2025-07-24 22:14:28.000000000 +00:00
+- title: 4k NASA employees opt to leave agency through deferred resignation program
+  url: https://www.kcrw.com/news/shows/npr/npr-story/nx-s1-5481304
   summary: Comments
-  published: 2025-07-18 03:26:36.000000000 +00:00
-- title: Tough news for our UK users
-  url: https://blog.janitorai.com/posts/3/
+  published: 2025-07-27 05:17:03.000000000 +00:00
+- title: Formal specs as sets of behaviors
+  url: https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/
   summary: Comments
-  published: 2025-07-20 20:43:16.000000000 +00:00
-- title: SIOF (Scheme in One File) – A Minimal R7RS Scheme System
-  url: https://github.com/false-schemers/siof
+  published: 2025-07-27 20:13:55.000000000 +00:00
+- title: Google failed to warn 10M of Turkey earthquake
+  url: https://www.bbc.com/news/articles/c77v2kx304go
   summary: Comments
-  published: 2025-07-19 11:17:48.000000000 +00:00
-- title: 'Show HN: Conductor, a Mac app that lets you run a bunch of Claude Codes
-    at once'
-  url: https://conductor.build/
+  published: 2025-07-28 00:50:34.000000000 +00:00
+- title: GPT might be an information virus (2023)
+  url: https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/
   summary: Comments
-  published: 2025-07-17 15:43:04.000000000 +00:00
-- title: Insights on Teufel's First Open-Source Speaker
-  url: https://blog.teufelaudio.com/visionary-mynds-insights-on-teufels-first-open-source-speaker/
+  published: 2025-07-27 20:23:21.000000000 +00:00
+- title: Allianz Life says 'majority' of customers' personal data stolen in cyberattack
+  url: https://techcrunch.com/2025/07/26/allianz-life-says-majority-of-customers-personal-data-stolen-in-cyberattack/
   summary: Comments
-  published: 2025-07-20 17:11:43.000000000 +00:00
-- title: Digital vassals? French Government 'exposes citizens' data to US'
-  url: https://brusselssignal.eu/2025/07/digital-vassals-french-government-exposes-citizens-data-to-us/
+  published: 2025-07-27 17:49:23.000000000 +00:00
+- title: The Bootstrap Load
+  url: http://www.intel4004.com/btstrp.htm
   summary: Comments
-  published: 2025-07-20 11:26:09.000000000 +00:00
-- title: Jove (Jonathan's Own Version of Emacs)
-  url: https://en.wikipedia.org/wiki/JOVE
+  published: 2025-07-27 20:37:26.000000000 +00:00
+- title: 'Update Complete: U.S. Nuclear Weapons No Longer Need Floppy Disks (2019)'
+  url: https://www.nytimes.com/2019/10/24/us/nuclear-weapons-floppy-disks.html
   summary: Comments
-  published: 2025-07-17 09:35:37.000000000 +00:00
-- title: AI is killing the web – can anything save it?
-  url: https://www.economist.com/business/2025/07/14/ai-is-killing-the-web-can-anything-save-it
+  published: 2025-07-27 23:22:30.000000000 +00:00
+- title: The many JavaScript runtimes of the last decade
+  url: https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/
   summary: Comments
-  published: 2025-07-20 09:33:48.000000000 +00:00
-- title: Hacking a Toniebox
-  url: https://www.schafe-sind-bessere-rasenmaeher.de/tech/hack-all-the-things-toniebox/
+  published: 2025-07-27 14:28:49.000000000 +00:00
+- title: Britain's spies-for-hire are running wild
+  url: https://www.politico.eu/article/uk-british-spies-private-intelligence-government-ministers/
   summary: Comments
-  published: 2025-07-20 17:16:36.000000000 +00:00
-- title: 'QuakeNotch: Quake Terminal on your MacBook''s notch'
-  url: https://quakenotch.com
+  published: 2025-07-25 19:13:59.000000000 +00:00
+- title: The future is not self-hosted, but self-sovereign
+  url: https://www.robertmao.com/blog/en/the-future-is-not-self-hosted-but-self-sovereign
   summary: Comments
-  published: 2025-07-20 17:57:44.000000000 +00:00
-- title: A Tour of Microsoft's Mac Lab (2006)
-  url: https://davidweiss.blogspot.com/2006/04/tour-of-microsofts-mac-lab.html
+  published: 2025-07-27 04:26:08.000000000 +00:00
+- title: BlueOS Kernel – Written in Rust, compatible with POSIX
+  url: https://github.com/vivoblueos/kernel
   summary: Comments
-  published: 2025-07-20 10:11:22.000000000 +00:00
-- title: The old Caveman Chemistry website (1996-2000)
-  url: https://cavemanchemistry.com/oldcave/
+  published: 2025-07-24 10:19:59.000000000 +00:00
+- title: 'Katharine Graham: The Washington Post'
+  url: https://fs.blog/knowledge-project-podcast/outliers-katharine-graham/
   summary: Comments
-  published: 2025-07-20 14:11:26.000000000 +00:00
+  published: 2025-07-24 00:47:24.000000000 +00:00
