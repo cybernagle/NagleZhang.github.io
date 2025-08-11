@@ -1,124 +1,122 @@
 ---
-- title: Typed languages are better suited for vibecoding
-  url: https://solmaz.io/typed-languages-are-better-suited-for-vibecoding
+- title: 'Compiling a Lisp: Lambda Lifting'
+  url: https://bernsteinbear.com/blog/compiling-a-lisp-12/
   summary: Comments
-  published: 2025-08-03 23:55:31.000000000 +00:00
-- title: Modern Node.js Patterns
-  url: https://kashw1n.com/blog/nodejs-2025/
+  published: 2025-08-10 22:35:03.000000000 +00:00
+- title: 'Show HN: Reactive: A React Book for the Reluctant – a book written by Claude'
+  url: https://github.com/cloudstreet-dev/React-is-Awful
   summary: Comments
-  published: 2025-08-03 19:16:18.000000000 +00:00
-- title: Writing a good design document
-  url: https://grantslatton.com/how-to-design-document
+  published: 2025-08-11 00:44:53.000000000 +00:00
+- title: Try and
+  url: https://ygdp.yale.edu/phenomena/try-and
   summary: Comments
-  published: 2025-08-03 20:21:54.000000000 +00:00
-- title: 'Persona vectors: Monitoring and controlling character traits in language
-    models'
-  url: https://www.anthropic.com/research/persona-vectors
+  published: 2025-08-10 13:32:13.000000000 +00:00
+- title: GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2
+  url: https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the
   summary: Comments
-  published: 2025-08-03 16:38:06.000000000 +00:00
-- title: So you want to parse a PDF?
-  url: https://eliot-jones.com/2025/8/pdf-parsing-xref
+  published: 2025-08-10 15:06:07.000000000 +00:00
+- title: '1910: The year the modern world lost its mind'
+  url: https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost
   summary: Comments
-  published: 2025-08-03 22:24:29.000000000 +00:00
-- title: How to grow almost anything
-  url: https://howtogrowalmostanything.notion.site/htgaa25
+  published: 2025-08-10 20:48:46.000000000 +00:00
+- title: 'Show HN: Bolt – A super-fast, statically-typed scripting language written
+    in C'
+  url: https://github.com/Beariish/bolt
   summary: Comments
-  published: 2025-08-03 22:55:05.000000000 +00:00
-- title: If you're remote, ramble
-  url: https://stephango.com/ramblings
+  published: 2025-08-10 17:53:09.000000000 +00:00
+- title: Fight Chat Control
+  url: https://fightchatcontrol.eu/
   summary: Comments
-  published: 2025-08-03 10:32:51.000000000 +00:00
-- title: Names are not type safety (2020)
-  url: https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/
+  published: 2025-08-10 16:50:34.000000000 +00:00
+- title: 'Show HN: Engineering.fyi – Search across tech engineering blogs in one place'
+  url: https://engineering.fyi/
   summary: Comments
-  published: 2025-08-03 22:55:28.000000000 +00:00
-- title: 'Life, Work, Death and the Peasant: Family Formation'
-  url: https://acoup.blog/2025/08/01/collections-life-work-death-and-the-peasant-part-iiia-family-formation/
+  published: 2025-08-10 13:44:05.000000000 +00:00
+- title: One Million Screenshots
+  url: https://onemillionscreenshots.com/?q=random
   summary: Comments
-  published: 2025-08-02 07:39:42.000000000 +00:00
-- title: A study of lights at night suggests dictators lie about economic growth (2022)
-  url: https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth
+  published: 2025-08-10 20:30:34.000000000 +00:00
+- title: Diffusion language models are super data learners
+  url: https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac
   summary: Comments
-  published: 2025-08-03 22:50:53.000000000 +00:00
-- title: Welcome to url.town, population 465
-  url: https://url.town/
+  published: 2025-08-10 16:04:05.000000000 +00:00
+- title: 'PHP compile time generics: yay or nay?'
+  url: https://thephp.foundation/blog/2025/08/05/compile-generics/
   summary: Comments
-  published: 2025-08-02 08:24:29.000000000 +00:00
-- title: Shrinking freshwater availability increasing land contribution to sea level
-    rise
-  url: https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming
+  published: 2025-08-07 11:49:17.000000000 +00:00
+- title: 'Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”'
+  url: https://mrwint.github.io/winter/writeup/writeup2.html
   summary: Comments
-  published: 2025-08-03 19:49:34.000000000 +00:00
-- title: Learnable Programming (2012)
-  url: https://worrydream.com/LearnableProgramming/
+  published: 2025-08-07 14:57:34.000000000 +00:00
+- title: 'Show HN: A Sinclair ZX81 retro web assembler+simulator'
+  url: https://news.ycombinator.com/item?id=44859761
   summary: Comments
-  published: 2025-08-03 22:57:22.000000000 +00:00
-- title: '"If you can rack it, you can run UniFi OS" Ubiquiti self-hosted UniFi OS
-    release'
-  url: https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/
+  published: 2025-08-11 00:44:20.000000000 +00:00
+- title: Battery charge limiter for Apple Silicon MacBook devices
+  url: https://github.com/actuallymentor/battery
   summary: Comments
-  published: 2025-08-03 21:09:02.000000000 +00:00
-- title: 'This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)'
-  url: https://archive.irixnet.org/thisoldsgi/
+  published: 2025-08-07 15:31:42.000000000 +00:00
+- title: Reflections on Soviet Amateur Photography
+  url: https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/
   summary: Comments
-  published: 2025-08-03 15:04:05.000000000 +00:00
-- title: 2,500-year-old Siberian 'ice mummy' had intricate tattoos, imaging reveals
-  url: https://www.bbc.com/news/articles/c4gzx0zm68vo
+  published: 2025-08-08 00:29:19.000000000 +00:00
+- title: Tesla remotely deactivates rapper's vehicle for singing about the Cybertruck
+  url: https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk
   summary: Comments
-  published: 2025-07-31 13:29:40.000000000 +00:00
-- title: Tokens are getting more expensive
-  url: https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed
+  published: 2025-08-11 00:56:37.000000000 +00:00
+- title: Booting 5000 Erlangs on Ampere One 192-core
+  url: https://underjord.io/booting-5000-erlangs-on-ampere-one.html
   summary: Comments
-  published: 2025-08-03 11:01:37.000000000 +00:00
-- title: Twenty Eighth International Obfuscated C Code Contest
-  url: https://www.ioccc.org/2024/index.html
+  published: 2025-08-10 11:41:34.000000000 +00:00
+- title: Squashing my dumb bugs and why I log build IDs
+  url: https://rachelbythebay.com/w/2025/08/03/scope/
   summary: Comments
-  published: 2025-08-03 04:34:36.000000000 +00:00
-- title: System-Wide Safety Project
-  url: https://www.nasa.gov/directorates/armd/aosp/sws/
+  published: 2025-08-07 15:20:52.000000000 +00:00
+- title: Writing simple tab-completions for Bash and Zsh
+  url: https://mill-build.org/blog/14-bash-zsh-completion.html
   summary: Comments
-  published: 2025-08-02 08:42:31.000000000 +00:00
-- title: Cloud Drawing Gallery
-  url: https://cloudgazing.online/
+  published: 2025-08-10 09:50:25.000000000 +00:00
+- title: How I code with AI on a budget/free
+  url: https://wuu73.org/blog/aiguide1.html
   summary: Comments
-  published: 2025-08-01 20:45:59.000000000 +00:00
-- title: Converge (YC S23) well-capitalized New York startup seeks product developers
-  url: https://www.runconverge.com/careers
+  published: 2025-08-09 22:27:37.000000000 +00:00
+- title: Abogen – Generate audiobooks from EPUBs, PDFs and text
+  url: https://github.com/denizsafak/abogen
   summary: Comments
-  published: 2025-08-03 17:00:32.000000000 +00:00
-- title: UN report finds UN reports are not widely read
-  url: https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/
+  published: 2025-08-10 05:56:14.000000000 +00:00
+- title: Type (YC W23) is hiring a founding engineer to build an AI-native doc editor
+  url: https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer
   summary: Comments
-  published: 2025-08-03 16:49:08.000000000 +00:00
-- title: How to make almost anything (2019)
-  url: https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html
+  published: 2025-08-10 17:19:25.000000000 +00:00
+- title: Conversations remotely detected from cell phone vibrations, researchers report
+  url: https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report
   summary: Comments
-  published: 2025-08-03 11:28:29.000000000 +00:00
-- title: 'Schematra: A Sinatra love letter in Scheme'
-  url: https://github.com/rolandoam/schematra
+  published: 2025-08-10 18:14:38.000000000 +00:00
+- title: Events
+  url: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events
   summary: Comments
-  published: 2025-08-01 20:56:28.000000000 +00:00
-- title: The Ski Rental Problem
-  url: https://lesves.github.io/articles/ski-rental/
+  published: 2025-08-10 20:22:24.000000000 +00:00
+- title: 'ECScape: Understanding IAM Privilege Boundaries in Amazon ECS'
+  url: https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs
   summary: Comments
-  published: 2025-07-30 22:34:47.000000000 +00:00
-- title: Lina Khan points to Figma IPO as vindication of M&A scrutiny
-  url: https://techcrunch.com/2025/08/02/lina-khan-points-to-figma-ipo-as-vindication-for-ma-scrutiny/
+  published: 2025-08-06 22:16:00.000000000 +00:00
+- title: My Dream Productivity Device Is Done – and It's Becoming a Kit [video]
+  url: https://www.youtube.com/watch?v=pf3BxNq1cp4
   summary: Comments
-  published: 2025-08-02 21:39:42.000000000 +00:00
-- title: Build Your Own Minisforum N5 Inspired Mini NAS
-  url: https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/
+  published: 2025-08-06 23:31:17.000000000 +00:00
+- title: Inside OS/2 (1987)
+  url: https://gitpi.us/article-archive/inside-os2/
   summary: Comments
-  published: 2025-07-30 17:14:04.000000000 +00:00
-- title: Poorest US workers hit hardest by slowing wage growth
-  url: https://www.ft.com/content/cfb77a53-fef8-4382-b102-c217e0aa4b25
+  published: 2025-08-10 13:15:33.000000000 +00:00
+- title: Open Lovable
+  url: https://github.com/mendableai/open-lovable
   summary: Comments
-  published: 2025-08-04 00:57:21.000000000 +00:00
-- title: 'A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop'
-  url: http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html
+  published: 2025-08-10 10:10:54.000000000 +00:00
+- title: Abusing Entra OAuth for fun and access to internal Microsoft applications
+  url: https://research.eye.security/consent-and-compromise/
   summary: Comments
-  published: 2025-08-03 06:38:43.000000000 +00:00
-- title: 'The Fulbright Program: Chock Full of Bright Ideas'
-  url: https://bastian.rieck.me/blog/2025/fulbright/
+  published: 2025-08-09 21:59:43.000000000 +00:00
+- title: Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd
+  url: https://github.com/liquidmetal-dev/flintlock
   summary: Comments
-  published: 2025-08-03 13:24:58.000000000 +00:00
+  published: 2025-08-10 15:30:48.000000000 +00:00
