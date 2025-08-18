@@ -1,122 +1,122 @@
 ---
-- title: 'Compiling a Lisp: Lambda Lifting'
-  url: https://bernsteinbear.com/blog/compiling-a-lisp-12/
+- title: Claudia – Desktop companion for Claude code
+  url: https://claudiacode.com/
   summary: Comments
-  published: 2025-08-10 22:35:03.000000000 +00:00
-- title: 'Show HN: Reactive: A React Book for the Reluctant – a book written by Claude'
-  url: https://github.com/cloudstreet-dev/React-is-Awful
+  published: 2025-08-17 17:26:56.000000000 +00:00
+- title: 'Llama-Scan: Convert PDFs to Text W Local LLMs'
+  url: https://github.com/ngafar/llama-scan
   summary: Comments
-  published: 2025-08-11 00:44:53.000000000 +00:00
-- title: Try and
-  url: https://ygdp.yale.edu/phenomena/try-and
+  published: 2025-08-17 21:40:47.000000000 +00:00
+- title: The Enterprise Experience
+  url: https://churchofturing.github.io/the-enterprise-experience.html
   summary: Comments
-  published: 2025-08-10 13:32:13.000000000 +00:00
-- title: GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2
-  url: https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the
+  published: 2025-08-17 16:53:03.000000000 +00:00
+- title: 'LL3M: Large Language 3D Modelers'
+  url: https://threedle.github.io/ll3m/
   summary: Comments
-  published: 2025-08-10 15:06:07.000000000 +00:00
-- title: '1910: The year the modern world lost its mind'
-  url: https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost
+  published: 2025-08-17 11:20:20.000000000 +00:00
+- title: 'Show HN: Doxx – Terminal .docx viewer inspired by Glow'
+  url: https://github.com/bgreenwell/doxx
   summary: Comments
-  published: 2025-08-10 20:48:46.000000000 +00:00
-- title: 'Show HN: Bolt – A super-fast, statically-typed scripting language written
-    in C'
-  url: https://github.com/Beariish/bolt
+  published: 2025-08-17 19:52:03.000000000 +00:00
+- title: 'Show HN: OverType – A Markdown WYSIWYG editor that''s just a textarea'
+  url: https://news.ycombinator.com/item?id=44932651
   summary: Comments
-  published: 2025-08-10 17:53:09.000000000 +00:00
-- title: Fight Chat Control
-  url: https://fightchatcontrol.eu/
+  published: 2025-08-17 16:13:06.000000000 +00:00
+- title: Derivatives, Gradients, Jacobians and Hessians
+  url: https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my/
   summary: Comments
-  published: 2025-08-10 16:50:34.000000000 +00:00
-- title: 'Show HN: Engineering.fyi – Search across tech engineering blogs in one place'
-  url: https://engineering.fyi/
+  published: 2025-08-17 14:08:18.000000000 +00:00
+- title: AI vs. Professional Authors Results
+  url: http://mark---lawrence.blogspot.com/2025/08/the-ai-vs-authors-results-part-2.html
   summary: Comments
-  published: 2025-08-10 13:44:05.000000000 +00:00
-- title: One Million Screenshots
-  url: https://onemillionscreenshots.com/?q=random
+  published: 2025-08-17 21:41:42.000000000 +00:00
+- title: ArchiveTeam has finished archiving all goo.gl short links
+  url: https://tracker.archiveteam.org/goo-gl/
   summary: Comments
-  published: 2025-08-10 20:30:34.000000000 +00:00
-- title: Diffusion language models are super data learners
-  url: https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac
+  published: 2025-08-17 17:46:04.000000000 +00:00
+- title: Modifying other people's software
+  url: https://natkr.com/2025-08-14-modifying-other-peoples-software/
   summary: Comments
-  published: 2025-08-10 16:04:05.000000000 +00:00
-- title: 'PHP compile time generics: yay or nay?'
-  url: https://thephp.foundation/blog/2025/08/05/compile-generics/
+  published: 2025-08-14 03:32:18.000000000 +00:00
+- title: 'Show HN: NextDNS Adds "Bypass Age Verification"'
+  url: https://news.ycombinator.com/item?id=44931824
   summary: Comments
-  published: 2025-08-07 11:49:17.000000000 +00:00
-- title: 'Creating the Longest Possible Ski Jump in “The Games: Winter Challenge”'
-  url: https://mrwint.github.io/winter/writeup/writeup2.html
+  published: 2025-08-17 14:29:22.000000000 +00:00
+- title: Node.js is able to execute TypeScript files without additional configuration
+  url: https://nodejs.org/en/blog/release/v22.18.0
   summary: Comments
-  published: 2025-08-07 14:57:34.000000000 +00:00
-- title: 'Show HN: A Sinclair ZX81 retro web assembler+simulator'
-  url: https://news.ycombinator.com/item?id=44859761
+  published: 2025-08-17 06:03:27.000000000 +00:00
+- title: BBC Micro, ancestor to ARM
+  url: https://retrogamecoders.com/bbc-micro-the-ancestor-to-a-device-you-are-guaranteed-to-own/
   summary: Comments
-  published: 2025-08-11 00:44:20.000000000 +00:00
-- title: Battery charge limiter for Apple Silicon MacBook devices
-  url: https://github.com/actuallymentor/battery
+  published: 2025-08-17 13:08:44.000000000 +00:00
+- title: 'Here be dragons: Preventing static damage, latchup, and metastability in
+    the 386'
+  url: http://www.righto.com/2025/08/static-latchup-metastability-386.html
   summary: Comments
-  published: 2025-08-07 15:31:42.000000000 +00:00
-- title: Reflections on Soviet Amateur Photography
-  url: https://www.publicbooks.org/strangers-in-the-family-album-reflections-on-soviet-amateur-photography/
+  published: 2025-08-17 15:34:10.000000000 +00:00
+- title: IQ Tests Results for AI
+  url: https://www.trackingai.org/home
   summary: Comments
-  published: 2025-08-08 00:29:19.000000000 +00:00
-- title: Tesla remotely deactivates rapper's vehicle for singing about the Cybertruck
-  url: https://www.threads.com/@brittainforsenate/post/DNMcEZ9yOxk
+  published: 2025-08-17 09:36:22.000000000 +00:00
+- title: MS-DOS development resources
+  url: https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md
   summary: Comments
-  published: 2025-08-11 00:56:37.000000000 +00:00
-- title: Booting 5000 Erlangs on Ampere One 192-core
-  url: https://underjord.io/booting-5000-erlangs-on-ampere-one.html
+  published: 2025-08-17 16:10:37.000000000 +00:00
+- title: HN Search isn't ingesting new data since Friday
+  url: https://github.com/algolia/hn-search/issues/248
   summary: Comments
-  published: 2025-08-10 11:41:34.000000000 +00:00
-- title: Squashing my dumb bugs and why I log build IDs
-  url: https://rachelbythebay.com/w/2025/08/03/scope/
+  published: 2025-08-17 20:08:56.000000000 +00:00
+- title: A Visual Exploration of Gaussian Processes (2019)
+  url: https://distill.pub/2019/visual-exploration-gaussian-processes/
   summary: Comments
-  published: 2025-08-07 15:20:52.000000000 +00:00
-- title: Writing simple tab-completions for Bash and Zsh
-  url: https://mill-build.org/blog/14-bash-zsh-completion.html
+  published: 2025-08-16 03:21:43.000000000 +00:00
+- title: 'Sunny days are warm: why LinkedIn rewards mediocrity'
+  url: https://www.elliotcsmith.com/linkedin-toxic-mediocrity/
   summary: Comments
-  published: 2025-08-10 09:50:25.000000000 +00:00
-- title: How I code with AI on a budget/free
-  url: https://wuu73.org/blog/aiguide1.html
+  published: 2025-08-17 09:29:56.000000000 +00:00
+- title: Does OLAP Need an ORM
+  url: https://clickhouse.com/blog/moosestack-does-olap-need-an-orm
   summary: Comments
-  published: 2025-08-09 22:27:37.000000000 +00:00
-- title: Abogen – Generate audiobooks from EPUBs, PDFs and text
-  url: https://github.com/denizsafak/abogen
+  published: 2025-08-17 16:03:21.000000000 +00:00
+- title: Why Nim?
+  url: https://undefined.pyfy.ch/why-nim
   summary: Comments
-  published: 2025-08-10 05:56:14.000000000 +00:00
-- title: Type (YC W23) is hiring a founding engineer to build an AI-native doc editor
-  url: https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer
+  published: 2025-08-17 13:28:29.000000000 +00:00
+- title: I Prefer RST to Markdown (2024)
+  url: https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/
   summary: Comments
-  published: 2025-08-10 17:19:25.000000000 +00:00
-- title: Conversations remotely detected from cell phone vibrations, researchers report
-  url: https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report
+  published: 2025-08-17 19:51:39.000000000 +00:00
+- title: Carved stone mask  – Pre-pottery, Neolithic B period
+  url: https://www.imj.org.il/en/collections/334459-0
   summary: Comments
-  published: 2025-08-10 18:14:38.000000000 +00:00
-- title: Events
-  url: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events
+  published: 2025-08-15 16:29:25.000000000 +00:00
+- title: 'Show HN: Fallinorg - Offline Mac app that organizes files by meaning'
+  url: https://fallinorg.com/#
   summary: Comments
-  published: 2025-08-10 20:22:24.000000000 +00:00
-- title: 'ECScape: Understanding IAM Privilege Boundaries in Amazon ECS'
-  url: https://www.sweet.security/blog/ecscape-understanding-iam-privilege-boundaries-in-amazon-ecs
+  published: 2025-08-17 15:40:04.000000000 +00:00
+- title: Faster Index I/O with NVMe SSDs
+  url: https://www.marginalia.nu/log/a_123_index_io/
   summary: Comments
-  published: 2025-08-06 22:16:00.000000000 +00:00
-- title: My Dream Productivity Device Is Done – and It's Becoming a Kit [video]
-  url: https://www.youtube.com/watch?v=pf3BxNq1cp4
+  published: 2025-08-17 13:17:20.000000000 +00:00
+- title: Teaching GPT-5 to Use a Computer
+  url: https://prava.co/archon/
   summary: Comments
-  published: 2025-08-06 23:31:17.000000000 +00:00
-- title: Inside OS/2 (1987)
-  url: https://gitpi.us/article-archive/inside-os2/
+  published: 2025-08-15 15:28:10.000000000 +00:00
+- title: The decline of high-tech manufacturing in the United States
+  url: https://blog.waldrn.com/p/the-decline-of-high-tech-manufacturing
   summary: Comments
-  published: 2025-08-10 13:15:33.000000000 +00:00
-- title: Open Lovable
-  url: https://github.com/mendableai/open-lovable
+  published: 2025-08-17 22:35:03.000000000 +00:00
+- title: Eliminating JavaScript cold starts on AWS Lambda
+  url: https://goose.icu/lambda/
   summary: Comments
-  published: 2025-08-10 10:10:54.000000000 +00:00
-- title: Abusing Entra OAuth for fun and access to internal Microsoft applications
-  url: https://research.eye.security/consent-and-compromise/
+  published: 2025-08-16 11:44:42.000000000 +00:00
+- title: Wan – Open-source alternative to VEO 3
+  url: https://github.com/Wan-Video/Wan2.2
   summary: Comments
-  published: 2025-08-09 21:59:43.000000000 +00:00
-- title: Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd
-  url: https://github.com/liquidmetal-dev/flintlock
+  published: 2025-08-17 05:00:40.000000000 +00:00
+- title: Lessons learned from building a sync-engine and reactivity system with SQLite
+  url: https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity
   summary: Comments
-  published: 2025-08-10 15:30:48.000000000 +00:00
+  published: 2025-08-17 06:51:50.000000000 +00:00
