@@ -1,123 +1,121 @@
 ---
-- title: We should have the ability to run any code we want on hardware we own
-  url: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
+- title: Using Claude Code to modernize a forgotten Linux kernel driver
+  url: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
   summary: Comments
-  published: 2025-08-31 21:46:26.000000000 +00:00
-- title: Eternal Struggle
-  url: https://yoavg.github.io/eternal/
+  published: 2025-09-07 23:53:47.000000000 +00:00
+- title: Pico CSS – Minimal CSS Framework for Semantic HTML
+  url: https://picocss.com
   summary: Comments
-  published: 2025-08-31 19:04:03.000000000 +00:00
-- title: "“This telegram must be closely paraphrased before being communicated to
-    anyone”"
-  url: https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone
+  published: 2025-09-07 20:31:38.000000000 +00:00
+- title: The MacBook has a sensor that knows the exact angle of the screen hinge
+  url: https://twitter.com/samhenrigold/status/1964428927159382261
   summary: Comments
-  published: 2025-08-31 12:39:47.000000000 +00:00
-- title: Jujutsu for everyone
-  url: https://jj-for-everyone.github.io/
+  published: 2025-09-07 15:20:29.000000000 +00:00
+- title: The demo scene is dying, but that's alright
+  url: https://www.datagubbe.se/sceneherit/
   summary: Comments
-  published: 2025-08-31 15:31:04.000000000 +00:00
-- title: Lewis and Clark marked their trail with laxatives
-  url: https://offbeatoregon.com/2501d1006d_biliousPills-686.077.html
+  published: 2025-09-07 22:34:23.000000000 +00:00
+- title: GPT-5 Thinking in ChatGPT (a.k.a. Research Goblin) is good at search
+  url: https://simonwillison.net/2025/Sep/6/research-goblin/
   summary: Comments
-  published: 2025-08-31 22:54:26.000000000 +00:00
-- title: What to do with C++ modules?
-  url: https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html
+  published: 2025-09-06 19:42:48.000000000 +00:00
+- title: Analog optical computer for AI inference and combinatorial optimization
+  url: https://www.nature.com/articles/s41586-025-09430-z
   summary: Comments
-  published: 2025-08-31 19:22:01.000000000 +00:00
-- title: When the sun will literally set on what's left of the British Empire
-  url: https://oikofuge.com/sun-sets-on-british-empire/
+  published: 2025-09-04 17:06:14.000000000 +00:00
+- title: Everything from 1991 Radio Shack ad I now do with my phone (2014)
+  url: https://www.trendingbuffalo.com/life/uncle-steves-buffalo/everything-from-1991-radio-shack-ad-now/
   summary: Comments
-  published: 2025-08-31 17:15:19.000000000 +00:00
-- title: 'Launch HN: VibeFlow (YC S25) – Web app generator with visual, editable workflows'
-  url: https://news.ycombinator.com/item?id=45084759
+  published: 2025-09-07 20:26:30.000000000 +00:00
+- title: Esoteric Languages Challenge Coders to Think Way Outside the Box
+  url: https://spectrum.ieee.org/esoteric-programming-languages-daniel-temkin
   summary: Comments
-  published: 2025-08-31 17:00:19.000000000 +00:00
-- title: Pong Clock
-  url: https://bigjobby.com/pong/?v=2.0/
+  published: 2025-09-05 12:33:11.000000000 +00:00
+- title: Formatting code should be unnecessary
+  url: https://maxleiter.com/blog/formatting
   summary: Comments
-  published: 2025-08-28 16:29:31.000000000 +00:00
-- title: Use One Big Server (2022)
-  url: https://specbranch.com/posts/one-big-server/
+  published: 2025-09-07 23:08:42.000000000 +00:00
+- title: Keeping secrets out of logs (2024)
+  url: https://allan.reyes.sh/posts/keeping-secrets-out-of-logs/
   summary: Comments
-  published: 2025-08-31 17:29:07.000000000 +00:00
-- title: A Linux version of the Procmon Sysinternals tool
-  url: https://github.com/microsoft/ProcMon-for-Linux
+  published: 2025-09-07 18:16:30.000000000 +00:00
+- title: How to make metals from Martian dirt
+  url: https://www.csiro.au/en/news/All/Articles/2025/August/Metals-out-of-martian-dirt
   summary: Comments
-  published: 2025-08-31 22:43:05.000000000 +00:00
-- title: Why haven't quantum computers factored 21 yet?
-  url: https://algassert.com/post/2500
+  published: 2025-09-07 19:09:45.000000000 +00:00
+- title: 'No Silver Bullet: Essence and Accidents of Software Engineering (1986) [pdf]'
+  url: https://www.cs.unc.edu/techreports/86-020.pdf
   summary: Comments
-  published: 2025-08-31 12:14:26.000000000 +00:00
-- title: Installing UEFI Firmware on ARM SBCs
-  url: https://interfacinglinux.com/2025/08/25/edk2-uefi-for-the-rock-5-itx/
+  published: 2025-09-07 19:53:03.000000000 +00:00
+- title: 'Show HN: I''m a dermatologist and I vibe coded a skin cancer learning app'
+  url: https://molecheck.info/
   summary: Comments
-  published: 2025-08-31 19:37:08.000000000 +00:00
-- title: A Crack in the Cosmos
-  url: https://drb.ie/articles/a-crack-in-the-cosmos/
+  published: 2025-09-07 10:38:29.000000000 +00:00
+- title: 'Truco and clones: the beginnings of Argentinian computer gaming'
+  url: https://zeitgame.net/archives/18373
   summary: Comments
-  published: 2025-08-31 04:11:05.000000000 +00:00
-- title: Bayes, Bits and Brains
-  url: https://bayesbitsbrains.github.io/
+  published: 2025-09-05 07:18:12.000000000 +00:00
+- title: The race to build a distributed GPU runtime
+  url: https://voltrondata.com/blog/the-race-to-build-a-distributed-gpu-runtime
   summary: Comments
-  published: 2025-08-28 13:51:05.000000000 +00:00
-- title: Lunar soil machine developed to build bricks using sunlight
-  url: https://www.moondaily.com/reports/Lunar_soil_machine_developed_to_build_bricks_using_sunlight_999.html
+  published: 2025-09-04 20:18:47.000000000 +00:00
+- title: SQLite's Use of Tcl (2017)
+  url: https://www.tcl-lang.org/community/tcl2017/assets/talk93/Paper.html
   summary: Comments
-  published: 2025-08-31 19:24:49.000000000 +00:00
-- title: What brain surgery taught me about the fragile gift of consciousness
-  url: https://bigthink.com/business/brain-surgery-fragile-gift-of-consciousness/
+  published: 2025-09-07 15:03:46.000000000 +00:00
+- title: The Expression Problem and its solutions (2016)
+  url: https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions/
   summary: Comments
-  published: 2025-08-28 14:22:07.000000000 +00:00
-- title: 'Survey: a third of senior developers say over half their code is AI-generated'
-  url: https://www.fastly.com/blog/senior-developers-ship-more-ai-code
+  published: 2025-09-07 06:28:04.000000000 +00:00
+- title: 'Creative Technology: The Sound Blaster'
+  url: https://www.abortretry.fail/p/the-story-of-creative-technology
   summary: Comments
-  published: 2025-08-31 14:55:56.000000000 +00:00
-- title: Nintendo Switch 2 Dock USB-C Compatibility
-  url: https://www.lttlabs.com/blog/2025/08/30/nintendo-switch-2-dock
+  published: 2025-09-07 21:50:30.000000000 +00:00
+- title: Taking Buildkite from a side project to a global company
+  url: https://www.valleyofdoubt.com/p/taking-buildkite-from-a-side-project
   summary: Comments
-  published: 2025-08-31 23:21:46.000000000 +00:00
-- title: How is Ultrassembler so fast?
-  url: https://jghuff.com/articles/ultrassembler-so-fast/
+  published: 2025-09-07 22:03:13.000000000 +00:00
+- title: 'Show HN: OpenCV over WebRTC (in Go)'
+  url: https://github.com/pion/example-webrtc-applications/blob/master/gocv-to-webrtc/README.md
   summary: Comments
-  published: 2025-08-31 17:42:43.000000000 +00:00
-- title: F-Droid site certificate expired
-  url: https://gitlab.com/fdroid/fdroid-website/-/issues/883
+  published: 2025-09-07 21:31:29.000000000 +00:00
+- title: What is the origin of the private network address 192.168.*.*? (2009)
+  url: https://lists.ding.net/othersite/isoc-internet-history/2009/oct/msg00000.html
   summary: Comments
-  published: 2025-08-31 12:16:00.000000000 +00:00
-- title: 10-20x Faster LLVM -O0 Back-End (2020)
-  url: https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664
+  published: 2025-09-07 09:52:56.000000000 +00:00
+- title: Taco Bell AI Drive-Thru
+  url: https://aidarwinawards.org/nominees/taco-bell-ai-drive-thru.html
   summary: Comments
-  published: 2025-08-31 15:50:35.000000000 +00:00
-- title: Infisical (YC W23) Is Hiring Solutions Engineers to Scale the OSS Security
-    Stack
-  url: https://www.ycombinator.com/companies/infisical/jobs/yaEvock-solutions-engineer
+  published: 2025-09-07 21:14:08.000000000 +00:00
+- title: Intel Arc Pro B50 GPU Launched at $349 for Compact Workstations
+  url: https://www.guru3d.com/story/intel-arc-pro-b50-gpu-launched-at-for-compact-workstations/
   summary: Comments
-  published: 2025-08-31 17:00:06.000000000 +00:00
-- title: 'Plastic Before Plastic: How gutta-percha shaped the 19th century'
-  url: https://worldhistory.substack.com/p/plastic-before-plastic
+  published: 2025-09-07 22:06:35.000000000 +00:00
+- title: I am giving up on Intel and have bought an AMD Ryzen 9950X3D
+  url: https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/
   summary: Comments
-  published: 2025-08-31 16:03:30.000000000 +00:00
-- title: Notes on Managing ADHD
-  url: https://borretti.me/article/notes-on-managing-adhd
+  published: 2025-09-07 06:54:29.000000000 +00:00
+- title: A Technical Update on Submarine Cables [pdf]
+  url: https://www.swinog.ch/wp-content/uploads/2025/06/Liam-Taylor-David-Lloyd-Exa-A-Technical-Update-on-Submarine-Cables.pdf
   summary: Comments
-  published: 2025-08-31 13:49:01.000000000 +00:00
-- title: PEZ Robo Dispenser Using Arduino
-  url: https://www.instructables.com/PEZ-Robo-Dispenser-Using-Arduino/
+  published: 2025-09-03 19:01:36.000000000 +00:00
+- title: SQLite's File Format
+  url: https://www.sqlite.org/fileformat.html
   summary: Comments
-  published: 2025-08-28 18:43:51.000000000 +00:00
-- title: New Ruby Curl bindings with Fiber native support
-  url: https://github.com/taf2/curb/blob/master/ChangeLog.md
+  published: 2025-09-04 21:36:03.000000000 +00:00
+- title: The “impossibly small” Microdot web framework
+  url: https://lwn.net/Articles/1034121/
   summary: Comments
-  published: 2025-08-31 19:29:23.000000000 +00:00
-- title: NetSurf on ReMarkable 2
-  url: https://akselmo.dev/posts/netsurf-on-remarkable-2/
+  published: 2025-09-07 05:38:30.000000000 +00:00
+- title: 'Speed Brain: Helping web pages load faster (2024)'
+  url: https://blog.cloudflare.com/introducing-speed-brain/
   summary: Comments
-  published: 2025-08-31 21:33:46.000000000 +00:00
-- title: 'Vibe coding as a coding veteran: from 8-bit assembly to English-as-code'
-  url: https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50
+  published: 2025-09-05 20:16:10.000000000 +00:00
+- title: Serverless Horrors
+  url: https://serverlesshorrors.com/
   summary: Comments
-  published: 2025-08-28 15:55:15.000000000 +00:00
-- title: I Don't Have Spotify
-  url: https://idonthavespotify.sjdonado.com/
+  published: 2025-09-07 11:00:03.000000000 +00:00
+- title: The key to getting MVC correct is understanding what models are
+  url: https://stlab.cc/tips/about-mvc.html
   summary: Comments
-  published: 2025-08-31 16:50:45.000000000 +00:00
+  published: 2025-09-07 01:26:44.000000000 +00:00
