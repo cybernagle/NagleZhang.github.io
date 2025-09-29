@@ -1,122 +1,123 @@
 ---
-- title: 'Sj.h: A tiny little JSON parsing library in ~150 lines of C99'
-  url: https://github.com/rxi/sj.h
+- title: Play snake in the URL address bar
+  url: https://demian.ferrei.ro/snake/
   summary: Comments
-  published: 2025-09-21 16:43:45.000000000 +00:00
-- title: Be Careful with Go Struct Embedding
-  url: https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html
+  published: 2025-09-28 21:08:15.000000000 +00:00
+- title: Go ahead, write the “stupid” code
+  url: https://spikepuppet.io/posts/write-the-stupid-code/
   summary: Comments
-  published: 2025-09-21 23:16:08.000000000 +00:00
-- title: Lightweight, highly accurate line and paragraph detection
-  url: https://arxiv.org/abs/2203.09638
+  published: 2025-09-28 22:20:59.000000000 +00:00
+- title: Privacy Badger is a free browser extension made by EFF to stop spying
+  url: https://privacybadger.org/
   summary: Comments
-  published: 2025-09-21 21:18:14.000000000 +00:00
-- title: 'Show HN: I wrote an OS in 1000 lines of Zig'
-  url: https://github.com/botirk38/OS-1000-lines-zig
+  published: 2025-09-28 12:59:54.000000000 +00:00
+- title: Autism may be the price of human intelligence, linked to human brain evolution
+  url: https://academic.oup.com/mbe/article/42/9/msaf189/8245036?login=false
   summary: Comments
-  published: 2025-09-18 15:05:12.000000000 +00:00
-- title: Calculator Forensics (2002)
-  url: https://www.rskey.org/~mwsebastian/miscprj/results.htm
+  published: 2025-09-28 23:32:32.000000000 +00:00
+- title: Bayesian Data Analysis, Third edition (2013) [pdf]
+  url: https://sites.stat.columbia.edu/gelman/book/BDA3.pdf
   summary: Comments
-  published: 2025-09-18 18:43:34.000000000 +00:00
-- title: 40k-Year-Old Symbols in Caves Worldwide May Be the Earliest Written Language
-  url: https://www.openculture.com/2025/09/40000-year-old-symbols-found-in-caves-worldwide-may-be-the-earliest-written-language.html
+  published: 2025-09-28 17:23:21.000000000 +00:00
+- title: When I say “alphabetical order”, I mean “alphabetical order”
+  url: https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/
   summary: Comments
-  published: 2025-09-18 07:27:22.000000000 +00:00
-- title: 'DXGI debugging: Microsoft put me on a list'
-  url: https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/
+  published: 2025-09-28 13:00:16.000000000 +00:00
+- title: Patagonian Welsh
+  url: https://en.wikipedia.org/wiki/Patagonian_Welsh
   summary: Comments
-  published: 2025-09-21 14:45:50.000000000 +00:00
-- title: My new Git utility `what-changed-twice` needs a new name
-  url: https://blog.plover.com/2025/09/21/#what-changed-twice
+  published: 2025-09-25 04:30:13.000000000 +00:00
+- title: The AI coding trap
+  url: https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap
   summary: Comments
-  published: 2025-09-21 21:59:12.000000000 +00:00
-- title: Procedural Island Generation (VI)
-  url: https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html
+  published: 2025-09-28 15:43:33.000000000 +00:00
+- title: The QMA Singularity
+  url: https://scottaaronson.blog/?p=9183
   summary: Comments
-  published: 2025-09-21 21:11:57.000000000 +00:00
-- title: 'Timesketch: Collaborative forensic timeline analysis'
-  url: https://github.com/google/timesketch
+  published: 2025-09-28 19:00:20.000000000 +00:00
+- title: Farewell friends
+  url: https://humbledollar.com/forum/farewell-friends/
   summary: Comments
-  published: 2025-09-21 16:43:19.000000000 +00:00
-- title: I forced myself to spend a week in Instagram instead of Xcode
-  url: https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in
+  published: 2025-09-28 21:31:10.000000000 +00:00
+- title: 'Scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM
+    GC'
+  url: https://git.lain.faith/iitalics/scm2wasm
   summary: Comments
-  published: 2025-09-21 14:00:16.000000000 +00:00
-- title: Why your outdoorsy friend suddenly has a gummy bear power bank
-  url: https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank
+  published: 2025-09-28 15:43:25.000000000 +00:00
+- title: Supermicro server motherboards can be infected with unremovable malware
+  url: https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/
   summary: Comments
-  published: 2025-09-21 12:31:57.000000000 +00:00
-- title: Zig got a new ELF linker and it's fast
-  url: https://github.com/ziglang/zig/pull/25299
+  published: 2025-09-24 17:32:30.000000000 +00:00
+- title: Corral.BAS
+  url: https://basic-code.bearblog.dev/corral/
   summary: Comments
-  published: 2025-09-21 22:40:28.000000000 +00:00
-- title: 'INapGPU: Text-mode graphics card, using only TTL gates'
-  url: https://github.com/Leoneq/iNapGPU
+  published: 2025-09-25 19:31:07.000000000 +00:00
+- title: VMScape and why Xen dodged it
+  url: https://virtualize.sh/blog/vmscape-and-why-xen-dodged-it/
   summary: Comments
-  published: 2025-09-18 04:53:03.000000000 +00:00
-- title: Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)
-  url: https://arxiv.org/abs/2503.05136
+  published: 2025-09-28 18:19:01.000000000 +00:00
+- title: Roe (YC W24) Is Hiring
+  url: https://news.ycombinator.com/item?id=45407951
   summary: Comments
-  published: 2025-09-21 14:26:10.000000000 +00:00
-- title: Model Flop Utilization Beyond 6ND
-  url: https://jott.live/markdown/mfu
+  published: 2025-09-28 21:00:07.000000000 +00:00
+- title: 'Imagination as General Intelligence: Reconciling Consciousness and Free
+    Will'
+  url: https://zenodo.org/records/17109096
   summary: Comments
-  published: 2025-09-18 14:05:17.000000000 +00:00
-- title: Node 20 will be deprecated on GitHub Actions runners
-  url: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+  published: 2025-09-28 23:35:22.000000000 +00:00
+- title: The Weird Concept of Branchless Programming
+  url: https://sanixdk.xyz/blogs/the-weird-concept-of-branchless-programming
   summary: Comments
-  published: 2025-09-20 11:19:37.000000000 +00:00
-- title: Discovering new solutions to century-old problems in fluid dynamics
-  url: https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/
+  published: 2025-09-28 16:40:53.000000000 +00:00
+- title: 'Show HN: Toolbrew – Free little tools without signups or ads'
+  url: https://toolbrew.co/
   summary: Comments
-  published: 2025-09-18 15:09:50.000000000 +00:00
-- title: How Isaac Newton discovered the binomial power series (2022)
-  url: https://www.quantamagazine.org/how-isaac-newton-discovered-the-binomial-power-series-20220831/
+  published: 2025-09-28 14:40:46.000000000 +00:00
+- title: Comparing Rust to Carbon
+  url: https://lwn.net/Articles/1036912/
   summary: Comments
-  published: 2025-09-18 16:59:50.000000000 +00:00
-- title: Apple Silicon GPU Support in Mojo
-  url: https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295
+  published: 2025-09-25 02:22:07.000000000 +00:00
+- title: Rustroid, a Rust IDE for Android
+  url: https://rustroid.is-a.dev/story
   summary: Comments
-  published: 2025-09-21 20:35:14.000000000 +00:00
-- title: LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in
-    Spain
-  url: https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions
+  published: 2025-09-25 00:28:35.000000000 +00:00
+- title: How many elephants?
+  url: http://howmanyelephants.co.uk
   summary: Comments
-  published: 2025-09-21 15:57:49.000000000 +00:00
-- title: How can I influence others without manipulating them?
-  url: https://andiroberts.com/leadership-questions/how-to-influence-others-without-manipulating
+  published: 2025-09-25 12:00:57.000000000 +00:00
+- title: Health officials in the US are sounding the alarm over drug-resistant bacteria
+  url: https://www.aljazeera.com/news/2025/9/24/what-are-nightmare-bacteria-and-why-are-infections-rising-in-the-us
   summary: Comments
-  published: 2025-09-21 22:20:16.000000000 +00:00
-- title: Oxford loses top 3 university ranking in the UK
-  url: https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/
+  published: 2025-09-29 00:16:01.000000000 +00:00
+- title: 'UK Petition: Do not introduce Digital ID cards'
+  url: https://petition.parliament.uk/petitions/730194
   summary: Comments
-  published: 2025-09-21 15:51:03.000000000 +00:00
-- title: EU to block Big Tech from new financial data sharing system
-  url: https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543
+  published: 2025-09-28 18:01:39.000000000 +00:00
+- title: 'Show HN: I built an MCP server using Cloudflare''s code mode pattern'
+  url: https://github.com/jx-codes/codemode-mcp
   summary: Comments
-  published: 2025-09-21 22:54:10.000000000 +00:00
-- title: 'Show HN: Tips to stay safe from NPM supply chain attacks'
-  url: https://github.com/bodadotsh/npm-security-best-practices
+  published: 2025-09-28 16:23:51.000000000 +00:00
+- title: Testing “Exotic” P2P VPN
+  url: https://blog.nommy.moe/blog/exotic-mesh-vpn/
   summary: Comments
-  published: 2025-09-21 21:19:47.000000000 +00:00
-- title: The Counterclockwise Experiment
-  url: https://domofutu.substack.com/p/the-counterclockwise-experiment
+  published: 2025-09-28 16:47:39.000000000 +00:00
+- title: 'C-sigma: Easy-to-use Sigma proofs in C using libsodium'
+  url: https://github.com/jedisct1/c-sigma
   summary: Comments
-  published: 2025-09-20 07:52:48.000000000 +00:00
-- title: A coin flip by any other name (2023)
-  url: https://cgad.ski/blog/a-coin-flip-by-any-other-name.html
+  published: 2025-09-28 20:07:07.000000000 +00:00
+- title: Collaborating with a robot biases human spatial attention
+  url: https://www.cell.com/iscience/fulltext/S2589-0042(25)01052-1
   summary: Comments
-  published: 2025-09-18 21:59:54.000000000 +00:00
-- title: Why is Venus hell and Earth an Eden?
-  url: https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/
+  published: 2025-09-25 15:45:41.000000000 +00:00
+- title: A safe, non-owning C++ pointer class
+  url: https://techblog.rosemanlabs.com/c++/safety/object-lifetime/2025/08/28/a-safe-pointer-that-protects-against-use-after-free-and-updates-when-the-pointee-is-moved.html
   summary: Comments
-  published: 2025-09-21 22:56:31.000000000 +00:00
-- title: 'Bringing Observability to Claude Code: OpenTelemetry in Action'
-  url: https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/
+  published: 2025-09-25 17:28:11.000000000 +00:00
+- title: A fast, strong, topologically meaningful and fun knot invariant
+  url: https://arxiv.org/abs/2509.18456
   summary: Comments
-  published: 2025-09-21 18:37:04.000000000 +00:00
-- title: 'Show HN: Freeing GPUs stuck by runaway jobs'
-  url: https://github.com/kagehq/gpu-kill
+  published: 2025-09-25 15:07:32.000000000 +00:00
+- title: Linus Learns Analog Circuits
+  url: https://github.com/torvalds/GuitarPedal
   summary: Comments
-  published: 2025-09-21 16:00:06.000000000 +00:00
+  published: 2025-09-28 20:19:37.000000000 +00:00
