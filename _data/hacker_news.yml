@@ -1,122 +1,122 @@
 ---
-- title: Everything You Need to Know About [California] SB 79
-  url: https://mnolangray.substack.com/p/everything-you-need-to-know-about
+- title: Novo Nordisk's Canadian Mistake
+  url: https://www.science.org/content/blog-post/novo-nordisk-s-canadian-mistake
   summary: Comments
-  published: 2025-10-13 00:14:41.000000000 +00:00
-- title: Wireguard FPGA
-  url: https://github.com/chili-chips-ba/wireguard-fpga
+  published: 2025-10-19 20:39:13.000000000 +00:00
+- title: Original C64 Lode Runner Source Code
+  url: https://github.com/Piddewitt/Loderunner
   summary: Comments
-  published: 2025-10-12 17:12:00.000000000 +00:00
-- title: Edge AI for Beginners
-  url: https://github.com/microsoft/edgeai-for-beginners
+  published: 2025-10-19 22:13:21.000000000 +00:00
+- title: 'QuickDrawViewer: A Mac OS X utility to visualise QuickDraw (PICT) files'
+  url: https://github.com/wiesmann/QuickDrawViewer
   summary: Comments
-  published: 2025-10-12 20:41:01.000000000 +00:00
-- title: 'Ask HN: What are you working on? (October 2025)'
-  url: https://news.ycombinator.com/item?id=45561428
+  published: 2025-10-19 23:35:25.000000000 +00:00
+- title: 'Duke Nukem: Zero Hour N64 ROM Reverse-Engineering Project Hits 100%'
+  url: https://github.com/Gillou68310/DukeNukemZeroHour
   summary: Comments
-  published: 2025-10-12 20:09:14.000000000 +00:00
-- title: Emacs agent-shell (powered by ACP)
-  url: https://xenodium.com/introducing-agent-shell
+  published: 2025-10-19 20:54:31.000000000 +00:00
+- title: 'Doing well in your courses: Andrej''s advice for success (2013)'
+  url: https://cs.stanford.edu/people/karpathy/advice.html
   summary: Comments
-  published: 2025-10-12 20:37:16.000000000 +00:00
-- title: 'Show HN: Baby''s First International Landline'
-  url: https://wip.tf/posts/telefonefix-building-babys-first-international-landline/
+  published: 2025-10-19 16:31:57.000000000 +00:00
+- title: Airliner hit by possible space debris
+  url: https://avbrief.com/united-max-hit-by-falling-object-at-36000-feet/
   summary: Comments
-  published: 2025-10-08 13:31:35.000000000 +00:00
-- title: Three ways formally verified code can go wrong in practice
-  url: https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/
+  published: 2025-10-19 17:54:21.000000000 +00:00
+- title: 'Dosbian: Boot to DOSBox on Raspberry Pi'
+  url: https://cmaiolino.wordpress.com/dosbian/
   summary: Comments
-  published: 2025-10-12 06:17:52.000000000 +00:00
-- title: My first week of vibecoding
-  url: https://underreacted.leaflet.pub/3m2v53oi4bk2z
+  published: 2025-10-19 19:26:54.000000000 +00:00
+- title: Gleam OTP – Fault Tolerant Multicore Programs with Actors
+  url: https://github.com/gleam-lang/otp
   summary: Comments
-  published: 2025-10-11 02:37:26.000000000 +00:00
-- title: Bird Photographer of the Year Gives a Lesson in Planning and Patience
-  url: https://www.thisiscolossal.com/2025/09/2025-bird-photographer-of-the-year-contest/
+  published: 2025-10-19 22:25:46.000000000 +00:00
+- title: Deterministic multithreading is hard (2024)
+  url: https://www.factorio.com/blog/post/fff-415
   summary: Comments
-  published: 2025-10-06 02:53:17.000000000 +00:00
-- title: Database Linting and Analysis for PostgreSQL
-  url: https://pglinter.readthedocs.io/en/latest/
+  published: 2025-10-19 09:20:05.000000000 +00:00
+- title: Compare Single Board Computers
+  url: https://sbc.compare/
   summary: Comments
-  published: 2025-10-08 08:09:07.000000000 +00:00
-- title: 3D-Printed Automatic Weather Station
-  url: https://3dpaws.comet.ucar.edu
+  published: 2025-10-19 18:02:00.000000000 +00:00
+- title: What's Behind the Mysterious Ancient Wall in the Gobi Desert?
+  url: https://news.artnet.com/art-world/the-hunt-gobi-wall-mongolia-2674588
   summary: Comments
-  published: 2025-10-09 15:45:49.000000000 +00:00
-- title: Macro Splats 2025
-  url: https://danybittel.ch/macro.html
+  published: 2025-10-12 16:42:44.000000000 +00:00
+- title: 'GNU Octave Meets JupyterLite: Compute Anywhere, Anytime'
+  url: https://blog.jupyter.org/gnu-octave-meets-jupyterlite-compute-anywhere-anytime-8b033afbbcdc
   summary: Comments
-  published: 2025-10-12 10:08:02.000000000 +00:00
-- title: Tiny Teams Playbook
-  url: https://www.latent.space/p/tiny
+  published: 2025-10-19 15:48:52.000000000 +00:00
+- title: Could the XZ backdoor been detected with better Git/Deb packaging practices?
+  url: https://optimizedbyotto.com/post/xz-backdoor-debian-git-detection/
   summary: Comments
-  published: 2025-10-08 12:50:32.000000000 +00:00
-- title: Completing a BASIC language interpreter in 2025
-  url: https://nanochess.org/ecs_basic_2.html
+  published: 2025-10-19 17:38:11.000000000 +00:00
+- title: 'The Spilhaus Projection: A world map according to fish'
+  url: https://southernwoodenboatsailing.com/news/the-spilhaus-projection-a-world-map-according-to-fish
   summary: Comments
-  published: 2025-10-12 19:19:38.000000000 +00:00
-- title: 'Show HN: I built a simple ambient sound app with no ads or subscriptions'
-  url: https://ambisounds.app/
+  published: 2025-10-12 09:59:13.000000000 +00:00
+- title: 'From Hollywood to horticulture: Cate Blanchett on a mission to save seeds'
+  url: https://www.bbc.com/news/articles/cwy7ekl4yl8o
   summary: Comments
-  published: 2025-10-12 14:49:50.000000000 +00:00
-- title: A whirlwind introduction to dataflow graphs (2018)
-  url: https://fgiesen.wordpress.com/2018/03/05/a-whirlwind-introduction-to-dataflow-graphs/
+  published: 2025-10-20 00:19:54.000000000 +00:00
+- title: The Cancer Imaging Archive (TCIA)
+  url: https://www.cancerimagingarchive.net/
   summary: Comments
-  published: 2025-10-11 20:52:21.000000000 +00:00
-- title: Free software hasn't won
-  url: https://dorotac.eu/posts/fosswon/
+  published: 2025-10-13 17:06:44.000000000 +00:00
+- title: Comparing the power consumption of a 30 year old refrigerator to a new one
+  url: https://ounapuu.ee/posts/2025/10/14/fridge-power-consumption/
   summary: Comments
-  published: 2025-10-12 21:51:45.000000000 +00:00
-- title: Why are Big Tech companies a threat to human rights?
-  url: https://www.amnesty.org/en/latest/news/2025/08/why-are-big-tech-companies-a-threat-to-human-rights/
+  published: 2025-10-14 07:28:15.000000000 +00:00
+- title: The working-class hero of Bletchley Park you didn't see in the movies
+  url: https://www.theguardian.com/world/2025/oct/12/move-over-alan-turing-meet-the-working-class-hero-of-bletchley-park-you-didnt-see-in-the-movies
   summary: Comments
-  published: 2025-10-12 23:30:38.000000000 +00:00
-- title: Constraint satisfaction to optimize item selection for bundles in Minecraft
-  url: https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/
+  published: 2025-10-12 12:04:50.000000000 +00:00
+- title: Pawn is a simple, typeless, 32-bit extension language with a C-like syntax
+  url: https://www.compuphase.com/pawn/pawn.htm
   summary: Comments
-  published: 2025-10-12 18:31:51.000000000 +00:00
-- title: Novelty Automation
-  url: https://www.novelty-automation.com/
+  published: 2025-10-12 11:09:22.000000000 +00:00
+- title: Replua.nvim – an Emacs-style scratch buffer for executing Lua
+  url: https://github.com/mghaight/replua.nvim
   summary: Comments
-  published: 2025-10-12 23:46:55.000000000 +00:00
-- title: Keyboard Holders, Generation 1
-  url: https://cceckman.com/writing/keyboard-holders-gen1/
+  published: 2025-10-19 22:49:34.000000000 +00:00
+- title: Infisical (YC W23) Is Hiring Full Stack Engineers
+  url: https://www.ycombinator.com/companies/infisical/jobs/0gY2Da1-full-stack-engineer-global
   summary: Comments
-  published: 2025-10-09 15:29:31.000000000 +00:00
-- title: Wall Street is worried the private credit bubble will burst
-  url: https://www.thetimes.com/business-money/economics/article/wall-street-first-brands-private-credit-bubble-risk-363q2tcds
+  published: 2025-10-19 17:00:42.000000000 +00:00
+- title: 'Show HN: Duck-UI – Browser-Based SQL IDE for DuckDB'
+  url: https://demo.duckui.com
   summary: Comments
-  published: 2025-10-12 23:18:04.000000000 +00:00
-- title: 'AdapTive-LeArning Speculator System (ATLAS): Faster LLM inference'
-  url: https://www.together.ai/blog/adaptive-learning-speculator-system-atlas
+  published: 2025-10-19 11:19:38.000000000 +00:00
+- title: Abandoned land drives dangerous heat in Houston, study finds
+  url: https://stories.tamu.edu/news/2025/10/07/abandoned-land-drives-dangerous-heat-in-houston-texas-am-study-finds/
   summary: Comments
-  published: 2025-10-12 08:37:01.000000000 +00:00
-- title: The neurons that let us see what isn't there
-  url: https://arstechnica.com/science/2025/10/the-neurons-that-let-us-see-what-isnt-there/
+  published: 2025-10-19 13:35:31.000000000 +00:00
+- title: 'The macOS LC_COLLATE hunt: Or why does sort order differently on macOS and
+    Linux (2020)'
+  url: https://blog.zhimingwang.org/macos-lc_collate-hunt
   summary: Comments
-  published: 2025-10-07 10:40:30.000000000 +00:00
-- title: 'oavif: Faster target quality image compression'
-  url: https://giannirosato.com/blog/post/oavif/
+  published: 2025-10-19 13:01:34.000000000 +00:00
+- title: Designing EventQL, an Event Query Language
+  url: https://docs.eventsourcingdb.io/blog/2025/10/20/designing-eventql-an-event-query-language/
   summary: Comments
-  published: 2025-10-12 16:21:59.000000000 +00:00
-- title: Addictive-like behavioural traits in pet dogs with extreme motivation for
-    toys
-  url: https://www.nature.com/articles/s41598-025-18636-0
+  published: 2025-10-19 20:15:09.000000000 +00:00
+- title: Redis Backplane for Hubots
+  url: https://github.com/hubot-friends/hubot-redis-backplane
   summary: Comments
-  published: 2025-10-12 16:15:45.000000000 +00:00
-- title: Schleswig-Holstein completes migration to open source email
-  url: https://news.itsfoss.com/schleswig-holstein-email-system-migration/
+  published: 2025-10-14 03:25:51.000000000 +00:00
+- title: How to Assemble an Electric Heating Element from Scratch
+  url: https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/
   summary: Comments
-  published: 2025-10-12 14:53:45.000000000 +00:00
-- title: 'Loko Scheme: bare metal optimizing Scheme compiler'
-  url: https://scheme.fail/
+  published: 2025-10-19 13:25:25.000000000 +00:00
+- title: 'Show HN: Pyversity – Fast Result Diversification for Retrieval and RAG'
+  url: https://github.com/Pringled/pyversity
   summary: Comments
-  published: 2025-10-07 07:41:59.000000000 +00:00
-- title: Nostr and ATProto (2024)
-  url: https://shreyanjain.net/2024/07/05/nostr-and-atproto.html
+  published: 2025-10-19 14:16:12.000000000 +00:00
+- title: The case for the return of fine-tuning
+  url: https://welovesota.com/article/the-case-for-the-return-of-fine-tuning
   summary: Comments
-  published: 2025-10-12 09:24:43.000000000 +00:00
-- title: How I'm using Helix editor
-  url: https://rushter.com/blog/helix-editor/
+  published: 2025-10-19 09:41:25.000000000 +00:00
+- title: 'Ask HN: What are people doing to get off of VMware?'
+  url: https://news.ycombinator.com/item?id=45635940
   summary: Comments
-  published: 2025-10-12 15:48:28.000000000 +00:00
+  published: 2025-10-19 17:19:49.000000000 +00:00
