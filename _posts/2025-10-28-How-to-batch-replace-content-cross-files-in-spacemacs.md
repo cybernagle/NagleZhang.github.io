@@ -18,3 +18,7 @@ SPACE-/
 在 buffer 里面, 我们就可以使用对应 regex 来进行替换.
 
 最后, 使用 `C-c C-c` 来保存, 即可. 
+
+
+https://youtu.be/XAHVwhTsF-g?si=v5OZ1vMQrZ4F7zjg
+上面这个视频讲的很好了. 
