@@ -1,122 +1,123 @@
 ---
-- title: Paris had a moving sidewalk in 1900, and a Thomas Edison film captured it
-    (2020)
-  url: https://www.openculture.com/2020/03/paris-had-a-moving-sidewalk-in-1900.html
+- title: 'Work After Work: Notes from an Unemployed New Grad Watching the Job Market
+    Break'
+  url: https://urlahmed.com/2025/11/05/work-after-work-notes-from-an-unemployed-new-grad-watching-the-job-market-break/
   summary: Comments
-  published: 2025-11-02 21:08:15.000000000 +00:00
-- title: Facts about throwing good parties
-  url: https://www.atvbt.com/21-facts-about-throwing-good-parties/
+  published: 2025-11-10 00:43:59.000000000 +00:00
+- title: Marble Fountain
+  url: https://willmorrison.net/posts/marble-fountain/
   summary: Comments
-  published: 2025-11-02 22:32:42.000000000 +00:00
-- title: Using FreeBSD to make self-hosting fun again
-  url: https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/
+  published: 2025-11-09 16:26:09.000000000 +00:00
+- title: 'Ask HN: What Are You Working On? (Nov 2025)'
+  url: https://news.ycombinator.com/item?id=45869146
   summary: Comments
-  published: 2025-11-02 11:01:23.000000000 +00:00
-- title: Alleged Jabber Zeus Coder 'MrICQ' in U.S. Custody
-  url: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+  published: 2025-11-09 21:02:33.000000000 +00:00
+- title: 'JVM exceptions are weird: a decompiler perspective'
+  url: https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/
   summary: Comments
-  published: 2025-11-02 20:40:54.000000000 +00:00
-- title: Why don't you use dependent types?
-  url: https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html
+  published: 2025-11-04 09:08:23.000000000 +00:00
+- title: Montana becomes first state to enshrine 'right to compute' into law
+  url: https://montananewsroom.com/montana-becomes-first-state-to-enshrine-right-to-compute-into-law/
   summary: Comments
-  published: 2025-11-02 15:06:36.000000000 +00:00
-- title: 'Lisp: Notes on its Past and Future (1980)'
-  url: https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html
+  published: 2025-11-09 13:03:36.000000000 +00:00
+- title: Drilling down on Uncle Sam's proposed TP-Link ban
+  url: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
   summary: Comments
-  published: 2025-11-02 19:05:32.000000000 +00:00
-- title: Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch
-  url: https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/
+  published: 2025-11-09 18:17:44.000000000 +00:00
+- title: Building a 2.5kWh battery from disposable vapes to power my workshop [video]
+  url: https://www.youtube.com/watch?v=dy-wFixuRVU
   summary: Comments
-  published: 2025-11-02 11:43:26.000000000 +00:00
-- title: Reproducing the AWS Outage Race Condition with a Model Checker
-  url: https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/
+  published: 2025-11-03 19:51:30.000000000 +00:00
+- title: The Manuscripts of Edsger W. Dijkstra
+  url: https://www.cs.utexas.edu/~EWD/
   summary: Comments
-  published: 2025-11-02 18:37:38.000000000 +00:00
-- title: 'Scents of Arabia: Interdisciplinary approaches to ancient olfactory worlds'
-  url: https://www.scientificamerican.com/article/how-archaeology-is-reviving-the-smell-of-history/
+  published: 2025-11-09 15:27:42.000000000 +00:00
+- title: The Principles of Diffusion Models
+  url: https://arxiv.org/abs/2510.21890
   summary: Comments
-  published: 2025-10-27 15:48:23.000000000 +00:00
-- title: Why does Swiss cheese have holes?
-  url: https://www.usdairy.com/news-articles/why-does-swiss-cheese-have-holes
+  published: 2025-11-09 16:10:23.000000000 +00:00
+- title: The Sega Master System
+  url: https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/
   summary: Comments
-  published: 2025-10-28 16:45:28.000000000 +00:00
-- title: URLs are state containers
-  url: https://alfy.blog/2025/10/31/your-url-is-your-state.html
+  published: 2025-11-09 19:15:21.000000000 +00:00
+- title: Bumble Berry Pi – A Cheap DIY Raspberry Pi Handheld Cyberdeck
+  url: https://github.com/samcervantes/bumble-berry-pi
   summary: Comments
-  published: 2025-11-02 11:12:58.000000000 +00:00
-- title: 'X.org Security Advisory: multiple security issues X.Org X server and Xwayland'
-  url: https://lists.x.org/archives/xorg-announce/2025-October/003635.html
+  published: 2025-11-09 16:34:44.000000000 +00:00
+- title: 'Reviving Classic Unix Games: A 20-Year Journey Through Software Archaeology'
+  url: https://vejeta.com/reviving-classic-unix-games-a-20-year-journey-through-software-archaeology/
   summary: Comments
-  published: 2025-11-02 13:07:31.000000000 +00:00
-- title: FurtherAI (Series A – A16Z, YC) Is Hiring Across Software and AI
-  url: https://news.ycombinator.com/item?id=45793652
+  published: 2025-11-09 12:44:35.000000000 +00:00
+- title: CHIP8 – writing emulator, assembler, example game and VHDL hardware impl
+  url: http://blog.dominikrudnik.pl/chip8-emulator-assembler-game-vhdl
   summary: Comments
-  published: 2025-11-02 21:35:02.000000000 +00:00
-- title: Notes by djb on using Fil-C
-  url: https://cr.yp.to/2025/fil-c.html
+  published: 2025-11-03 20:52:50.000000000 +00:00
+- title: Zensical – A modern static site generator built by the Material for MkDocs
+    team
+  url: https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/
   summary: Comments
-  published: 2025-11-02 05:32:02.000000000 +00:00
-- title: Solar-powered QR reading postboxes being rolled out across UK
-  url: https://www.bbc.co.uk/news/articles/cgln72rgrero
+  published: 2025-11-09 12:50:07.000000000 +00:00
+- title: If You're Not Active, You're Sick – You Just Don't Know It Yet
+  url: https://howardluksmd.substack.com/p/if-youre-not-active-youre-sick-you
   summary: Comments
-  published: 2025-10-29 11:32:27.000000000 +00:00
-- title: Anti-cybercrime laws are being weaponized to repress journalism
-  url: https://www.cjr.org/analysis/nigeria-pakistan-jordan-cybercrime-laws-journalism.php
+  published: 2025-11-09 21:56:29.000000000 +00:00
+- title: The Computer Church – Pennsylvania Computer and Technology Museum
+  url: https://www.thecomputerchurch.org/
   summary: Comments
-  published: 2025-11-02 18:12:49.000000000 +00:00
-- title: The x86 Interrupt List, aka “Ralf Brown's Interrupt List” (2018)
-  url: http://www.cs.cmu.edu/~ralf/files.html
+  published: 2025-11-09 19:47:49.000000000 +00:00
+- title: Sued by Nintendo
+  url: https://www.suedbynintendo.com/
   summary: Comments
-  published: 2025-10-26 00:15:25.000000000 +00:00
-- title: Plumbing vs. Internet, Revisited
-  url: https://gwern.net/blog/2025/plumbing-vs-internet
+  published: 2025-11-10 00:13:11.000000000 +00:00
+- title: Visualize FastAPI endpoints with FastAPI-Voyager
+  url: https://www.newsyeah.fun/voyager/
   summary: Comments
-  published: 2025-11-02 04:59:39.000000000 +00:00
-- title: Is Your Bluetooth Chip Leaking Secrets via RF Signals?
-  url: https://www.semanticscholar.org/paper/Is-Your-Bluetooth-Chip-Leaking-Secrets-via-RF-Ji-Dubrova/c1d3ceb47ea6f9cc4f29929e2f97d36862a260a2
+  published: 2025-11-09 12:24:50.000000000 +00:00
+- title: Email verification protocol
+  url: https://github.com/WICG/email-verification-protocol
   summary: Comments
-  published: 2025-11-02 18:06:15.000000000 +00:00
-- title: Autodesk's John Walker Explained HP and IBM in 1991 (2015)
-  url: https://www.cringely.com/2015/06/03/autodesks-john-walker-explained-hp-and-ibm-in-1991/
+  published: 2025-11-01 15:04:56.000000000 +00:00
+- title: 'Today I Learned: Binfmt_misc'
+  url: https://dfir.ch/posts/today_i_learned_binfmt_misc/
   summary: Comments
-  published: 2025-10-29 11:28:17.000000000 +00:00
-- title: React-Native-Godot
-  url: https://github.com/borndotcom/react-native-godot
+  published: 2025-11-03 21:49:58.000000000 +00:00
+- title: Using bubblewrap to add sandboxing to NetBSD
+  url: https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing
   summary: Comments
-  published: 2025-11-02 18:45:35.000000000 +00:00
-- title: Writing FreeDOS Programs in C
-  url: https://www.freedos.org/books/cprogramming/
+  published: 2025-11-09 13:09:22.000000000 +00:00
+- title: 'When Your Hash Becomes a String: Hunting Ruby''s Million-to-One Memory Bug'
+  url: https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/
   summary: Comments
-  published: 2025-11-02 13:43:08.000000000 +00:00
-- title: At the end you use `git bisect`
-  url: https://kevin3010.github.io/git/2025/11/02/At-the-end-you-use-git-bisect.html
+  published: 2025-11-04 12:36:49.000000000 +00:00
+- title: Solving Every Sudoku Puzzle (2006)
+  url: https://norvig.com/sudoku.html
   summary: Comments
-  published: 2025-11-02 17:24:39.000000000 +00:00
-- title: Linux gamers on Steam cross over the 3% mark
-  url: https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/
+  published: 2025-11-04 14:30:23.000000000 +00:00
+- title: The overengineered solution to my pigeon problem (2022)
+  url: https://maxnagy.com/posts/pigeons/
   summary: Comments
-  published: 2025-11-02 18:54:59.000000000 +00:00
-- title: Backpropagation is a leaky abstraction (2016)
-  url: https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b
+  published: 2025-11-03 00:48:32.000000000 +00:00
+- title: Python Software Foundation gets a donor surge after rejecting federal grant
+  url: https://thenewstack.io/psf-gets-a-donor-surge-after-rejecting-anti-dei-federal-grant/
   summary: Comments
-  published: 2025-11-02 05:20:12.000000000 +00:00
-- title: Printed circuit board substrates derived from lignocellulose nanofibrils
-  url: https://www.nature.com/articles/s41598-025-91653-1
+  published: 2025-11-09 17:28:45.000000000 +00:00
+- title: Ironclad – formally verified, real-time capable, Unix-like OS kernel
+  url: https://ironclad-os.org/
   summary: Comments
-  published: 2025-10-27 16:03:54.000000000 +00:00
-- title: OKLCH color picker and converter
-  url: https://oklch.com
+  published: 2025-11-08 23:03:10.000000000 +00:00
+- title: AI isn't replacing jobs. AI spending is
+  url: https://www.fastcompany.com/91435192/chatgpt-llm-openai-jobs-amazon
   summary: Comments
-  published: 2025-10-25 20:11:40.000000000 +00:00
-- title: 'Visopsys: OS maintained by a single developer since 1997'
-  url: https://visopsys.org/
+  published: 2025-11-09 15:30:23.000000000 +00:00
+- title: Startups are pushing the boundaries of reproductive genetics
+  url: https://www.wsj.com/tech/biotech/genetically-engineered-babies-tech-billionaires-6779efc8
   summary: Comments
-  published: 2025-11-01 22:07:49.000000000 +00:00
-- title: Rats filmed snatching bats from air
-  url: https://www.science.org/content/article/rats-filmed-snatching-bats-air-first-time
+  published: 2025-11-09 14:50:29.000000000 +00:00
+- title: I Am Mark Zuckerberg
+  url: https://iammarkzuckerberg.com/
   summary: Comments
-  published: 2025-10-28 08:29:13.000000000 +00:00
-- title: Mechanical Turk is twenty years old today. What did you create with it?
-  url: https://news.ycombinator.com/item?id=45792951
+  published: 2025-11-09 06:13:05.000000000 +00:00
+- title: Microsoft forms superintelligence team under AI head Mustafa Suleyman
+  url: https://www.cnbc.com/2025/11/06/microsoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html
   summary: Comments
-  published: 2025-11-02 20:02:31.000000000 +00:00
+  published: 2025-11-10 00:31:23.000000000 +00:00
