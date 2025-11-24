@@ -1,121 +1,122 @@
 ---
-- title: Open-source Zig book
-  url: https://www.zigbook.net
+- title: Fran Sans – font inspired by San Francisco light rail displays
+  url: https://emilysneddon.com/fran-sans-essay
   summary: Comments
-  published: 2025-11-16 19:44:27.000000000 +00:00
-- title: Britney Spears' Guide to Semiconductor Physics
-  url: https://britneyspears.ac/lasers.htm
+  published: 2025-11-23 18:20:27.000000000 +00:00
+- title: Native Secure Enclave backed SSH keys on macOS
+  url: https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf
   summary: Comments
-  published: 2025-11-16 23:15:20.000000000 +00:00
-- title: Browser fingerprinting via favicon
-  url: https://github.com/jonasstrehle/supercookie
+  published: 2025-11-23 17:55:11.000000000 +00:00
+- title: 'Show HN: I wrote a minimal memory allocator in C'
+  url: https://github.com/t9nzin/memory
   summary: Comments
-  published: 2025-11-16 19:39:52.000000000 +00:00
-- title: 'Heretic: Automatic censorship removal for language models'
-  url: https://github.com/p-e-w/heretic
+  published: 2025-11-23 22:25:36.000000000 +00:00
+- title: 'µcad: New open source programming language that can generate 2D sketches
+    and 3D'
+  url: https://microcad.xyz/
   summary: Comments
-  published: 2025-11-16 15:00:24.000000000 +00:00
-- title: What if you don't need MCP at all?
-  url: https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/
+  published: 2025-11-23 20:51:22.000000000 +00:00
+- title: Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]
+  url: https://mathcs.holycross.edu/~ahwang/print/calc.pdf
   summary: Comments
-  published: 2025-11-16 18:58:10.000000000 +00:00
-- title: PicoIDE – An open IDE/ATAPI drive emulator
-  url: https://picoide.com/
+  published: 2025-11-23 16:31:50.000000000 +00:00
+- title: A desktop app for isolated, parallel agentic development
+  url: https://github.com/coder/mux
   summary: Comments
-  published: 2025-11-16 23:19:24.000000000 +00:00
-- title: Dark Pattern Games
-  url: https://www.darkpattern.games
+  published: 2025-11-23 22:24:23.000000000 +00:00
+- title: 'Show HN: Gitlogue – A terminal tool that replays your Git commits with animation'
+  url: https://github.com/unhappychoice/gitlogue
   summary: Comments
-  published: 2025-11-16 19:38:49.000000000 +00:00
-- title: How Your Brain Creates 'Aha' Moments and Why They Stick
-  url: https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/
+  published: 2025-11-18 12:47:04.000000000 +00:00
+- title: 'Shaders: How to draw high fidelity graphics with just x and y coordinates'
+  url: https://www.makingsoftware.com/chapters/shaders
   summary: Comments
-  published: 2025-11-16 21:57:13.000000000 +00:00
-- title: 'The Pragmatic Programmer: 20th Anniversary Edition (2023)'
-  url: https://www.ahalbert.com/technology/2023/12/19/the_pragmatic_programmer.html
+  published: 2025-11-23 12:26:30.000000000 +00:00
+- title: Sunsetting Supermaven
+  url: https://supermaven.com/blog/sunsetting-supermaven
   summary: Comments
-  published: 2025-11-16 20:46:30.000000000 +00:00
-- title: A File Format Uncracked for 20 Years
-  url: https://landaire.net/a-file-format-uncracked-for-20-years/
+  published: 2025-11-23 22:33:34.000000000 +00:00
+- title: Racket v9.0
+  url: https://blog.racket-lang.org/2025/11/racket-v9-0.html
   summary: Comments
-  published: 2025-11-06 16:52:19.000000000 +00:00
-- title: 'Z3 API in Python: From Sudoku to N-Queens in Under 20 Lines'
-  url: https://ericpony.github.io/z3py-tutorial/guide-examples.htm
+  published: 2025-11-23 13:35:27.000000000 +00:00
+- title: Iowa City made its buses free. traffic cleared, and so did the air
+  url: https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html
   summary: Comments
-  published: 2025-11-16 18:38:37.000000000 +00:00
-- title: 'Goldman Sachs asks in biotech Report: Is curing patients a sustainable business?'
-  url: https://www.cnbc.com/2018/04/11/goldman-asks-is-curing-patients-a-sustainable-business-model.html
+  published: 2025-11-23 22:06:44.000000000 +00:00
+- title: Liva AI (YC S25) Is Hiring
+  url: https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern
   summary: Comments
-  published: 2025-11-16 23:01:24.000000000 +00:00
-- title: I finally understand Cloudflare Zero Trust tunnels
-  url: https://david.coffee/cloudflare-zero-trust-tunnels
+  published: 2025-11-23 22:36:07.000000000 +00:00
+- title: Particle Life – Sandbox Science
+  url: https://sandbox-science.com/particle-life
   summary: Comments
-  published: 2025-11-16 17:39:43.000000000 +00:00
-- title: FPGA Based IBM-PC-XT
-  url: https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/
+  published: 2025-11-23 21:54:32.000000000 +00:00
+- title: New magnetic component discovered in the Faraday effect after nearly 2 centuries
+  url: https://phys.org/news/2025-11-magnetic-component-faraday-effect-centuries.html
   summary: Comments
-  published: 2025-11-16 15:26:24.000000000 +00:00
-- title: Why your mock breaks later
-  url: https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html
+  published: 2025-11-19 20:53:42.000000000 +00:00
+- title: Mount Proton Drive on Linux using rclone and systemd
+  url: https://github.com/dadtronics/protondrive-linux
   summary: Comments
-  published: 2025-11-16 22:36:56.000000000 +00:00
-- title: The fate of "small" open source
-  url: https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/
+  published: 2025-11-23 16:12:06.000000000 +00:00
+- title: A time-travelling door bug in Half Life 2
+  url: https://mastodon.gamedev.place/@TomF/115589875974658415
   summary: Comments
-  published: 2025-11-16 19:21:13.000000000 +00:00
-- title: A new chapter begins for EV batteries with the expiry of key LFP patents
-  url: https://www.shoosmiths.com/insights/articles/a-new-chapter-begins-for-ev-batteries-with-the-expiry-of-key-lfp-patents
+  published: 2025-11-21 22:48:39.000000000 +00:00
+- title: 1M Downloads of Zorin OS 18
+  url: https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/
   summary: Comments
-  published: 2025-11-16 23:58:21.000000000 +00:00
-- title: I have recordings proving Coinbase knew about breach months before disclosure
-  url: https://jonathanclark.com/posts/coinbase-breach-timeline.html
+  published: 2025-11-23 19:38:15.000000000 +00:00
+- title: 'ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare'
+  url: https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/
   summary: Comments
-  published: 2025-11-16 20:18:10.000000000 +00:00
-- title: Fourier Transforms
-  url: https://www.continuummechanics.org/fourierxforms.html
+  published: 2025-11-23 23:53:06.000000000 +00:00
+- title: X's new country-of-origin feature reveals many 'US' accounts to be foreign-run
+  url: https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html
   summary: Comments
-  published: 2025-11-05 17:24:18.000000000 +00:00
-- title: Shell Grotto, Margate
-  url: https://en.wikipedia.org/wiki/Shell_Grotto,_Margate
+  published: 2025-11-23 23:25:03.000000000 +00:00
+- title: After my dad died, we found the love letters
+  url: https://www.jenn.site/after-my-dad-died-we-found-the-love-letters/
   summary: Comments
-  published: 2025-11-05 07:32:50.000000000 +00:00
-- title: Linux mode setting, from the comfort of OCaml
-  url: https://roscidus.com/blog/blog/2025/11/16/libdrm-ocaml/
+  published: 2025-11-23 08:40:41.000000000 +00:00
+- title: An Economy of AI Agents
+  url: https://arxiv.org/abs/2509.01063
   summary: Comments
-  published: 2025-11-16 19:45:36.000000000 +00:00
-- title: Open Catalyst Project
-  url: https://opencatalystproject.org/
+  published: 2025-11-23 02:08:00.000000000 +00:00
+- title: 'MCP Apps: Extending servers with interactive user interfaces'
+  url: http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/
   summary: Comments
-  published: 2025-11-02 06:29:15.000000000 +00:00
-- title: 'Brimstone: ES2025 JavaScript engine written in Rust'
-  url: https://github.com/Hans-Halverson/brimstone
+  published: 2025-11-23 03:27:04.000000000 +00:00
+- title: 'Terence Tao: At the Erdos problem website, AI assistance now becoming routine'
+  url: https://mathstodon.xyz/@tao/115591487350860999
   summary: Comments
-  published: 2025-11-16 11:41:10.000000000 +00:00
-- title: Decoding Leibniz Notation (2024)
-  url: https://www.spakhm.com/leibniz
+  published: 2025-11-22 20:27:41.000000000 +00:00
+- title: "'Invisible' microplastics spread in skies as global pollutant"
+  url: https://www.asahi.com/ajw/articles/16137995
   summary: Comments
-  published: 2025-11-16 18:47:40.000000000 +00:00
-- title: Lithium vs. Lettuce
-  url: https://ambrook.com/offrange/photo-essay/lithium-v-lettuce
+  published: 2025-11-24 00:18:21.000000000 +00:00
+- title: Editing Code in Emacs
+  url: https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html
   summary: Comments
-  published: 2025-11-15 12:31:20.000000000 +00:00
-- title: 'Show HN: Spam classifier in Go using Naive Bayes'
-  url: https://github.com/igomez10/nspammer
+  published: 2025-11-23 14:59:38.000000000 +00:00
+- title: '"Good engineering management" is a fad'
+  url: https://lethain.com/good-eng-mgmt-is-a-fad/
   summary: Comments
-  published: 2025-11-08 22:12:44.000000000 +00:00
-- title: Anthropic’s paper smells like bullshit
-  url: https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/
+  published: 2025-11-23 20:16:04.000000000 +00:00
+- title: Court filings allege Meta downplayed risks to children and misled the public
+  url: https://time.com/7336204/meta-lawsuit-files-child-safety/
   summary: Comments
-  published: 2025-11-16 11:32:39.000000000 +00:00
-- title: Garbage collection is useful
-  url: https://dubroy.com/blog/garbage-collection-is-useful/
+  published: 2025-11-23 15:18:00.000000000 +00:00
+- title: Several core problems with Rust
+  url: https://bykozy.me/blog/rust-is-a-disappointment/
   summary: Comments
-  published: 2025-11-16 13:25:32.000000000 +00:00
-- title: The Man Who Keeps Predicting the Web's Death
-  url: https://tedium.co/2025/10/25/web-dead-predictions-george-colony/
+  published: 2025-11-23 21:52:48.000000000 +00:00
+- title: Giving the Jakks Atari Paddle a Spin
+  url: https://nicole.express/2025/paddle-me-atari.html
   summary: Comments
-  published: 2025-11-16 17:50:29.000000000 +00:00
-- title: 'Waiting for SQL:202y: Group by All'
-  url: http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all
+  published: 2025-11-23 20:31:45.000000000 +00:00
+- title: Doge 'doesn't exist' with eight months left on its charter
+  url: https://www.reuters.com/world/us/doge-doesnt-exist-with-eight-months-left-its-charter-2025-11-23/
   summary: Comments
-  published: 2025-11-11 09:08:42.000000000 +00:00
+  published: 2025-11-24 00:05:14.000000000 +00:00

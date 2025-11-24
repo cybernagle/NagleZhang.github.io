@@ -1,164 +1,168 @@
 ---
-- title: "‘The claim that L2s inherit ETH security is erroneous’ — Solana co-founder"
-  url: https://cointelegraph.com/news/claim-l2s-inherit-eth-security-erroneous-solana-founder?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum layer-2 networks have glaring security and centralization issues,
-    according to Anatoly Yakovenko, co-founder of the Solana blockchain.
-  published: 2025-10-26 21:52:50.000000000 +00:00
-- title: Coinbase’s x402 transactions explode over 10,000% in a month
-  url: https://cointelegraph.com/news/coinbases-x402-transactions-rise-10000-percent?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Coinbase’s x402 protocol, which enables AI agents to transact autonomously
-    over the internet, has seen a 10,000% rise in transaction activity over a month.
-  published: 2025-10-26 04:20:02.000000000 +00:00
-- title: Spot Ether ETFs see outflows for second consecutive week amid ‘cooling demand’
-  url: https://cointelegraph.com/news/ethereum-etfs-outflows-bitcoin-inflows-october-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Spot Bitcoin ETFs attracted $446 million in weekly inflows, signaling renewed
-    institutional confidence in BTC as Ether funds faced a second straight week of
-    outflows.
-  published: 2025-10-25 08:33:44.000000000 +01:00
-- title: 'Price predictions 10/24: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK,
-    XLM'
-  url: https://cointelegraph.com/news/price-predictions-10-24-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin bounced off the $107,000 support, but the recovery is expected
-    to face significant resistance in the $112,000 to $116,000 zone. Do charts point
-    to any altcoins taking the lead?
-  published: 2025-10-24 19:32:21.000000000 +01:00
-- title: "$19B crypto crash opens door to $200K Bitcoin in 2025: Finance Redefined"
-  url: https://cointelegraph.com/news/19b-crypto-crash-200k-bitcoin-2025-finance-redefined?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin may still be on track to $200,000 before the end of the year despite
-    the recent market crash, but a lack of ETF buying continues to limit upside potential.
-  published: 2025-10-24 19:00:00.000000000 +01:00
-- title: Can Ethereum reclaim $4K? ‘Smart trader’ whale raises ETH long to $131M
-  url: https://cointelegraph.com/news/can-ethereum-reclaim-4k-smart-trader-eth-long-bet-131m?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum bulls pushed the price above $4,000 as traders monitored a smart
-    trader’s activity and projected higher ETH prices.
-  published: 2025-10-24 14:47:28.000000000 +01:00
-- title: JPMorgan reportedly plans to let clients borrow against their Bitcoin and
-    Ether
-  url: https://cointelegraph.com/news/jpmorgan-bitcoin-ether-collateral-institutional-report?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: This could make Bitcoin and Ether more attractive to institutional investors
-    seeking to maximize the utility of their assets.
-  published: 2025-10-24 14:05:51.000000000 +01:00
-- title: Crypto treasuries siphon $800B from altcoins, and it might be ‘forever’
-  url: https://cointelegraph.com/news/crypto-treasuries-siphon-800b-from-altcoins-and-it-might-be-forever?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Corporate crypto treasuries have attracted about $800 billion from retail
-    investors, mainly at the expense of altcoins, according to 10x Research.
-  published: 2025-10-24 12:29:51.000000000 +01:00
-- title: How an anonymous trader made $192M shorting one of the biggest crypto crashes
-  url: https://cointelegraph.com/explained/how-an-anonymous-trader-made-192m-shorting-one-of-the-biggest-crypto-crashes?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: A single anonymous trader saw the crash coming and capitalized on it, earning
-    $192 million in just a few hours.
-  published: 2025-10-24 11:27:39.000000000 +01:00
-- title: Ether triple bottom setup hints at a $4K breakout next
-  url: https://cointelegraph.com/news/ethereum-triple-bottom-setup-hints-4k-next?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether's triple bottom near $3,800 hints at a $4,000 breakout as mega whales
-    quietly buy the dip, absorbing supply from smaller holders during the pullback.
-  published: 2025-10-23 18:01:10.000000000 +01:00
-- title: Berachain joins race for real-time blockchains with sub-second transactions
-  url: https://cointelegraph.com/news/berachain-joins-race-for-real-time-blockchains-with-sub-second-transactions?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: A new Berachain governance proposal introduces a preconfirmation layer
-    that would cut inclusion times to 200 milliseconds, making transactions feel nearly
-    instantaneous.
-  published: 2025-10-23 14:04:58.000000000 +01:00
-- title: ARK Invest-backed firm becomes largest ETH hoarder outside the US
-  url: https://cointelegraph.com/news/ark-invest-backs-largest-eth-treasury-outside-the-us?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: ARK Invest-backed Quantum Solutions is now the largest Ether treasury outside
-    of the US and has a 100,000 ETH treasury target.
-  published: 2025-10-23 06:50:29.000000000 +01:00
-- title: "‘Millisecond’ preconfirmations make it to Ethereum via new RPC"
-  url: https://cointelegraph.com/news/primev-fast-preconfirmations-now-on-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum mainnet transfers can reach block times in just 200 milliseconds,
-    according to Ethereum infrastructure platform Primev when using its “FAST RPC”
-    solution.
-  published: 2025-10-22 23:56:13.000000000 +01:00
-- title: 'Price predictions 10/22: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE, LINK,
-    XLM'
-  url: https://cointelegraph.com/news/price-predictions-10-22-btc-eth-bnb-xrp-sol-doge-ada-hype-link-xlm?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin is at a crucial juncture because a daily close below the $107,000
-    support clears the path for a drop to the psychological level of $100,000.
-  published: 2025-10-22 20:25:39.000000000 +01:00
-- title: How to spot bull and bear market traps in crypto before they catch you
-  url: https://cointelegraph.com/news/how-to-spot-bull-and-bear-market-traps-in-crypto-before-they-catch-you?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Learn to spot fake breakouts in crypto using funding, OI and volume signals
-    — and avoid bull and bear trap setups.
-  published: 2025-10-22 18:00:00.000000000 +01:00
-- title: How to find coins before they get listed on Binance or Coinbase
-  url: https://cointelegraph.com/news/how-to-spot-coins-before-they-get-listed-on-binance-or-coinbase?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: AI tools, onchain data and community signals are influencing how traders
-    spot tokens before they hit major exchanges.
-  published: 2025-10-22 11:10:07.000000000 +01:00
-- title: Ocean Protocol’s team faces $250K bounty after $120M crypto dump allegations
-  url: https://cointelegraph.com/news/ocean-protocol-250k-bounty-120m-crypto-dump-allegations?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: While Ocean Protocol denied the allegations, onchain data points to an
-    Ocean Protocol-linked multisignature wallet converting about 661 million Ocean
-    tokens into 286 million FET.
-  published: 2025-10-21 22:31:21.000000000 +01:00
-- title: Ethereum enters final testnet phase ahead of Dec. 3 Fusaka upgrade
-  url: https://cointelegraph.com/news/ethereum-fusaka-gas-cap-testnets-parallel-execution?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The cap on individual transactions aims to improve block efficiency, reduce
-    DoS risks and lay the groundwork for parallel execution in future upgrades like
-    Glamsterdam.
-  published: 2025-10-21 22:18:44.000000000 +01:00
-- title: SharpLink adds 19,000 ETH, lifts holdings to $3.5B as companies buy the dip
-  url: https://cointelegraph.com/news/sharplink-eth-holdings-35b-ethereum-treasury?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: SharpLink increased its ETH holdings following a $76.5 million raise, with
-    staking rewards topping $23 million since its treasury launch in June.
-  published: 2025-10-21 19:27:28.000000000 +01:00
-- title: 'California just drew the line between crypto and cash: Here’s why it matters'
-  url: https://cointelegraph.com/explained/california-just-drew-the-line-between-crypto-and-cash-here-s-why-it-matters?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: California’s SB 822 ends forced crypto sell-offs and requires holders to
-    send in-kind transfers of unclaimed crypto to the state, promoting stronger consumer
-    rights.
-  published: 2025-10-21 16:00:00.000000000 +01:00
-- title: How to use Grok 4 for smarter crypto research before you invest
-  url: https://cointelegraph.com/news/how-to-use-grok-4-to-research-coins-before-you-invest?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: 'Turn social hype into smart signals with Grok 4: scan sentiment, summarize
-    fundamentals and confirm onchain data before investing.'
-  published: 2025-10-21 10:45:40.000000000 +01:00
-- title: Ethereum fails again above $4K as traders grow frustrated with shakeouts
-  url: https://cointelegraph.com/news/ethereum-price-fails-above-4k-traders-grow-frustrated-shakeouts?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether ran into resistance at $4,000 as the absence of new buyers and weak
-    spot Ethereum flows threatened ETH price dropping to $3,100 next.
-  published: 2025-10-21 10:31:33.000000000 +01:00
-- title: US political turmoil tests ‘institutional confidence’ as crypto ETFs bleed
-  url: https://cointelegraph.com/news/spot-bitcoin-ethereum-etfs-extend-outflows-amid-us-political-turmoil?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The outflows came as “No Kings” protests swept across the US amid a prolonged
-    government shutdown and political division, deepening market risk aversion.
-  published: 2025-10-21 09:10:19.000000000 +01:00
-- title: Polygon boss says he’s been ‘questioning his loyalty’ toward Ethereum
-  url: https://cointelegraph.com/news/polygon-boss-has-been-questioning-his-loyalty-toward-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Polygon’s Sandeep Nailwal slammed the Ethereum community for underappreciating
-    Polygon’s role in the Ethereum ecosystem, prompting a response from Vitalik Buterin.
-  published: 2025-10-21 06:12:10.000000000 +01:00
-- title: BitMine’s Lee says Ether’s ‘price dislocation’ is a signal to buy
-  url: https://cointelegraph.com/news/bitmine-buys-250m-ethereum-in-dip-buying-spree?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: BitMine chairman Tom Lee said he expects Ethereum to enter a supercycle,
-    making the current price an attractive risk vs reward purchase.
-  published: 2025-10-21 02:33:30.000000000 +01:00
-- title: 'Ethereum needs Paradigm, VCs, despite value extraction concerns: Joseph
-    Lubin'
-  url: https://cointelegraph.com/news/ethereum-paradigm-vcs-value-extraction-joseph-lubin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The main goal of VCs is to "suck as much value as possible” from Ethereum,
-    but they remain necessary bridges for global capital entering the crypto industry,
-    according to Lubin.
-  published: 2025-10-20 23:00:38.000000000 +01:00
-- title: 'Price predictions 10/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE'
-  url: https://cointelegraph.com/news/price-predictions-10-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin staged a rebound rally to $111,705 as the market recovered from
-    the recent catastrophic sell-off, but data suggests sellers will continue to take
-    profit at each breakout top.
-  published: 2025-10-20 19:00:55.000000000 +01:00
-- title: How to read crypto charts in 2025 (even if you’re a beginner)
-  url: https://cointelegraph.com/news/how-to-read-crypto-charts-in-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Patterns, tools and indicators are key to making smarter crypto trading
-    decisions. They help you spot trends and anticipate market moves with better insight.
-  published: 2025-10-20 16:02:24.000000000 +01:00
-- title: Grok, DeepSeek outperform ChatGPT, Gemini with epic crypto market long
-  url: https://cointelegraph.com/news/grok-deepseek-outperform-chatgpt-gemini-crypto-market-long?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Grok 4 generated a 500% gain on the first day after identifying the crypto
-    market bottom and switching to leveraged long positions.
-  published: 2025-10-20 14:09:13.000000000 +01:00
-- title: 'Crypto funds’ two-week inflow streak ends: Here’s what went wrong'
-  url: https://cointelegraph.com/news/crypto-funds-513-million-outflows-bitcoin-etp-bleed?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Onchain investors were more bearish about the Binance liquidity cascade,
-    while crypto ETP traders largely shrugged off the Friday crash, according to CoinShares.
-  published: 2025-10-20 13:18:09.000000000 +01:00
+- title: Coinbase crypto exchange executes internal wallet migration
+  url: https://cointelegraph.com/news/coinbase-crypto-wallet-migration?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The crypto exchange said the planned internal migration is a normal, "best
+    practice" in the industry to maintain cybersecurity standards.
+  published: 2025-11-22 16:45:54.000000000 +00:00
+- title: Spot Bitcoin ETFs pull $238M as Ether funds snap 8-day outflow streak
+  url: https://cointelegraph.com/news/spot-crypto-etfs-rebound-as-bitcoin-pulls-238m-and-ether-snaps-outflow-streak?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin ETFs pull in $238 million as Ether funds end an eight-day outflow
+    streak and Solana products extend a ten-day run of inflows.
+  published: 2025-11-22 12:46:32.000000000 +00:00
+- title: ARK Invest wraps up week with Bitcoin ETF, Bullish, Circle, BitMine buys
+  url: https://cointelegraph.com/news/ark-invest-boosts-bullish-bitmine-circle-btc-etfs?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: ARK Invest ramped up its crypto exposure on Friday, adding Bullish, BitMine,
+    Circle, Robinhood and nearly $600K in Bitcoin ETFs as crypto equities attempted
+    a rebound.
+  published: 2025-11-22 07:31:35.000000000 +00:00
+- title: ETH price drops to 4-month low, but Ether futures data hints at $3.2K bounce
+  url: https://cointelegraph.com/news/eth-futures-data-forecasts-bounce-to-dollar3-2k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: ETH price fell to levels not seen since July, but compelling futures data
+    could shed light on a silver lining. Is Ether headed toward $3,200?
+  published: 2025-11-21 22:00:00.000000000 +00:00
+- title: 'Bitcoin rout continues as crypto treasuries face reckoning: Finance Redefined'
+  url: https://cointelegraph.com/news/bitcoin-rout-crypto-treasuries-reckoning-finance-redefined?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Growing unrealized losses and falling NAV levels are threatening corporate
+    crypto treasuries, making it difficult to raise capital for future digital asset
+    investments.
+  published: 2025-11-21 19:00:00.000000000 +00:00
+- title: 'Price predictions 11/21: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, ZEC,
+    BCH'
+  url: https://cointelegraph.com/news/price-predictions-11-21-btc-eth-xrp-bnb-sol-doge-ada-hype-zec-bch?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin has yet to find a bottom, but the data suggests buyers were very
+    interested in the abrupt dip to $80,000. Several altcoins are also approaching
+    deep discount levels.
+  published: 2025-11-21 18:04:55.000000000 +00:00
+- title: BitMine announces 2026 ETH staking plans as market melts down
+  url: https://cointelegraph.com/news/bitmine-2026-eth-staking-market-meltdown?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The crypto treasury company plans to stake its ETH holdings to generate
+    revenue, but is already down well over $1,000 on each ETH it holds.
+  published: 2025-11-21 17:40:56.000000000 +00:00
+- title: ETF altseason? Solana, XRP funds buck crypto’s market sell-off
+  url: https://cointelegraph.com/news/solana-xrp-etfs-defy-outflows?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: SOL and XRP ETFs have attracted nearly $900 million in combined inflows,
+    highlighting rare investor conviction amid an ongoing market rout.
+  published: 2025-11-21 13:16:26.000000000 +00:00
+- title: 'ETH DATs have a problem: Ether’s crash below $3K vaporized a year’s worth
+    of gains'
+  url: https://cointelegraph.com/news/eth-dats-have-a-problem-ether-s-crash-below-dollar3k-vaporized-a-year-s-worth-of-gains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ether treasury companies are holding millions of dollars in unrealized
+    losses, and the falling mNAV valuations and ETH’s potential to fall below $2,500
+    may further complicate matters.
+  published: 2025-11-20 21:15:00.000000000 +00:00
+- title: Coinbase launches ETH-backed loans as onchain lending tops $1.25B
+  url: https://cointelegraph.com/news/coinbase-ether-backed-loans-us?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Users can borrow up to $1 million in USDC against their Ether as Coinbase
+    expands its Base-powered network, which has processed $1.25 billion in loans.
+  published: 2025-11-20 18:42:20.000000000 +00:00
+- title: Aztec launches decentralized and private Ethereum L2 on mainnet, almost
+  url: https://cointelegraph.com/news/aztec-launches-actually-decentralized-and-private-eth-l2-mainnet-almost?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Aztec launched its Ignition mainnet with no centralized operators, opening
+    community staking amid its major token sale and positioning itself as a fully
+    decentralized L2.
+  published: 2025-11-20 14:46:33.000000000 +00:00
+- title: Aave, Chainlink ETPs among six new 21Shares listings in Europe
+  url: https://cointelegraph.com/news/21shares-six-crypto-etps-nasdaq-stockholm-aave-chainlink?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: 21Shares, one of the largest crypto ETF issuers with $8 billion in assets,
+    continues to introduce more investment products in Europe as an influx of new
+    crypto ETFs hits the US.
+  published: 2025-11-20 14:26:18.000000000 +00:00
+- title: BitMine sits on $3.7B loss as DAT ‘Hotel California’ meets BlackRock’s staked
+    ETH ETF
+  url: https://cointelegraph.com/news/bitmine-3-7b-ether-loss-dat-hotel-california-blackrock-staked-eth-etf?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: BitMine’s $3.7 billion paper loss and the falling mNAV valuations are threatening
+    the business model of DATs, according to 10x Research.
+  published: 2025-11-20 11:17:27.000000000 +00:00
+- title: Cathie Wood’s ARK loads up on Circle, BitMine, Bullish as crypto stocks slide
+  url: https://cointelegraph.com/news/cathie-wood-s-ark-loads-up-on-circle-bitmine-bullish-as-crypto-stocks-slide?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Cathie Wood’s ARK Invest bought over $39 million in Bullish, Circle and
+    BitMine shares as crypto stocks dipped, signaling conviction amid market weakness.
+  published: 2025-11-20 07:59:05.000000000 +00:00
+- title: BlackRock signals it is working on a new staked Ethereum trust ETF
+  url: https://cointelegraph.com/news/blackrock-registers-trust-staked-eth-etf?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: BlackRock is now pursuing a new staked Ethereum ETF, offering more lucrative
+    returns, approximately 15 months after launching its flagship ETH fund, ETHA.
+  published: 2025-11-20 01:05:50.000000000 +00:00
+- title: 'Price predictions 11/19: BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE, BCH,
+    ZEC'
+  url: https://cointelegraph.com/news/price-predictions-11-19-btc-eth-xrp-bnb-sol-doge-ada-hype-bch-zcash?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bulls are struggling to hold Bitcoin price above $90,000, but BTC and altcoin
+    charts suggest new yearly lows are the most likely outcome for cryptocurrencies
+    in the short term.
+  published: 2025-11-19 18:30:00.000000000 +00:00
+- title: Why Kohaku is central to Ethereum’s 2025 privacy shift
+  url: https://cointelegraph.com/explained/why-kohaku-is-central-to-ethereum-s-2025-privacy-shift?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Kohaku brings practical privacy to Ethereum wallets with safer recovery,
+    private modes and shared standards designed for real-world use.
+  published: 2025-11-19 14:29:25.000000000 +00:00
+- title: BlackRock leads near $3B Bitcoin November ETF exodus with record $523M outflows
+  url: https://cointelegraph.com/news/bitcoin-etfs-3b-outflows-blackrock-etf-worst-day-record?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: US Bitcoin ETFs are nearing $3 billion in November outflows as a fresh
+    death cross, fading Fed rate cut odds, and smart money shorts weigh on sentiment.
+  published: 2025-11-19 10:39:23.000000000 +00:00
+- title: ETH falls into ‘buy zone,’ but volatility-averse traders take a wait-and-see
+    approach
+  url: https://cointelegraph.com/news/eth-falls-into-buy-zone-but-volatility-adverse-traders-take-a-wait-and-see-approach?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ether retests $3,000 as its Mayer Multiple falls below 1, entering a historical
+    buy zone, while liquidity clusters signal short-term volatility ahead.
+  published: 2025-11-18 17:29:42.000000000 +00:00
+- title: Mastercard taps Polygon to turn clunky crypto addresses into simple usernames
+  url: https://cointelegraph.com/news/mastercard-crypto-credential-polygon-self-custody-wallet-aliases?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Mastercard is rolling out verified, human-readable crypto aliases to self-custody
+    wallets, using Polygon for onchain support and Mercuryo for identity verification.
+  published: 2025-11-18 11:04:03.000000000 +00:00
+- title: Average Bitcoin ETF investor now underwater as BTC falls below $89.6K
+  url: https://cointelegraph.com/news/bitcoin-etf-investors-underwater-btc-drops-below-89600?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin and Ether ETFs saw another day of heavy withdrawals, while Solana
+    ETFs maintained an uninterrupted inflow streak since launch.
+  published: 2025-11-18 07:43:32.000000000 +00:00
+- title: 'ETH falls to 4-month low under $3K: Is the bull market over?'
+  url: https://cointelegraph.com/news/eth-falls-to-4-month-low-under-3k-is-the-bull-market-over?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: ETH price fell below $3,000 for the first time since July. Cointelegraph
+    explains what is required for a trend reversal.
+  published: 2025-11-17 21:45:08.000000000 +00:00
+- title: 'Price predictions 11/17: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, ADA, HYPE'
+  url: https://cointelegraph.com/news/price-predictions-11-17-spx-dxy-btc-eth-xrp-bnb-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin attempted a recovery but is facing selling at higher levels, indicating
+    that bears continue to sell on rallies.
+  published: 2025-11-17 19:40:00.000000000 +00:00
+- title: Cboe to launch perpetual-style Bitcoin and Ether futures in US
+  url: https://cointelegraph.com/news/cboe-perpetual-style-bitcoin-ether-futures-us-dec-15?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The exchange's 10-year Bitcoin and Ether contracts mimic perpetuals through
+    daily cash adjustments, giving users a regulated way to trade crypto futures in
+    the US.
+  published: 2025-11-17 19:37:59.000000000 +00:00
+- title: Republic raises $100M for ETH purchases under unusual zero-interest deal
+  url: https://cointelegraph.com/news/republic-technologies-100m-ethereum-financing?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Republic Technologies secured a zero-interest convertible loan to expand
+    its Ether holdings, a structure that could limit shareholder dilution.
+  published: 2025-11-17 16:02:56.000000000 +00:00
+- title: Crypto ETPs see biggest weekly outflows since February as investors pull
+    $2B
+  url: https://cointelegraph.com/news/crypto-etps-largest-outflows-since-february-global-trends?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Investors retreat from crypto ETPs across major regions, resulting in a
+    27% decline in AUM from October’s peak as uncertainty drives a shift toward safer
+    products.
+  published: 2025-11-17 12:47:54.000000000 +00:00
+- title: Singapore’s SGX to launch Bitcoin and Ether perps as institutional demand
+    climbs
+  url: https://cointelegraph.com/news/singapore-exchange-bitcoin-ether-perpetual-futures-institutional-demand?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: SGX is aiming to capture rising institutional crypto demand by launching
+    the second set of Bitcoin and Ether perpetual futures products in Singapore.
+  published: 2025-11-17 12:18:48.000000000 +00:00
+- title: Bitcoin ETFs bleed $1.1B as analysts warn of ‘mini’ bear market at pivotal
+    moment
+  url: https://cointelegraph.com/news/bitcoin-etf-outflows-1-1b-mini-bear-market-fears?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin’s price is now at a “pivotal juncture” as the fate of the market
+    cycle depends on incoming macro signals and maintaining key technical price levels.
+  published: 2025-11-17 09:08:24.000000000 +00:00
+- title: 'Ethereum starting on ‘same supercycle’ as Bitcoin: BitMine’s Tom Lee'
+  url: https://cointelegraph.com/news/ethereum-starting-same-supercycle-as-bitcoin-bitmine-tom-lee?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: BitMine’s Tom Lee says Ether is set to 100x in the next few years, copying
+    a similar price run by Bitcoin years ago.
+  published: 2025-11-17 06:01:58.000000000 +00:00
+- title: "‘Very wide gap’ between XRP and Solana investor interest: Exec"
+  url: https://cointelegraph.com/news/crypto-market-investor-xrp-solana-bitcoin-ethereum-coinbase-exec?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The crypto market is still “very unsure” about which crypto assets to back
+    beyond Bitcoin and Ethereum, according to an executive.
+  published: 2025-11-16 05:02:11.000000000 +00:00
