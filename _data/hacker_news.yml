@@ -1,122 +1,122 @@
 ---
-- title: Anthropic Outage for Opus 4.5 and Sonnet 4/4.5 across all services
-  url: https://status.claude.com/incidents/9g6qpr72ttbr
+- title: A guide to local coding models
+  url: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
   summary: Comments
-  published: 2025-12-14 21:53:13.000000000 +00:00
-- title: '2002: Last.fm and Audioscrobbler Herald the Social Web'
-  url: https://cybercultural.com/p/lastfm-audioscrobbler-2002/
+  published: 2025-12-21 20:55:15.000000000 +00:00
+- title: I'm just having fun
+  url: https://jyn.dev/i-m-just-having-fun/
   summary: Comments
-  published: 2025-12-14 21:05:13.000000000 +00:00
-- title: JSDoc is TypeScript
-  url: https://culi.bearblog.dev/jsdoc-is-typescript/
+  published: 2025-12-16 11:19:29.000000000 +00:00
+- title: 'Show HN: Books mentioned on Hacker News in 2025'
+  url: https://hackernews-readings-613604506318.us-west1.run.app
   summary: Comments
-  published: 2025-12-14 19:42:53.000000000 +00:00
-- title: 'Hashcards: A plain-text spaced repetition system'
-  url: https://borretti.me/article/hashcards-plain-text-spaced-repetition
+  published: 2025-12-21 16:21:04.000000000 +00:00
+- title: Disney Imagineering Debuts Next-Generation Robotic Character, Olaf
+  url: https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
   summary: Comments
-  published: 2025-12-14 16:55:29.000000000 +00:00
-- title: History of Declarative Programming
-  url: https://shenlanguage.org/TBoS/tbos_15.html
+  published: 2025-12-21 21:46:20.000000000 +00:00
+- title: ONNX Runtime and CoreML May Silently Convert Your Model to FP16
+  url: https://ym2132.github.io/ONNX_MLProgram_NN_exploration
   summary: Comments
-  published: 2025-12-14 22:46:01.000000000 +00:00
-- title: An Attempt at a Compelling Articulation of Forth's Practical Strengths and
-    Eter
-  url: https://im-just-lee.ing/forth-why-cb234c03.txt
+  published: 2025-12-22 00:27:04.000000000 +00:00
+- title: 'Show HN: WalletWallet – create Apple passes from anything'
+  url: https://walletwallet.alen.ro/
   summary: Comments
-  published: 2025-12-08 00:25:34.000000000 +00:00
-- title: 'Ask HN: What Are You Working On? (December 2025)'
-  url: https://news.ycombinator.com/item?id=46264491
+  published: 2025-12-21 16:04:05.000000000 +00:00
+- title: The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt
+  url: https://mastodon.online/@mullvadnet/115742530333573065
   summary: Comments
-  published: 2025-12-14 16:55:25.000000000 +00:00
-- title: In the Beginning was the Command Line (1999)
-  url: https://web.stanford.edu/class/cs81n/command.txt
+  published: 2025-12-21 18:39:46.000000000 +00:00
+- title: Evaluating chain-of-thought monitorability
+  url: https://openai.com/index/evaluating-chain-of-thought-monitorability/
   summary: Comments
-  published: 2025-12-08 08:44:06.000000000 +00:00
-- title: 'CapROS: The Capability-Based Reliable Operating System'
-  url: https://www.capros.org/
+  published: 2025-12-19 05:49:33.000000000 +00:00
+- title: 'Show HN: Autograd.c – A tiny ML framework built from scratch'
+  url: https://github.com/sueszli/autograd.c
   summary: Comments
-  published: 2025-12-15 00:39:31.000000000 +00:00
-- title: AI agents are starting to eat SaaS
-  url: https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/
+  published: 2025-12-16 06:26:01.000000000 +00:00
+- title: I program on the subway
+  url: https://www.scd31.com/posts/programming-on-the-subway
   summary: Comments
-  published: 2025-12-14 23:48:37.000000000 +00:00
-- title: Claude CLI deleted my home directory Wiped my whole Mac
-  url: https://old.reddit.com/r/ClaudeAI/comments/1pgxckk/claude_cli_deleted_my_entire_home_directory_wiped/
+  published: 2025-12-16 21:23:18.000000000 +00:00
+- title: CO2 batteries that store grid energy take off globally
+  url: https://spectrum.ieee.org/co2-battery-energy-storage
   summary: Comments
-  published: 2025-12-14 23:23:00.000000000 +00:00
-- title: Interview with Kent Overstreet (Bcachefs) [audio]
-  url: https://linuxunplugged.com/644
+  published: 2025-12-21 15:27:36.000000000 +00:00
+- title: Autoland saves King Air, everyone reported safe
+  url: https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/
   summary: Comments
-  published: 2025-12-11 14:29:16.000000000 +00:00
-- title: The Typeframe PX-88 Portable Computing System
-  url: https://www.typeframe.net/
+  published: 2025-12-21 16:57:57.000000000 +00:00
+- title: E.W.Dijkstra Archive
+  url: https://www.cs.utexas.edu/~EWD/welcome.html
   summary: Comments
-  published: 2025-12-14 17:43:39.000000000 +00:00
-- title: Developing a food-safe finish for my wooden spoons
-  url: https://alinpanaitiu.com/blog/developing-hardwax-oil/
+  published: 2025-12-21 15:29:31.000000000 +00:00
+- title: You’re not burnt out, you’re existentially starving
+  url: https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/
   summary: Comments
-  published: 2025-12-10 21:44:30.000000000 +00:00
-- title: Robot Vacuum Roomba Maker Files for Bankruptcy After 35 Years
-  url: https://news.bloomberglaw.com/bankruptcy-law/robot-vacuum-roomba-maker-files-for-bankruptcy-after-35-years
+  published: 2025-12-21 18:28:56.000000000 +00:00
+- title: I can't upgrade to Windows 11, now leave me alone
+  url: https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone
   summary: Comments
-  published: 2025-12-15 00:36:44.000000000 +00:00
-- title: 'Shai-Hulud compromised a dev machine and raided GitHub org access: a post-mortem'
-  url: https://trigger.dev/blog/shai-hulud-postmortem
+  published: 2025-12-21 18:43:20.000000000 +00:00
+- title: 'Rue: Higher level than Rust, lower level than Go'
+  url: https://rue-lang.dev/
   summary: Comments
-  published: 2025-12-14 10:07:00.000000000 +00:00
-- title: AI and the ironies of automation – Part 2
-  url: https://www.ufried.com/blog/ironies_of_ai_2/
+  published: 2025-12-21 20:46:02.000000000 +00:00
+- title: Structured outputs create false confidence
+  url: https://boundaryml.com/blog/structured-outputs-create-false-confidence
   summary: Comments
-  published: 2025-12-14 13:19:15.000000000 +00:00
-- title: 'DARPA GO: Generative Optogenetics'
-  url: https://www.darpa.mil/research/programs/go
+  published: 2025-12-21 15:06:46.000000000 +00:00
+- title: 'Perron: A Static Site Generator for Ruby on Rails'
+  url: https://perron-site.statichost.page/
   summary: Comments
-  published: 2025-12-14 23:13:39.000000000 +00:00
-- title: Price of a bot army revealed across online platforms
-  url: https://www.cam.ac.uk/stories/price-bot-army-global-index
+  published: 2025-12-18 23:37:05.000000000 +00:00
+- title: Deliberate Internet Shutdowns
+  url: https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
   summary: Comments
-  published: 2025-12-14 16:09:44.000000000 +00:00
-- title: 'GraphQL: The enterprise honeymoon is over'
-  url: https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over
+  published: 2025-12-18 17:49:10.000000000 +00:00
+- title: ARIN Public Incident Report – 4.10 Misissuance Error
+  url: https://www.arin.net/announcements/20251212/
   summary: Comments
-  published: 2025-12-14 17:13:30.000000000 +00:00
-- title: Advent of Swift
-  url: https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html
+  published: 2025-12-21 15:19:41.000000000 +00:00
+- title: Get an AI code review in 10 seconds
+  url: https://oldmanrahul.com/2025/12/19/ai-code-review-trick/
   summary: Comments
-  published: 2025-12-14 20:04:11.000000000 +00:00
-- title: If AI replaces workers, should it also pay taxes?
-  url: https://english.elpais.com/technology/2025-11-30/if-ai-replaces-workers-should-it-also-pay-taxes.html
+  published: 2025-12-21 17:21:05.000000000 +00:00
+- title: Ruby website redesigned
+  url: https://www.ruby-lang.org/en/
   summary: Comments
-  published: 2025-12-15 00:17:02.000000000 +00:00
-- title: Checkpointing the Message Processing
-  url: https://event-driven.io/en/checkpointing_message_processing/
+  published: 2025-12-21 07:06:48.000000000 +00:00
+- title: Indoor tanning makes youthful skin much older on a genetic level
+  url: https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level
   summary: Comments
-  published: 2025-12-08 12:45:34.000000000 +00:00
-- title: 'Ask HN: Is starting a personal blog still worth it in the age of AI?'
-  url: https://news.ycombinator.com/item?id=46268055
+  published: 2025-12-21 05:21:42.000000000 +00:00
+- title: Coarse is better
+  url: https://borretti.me/article/coarse-is-better
   summary: Comments
-  published: 2025-12-14 23:02:40.000000000 +00:00
-- title: Checkers Arcade
-  url: https://blog.fogus.me/games/checkers-arcade.html
+  published: 2025-12-21 12:57:44.000000000 +00:00
+- title: I wish people were more public
+  url: https://borretti.me/article/i-wish-people-were-more-public
   summary: Comments
-  published: 2025-12-12 14:18:10.000000000 +00:00
-- title: Baumol's Cost Disease
-  url: https://en.wikipedia.org/wiki/Baumol_effect
+  published: 2025-12-21 23:42:34.000000000 +00:00
+- title: Waymo halts service during S.F. blackout after causing traffic jams
+  url: https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/
   summary: Comments
-  published: 2025-12-14 12:34:35.000000000 +00:00
-- title: Our emotional pain became a product
-  url: https://www.theguardian.com/us-news/ng-interactive/2025/dec/14/trauma-mental-health
+  published: 2025-12-21 05:12:03.000000000 +00:00
+- title: Three ways to solve problems
+  url: https://andreasfragner.com/writing/three-ways-to-solve-problems
   summary: Comments
-  published: 2025-12-14 23:50:32.000000000 +00:00
-- title: Microsoft Copilot AI Comes to LG TVs, and Can't Be Deleted
-  url: https://www.techpowerup.com/344075/microsoft-copilot-ai-comes-to-lg-tvs-and-cant-be-deleted
+  published: 2025-12-21 14:35:29.000000000 +00:00
+- title: Why “negative vectors” can't delete data in FAISS – but weighted kernels
+    can
+  url: https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment
   summary: Comments
-  published: 2025-12-15 00:35:41.000000000 +00:00
-- title: Compiler Engineering in Practice
-  url: https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html
+  published: 2025-12-17 06:26:59.000000000 +00:00
+- title: Frozen Waymos backed up San Francisco traffic during a widespread power outage
+  url: https://www.theverge.com/news/848843/waymo-san-francisco-power-outage
   summary: Comments
-  published: 2025-12-14 07:45:15.000000000 +00:00
-- title: 'GNU recutils: Plain text database'
-  url: https://www.gnu.org/software/recutils/
+  published: 2025-12-22 00:39:07.000000000 +00:00
+- title: 'Show HN: Shittp – Volatile Dotfiles over SSH'
+  url: https://github.com/FOBshippingpoint/shittp
   summary: Comments
-  published: 2025-12-14 19:08:57.000000000 +00:00
+  published: 2025-12-21 12:33:11.000000000 +00:00
