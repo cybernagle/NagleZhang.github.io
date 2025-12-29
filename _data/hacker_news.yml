@@ -1,122 +1,122 @@
 ---
-- title: A guide to local coding models
-  url: https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude
+- title: What an unprocessed photo looks like
+  url: https://maurycyz.com/misc/raw_photo/
   summary: Comments
-  published: 2025-12-21 20:55:15.000000000 +00:00
-- title: I'm just having fun
-  url: https://jyn.dev/i-m-just-having-fun/
+  published: 2025-12-28 22:35:02.000000000 +00:00
+- title: Stepping down as Mockito maintainer after 10 years
+  url: https://github.com/mockito/mockito/issues/3777
   summary: Comments
-  published: 2025-12-16 11:19:29.000000000 +00:00
-- title: 'Show HN: Books mentioned on Hacker News in 2025'
-  url: https://hackernews-readings-613604506318.us-west1.run.app
+  published: 2025-12-28 20:14:58.000000000 +00:00
+- title: 'Unity''s Mono problem: Why your C# code runs slower than it should'
+  url: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
   summary: Comments
-  published: 2025-12-21 16:21:04.000000000 +00:00
-- title: Disney Imagineering Debuts Next-Generation Robotic Character, Olaf
-  url: https://disneyparksblog.com/disney-experiences/robotic-olaf-marks-new-era-of-disney-innovation/
+  published: 2025-12-28 21:41:42.000000000 +00:00
+- title: '62 years in the making: NYC''s newest water tunnel nears the finish line'
+  url: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
   summary: Comments
-  published: 2025-12-21 21:46:20.000000000 +00:00
-- title: ONNX Runtime and CoreML May Silently Convert Your Model to FP16
-  url: https://ym2132.github.io/ONNX_MLProgram_NN_exploration
+  published: 2025-12-28 23:05:53.000000000 +00:00
+- title: Spherical Cow
+  url: https://lib.rs/crates/spherical-cow
   summary: Comments
-  published: 2025-12-22 00:27:04.000000000 +00:00
-- title: 'Show HN: WalletWallet – create Apple passes from anything'
-  url: https://walletwallet.alen.ro/
+  published: 2025-12-28 23:11:50.000000000 +00:00
+- title: MongoBleed Explained Simply
+  url: https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply
   summary: Comments
-  published: 2025-12-21 16:04:05.000000000 +00:00
-- title: The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt
-  url: https://mastodon.online/@mullvadnet/115742530333573065
+  published: 2025-12-28 21:03:03.000000000 +00:00
+- title: 'PySDR: A Guide to SDR and DSP Using Python'
+  url: https://pysdr.org/content/intro.html
   summary: Comments
-  published: 2025-12-21 18:39:46.000000000 +00:00
-- title: Evaluating chain-of-thought monitorability
-  url: https://openai.com/index/evaluating-chain-of-thought-monitorability/
+  published: 2025-12-28 20:02:50.000000000 +00:00
+- title: Researchers Discover Molecular Difference in Autistic Brains
+  url: https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/
   summary: Comments
-  published: 2025-12-19 05:49:33.000000000 +00:00
-- title: 'Show HN: Autograd.c – A tiny ML framework built from scratch'
-  url: https://github.com/sueszli/autograd.c
+  published: 2025-12-28 22:23:33.000000000 +00:00
+- title: 'Show HN: My app just won best iOS Japanese learning tool of 2025 blog award'
+  url: https://skerritt.blog/best-japanese-learning-tools-2025-award-show/
   summary: Comments
-  published: 2025-12-16 06:26:01.000000000 +00:00
-- title: I program on the subway
-  url: https://www.scd31.com/posts/programming-on-the-subway
+  published: 2025-12-29 00:01:26.000000000 +00:00
+- title: 'Growing up in “404 Not Found”: China''s nuclear city in the Gobi Desert'
+  url: https://substack.com/inbox/post/182743659
   summary: Comments
-  published: 2025-12-16 21:23:18.000000000 +00:00
-- title: CO2 batteries that store grid energy take off globally
-  url: https://spectrum.ieee.org/co2-battery-energy-storage
+  published: 2025-12-28 06:43:25.000000000 +00:00
+- title: Why I Disappeared – My week with minimal internet in a remote island chain
+  url: https://www.kenklippenstein.com/p/why-i-disappeared
   summary: Comments
-  published: 2025-12-21 15:27:36.000000000 +00:00
-- title: Autoland saves King Air, everyone reported safe
-  url: https://avbrief.com/autoland-saves-king-air-everyone-reported-safe/
+  published: 2025-12-28 21:45:44.000000000 +00:00
+- title: Slaughtering Competition Problems with Quantifier Elimination
+  url: https://grossack.site/2021/12/22/qe-competition.html
   summary: Comments
-  published: 2025-12-21 16:57:57.000000000 +00:00
-- title: E.W.Dijkstra Archive
-  url: https://www.cs.utexas.edu/~EWD/welcome.html
+  published: 2025-12-28 23:10:13.000000000 +00:00
+- title: 'Time in C++: Inter-Clock Conversions, Epochs, and Durations'
+  url: https://www.sandordargo.com/blog/2025/12/24/clocks-part-5-conversions
   summary: Comments
-  published: 2025-12-21 15:29:31.000000000 +00:00
-- title: You’re not burnt out, you’re existentially starving
-  url: https://neilthanedar.com/youre-not-burnt-out-youre-existentially-starving/
+  published: 2025-12-26 04:57:04.000000000 +00:00
+- title: Remembering Lou Gerstner
+  url: https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner
   summary: Comments
-  published: 2025-12-21 18:28:56.000000000 +00:00
-- title: I can't upgrade to Windows 11, now leave me alone
-  url: https://idiallo.com/byte-size/cant-update-to-windows-11-leave-me-alone
+  published: 2025-12-28 18:43:54.000000000 +00:00
+- title: Building a macOS app to know when my Mac is thermal throttling
+  url: https://stanislas.blog/2025/12/macos-thermal-throttling-app/
   summary: Comments
-  published: 2025-12-21 18:43:20.000000000 +00:00
-- title: 'Rue: Higher level than Rust, lower level than Go'
-  url: https://rue-lang.dev/
+  published: 2025-12-28 11:51:42.000000000 +00:00
+- title: 'Dolphin Progress Report: Release 2512'
+  url: https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/
   summary: Comments
-  published: 2025-12-21 20:46:02.000000000 +00:00
-- title: Structured outputs create false confidence
-  url: https://boundaryml.com/blog/structured-outputs-create-false-confidence
+  published: 2025-12-28 21:57:04.000000000 +00:00
+- title: Writing non-English languages with a QWERTY keyboard
+  url: https://altgr-weur.eu/altgr-intl.html
   summary: Comments
-  published: 2025-12-21 15:06:46.000000000 +00:00
-- title: 'Perron: A Static Site Generator for Ruby on Rails'
-  url: https://perron-site.statichost.page/
+  published: 2025-12-24 23:21:45.000000000 +00:00
+- title: Learn computer graphics from scratch and for free
+  url: https://www.scratchapixel.com
   summary: Comments
-  published: 2025-12-18 23:37:05.000000000 +00:00
-- title: Deliberate Internet Shutdowns
-  url: https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+  published: 2025-12-28 11:08:22.000000000 +00:00
+- title: 'Doublespeak: In-Context Representation Hijacking'
+  url: https://mentaleap.ai/doublespeak/
   summary: Comments
-  published: 2025-12-18 17:49:10.000000000 +00:00
-- title: ARIN Public Incident Report – 4.10 Misissuance Error
-  url: https://www.arin.net/announcements/20251212/
+  published: 2025-12-22 19:16:21.000000000 +00:00
+- title: Fast Cvvdp Implementation in C
+  url: https://github.com/halidecx/fcvvdp
   summary: Comments
-  published: 2025-12-21 15:19:41.000000000 +00:00
-- title: Get an AI code review in 10 seconds
-  url: https://oldmanrahul.com/2025/12/19/ai-code-review-trick/
+  published: 2025-12-28 23:30:10.000000000 +00:00
+- title: 'Show HN: Pion SCTP with RACK is 70% faster with 30% less latency'
+  url: https://pion.ly/blog/sctp-and-rack/
   summary: Comments
-  published: 2025-12-21 17:21:05.000000000 +00:00
-- title: Ruby website redesigned
-  url: https://www.ruby-lang.org/en/
+  published: 2025-12-28 18:05:13.000000000 +00:00
+- title: As AI gobbles up chips, prices for devices may rise
+  url: https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram
   summary: Comments
-  published: 2025-12-21 07:06:48.000000000 +00:00
-- title: Indoor tanning makes youthful skin much older on a genetic level
-  url: https://www.ucsf.edu/news/2025/12/431206/indoor-tanning-makes-youthful-skin-much-older-genetic-level
+  published: 2025-12-28 22:52:21.000000000 +00:00
+- title: How to Complain
+  url: https://outerproduct.net/trivial/2024-03-25_complain.html
   summary: Comments
-  published: 2025-12-21 05:21:42.000000000 +00:00
-- title: Coarse is better
-  url: https://borretti.me/article/coarse-is-better
+  published: 2025-12-28 23:23:21.000000000 +00:00
+- title: Software engineers should be a little bit cynical
+  url: https://www.seangoedecke.com/a-little-bit-cynical/
   summary: Comments
-  published: 2025-12-21 12:57:44.000000000 +00:00
-- title: I wish people were more public
-  url: https://borretti.me/article/i-wish-people-were-more-public
+  published: 2025-12-28 21:29:32.000000000 +00:00
+- title: 'Intermission: Battle Pulses'
+  url: https://acoup.blog/2025/12/18/intermission-battle-pulses/
   summary: Comments
-  published: 2025-12-21 23:42:34.000000000 +00:00
-- title: Waymo halts service during S.F. blackout after causing traffic jams
-  url: https://missionlocal.org/2025/12/sf-waymo-halts-service-blackout/
+  published: 2025-12-26 07:18:44.000000000 +00:00
+- title: One year of keeping a tada list
+  url: https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list
   summary: Comments
-  published: 2025-12-21 05:12:03.000000000 +00:00
-- title: Three ways to solve problems
-  url: https://andreasfragner.com/writing/three-ways-to-solve-problems
+  published: 2025-12-22 14:16:40.000000000 +00:00
+- title: 'Private equity is killing private ownership: first it was housing, now it''s
+    PCs'
+  url: https://old.reddit.com/r/pcmasterrace/comments/1px9xwx/private_equity_is_killing_private_ownership_first/
   summary: Comments
-  published: 2025-12-21 14:35:29.000000000 +00:00
-- title: Why “negative vectors” can't delete data in FAISS – but weighted kernels
-    can
-  url: https://github.com/nikitph/bloomin/tree/master/negative-vector-experiment
+  published: 2025-12-29 01:12:43.000000000 +00:00
+- title: 'Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)'
+  url: https://phantas.io
   summary: Comments
-  published: 2025-12-17 06:26:59.000000000 +00:00
-- title: Frozen Waymos backed up San Francisco traffic during a widespread power outage
-  url: https://www.theverge.com/news/848843/waymo-san-francisco-power-outage
+  published: 2025-12-28 20:38:09.000000000 +00:00
+- title: No, it's not a battleship
+  url: https://www.navalgazing.net/No-its-not
   summary: Comments
-  published: 2025-12-22 00:39:07.000000000 +00:00
-- title: 'Show HN: Shittp – Volatile Dotfiles over SSH'
-  url: https://github.com/FOBshippingpoint/shittp
+  published: 2025-12-28 19:41:40.000000000 +00:00
+- title: Oral History of Richard Greenblatt (2005) [pdf]
+  url: https://archive.computerhistory.org/resources/text/Oral_History/Greenblatt_Richard/greenblatt.oral_history_transcript.2005.102657935.pdf
   summary: Comments
-  published: 2025-12-21 12:33:11.000000000 +00:00
+  published: 2025-12-25 15:34:44.000000000 +00:00
