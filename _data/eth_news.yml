@@ -1,19 +1,122 @@
 ---
-- title: Here’s what happened in crypto today
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Need to know what happened in crypto today? Here is the latest news on
-    daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3
-    and crypto regulation.
-  published: 2025-12-28 22:09:15.000000000 +00:00
+- title: Bitcoin and Ether ETFs pull in $646M on first trading day of 2026
+  url: https://cointelegraph.com/news/bitcoin-ethereum-crypto-etfs-inflows-strong?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: On the first trading day of 2026, US-based spot Bitcoin exchange-traded
+    funds recorded their largest net inflow day in 35 trading days.
+  published: 2026-01-04 03:59:01.000000000 +00:00
+- title: BitMine stakes $259M more ETH, pushing validator entry queue near 1M Ether
+  url: https://cointelegraph.com/news/bitmine-stakes-259m-eth-validator-queue-nears-1m?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum’s validator entry queue has climbed toward 1 million ETH, with
+    an estimated wait time of nearly 17 days for new validators to become active.
+  published: 2026-01-03 08:19:06.000000000 +00:00
+- title: BitMine chairman proposes 1,000x increase in company's authorized shares,
+    to 50B
+  url: https://cointelegraph.com/news/bitmine-chairman-1-000x-increase-authorized-shares-50b?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Being able to strategically raise capital by having shares ready to issue
+    was one of the secondary reasons Lee gave for the proposal.
+  published: 2026-01-02 21:55:25.000000000 +00:00
+- title: DeFi pioneer coughs up $50K after making bad bet on Ether
+  url: https://cointelegraph.com/news/infinex-founder-kain-warwick-loses-50k-bet-as-eth-misses-25k-in-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum OG Kain Warwick lost a $50,000 bet after Ether failed to reach
+    his $25,000 price target in 2025, underscoring slower-than-expected ETH recovery.
+  published: 2026-01-02 06:48:12.000000000 +00:00
+- title: Ethereum co-founder pitches DApps as solution to 2025 Cloudflare outage
+  url: https://cointelegraph.com/news/vitalik-buterin-ethereum-dapps-solution-cloudflare?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Outages with Cloudflare and Amazon Web Services caused brief massive outages
+    in 2025, affecting several cryptocurrency platforms.
+  published: 2026-01-01 19:41:28.000000000 +00:00
+- title: 'Crypto privacy in 2026: Compliance-friendly tools take center stage'
+  url: https://cointelegraph.com/news/crypto-privacy-in-2026-compliance-friendly-tools-take-center-stage?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Crypto privacy is approaching an inflection point as relevant lawsuits
+    near their conclusions and developers pivot toward designs that ensure privacy
+    while appeasing regulators.
+  published: 2026-01-01 14:00:00.000000000 +00:00
+- title: Why JPMorgan’s onchain fund is a big signal for Ethereum
+  url: https://cointelegraph.com/news/why-jpmorgan-s-onchain-fund-is-a-big-signal-for-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: JPMorgan has launched a tokenized money market fund on Ethereum, highlighting
+    how regulated cash products may integrate into onchain settlement and collateral
+    workflows.
+  published: 2025-12-31 18:55:00.000000000 +00:00
+- title: 'Ethereum below $3K: Low fees, weak ETF flows signal stagnation into 2026'
+  url: https://cointelegraph.com/news/ethereum-below-3k-low-fees-etf-weak-etf-flows-stagnation-into-2026?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ether trades sideways as spot ETF outflows, weak bullish leverage demand,
+    and low Ethereum network fees cap recovery prospects going into 2026.
+  published: 2025-12-31 13:32:37.000000000 +00:00
+- title: The Bybit hack made Kim Jong Un crypto's most influential in 2025
+  url: https://cointelegraph.com/news/bybit-hack-kim-jong-un-crypto-most-influential-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: North Korea’s record-breaking Bybit hack changed how exchanges handle security
+    and even influenced FATF’s global crypto recommendations.
+  published: 2025-12-31 13:00:00.000000000 +00:00
+- title: Ethereum L1 transactions hit 2.2M a day; each costs about 17 cents
+  url: https://cointelegraph.com/news/ethereum-txs-hit-record-2-2m-while-fees-drop?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum transactions were the most costly in May 2022 when fees were over
+    $200 per transaction on average. They have been declining since.
+  published: 2025-12-31 06:38:05.000000000 +00:00
+- title: 'BitMine buys nearly $98M in ETH as year-end selling weighs on prices: Tom
+    Lee'
+  url: https://cointelegraph.com/news/bitmine-buys-98-million-ether-tax-sellers-offload-assets?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: BitMine added 32,938 ETH on Tuesday, with year-end tax-loss selling and
+    low holiday liquidity pressuring prices, according to Fundstrat’s Tom Lee.
+  published: 2025-12-31 04:06:39.000000000 +00:00
+- title: US prosecutors oppose Defi Education Fund brief ahead of potential MEV case
+    retrial
+  url: https://cointelegraph.com/news/us-government-defi-education-fund-amicus-mev-bot-retria?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Federal prosecutors argue an industry amicus brief is irrelevant as a New
+    York court weighs next steps in the MEV bot case against two brothers.
+  published: 2025-12-30 21:54:34.000000000 +00:00
+- title: "$11B Bitcoin whale sells $330M ETH, opens massive $748M longs in top cryptos"
+  url: https://cointelegraph.com/news/11b-bitcoin-whale-330m-eth-748m-long-top-tokens?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: An $11 billion Bitcoin whale is betting hundreds of millions of dollars
+    on price increases of Bitcoin, Ether and Solana, while "smart money" traders remain
+    net short on leading tokens.
+  published: 2025-12-30 10:20:10.000000000 +00:00
+- title: Bitcoin long-term hodlers finally halt selloff as ETH whales accumulate
+  url: https://cointelegraph.com/news/bitcoin-long-term-holders-halt-selloff-ether-whales-accumula?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin selling pressure from long time hodlers is finally abating and
+    Ether whales are adding to their holdings. Markets remain bearish, however.
+  published: 2025-12-30 05:46:36.000000000 +00:00
+- title: 'Tech giant to launch crypto wallet, fintech L1s will bomb: Dragonfly exec.'
+  url: https://cointelegraph.com/news/tech-giants-google-apple-meta-launch-crypto-wallet-2026?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Dragonfly’s Haseeb Qureshi predicts Big Tech and Fortune 100 companies
+    will start building in crypto in 2026, but that corporate L1s will fail to challenge
+    Ethereum and Solana.
+  published: 2025-12-30 00:59:43.000000000 +00:00
+- title: ETH price to $5K next? Ether rallied 120% the last time this happened
+  url: https://cointelegraph.com/news/eth-price-5k-next-ethereum-rallied-120-percent-last-time-this-happened?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The amount of Ether waiting to be staked has surpassed that awaiting withdrawal,
+    making a rally to $5,000 possible in 2026.
+  published: 2025-12-29 15:15:00.000000000 +00:00
+- title: BitMine locks up $1B in Ether as big corporates stake ETH for yield
+  url: https://cointelegraph.com/news/bitmine-stakes-1b-ether-corporations-crypto-yield?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The largest corporate Ethereum holders continue seeking passive yield through
+    staking, effectively reducing the sellable Ether supply on the open market.
+  published: 2025-12-29 10:36:46.000000000 +00:00
+- title: 'Higher activity, lower fees: Here’s what December’s onchain data shows'
+  url: https://cointelegraph.com/news/higher-activity-lower-fees-december-onchain-data?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Onchain data shows activity holding up on Ethereum, Polygon, Arbitrum and
+    Avalanche even as fee revenue declines across the crypto sector.
+  published: 2025-12-29 10:13:51.000000000 +00:00
+- title: Trend Research lifts ETH holdings to $1.8B with $35M buy, is ‘bullish’ on
+    2026
+  url: https://cointelegraph.com/news/trend-research-lifts-eth-holdings-to-1-8b-with-35m-buy-bullish-2026?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Trend Research founder Jack Yi pledged to continue buying Ether, claiming
+    more financial and regulatory tailwinds will drive crypto valuations in 2026.
+  published: 2025-12-29 09:27:56.000000000 +00:00
+- title: ETH validator entry queue is suddenly almost double the exit queue
+  url: https://cointelegraph.com/news/ethereum-staking-queues-flip?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Digital asset treasury companies such as Tom Lee’s BitMine have contributed
+    to the increase in the entry queue, but the network’s Petcra upgrade may have
+    also helped.
+  published: 2025-12-29 05:58:09.000000000 +00:00
 - title: Uniswap executes 100M UNI burn after governance approval
   url: https://cointelegraph.com/news/uniswap-executes-100m-uni-burn-after-fee-switch-approval?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Uniswap has removed 100 million UNI from circulation after its fee-burning
-    proposal passed with near-unanimous support.
+  summary: The burn follows the approval of Uniswap’s UNIfication proposal, which
+    activates protocol fees and future UNI supply reductions.
   published: 2025-12-28 06:58:11.000000000 +00:00
 - title: Bitmine begins staking ETH, deposits $219M into Ethereum PoS contract
   url: https://cointelegraph.com/news/bitmine-begins-staking-eth-deposits-219m-pos-contract?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum treasury firm Bitmine has begun staking Ether after depositing
-    nearly $219 million worth of ETH into Ethereum’s proof-of-stake system.
+  summary: The transfers suggest early-stage validator setup activity as Bitmine’s
+    Ether holdings climb past 4 million ETH, according to onchain data.
   published: 2025-12-27 10:24:47.000000000 +00:00
 - title: 'Ethereum''s TVL could skyrocket ''10X'' in 2026: Sharplink CEO'
   url: https://cointelegraph.com/news/ethereum-total-value-locked-skyrocket-2026-sharplink-ceo?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -58,109 +161,3 @@
   summary: BTC may fall to $70,000 and ETH to $2,400 if the Fed pauses rate cuts in
     the first quarter of 2026 and inflationary pressure persists.
   published: 2025-12-25 14:10:00.000000000 +00:00
-- title: 'Ethereum in 2026: Glamsterdam and Hegota forks, L1 scaling and more'
-  url: https://cointelegraph.com/news/ethereum-2026-glamsterdam-hegota-fork-scaling?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The coming year will see perfect parallel processing, big increases in
-    the gas limit and number of data blobs, and 10% of Ethereum’s network switching
-    to ZK.
-  published: 2025-12-25 13:00:00.000000000 +00:00
-- title: 'Solana and Ethereum can coexist in tokenization race: Dragonfly VC'
-  url: https://cointelegraph.com/news/solana-ethereum-blockchain-tokenization-race-dragonfly-crypto-vc?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Dragonfly’s Rob Hadick says “there’s a lot of room” in crypto for more
-    than one blockchain as networks race to win market share of tokenized assets.
-  published: 2025-12-25 02:16:35.000000000 +00:00
-- title: Crypto heads into 2026 with privacy, decentralized identity on the line
-  url: https://cointelegraph.com/news/crypto-2026-privacy-decentralized-identity?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: As crypto, governments and Big Tech converge on digital identity, selective
-    disclosure and zero-knowledge proofs are emerging as a privacy-first alternative
-    to surveillance systems.
-  published: 2025-12-24 19:17:28.000000000 +00:00
-- title: Ether price under pressure as $6B in options expiry nears
-  url: https://cointelegraph.com/news/ethereum-price-under-pressure-6-billion-options-expiry?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: ETH options data shows investors increasing downside protection as the
-    year-end $6 billion options expry approaches, signaling caution.
-  published: 2025-12-24 18:45:00.000000000 +00:00
-- title: Offchain Labs boosts ARB stake as Arbitrum crosses $20B milestone
-  url: https://cointelegraph.com/news/offchain-labs-buys-arb-arbitrum-20b-value-secured?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Offchain Labs increased its ARB holdings, signaling long-term conviction
-    in Arbitrum as governance token prices slump and layer-2 competition intensifies.
-  published: 2025-12-24 17:45:29.000000000 +00:00
-- title: 70% of Ether positions are 'long' as whale accumulation tightens ETH supply
-  url: https://cointelegraph.com/news/70-percent-ether-positions-long-whale-accumulation-eth-tightens-supply?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Whales have accumulated over $2 billion in Ether, as derivatives positioning
-    skewed 70% net long with leverage at record highs. When will ETH price break out?
-  published: 2025-12-24 15:50:00.000000000 +00:00
-- title: Trend Research quietly becomes one of Ethereum’s largest whales with 46K
-    ETH buy
-  url: https://cointelegraph.com/news/trend-research-ethereum-largest-whales?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Trend Research’s 46,379 ETH purchase vaults the private company into the
-    top tier of ETH treasuries, behind only SharpLink Gaming and BitMine Immersion
-    Technologies.
-  published: 2025-12-24 09:34:49.000000000 +00:00
-- title: How Wall Street is using Ethereum without talking about Ethereum
-  url: https://cointelegraph.com/news/how-wall-street-is-using-ethereum-without-talking-about-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum is increasingly powering tokenized money, faster settlement and
-    regulated onchain infrastructure — even as institutions avoid naming it outright.
-  published: 2025-12-23 13:19:50.000000000 +00:00
-- title: Bitmine’s stash crosses 4M ETH after latest $40M buy
-  url: https://cointelegraph.com/news/bitmine-crosses-4m-eth-latest-40-million-buy?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitmine’s Ether holdings now exceed 4 million tokens worth over $12 billion,
-    following nearly 100,000 ETH in purchases over the past week
-  published: 2025-12-23 02:14:12.000000000 +00:00
-- title: Wall Street’s bid on crypto dominated 2025, but what’s the demand outlook
-    for 2026?
-  url: https://cointelegraph.com/news/wall-street-ruled-crypto-in-2025-what-s-the-demand-outlook-for-2026?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Fed policy shifts and crypto-friendly regulation point to a bullish 2026,
-    but AI risk, ETF flows and consumer stress could test demand.
-  published: 2025-12-22 23:06:27.000000000 +00:00
-- title: ETHZilla liquidates $74.5M in Ether to redeem convertible debt
-  url: https://cointelegraph.com/news/ethzilla-liquidates-ether-redeem-convertible-debt?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The transaction highlights growing pressure on crypto treasury companies
-    to prioritize debt reduction as token prices remain volatile.
-  published: 2025-12-22 22:09:53.000000000 +00:00
-- title: Ether analysts see ‘upward breakout’ as ETH price returns to $3K
-  url: https://cointelegraph.com/news/ethereum-upward-breakout-eth-price-returns-3k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether rebounded 16% to reclaim $3,000 as whales accumulate heavily, exchange
-    supply hits nine-year lows and network activity surges.
-  published: 2025-12-22 15:46:19.000000000 +00:00
-- title: 'Clarity Act delays led to $952M in crypto fund outflows: CoinShares'
-  url: https://cointelegraph.com/news/clarity-act-delays-950m-crypto-fund-outflows?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Crypto funds broke three weeks of net positive flows, after US investor
-    sentiment took a hit following delays to the long-awaited CLARITY Act, set to
-    reach the Senate in January 2026.
-  published: 2025-12-22 13:33:25.000000000 +00:00
-- title: 'Crypto activity in Brazil rises 43% with average investment surpassing $1,000:
-    Report'
-  url: https://cointelegraph.com/news/brazil-crypto-activity-43-percent-growth-average-investment-2025?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Brazil’s crypto market showed signs of maturity in 2025, with higher transaction
-    volumes, larger per-user investments and growing demand for low-risk products.
-  published: 2025-12-21 08:17:14.000000000 +00:00
-- title: What BitMine’s 4M ETH holdings mean for its stock valuation
-  url: https://cointelegraph.com/news/what-bitmine-s-4m-eth-holdings-mean-for-its-stock-valuation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: BitMine’s growing Ether holdings are reshaping how investors assess the
-    company’s balance sheet, risk exposure and equity valuation.
-  published: 2025-12-20 15:56:15.000000000 +00:00
-- title: Fundstrat’s circulating 2026 crypto outlook warns of pullback, contrasting
-    Tom Lee
-  url: https://cointelegraph.com/news/fundstrat-circulating-2026-crypto-outlook-pullback-tom-lee?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: A circulating report attributed to Fundstrat warns of a potential crypto
-    drawdown in early 2026, setting downside targets for Bitcoin, Ether and Solana.
-  published: 2025-12-20 07:38:36.000000000 +00:00
-- title: 'Price predictions 12/19: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE,
-    LINK'
-  url: https://cointelegraph.com/news/price-predictions-12-19-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin and several major altcoins are attempting to start a recovery,
-    but negative investor sentiment and selling at range highs are preventing a stronger
-    bull trend from forming.
-  published: 2025-12-19 20:15:00.000000000 +00:00
-- title: 'Bitcoin dips below $85K as DATs face ‘mNAV rollercoaster’: Finance Redefined'
-  url: https://cointelegraph.com/news/bitcoin-dips-85k-dats-mnav-rollercoaster?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The volatility of the cryptocurrency market is threatening the stability
-    of corporate crypto treasury companies, resulting in larger swings in their net
-    asset value that threaten their fundraising abilities.
-  published: 2025-12-19 19:00:00.000000000 +00:00
-- title: Blockchains quietly prepare for quantum threat as Bitcoin debates timeline
-  url: https://cointelegraph.com/news/blockchains-prepare-quantum-threat-bitcoin-debate-timeline?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Altcoin blockchains are preparing for long-term quantum risk, while influential
-    Bitcoin voices disagree over how and when it should be addressed.
-  published: 2025-12-19 13:45:00.000000000 +00:00
