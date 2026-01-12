@@ -1,123 +1,126 @@
 ---
-- title: 'Show HN: Terminal UI for AWS'
-  url: https://github.com/huseyinbabal/taws
+- title: The struggle of resizing windows on macOS Tahoe
+  url: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
   summary: Comments
-  published: 2026-01-04 20:17:22.000000000 +00:00
-- title: Lessons from 14 Years at Google
-  url: https://addyosmani.com/blog/21-lessons/
+  published: 2026-01-11 20:47:55.000000000 +00:00
+- title: CLI agents like Claude Code make self-hosting on a home server easier and
+    fun
+  url: https://fulghum.io/self-hosting
   summary: Comments
-  published: 2026-01-04 15:23:54.000000000 +00:00
-- title: Why does a least squares fit appear to have a bias when applied to simple
-    data?
-  url: https://stats.stackexchange.com/questions/674129/why-does-a-linear-least-squares-fit-appear-to-have-a-bias-when-applied-to-simple
+  published: 2026-01-11 21:29:57.000000000 +00:00
+- title: Statement by Federal Reserve Chair Jerome F. Powell [video]
+  url: https://www.youtube.com/watch?v=KckGHaBLSn4
   summary: Comments
-  published: 2026-01-04 20:25:30.000000000 +00:00
-- title: The Unbearable Joy of Sitting Alone in a Café
-  url: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
+  published: 2026-01-12 01:05:20.000000000 +00:00
+- title: This game is a single 13 KiB file that runs on Windows, Linux and in the
+    Browser
+  url: https://iczelia.net/posts/snake-polyglot/
   summary: Comments
-  published: 2026-01-04 14:37:58.000000000 +00:00
-- title: 'Eurostar AI vulnerability: When a chatbot goes off the rails'
-  url: https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/
+  published: 2026-01-11 22:14:35.000000000 +00:00
+- title: iCloud Photos Downloader
+  url: https://github.com/icloud-photos-downloader/icloud_photos_downloader
   summary: Comments
-  published: 2026-01-04 20:52:52.000000000 +00:00
-- title: 'Millennium Challenge: A corrupted military exercise and its legacy (2015)'
-  url: https://warontherocks.com/2015/11/millennium-challenge-the-real-story-of-a-corrupted-military-exercise-and-its-legacy/
+  published: 2026-01-11 19:23:58.000000000 +00:00
+- title: I Cannot SSH into My Server Anymore (and That's Fine)
+  url: https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html
   summary: Comments
-  published: 2026-01-04 23:43:48.000000000 +00:00
-- title: 'Linear Address Spaces: Unsafe at any speed (2022)'
-  url: https://queue.acm.org/detail.cfm?id=3534854
+  published: 2026-01-07 09:37:12.000000000 +00:00
+- title: FUSE is All You Need – Giving agents access to anything via filesystems
+  url: https://jakobemmerling.de/posts/fuse-is-all-you-need/
   summary: Comments
-  published: 2025-12-31 07:57:53.000000000 +00:00
-- title: Street Fighter II, the World Warrier (2021)
-  url: https://fabiensanglard.net/sf2_warrier/
+  published: 2026-01-11 21:12:45.000000000 +00:00
+- title: Sampling at negative temperature
+  url: https://cavendishlabs.org/blog/negative-temperature/
   summary: Comments
-  published: 2026-01-04 14:30:29.000000000 +00:00
-- title: Ripple, a puzzle game about 2nd and 3rd order effects
-  url: https://ripplegame.app/
+  published: 2026-01-11 20:01:14.000000000 +00:00
+- title: I'm making a game engine based on dynamic signed distance fields (SDFs) [video]
+  url: https://www.youtube.com/watch?v=il-TXbn5iMA
   summary: Comments
-  published: 2026-01-04 17:50:04.000000000 +00:00
-- title: The Year of the 3D Printed Miniature (and Other Lies We Tell Ourselves)
-  url: https://matduggan.com/the-year-of-the-3d-printed-miniature-and-other-lies-we-tell-ourselves/
+  published: 2026-01-08 10:34:05.000000000 +00:00
+- title: Don't fall into the anti-AI hype
+  url: https://antirez.com/news/158
   summary: Comments
-  published: 2025-12-29 16:57:11.000000000 +00:00
-- title: Web development is fun again
-  url: https://ma.ttias.be/web-development-is-fun-again/
+  published: 2026-01-11 10:26:18.000000000 +00:00
+- title: Elo – A data expression language which compiles to JavaScript, Ruby, and
+    SQL
+  url: https://elo-lang.org/
   summary: Comments
-  published: 2026-01-04 15:00:18.000000000 +00:00
-- title: 'Show HN: An interactive guide to how browsers work'
-  url: https://howbrowserswork.com/
+  published: 2026-01-07 11:59:24.000000000 +00:00
+- title: I'd tell you a UDP joke…
+  url: https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get
   summary: Comments
-  published: 2026-01-04 15:08:02.000000000 +00:00
-- title: Server-rendered multiplayer games with Lua (no client code)
-  url: https://cleoselene.com/
+  published: 2026-01-11 22:20:17.000000000 +00:00
+- title: The Next Two Years of Software Engineering
+  url: https://addyosmani.com/blog/next-two-years/
   summary: Comments
-  published: 2026-01-04 19:54:52.000000000 +00:00
-- title: The Showa Hundred Year Problem
-  url: https://www.dampfkraft.com/showa-100.html
+  published: 2026-01-11 22:00:24.000000000 +00:00
+- title: 'Show HN: What if AI agents had Zodiac personalities?'
+  url: https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities
   summary: Comments
-  published: 2025-12-31 03:35:58.000000000 +00:00
-- title: Six Harmless Bugs Lead to Remote Code Execution
-  url: https://mehmetince.net/the-story-of-a-perfect-exploit-chain-six-bugs-that-looked-harmless-until-they-became-pre-auth-rce-in-a-security-appliance/
+  published: 2026-01-11 23:49:15.000000000 +00:00
+- title: Gentoo Linux 2025 Review
+  url: https://www.gentoo.org/news/2026/01/05/new-year.html
   summary: Comments
-  published: 2026-01-01 20:02:09.000000000 +00:00
-- title: Claude Code On-the-Go
-  url: https://granda.org/en/2026/01/02/claude-code-on-the-go/
+  published: 2026-01-11 11:38:52.000000000 +00:00
+- title: Insights into Claude Opus 4.5 from Pokémon
+  url: https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon
   summary: Comments
-  published: 2026-01-04 19:48:20.000000000 +00:00
-- title: Agentic Patterns
-  url: https://github.com/nibzard/awesome-agentic-patterns
+  published: 2026-01-06 17:41:42.000000000 +00:00
+- title: A set of Idiomatic prod-grade katas for experienced devs transitioning to
+    Go
+  url: https://github.com/MedUnes/go-kata
   summary: Comments
-  published: 2026-01-04 19:24:47.000000000 +00:00
-- title: Stop Forwarding Errors, Start Designing Them
-  url: https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/
+  published: 2026-01-07 19:53:40.000000000 +00:00
+- title: 'Ask HN: What are you working on? (January 2026)'
+  url: https://news.ycombinator.com/item?id=46577242
   summary: Comments
-  published: 2026-01-04 19:02:25.000000000 +00:00
-- title: OpenGitOps
-  url: https://opengitops.dev/
+  published: 2026-01-11 16:43:06.000000000 +00:00
+- title: Perfectly Replicating Coca Cola [video]
+  url: https://www.youtube.com/watch?v=TDkH3EbWTYc
   summary: Comments
-  published: 2026-01-04 20:18:51.000000000 +00:00
-- title: 'Show HN: Hover – IDE style hover documentation on any webpage'
-  url: https://github.com/Sampsoon/hover
+  published: 2026-01-08 17:09:55.000000000 +00:00
+- title: Jerome Powell Responds
+  url: https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
   summary: Comments
-  published: 2026-01-04 18:43:45.000000000 +00:00
-- title: Moiré Explorer
-  url: https://play.ertdfgcvb.xyz/#/src/demos/moire_explorer
+  published: 2026-01-12 01:02:48.000000000 +00:00
+- title: Poison Fountain
+  url: https://rnsaffn.com/poison3/
   summary: Comments
-  published: 2026-01-04 12:54:20.000000000 +00:00
-- title: Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare
-    access
-  url: https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time
+  published: 2026-01-11 17:05:52.000000000 +00:00
+- title: A Glimpse into DexProtector
+  url: https://www.romainthomas.fr/post/26-01-dexprotector/
   summary: Comments
-  published: 2026-01-04 17:01:43.000000000 +00:00
-- title: The great shift of English prose
-  url: https://www.worksinprogress.news/p/english-prose-has-become-much-easier
+  published: 2026-01-07 08:08:37.000000000 +00:00
+- title: BYD's cheapest electric cars to have Lidar self-driving tech
+  url: https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/
   summary: Comments
-  published: 2026-01-01 02:19:14.000000000 +00:00
-- title: 'Show HN: An LLM-Powered PCB Schematic Checker (Major Update)'
-  url: https://traceformer.io/
+  published: 2026-01-11 20:52:44.000000000 +00:00
+- title: Quake 1 Single-Player Map Design Theories (2001)
+  url: https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html
   summary: Comments
-  published: 2026-01-04 21:43:26.000000000 +00:00
-- title: Using Hinge as a Command and Control Server
-  url: https://mattwie.se/hinge-command-control-c2
+  published: 2026-01-11 05:33:20.000000000 +00:00
+- title: "“Food JPEGs” in Super Smash Bros. and Kirby Air Riders"
+  url: https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders
   summary: Comments
-  published: 2026-01-04 14:08:08.000000000 +00:00
-- title: 'Show HN: Quantum Tunnel'
-  url: https://chuanqisun.github.io/quantum-tunnel/
+  published: 2026-01-06 18:57:03.000000000 +00:00
+- title: Rare Iron Age war trumpet and boar standard found
+  url: https://www.bbc.com/news/articles/cr7jvj8d39eo
   summary: Comments
-  published: 2026-01-04 23:31:31.000000000 +00:00
-- title: Maybe comments should explain 'what' (2017)
-  url: https://www.hillelwayne.com/post/what-comments/
+  published: 2026-01-07 20:47:26.000000000 +00:00
+- title: 'Anthropic: Developing a Claude Code competitor using Claude Code is banned'
+  url: https://twitter.com/SIGKITTEN/status/2009697031422652461
   summary: Comments
-  published: 2026-01-04 10:43:38.000000000 +00:00
-- title: Bison return to Illinois' Kane County after 200 years
-  url: https://phys.org/news/2025-12-bison-illinois-kane-county-years.html
+  published: 2026-01-11 19:07:08.000000000 +00:00
+- title: '"Scholars Will Call It Nonsense": The Structure of von Däniken''s Argument
+    (1987)'
+  url: https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/
   summary: Comments
-  published: 2025-12-30 18:22:56.000000000 +00:00
-- title: 'FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers'
-  url: https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/
+  published: 2026-01-11 19:26:13.000000000 +00:00
+- title: I dumped Windows 11 for Linux, and you should too
+  url: https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html
   summary: Comments
-  published: 2026-01-04 11:55:34.000000000 +00:00
-- title: How I archived 10 years of memories using Spotify
-  url: https://notes.xdavidhu.me/notes/how-i-archived-10-years-of-memories-using-spotify
+  published: 2026-01-11 11:31:22.000000000 +00:00
+- title: 'C++ std::move doesn''t move anything: A deep dive into Value Categories'
+  url: https://0xghost.dev/blog/std-move-deep-dive/
   summary: Comments
-  published: 2026-01-04 15:11:19.000000000 +00:00
+  published: 2026-01-09 09:01:33.000000000 +00:00
