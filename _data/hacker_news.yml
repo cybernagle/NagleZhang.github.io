@@ -1,126 +1,122 @@
 ---
-- title: The struggle of resizing windows on macOS Tahoe
-  url: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/
+- title: Gaussian Splatting – A$AP Rocky "Helicopter" music video
+  url: https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting
   summary: Comments
-  published: 2026-01-11 20:47:55.000000000 +00:00
-- title: CLI agents like Claude Code make self-hosting on a home server easier and
-    fun
-  url: https://fulghum.io/self-hosting
+  published: 2026-01-18 17:40:55.000000000 +00:00
+- title: Flux 2 Klein pure C inference
+  url: https://github.com/antirez/flux2.c
   summary: Comments
-  published: 2026-01-11 21:29:57.000000000 +00:00
-- title: Statement by Federal Reserve Chair Jerome F. Powell [video]
-  url: https://www.youtube.com/watch?v=KckGHaBLSn4
+  published: 2026-01-18 18:01:58.000000000 +00:00
+- title: 'Prediction: Microsoft Is Going to Do the Funniest Thing Imaginable'
+  url: https://gamesbymason.com/blog/2026/microsoft/
   summary: Comments
-  published: 2026-01-12 01:05:20.000000000 +00:00
-- title: This game is a single 13 KiB file that runs on Windows, Linux and in the
-    Browser
-  url: https://iczelia.net/posts/snake-polyglot/
+  published: 2026-01-18 23:24:55.000000000 +00:00
+- title: 'Fil-Qt: A Qt Base build with Fil-C experience'
+  url: https://git.qt.io/cradam/fil-qt
   summary: Comments
-  published: 2026-01-11 22:14:35.000000000 +00:00
-- title: iCloud Photos Downloader
-  url: https://github.com/icloud-photos-downloader/icloud_photos_downloader
+  published: 2026-01-16 13:19:03.000000000 +00:00
+- title: A Social Filesystem
+  url: https://overreacted.io/a-social-filesystem/
   summary: Comments
-  published: 2026-01-11 19:23:58.000000000 +00:00
-- title: I Cannot SSH into My Server Anymore (and That's Fine)
-  url: https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html
+  published: 2026-01-18 08:18:36.000000000 +00:00
+- title: Wine 11.0
+  url: https://gitlab.winehq.org/wine/wine/-/releases/wine-11.0
   summary: Comments
-  published: 2026-01-07 09:37:12.000000000 +00:00
-- title: FUSE is All You Need – Giving agents access to anything via filesystems
-  url: https://jakobemmerling.de/posts/fuse-is-all-you-need/
+  published: 2026-01-14 03:08:10.000000000 +00:00
+- title: Gas Town Decoded
+  url: https://www.alilleybrinker.com/mini/gas-town-decoded/
   summary: Comments
-  published: 2026-01-11 21:12:45.000000000 +00:00
-- title: Sampling at negative temperature
-  url: https://cavendishlabs.org/blog/negative-temperature/
+  published: 2026-01-14 22:39:33.000000000 +00:00
+- title: Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How
+    Used
+  url: https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/
   summary: Comments
-  published: 2026-01-11 20:01:14.000000000 +00:00
-- title: I'm making a game engine based on dynamic signed distance fields (SDFs) [video]
-  url: https://www.youtube.com/watch?v=il-TXbn5iMA
+  published: 2026-01-18 21:05:14.000000000 +00:00
+- title: Using proxies to hide secrets from Claude Code
+  url: https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/
   summary: Comments
-  published: 2026-01-08 10:34:05.000000000 +00:00
-- title: Don't fall into the anti-AI hype
-  url: https://antirez.com/news/158
+  published: 2026-01-13 18:12:09.000000000 +00:00
+- title: Sins of the Children
+  url: https://asteriskmag.com/issues/07/sins-of-the-children
   summary: Comments
-  published: 2026-01-11 10:26:18.000000000 +00:00
-- title: Elo – A data expression language which compiles to JavaScript, Ruby, and
-    SQL
-  url: https://elo-lang.org/
+  published: 2026-01-18 17:08:58.000000000 +00:00
+- title: The Cathedral, the Megachurch, and the Bazaar
+  url: https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/
   summary: Comments
-  published: 2026-01-07 11:59:24.000000000 +00:00
-- title: I'd tell you a UDP joke…
-  url: https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get
+  published: 2026-01-13 21:26:59.000000000 +00:00
+- title: 'Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup'
+  url: https://cua.ai/docs/lume/guide/getting-started/introduction
   summary: Comments
-  published: 2026-01-11 22:20:17.000000000 +00:00
-- title: The Next Two Years of Software Engineering
-  url: https://addyosmani.com/blog/next-two-years/
+  published: 2026-01-18 17:53:21.000000000 +00:00
+- title: Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)
+  url: https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
   summary: Comments
-  published: 2026-01-11 22:00:24.000000000 +00:00
-- title: 'Show HN: What if AI agents had Zodiac personalities?'
-  url: https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities
+  published: 2026-01-18 08:58:40.000000000 +00:00
+- title: Dead Internet Theory
+  url: https://kudmitry.com/articles/dead-internet-theory/
   summary: Comments
-  published: 2026-01-11 23:49:15.000000000 +00:00
-- title: Gentoo Linux 2025 Review
-  url: https://www.gentoo.org/news/2026/01/05/new-year.html
+  published: 2026-01-18 20:19:07.000000000 +00:00
+- title: Simple GIS on Potato
+  url: https://github.com/blue-monads/potato-apps/tree/master/cimple-gis
   summary: Comments
-  published: 2026-01-11 11:38:52.000000000 +00:00
-- title: Insights into Claude Opus 4.5 from Pokémon
-  url: https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon
+  published: 2026-01-18 22:15:01.000000000 +00:00
+- title: Stirling Cycle Machine Analysis
+  url: https://ohioopen.library.ohio.edu/opentextbooks/9/
   summary: Comments
-  published: 2026-01-06 17:41:42.000000000 +00:00
-- title: A set of Idiomatic prod-grade katas for experienced devs transitioning to
-    Go
-  url: https://github.com/MedUnes/go-kata
+  published: 2026-01-18 20:45:54.000000000 +00:00
+- title: 'Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss'
+  url: https://getdock.io/
   summary: Comments
-  published: 2026-01-07 19:53:40.000000000 +00:00
-- title: 'Ask HN: What are you working on? (January 2026)'
-  url: https://news.ycombinator.com/item?id=46577242
+  published: 2026-01-18 20:42:49.000000000 +00:00
+- title: Breaking the Zimmermann Telegram (2018)
+  url: https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614
   summary: Comments
-  published: 2026-01-11 16:43:06.000000000 +00:00
-- title: Perfectly Replicating Coca Cola [video]
-  url: https://www.youtube.com/watch?v=TDkH3EbWTYc
+  published: 2026-01-18 19:19:48.000000000 +00:00
+- title: Predicting OpenAI's ad strategy
+  url: https://ossa-ma.github.io/blog/openads
   summary: Comments
-  published: 2026-01-08 17:09:55.000000000 +00:00
-- title: Jerome Powell Responds
-  url: https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm
+  published: 2026-01-18 14:25:49.000000000 +00:00
+- title: 'Show HN: Beats, a web-based drum machine'
+  url: https://beats.lasagna.pizza
   summary: Comments
-  published: 2026-01-12 01:02:48.000000000 +00:00
-- title: Poison Fountain
-  url: https://rnsaffn.com/poison3/
+  published: 2026-01-18 21:10:08.000000000 +00:00
+- title: A free and open-source rootkit for Linux
+  url: https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/
   summary: Comments
-  published: 2026-01-11 17:05:52.000000000 +00:00
-- title: A Glimpse into DexProtector
-  url: https://www.romainthomas.fr/post/26-01-dexprotector/
+  published: 2026-01-18 09:36:25.000000000 +00:00
+- title: Cardputer uLisp Machine (2024)
+  url: http://www.ulisp.com/show?52G4
   summary: Comments
-  published: 2026-01-07 08:08:37.000000000 +00:00
-- title: BYD's cheapest electric cars to have Lidar self-driving tech
-  url: https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/
+  published: 2026-01-15 12:01:18.000000000 +00:00
+- title: Prediction markets are ushering in a world in which news becomes about gambling
+  url: https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb
   summary: Comments
-  published: 2026-01-11 20:52:44.000000000 +00:00
-- title: Quake 1 Single-Player Map Design Theories (2001)
-  url: https://www.quaddicted.com/webarchive//teamshambler.planetquake.gamespy.com/theories1.html
+  published: 2026-01-18 18:20:25.000000000 +00:00
+- title: Overlapping Markup
+  url: https://en.wikipedia.org/wiki/Overlapping_markup
   summary: Comments
-  published: 2026-01-11 05:33:20.000000000 +00:00
-- title: "“Food JPEGs” in Super Smash Bros. and Kirby Air Riders"
-  url: https://sethmlarson.dev/food-jpegs-in-super-smash-bros-and-kirby-air-riders
+  published: 2026-01-18 10:37:59.000000000 +00:00
+- title: 'ASCII characters are not pixels: a deep dive into ASCII rendering'
+  url: https://alexharri.com/blog/ascii-rendering
   summary: Comments
-  published: 2026-01-06 18:57:03.000000000 +00:00
-- title: Rare Iron Age war trumpet and boar standard found
-  url: https://www.bbc.com/news/articles/cr7jvj8d39eo
+  published: 2026-01-17 11:15:26.000000000 +00:00
+- title: More sustainable epoxy thanks to phosphorus
+  url: https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen
   summary: Comments
-  published: 2026-01-07 20:47:26.000000000 +00:00
-- title: 'Anthropic: Developing a Claude Code competitor using Claude Code is banned'
-  url: https://twitter.com/SIGKITTEN/status/2009697031422652461
+  published: 2026-01-14 10:43:31.000000000 +00:00
+- title: ThinkNext Design
+  url: https://thinknextdesign.com/home.html
   summary: Comments
-  published: 2026-01-11 19:07:08.000000000 +00:00
-- title: '"Scholars Will Call It Nonsense": The Structure of von Däniken''s Argument
-    (1987)'
-  url: https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/
+  published: 2026-01-18 06:27:24.000000000 +00:00
+- title: 'Show HN: Xenia – A monospaced font built with a custom Python engine'
+  url: https://github.com/Loretta1982/xenia
   summary: Comments
-  published: 2026-01-11 19:26:13.000000000 +00:00
-- title: I dumped Windows 11 for Linux, and you should too
-  url: https://www.notebookcheck.net/I-dumped-Windows-11-for-Linux-and-you-should-too.1190961.0.html
+  published: 2026-01-18 10:39:52.000000000 +00:00
+- title: jQuery 4
+  url: https://blog.jquery.com/2026/01/17/jquery-4-0-0/
   summary: Comments
-  published: 2026-01-11 11:31:22.000000000 +00:00
-- title: 'C++ std::move doesn''t move anything: A deep dive into Value Categories'
-  url: https://0xghost.dev/blog/std-move-deep-dive/
+  published: 2026-01-18 04:23:28.000000000 +00:00
+- title: Keystone (YC S25) Is Hiring
+  url: https://news.ycombinator.com/item?id=46667101
   summary: Comments
-  published: 2026-01-09 09:01:33.000000000 +00:00
+  published: 2026-01-18 12:00:10.000000000 +00:00
