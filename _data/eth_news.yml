@@ -1,4 +1,123 @@
 ---
+- title: Ethereum prepares for quantum era with new security team and funding
+  url: https://cointelegraph.com/news/ethereum-foundation-post-quantum-security-team?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum developers to launch biweekly sessions on quantum-resistant transactions
+    as Foundation commits $2 million in new funding to harden core cryptography.
+  published: 2026-01-24 07:46:11.000000000 +00:00
+- title: 'UBS weighing crypto trading for private banking clients: Report'
+  url: https://cointelegraph.com/news/ubs-explores-crypto-trading-private-banking-clients?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The plan would give ultra-high net worth clients an in-house crypto on-ramp
+    at one of the world's biggest private banks.
+  published: 2026-01-23 13:48:47.000000000 +00:00
+- title: Ethereum mainnet daily active addresses surpass all layer-2s
+  url: https://cointelegraph.com/news/ethereum-mainnet-more-popular-daily-addresses-all-l2?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum mainnet surpassed all layer-2 networks in daily active addresses
+    in January, though security analysts attributed part of the spike to address poisoning
+    attacks.
+  published: 2026-01-23 02:46:22.000000000 +00:00
+- title: Superstate raises $82.5M to build blockchain-based IPO issuance platform
+  url: https://cointelegraph.com/news/superstate-raises-82m-tokenized-capital-markets?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The funding will support Superstate’s effort to let companies issue and
+    trade regulated shares directly on public blockchains.
+  published: 2026-01-22 15:00:00.000000000 +00:00
+- title: Pantera Capital sees ‘brutal pruning’ for crypto treasuries in 2026
+  url: https://cointelegraph.com/news/crypto-treasury-consolidation-2026-pantera?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Pantera Capital predicts a year of significant consolidation for corporate
+    crypto treasuries, with a few large players dominating digital asset demand while
+    smaller ones get bought up.
+  published: 2026-01-22 13:15:55.000000000 +00:00
+- title: Bitcoin doesn’t have 20 years because the quantum threat is already here
+  url: https://cointelegraph.com/news/bitcoin-20-quantum-threat?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin’s 20-year quantum timeline collapses. 25% of the Bitcoin supply
+    sits in vulnerable addresses requiring urgent migration.
+  published: 2026-01-22 12:30:00.000000000 +00:00
+- title: Are Ethereum bears targeting sub-$2K ETH price?
+  url: https://cointelegraph.com/news/are-ethereum-bears-targeting-sub-2k-eth-price?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Despite Ether’s latest recovery to $3,000, data suggests that ETH price
+    may see a deeper correction to $1,850 if key support levels don’t hold.
+  published: 2026-01-22 11:51:57.000000000 +00:00
+- title: Buterin tips distributed validators to simplify Ethereum staking
+  url: https://cointelegraph.com/news/buterin-distributed-validators-can-make-ethereum-staking-simpler?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: While complex to set up, distributed validator technology could improve
+    Ethereum’s staking experience, according to the creator of Ethereum.
+  published: 2026-01-22 05:52:10.000000000 +00:00
+- title: US stocks, crypto rise after Trump pauses planned European tariffs
+  url: https://cointelegraph.com/news/us-stocks-crypto-market-donald-trump-greenland-tariffs?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The S&P 500 climbed, crypto stocks were mixed and Bitcoin and Ether posted
+    modest gains on Wednesday after Donald Trump called off his recent tariff threat.
+  published: 2026-01-22 02:30:01.000000000 +00:00
+- title: ETH funding rate turns negative, but will Ether bulls take the bait?
+  url: https://cointelegraph.com/news/eth-funding-rate-turns-negative-but-will-ether-bulls-take-the-bait?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Crypto traders often view negative funding rates as a strong buy signal,
+    but several data points suggest ETH investors have good reasons to remain risk-averse.
+  published: 2026-01-22 01:15:08.000000000 +00:00
+- title: Vitalik Buterin makes decentralized social media a top priority for 2026
+  url: https://cointelegraph.com/news/vitalik-buterin-decentralized-social-media-2026-priority?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The Ethereum co-founder urged broader adoption of open social platforms,
+    saying decentralized social media can improve online communication by restoring
+    competition.
+  published: 2026-01-21 21:55:32.000000000 +00:00
+- title: ETH whales bought the dip, but will accumulators prevent a drop to $2.7K?
+  url: https://cointelegraph.com/news/eth-whales-bought-the-dip-but-will-accumulators-prevent-a-drop-to-dollar2-7k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Institutional investors and crypto whales viewed the ETH price drop below
+    $3,000 as a buying opportunity, but data still hints at a deeper sell-off to $2,700.
+  published: 2026-01-21 21:45:00.000000000 +00:00
+- title: Galaxy to launch $100M hedge fund to bet on rising, falling crypto prices
+  url: https://cointelegraph.com/news/galaxy-launches-100m-crypto-hedge-fund-long-short-strategy?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Galaxy plans to deploy a new hedge fund strategy that targets both crypto
+    tokens and traditional financial stocks as the “up-only” phase fades.
+  published: 2026-01-21 07:20:46.000000000 +00:00
+- title: Noble blockchain shifts from Cosmos to launch its own EVM chain
+  url: https://cointelegraph.com/news/stablecoin-protocol-noble-migrate-off-cosmos-standalone-layer-1?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Noble is seeking better developer access and a more robust tech stack to
+    build its new EVM-compatible stablecoin-focused blockchain, which will launch
+    in March.
+  published: 2026-01-21 04:53:20.000000000 +00:00
+- title: Crypto market crash deepens as investors digest Trump tariff threat
+  url: https://cointelegraph.com/news/crypto-market-crash-deepens-as-investors-digest-trump-tariff-threat?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Crypto markets sell off as US stocks and global markets react to US President
+    Donald Trump’s new tariff threats. Will the tensions put a stop to Bitcoin's start-of-year
+    recovery?
+  published: 2026-01-21 01:16:42.000000000 +00:00
+- title: ETH derivatives metric turns positive after years of sell-side dominance
+  url: https://cointelegraph.com/news/eth-price-metric-flashes-buy-signal-after-3-years-of-seller-dominance?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: ETH sold off at the weekly open, but its net taker volume metric turned
+    positive for the first time in years. Will bulls take notice of the signal and
+    attempt to press Ether price higher?
+  published: 2026-01-20 18:05:27.000000000 +00:00
+- title: 'Ethereum activity surge could be linked to dusting attacks: Researcher'
+  url: https://cointelegraph.com/news/address-poisoning-attack-adding-record-ethereum-network-activity-says-researcher?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: A security researcher claims Ethereum’s recent network surge could be linked
+    to address poisoning attacks that are exploiting low gas fees on Ethereum.
+  published: 2026-01-20 04:59:14.000000000 +00:00
+- title: Ethereum L2 MegaETH peaks at 47K TPS ahead of ‘global stress test’
+  url: https://cointelegraph.com/news/ethereum-l2-megaeth-peaks-47k-tps-testnet?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: MegaETH will open its mainnet for several latency-sensitive apps as part
+    of testing, targeting 11 billion transactions over a week while under load.
+  published: 2026-01-20 02:30:47.000000000 +00:00
+- title: Crypto ETPs gather steam with $2.2B inflows, Bitcoin dominates gains
+  url: https://cointelegraph.com/news/crypto-funds-billion-inflows-bitcoin-dominance?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitcoin drove 71% of last week’s $2.17 billion in crypto fund inflows,
+    while Ether and Solana held up despite US CLARITY Act proposals to restrict stablecoin
+    yields.
+  published: 2026-01-19 11:57:12.000000000 +00:00
+- title: Vitalik Buterin calls for a new DAO design for onchain disputes and governance
+  url: https://cointelegraph.com/news/vitalik-buterin-calls-new-design-daos?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum co-founder Vitalik Buterin says DAOs must move beyond simple token-voting
+    treasuries and be redesigned to power core infrastructure like oracles and onchain
+    courts.
+  published: 2026-01-19 11:49:25.000000000 +00:00
+- title: Three reasons Ether price remains bullish above $3,000
+  url: https://cointelegraph.com/news/three-reasons-why-ethereum-price-remains-bullish-above-3-000?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Despite Ether’s rejection from $3,400, data suggested that ETH price may
+    see a sustained recovery over the next few weeks, as long as a key support level
+    holds.
+  published: 2026-01-19 11:31:28.000000000 +00:00
+- title: Why Ethereum’s ‘walkaway test’ and quantum readiness matter more than ever
+  url: https://cointelegraph.com/explained/why-ethereum-s-walkaway-test-and-quantum-readiness-matter-more-than-ever?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum’s walkaway test asks whether the network can remain credible,
+    secure and adaptable without constant intervention, even as quantum risks loom.
+  published: 2026-01-19 06:37:31.000000000 +00:00
 - title: Vitalik calls for a ‘garbage collection’ function to stop Ethereum bloat
   url: https://cointelegraph.com/news/vitalik-buterin-ethereum-garbage-collection-protocol-bloat?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: Vitalik Buterin warns that Ethereum’s push to add new features while preserving
@@ -43,121 +162,3 @@
   summary: Renewed spot Ethereum ETF inflows topped $474 million this week while network
     metrics smashed records, positioning ETH for a rally to $4,500 in the coming weeks.
   published: 2026-01-16 13:58:15.000000000 +00:00
-- title: Web3 revenue shifts from blockchains to wallets and DeFi apps
-  url: https://cointelegraph.com/news/defi-apps-capture-more-fees-than-blockchains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: A growing amount of the blockchain industry’s fees are captured by DeFi
-    protocols rather than the underlying networks, signaling a potential investor
-    shift to front-end facing applications.
-  published: 2026-01-16 13:57:42.000000000 +00:00
-- title: KBC Bank to launch Bitcoin and Ether trading in Belgium under MiCA
-  url: https://cointelegraph.com/news/kbc-bank-belgium-bitcoin-ether-trading-february?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The lender will offer crypto trading through its Bolero platform as Belgium’s
-    MiCA rules take effect, despite no licenses yet appearing on the ESMA’s register.
-  published: 2026-01-16 09:10:06.000000000 +00:00
-- title: 'Ethereum activity doubles with influx of new users: Glassnode'
-  url: https://cointelegraph.com/news/ethereum-network-activity-doubles-with-massive-influx-of-first-time-users-glassnode?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum saw activity retention nearly double to 8 million addresses in
-    a month while daily transactions hit an all-time high of 2.8 million amid soaring
-    stablecoin use.
-  published: 2026-01-16 04:53:41.000000000 +00:00
-- title: ETH’s next stop could be $4.1K, but this must happen first
-  url: https://cointelegraph.com/news/eth-s-next-stop-could-be-dollar4-1k-but-this-must-happen-first?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: An emerging ETH futures trend is predicting an Ether price rally to $4,100,
-    but other data says the altcoin is overdue for a slight correction.
-  published: 2026-01-15 21:30:26.000000000 +00:00
-- title: SWIFT trials euro stablecoin in tokenized bond payments with SG-Forge
-  url: https://cointelegraph.com/news/sg-forge-swift-tokenized-bonds-eur-coinvertible-stablecoin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Societe Generale-Forge said its EUR CoinVertible stablecoin is the first
-    MiCA-compliant digital asset that is “natively compatible” with SWIFT’s interoperability
-    capabilities.
-  published: 2026-01-15 13:43:55.000000000 +00:00
-- title: BitMine to invest $200M in YouTuber MrBeast’s Beast Industries
-  url: https://cointelegraph.com/news/bitmine-200m-investment-mrbeast-beast-industries?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: BitMine Immersion Technology will invest $200 million in MrBeast’s Beast
-    Industries, linking crypto capital with the world’s largest creator platform.
-  published: 2026-01-15 13:24:10.000000000 +00:00
-- title: Short squeeze hits top 500 cryptos as traders unwind bearish bets
-  url: https://cointelegraph.com/news/short-squeeze-top-500-cryptos-traders-bearish-bets?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Crypto markets saw the biggest short squeeze since October as short positions
-    were liquidated and Bitcoin outperformed the US dollar amid geopolitical uncertainty.
-  published: 2026-01-15 12:41:05.000000000 +00:00
-- title: Universal blockchains buckle under real-world demands
-  url: https://cointelegraph.com/news/universal-blockchains-real-demands?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: General-purpose blockchains can’t solve industry disputes over construction
-    changes or equipment usage. Specialized layer 1s are optimized for stateless audit
-    trails and regulatory compliance.
-  published: 2026-01-15 12:30:00.000000000 +00:00
-- title: Ether’s price vs. fundamentals gap may signal 2026 opportunity
-  url: https://cointelegraph.com/news/ether-price-fundamentals-gap-2026-opportunity-video?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Etherealize CEO Vivek Raman argues that ETH's lagging price masks strengthening
-    fundamentals that may reshape how the token is valued in 2026.
-  published: 2026-01-14 17:45:59.000000000 +00:00
-- title: Bitcoin ETFs on rollercoaster as traditional funds pull in $46B in 2026
-  url: https://cointelegraph.com/news/bitcoin-etfs-rollercoaster-tradfi-etfs-2026-abnormally-high-46b?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin ETF flows have swung sharply in early 2026 as investors pour billions
-    into traditional ETFs, leaving crypto funds lagging behind.
-  published: 2026-01-14 13:55:11.000000000 +00:00
-- title: Germany’s DZ Bank secures MiCA license for ‘meinKrypto’ platform
-  url: https://cointelegraph.com/news/dz-bank-mica-license-crypto-services-germany?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Retail crypto access will initially cover Bitcoin, Ether, Litecoin and
-    Cardano through participating cooperative banks.
-  published: 2026-01-14 13:26:28.000000000 +00:00
-- title: Efforts to bulletproof Ethereum are paying off in user metrics
-  url: https://cointelegraph.com/news/efforts-bulletproof-ethereum-paying-off-user0metrics?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The Ethereum blockchain underwent a series of upgrades last year that have
-    resulted in lower transaction fees and more active addresses.
-  published: 2026-01-14 08:22:09.000000000 +00:00
-- title: BitMine’s staked Ether reaches 1.5M, equating to 4% of total staked
-  url: https://cointelegraph.com/news/bitmine-adds-more-staked-eth-as-entry-queue-soars?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: BitMine staked another 186,560 Ether, bringing its total staked to 1.53
-    million, which is valued at over $5 billion.
-  published: 2026-01-14 06:11:23.000000000 +00:00
-- title: Perfect storm of activity sees record surge in new Ethereum wallets
-  url: https://cointelegraph.com/news/ethereum-new-wallet-growth-hits-new-high?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: An average of 327,000 new wallets were created each day over the past week,
-    likely driven by a surge in financial activity combined with recent network upgrades.
-  published: 2026-01-14 01:29:47.000000000 +00:00
-- title: 'ETH is back at $3.2K: Will traders flip the level from resistance to support?'
-  url: https://cointelegraph.com/news/eth-s-back-at-3-2k-will-traders-flip-the-level-from-resistance-to-support?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum remains the leader in total value locked, but declining usage
-    and economic uncertainty in the United States may hinder a rally to $4,000.
-  published: 2026-01-13 21:28:40.000000000 +00:00
-- title: 'Ethereum must pass ‘walkaway test’ to endure for 100 years: Buterin'
-  url: https://cointelegraph.com/news/ethereum-must-pass-walkaway-test-vitalik-buterin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Quantum resistance, scalable architecture, and a better block-building
-    model that resists centralization pressures are needed if Ethereum is to pass
-    the test of time.
-  published: 2026-01-13 02:04:16.000000000 +00:00
-- title: Bitmine’s Ether holdings reach 4.17M as chairman pushes expanded crypto strategy
-  url: https://cointelegraph.com/news/bitmine-eth-holdings-chairman-expand-crypto-strategy?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The latest purchase boosted the company’s Ether holdings to about 3.4%
-    of the token's circulating supply, as Bitmine's chairman, Tom Lee, aims to accumulate
-    5% of the total outstanding supply.
-  published: 2026-01-12 21:22:39.000000000 +00:00
-- title: Three ETH price charts suggest a move toward $4K may be brewing
-  url: https://cointelegraph.com/news/3-eth-price-charts-predict-a-sharp-move-to-dollar4k-is-brewing?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: ETH’s recent rally was driven by spot demand and a healthy use of futures
-    market leverage, potentially setting Ether up for a move to $4,000.
-  published: 2026-01-12 20:45:00.000000000 +00:00
-- title: Bank of Italy models Ethereum risks if ETH value collapsed
-  url: https://cointelegraph.com/news/bank-of-italy-ethereum-security-ether-price-risk?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The Bank of Italy modeled the extreme scenario of Ether going to zero to
-    show how market risk in Ethereum’s native token could turn into infrastructure
-    and financial stability risks.
-  published: 2026-01-12 13:46:23.000000000 +00:00
-- title: Standard Chartered said to plan crypto brokerage, trims ETH forecast
-  url: https://cointelegraph.com/news/standard-chartered-crypto-prime-brokerage-plans?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Standard Chartered is reportedly developing a crypto prime brokerage platform
-    as traditional banks expand digital asset services.
-  published: 2026-01-12 13:36:41.000000000 +00:00
-- title: 'Ethereum needs better decentralized stablecoins: Vitalik Buterin'
-  url: https://cointelegraph.com/news/vitalik-buterin-calls-for-better-decentralized-stablecoins?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: It isn’t a good idea to fully back a stablecoin with a single fiat currency,
-    because if that nation-state fails, so will the stablecoin, argues Ethereum co-founder
-    Vitalik Buterin.
-  published: 2026-01-12 05:09:46.000000000 +00:00
-- title: 'ETH-BTC ratio bottomed in April, mirrors 2019 cycle: Analyst'
-  url: https://cointelegraph.com/news/eth-btc-bottom-april-mirror-2019-cycle?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The Ethereum ecosystem continues to see increased development and value
-    locked in tokenized assets, according to market analyst Michaël van de Poppe.
-  published: 2026-01-11 20:59:28.000000000 +00:00
