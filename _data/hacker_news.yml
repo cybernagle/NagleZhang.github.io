@@ -1,122 +1,121 @@
 ---
-- title: Over 36,500 killed in Iran's deadliest massacre, documents reveal
-  url: https://www.iranintl.com/en/202601255198
+- title: Defeating a 40-year-old copy protection dongle
+  url: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
   summary: Comments
-  published: 2026-01-26 00:40:01.000000000 +00:00
-- title: Clawdbot - open source personal AI assistant
-  url: https://github.com/clawdbot/clawdbot
+  published: 2026-02-01 21:30:51.000000000 +00:00
+- title: Two kinds of AI users are emerging. The gap between them is astonishing
+  url: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
   summary: Comments
-  published: 2026-01-26 00:27:41.000000000 +00:00
-- title: First, make me care
-  url: https://gwern.net/blog/2026/make-me-care
+  published: 2026-02-01 23:45:18.000000000 +00:00
+- title: 'Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation'
+  url: https://github.com/gavrielc/nanoclaw
   summary: Comments
-  published: 2026-01-25 19:03:40.000000000 +00:00
-- title: Scientists identify brain waves that define the limits of 'you'
-  url: https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you
+  published: 2026-02-01 22:49:22.000000000 +00:00
+- title: Treasures found on HS2 route stored in secret warehouse
+  url: https://www.bbc.com/news/articles/c93v21q5xdvo
   summary: Comments
-  published: 2026-01-26 00:10:42.000000000 +00:00
-- title: A macOS app that blurs your screen when you slouch
-  url: https://github.com/tldev/posturr
+  published: 2026-02-01 22:14:39.000000000 +00:00
+- title: Apple I Advertisement (1976)
+  url: http://apple1.chez.com/Apple1project/Gallery/Gallery.htm
   summary: Comments
-  published: 2026-01-25 15:34:51.000000000 +00:00
-- title: 'Show HN: A small programming language where everything is pass-by-value'
-  url: https://github.com/Jcparkyn/herd
+  published: 2026-02-01 17:36:57.000000000 +00:00
+- title: My thousand dollar iPhone can't do math
+  url: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
   summary: Comments
-  published: 2026-01-25 23:01:06.000000000 +00:00
-- title: 'Case study: Creative math – How AI fakes proofs'
-  url: https://tomaszmachnik.pl/case-study-math-en.html
+  published: 2026-02-01 20:51:56.000000000 +00:00
+- title: Time Machine-style Backups with rsync (2018)
+  url: https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync
   summary: Comments
-  published: 2026-01-25 22:44:50.000000000 +00:00
-- title: Guix for Development
-  url: https://dthompson.us/posts/guix-for-development.html
+  published: 2026-02-02 00:00:07.000000000 +00:00
+- title: 'Adventure Game Studio: OSS software for creating adventure games'
+  url: https://www.adventuregamestudio.co.uk/
   summary: Comments
-  published: 2026-01-20 11:15:33.000000000 +00:00
-- title: Doom has been ported to an earbud
-  url: https://doombuds.com
+  published: 2026-02-01 13:56:56.000000000 +00:00
+- title: 'Show HN: Wikipedia as a doomscrollable social media feed'
+  url: https://xikipedia.org
   summary: Comments
-  published: 2026-01-25 12:22:12.000000000 +00:00
-- title: Oneplus phone update introduces hardware anti-rollback
-  url: https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback
+  published: 2026-02-02 00:12:19.000000000 +00:00
+- title: 'Actors: A Model of Concurrent Computation [pdf]'
+  url: https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf
   summary: Comments
-  published: 2026-01-25 20:39:25.000000000 +00:00
-- title: Spanish track was fractured before high-speed train disaster, report finds
-  url: https://www.bbc.com/news/articles/c1m77dmxlvlo
+  published: 2026-02-02 01:11:15.000000000 +00:00
+- title: Efficient String Compression for Modern Database Systems
+  url: https://cedardb.com/blog/string_compression/
   summary: Comments
-  published: 2026-01-25 19:12:50.000000000 +00:00
-- title: Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems
-  url: https://www.diljitpr.net/blog-post-postgresql-dlq
+  published: 2026-01-30 16:02:53.000000000 +00:00
+- title: I taught my neighbor to keep the volume down
+  url: https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down
   summary: Comments
-  published: 2026-01-25 15:51:03.000000000 +00:00
-- title: 'Show HN: FaceTime-style calls with an AI Companion (Live2D and long-term
-    memory)'
-  url: https://thebeni.ai/
+  published: 2026-02-01 19:00:46.000000000 +00:00
+- title: Founding is a snowball
+  url: https://blog.bawolf.com/p/founding-is-a-snowball
   summary: Comments
-  published: 2026-01-25 23:13:06.000000000 +00:00
-- title: 'Show HN: An interactive map of US lighthouses and navigational aids'
-  url: https://www.lighthouses.app/
+  published: 2026-01-29 18:46:33.000000000 +00:00
+- title: Building Your Own Efficient uint128 in C++
+  url: https://solidean.com/blog/2026/building-your-own-u128/
   summary: Comments
-  published: 2026-01-25 18:06:26.000000000 +00:00
-- title: 'The ''3.5% rule'': How a small minority can change the world (2019)'
-  url: https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world
+  published: 2026-02-01 20:40:45.000000000 +00:00
+- title: Typechecking is undecidable when 'type' is a type (1989) [pdf]
+  url: https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6
   summary: Comments
-  published: 2026-01-25 21:27:11.000000000 +00:00
-- title: I was right about ATProto key management
-  url: https://notes.nora.codes/atproto-again/
+  published: 2026-01-30 05:31:29.000000000 +00:00
+- title: History and Timeline of the Proco Rat Pedal (2021)
+  url: https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal
   summary: Comments
-  published: 2026-01-25 19:31:23.000000000 +00:00
-- title: Bitwise conversion of doubles using only FP multiplication and addition (2020)
-  url: https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/
+  published: 2026-02-01 23:53:48.000000000 +00:00
+- title: MicroPythonOS graphical operating system delivers Android-like user experience
+  url: https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/
   summary: Comments
-  published: 2026-01-25 14:55:03.000000000 +00:00
-- title: 'Turbopack: Building faster by building less'
-  url: https://nextjs.org/blog/turbopack-incremental-computation
+  published: 2026-01-29 16:54:39.000000000 +00:00
+- title: 'Troublemaker: The fierce, unruly life of Jessica Mitford'
+  url: https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things
   summary: Comments
-  published: 2026-01-20 18:49:20.000000000 +00:00
-- title: Web-based image editor modeled after Deluxe Paint
-  url: https://github.com/steffest/DPaint-js
+  published: 2026-01-28 20:56:57.000000000 +00:00
+- title: 'A Crisis comes to Wordle: Reusing old words'
+  url: https://forkingmad.blog/wordle-crisis/
   summary: Comments
-  published: 2026-01-25 12:54:53.000000000 +00:00
-- title: 'Show HN: Elo ranking for landing pages'
-  url: https://landingleaderboard.com/
+  published: 2026-02-01 17:54:55.000000000 +00:00
+- title: Clearspace (YC W23) Is Hiring an Applied Researcher (ML)
+  url: https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace
   summary: Comments
-  published: 2026-01-26 00:41:54.000000000 +00:00
-- title: The behavioral cost of personalized pricing
-  url: https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing
+  published: 2026-02-01 18:41:54.000000000 +00:00
+- title: Netbird – Open Source Zero Trust Networking
+  url: https://netbird.io/
   summary: Comments
-  published: 2026-01-25 19:19:12.000000000 +00:00
-- title: Infinite pancakes, anyone?
-  url: https://www.nytimes.com/2026/01/20/science/infinite-pancake-math-puzzle.html
+  published: 2026-02-01 09:44:01.000000000 +00:00
+- title: Reliable 25 Gigabit Ethernet via Thunderbolt
+  url: https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/
   summary: Comments
-  published: 2026-01-22 13:23:09.000000000 +00:00
-- title: ICE using Palantir tool that feeds on Medicaid data
-  url: https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data
+  published: 2026-01-27 20:57:25.000000000 +00:00
+- title: MRI scans show exercise can make the brain look younger
+  url: https://www.sciencedaily.com/releases/2026/01/260121034130.htm
   summary: Comments
-  published: 2026-01-25 17:36:19.000000000 +00:00
-- title: Introduction to PostgreSQL Indexes
-  url: https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/
+  published: 2026-02-01 21:37:00.000000000 +00:00
+- title: Allowlisting some Bash commands is often the same as allowlisting all
+  url: https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/
   summary: Comments
-  published: 2026-01-25 08:07:03.000000000 +00:00
-- title: 'Show HN: Bonsplit – Tabs and splits for native macOS apps'
-  url: https://bonsplit.alasdairmonk.com
+  published: 2026-01-28 19:37:11.000000000 +00:00
+- title: 'Towards a science of scaling agent systems: When and why agent systems work'
+  url: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
   summary: Comments
-  published: 2026-01-25 11:56:42.000000000 +00:00
-- title: Hackable personal news reader in bash pipes
-  url: https://github.com/haron/news.sh
+  published: 2026-02-01 18:00:30.000000000 +00:00
+- title: Amiga Unix (Amix)
+  url: https://www.amigaunix.com/doku.php/home
   summary: Comments
-  published: 2026-01-20 12:30:08.000000000 +00:00
-- title: Optimizing GPU Programs from Java Using Babylon and Hat
-  url: https://openjdk.org/projects/babylon/articles/hat-matmul/hat-matmul
+  published: 2026-02-01 10:57:20.000000000 +00:00
+- title: 'Show HN: ÆTHRA – Writing Music as Code'
+  url: https://news.ycombinator.com/item?id=46820691
   summary: Comments
-  published: 2026-01-20 09:41:23.000000000 +00:00
-- title: 'Show HN: Netfence – Like Envoy for eBPF Filters'
-  url: https://github.com/danthegoodman1/netfence
+  published: 2026-01-30 04:59:37.000000000 +00:00
+- title: FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap
+  url: https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/
   summary: Comments
-  published: 2026-01-25 15:13:46.000000000 +00:00
-- title: Nango (YC W23, Dev Infrastructure) Is Hiring Remotely
-  url: https://jobs.ashbyhq.com/Nango
+  published: 2026-02-01 10:30:41.000000000 +00:00
+- title: 'TIL: Apple Broke Time Machine Again on Tahoe'
+  url: https://taoofmac.com/space/til/2026/02/01/1630
   summary: Comments
-  published: 2026-01-25 12:02:01.000000000 +00:00
-- title: A flawed paper in management science has been cited more than 6k times
-  url: https://statmodeling.stat.columbia.edu/2026/01/22/aking/
+  published: 2026-02-01 19:38:45.000000000 +00:00
+- title: VisualJJ – Jujutsu in Visual Studio Code
+  url: https://www.visualjj.com/
   summary: Comments
-  published: 2026-01-25 09:04:30.000000000 +00:00
+  published: 2026-01-28 18:20:35.000000000 +00:00
