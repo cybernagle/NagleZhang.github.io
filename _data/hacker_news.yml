@@ -1,121 +1,123 @@
 ---
-- title: Defeating a 40-year-old copy protection dongle
-  url: https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle
+- title: In the AI gold rush, tech firms are embracing 72-hour weeks
+  url: https://www.bbc.com/news/articles/cvgn2k285ypo
   summary: Comments
-  published: 2026-02-01 21:30:51.000000000 +00:00
-- title: Two kinds of AI users are emerging. The gap between them is astonishing
-  url: https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/
+  published: 2026-02-09 01:28:16.000000000 +00:00
+- title: Vouch
+  url: https://github.com/mitchellh/vouch
   summary: Comments
-  published: 2026-02-01 23:45:18.000000000 +00:00
-- title: 'Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation'
-  url: https://github.com/gavrielc/nanoclaw
+  published: 2026-02-08 03:09:28.000000000 +00:00
+- title: Art of Roads in Games
+  url: https://sandboxspirit.com/blog/art-of-roads-in-games/
   summary: Comments
-  published: 2026-02-01 22:49:22.000000000 +00:00
-- title: Treasures found on HS2 route stored in secret warehouse
-  url: https://www.bbc.com/news/articles/c93v21q5xdvo
+  published: 2026-02-08 21:05:24.000000000 +00:00
+- title: More Mac malware from Google search
+  url: https://eclecticlight.co/2026/01/30/more-malware-from-google-search/
   summary: Comments
-  published: 2026-02-01 22:14:39.000000000 +00:00
-- title: Apple I Advertisement (1976)
-  url: http://apple1.chez.com/Apple1project/Gallery/Gallery.htm
+  published: 2026-02-08 20:52:55.000000000 +00:00
+- title: Reverse Engineering the Prom for the SGI O2
+  url: https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/
   summary: Comments
-  published: 2026-02-01 17:36:57.000000000 +00:00
-- title: My thousand dollar iPhone can't do math
-  url: https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/
+  published: 2026-02-08 22:25:25.000000000 +00:00
+- title: 'Apple XNU: Clutch Scheduler'
+  url: https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md
   summary: Comments
-  published: 2026-02-01 20:51:56.000000000 +00:00
-- title: Time Machine-style Backups with rsync (2018)
-  url: https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync
+  published: 2026-02-08 20:38:55.000000000 +00:00
+- title: Quartz Crystals
+  url: https://www.pa3fwm.nl/technotes/tn13a.html
   summary: Comments
-  published: 2026-02-02 00:00:07.000000000 +00:00
-- title: 'Adventure Game Studio: OSS software for creating adventure games'
-  url: https://www.adventuregamestudio.co.uk/
+  published: 2026-02-08 08:26:36.000000000 +00:00
+- title: 'Ask HN: What are you working on? (February 2026)'
+  url: https://news.ycombinator.com/item?id=46937696
   summary: Comments
-  published: 2026-02-01 13:56:56.000000000 +00:00
-- title: 'Show HN: Wikipedia as a doomscrollable social media feed'
-  url: https://xikipedia.org
+  published: 2026-02-08 19:35:55.000000000 +00:00
+- title: Every book recommended on the Odd Lots Discord
+  url: https://odd-lots-books.netlify.app/
   summary: Comments
-  published: 2026-02-02 00:12:19.000000000 +00:00
-- title: 'Actors: A Model of Concurrent Computation [pdf]'
-  url: https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf
+  published: 2026-02-08 23:27:59.000000000 +00:00
+- title: 'Roundcube Webmail: SVG feImage bypasses image blocking to track email opens'
+  url: https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/
   summary: Comments
-  published: 2026-02-02 01:11:15.000000000 +00:00
-- title: Efficient String Compression for Modern Database Systems
-  url: https://cedardb.com/blog/string_compression/
+  published: 2026-02-08 18:24:26.000000000 +00:00
+- title: 'Show HN: I created a Mars colony RPG based on Kim Stanley Robinson''s Mars
+    books'
+  url: https://underhillgame.com/
   summary: Comments
-  published: 2026-01-30 16:02:53.000000000 +00:00
-- title: I taught my neighbor to keep the volume down
-  url: https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down
+  published: 2026-02-08 17:08:30.000000000 +00:00
+- title: The Little Bool of Doom (2025)
+  url: https://blog.svgames.pl/article/the-little-bool-of-doom
   summary: Comments
-  published: 2026-02-01 19:00:46.000000000 +00:00
-- title: Founding is a snowball
-  url: https://blog.bawolf.com/p/founding-is-a-snowball
+  published: 2026-02-08 18:02:50.000000000 +00:00
+- title: 'Shifts in U.S. Social Media Use, 2020–2024: Decline, Fragmentation, Polarization
+    (2025)'
+  url: https://arxiv.org/abs/2510.25417
   summary: Comments
-  published: 2026-01-29 18:46:33.000000000 +00:00
-- title: Building Your Own Efficient uint128 in C++
-  url: https://solidean.com/blog/2026/building-your-own-u128/
+  published: 2026-02-08 21:52:28.000000000 +00:00
+- title: Toma (YC W24) Is Hiring Founding Engineers
+  url: https://www.ycombinator.com/companies/toma/jobs/oONUnCf-founding-engineer-ai-products
   summary: Comments
-  published: 2026-02-01 20:40:45.000000000 +00:00
-- title: Typechecking is undecidable when 'type' is a type (1989) [pdf]
-  url: https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6
+  published: 2026-02-08 22:38:14.000000000 +00:00
+- title: 'Show HN: A custom font that displays Cistercian numerals using ligatures'
+  url: https://bobbiec.github.io/cistercian-font.html
   summary: Comments
-  published: 2026-01-30 05:31:29.000000000 +00:00
-- title: History and Timeline of the Proco Rat Pedal (2021)
-  url: https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal
+  published: 2026-02-08 22:39:46.000000000 +00:00
+- title: A GTA modder has got the 1997 original working on modern PCs and Steam Deck
+  url: https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/
   summary: Comments
-  published: 2026-02-01 23:53:48.000000000 +00:00
-- title: MicroPythonOS graphical operating system delivers Android-like user experience
-  url: https://www.cnx-software.com/2026/01/29/micropythonos-graphical-operating-system-delivers-android-like-user-experience-on-microcontrollers/
+  published: 2026-02-08 20:34:51.000000000 +00:00
+- title: 'Running Your Own As: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing'
+  url: https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/
   summary: Comments
-  published: 2026-01-29 16:54:39.000000000 +00:00
-- title: 'Troublemaker: The fierce, unruly life of Jessica Mitford'
-  url: https://www.lrb.co.uk/the-paper/v48/n02/rosemary-hill/one-of-the-worst-things
+  published: 2026-02-08 14:02:58.000000000 +00:00
+- title: Dave Farber has died
+  url: https://lists.nanog.org/archives/list/nanog@lists.nanog.org/thread/TSNPJVFH4DKLINIKSMRIIVNHDG5XKJCM/
   summary: Comments
-  published: 2026-01-28 20:56:57.000000000 +00:00
-- title: 'A Crisis comes to Wordle: Reusing old words'
-  url: https://forkingmad.blog/wordle-crisis/
+  published: 2026-02-08 11:38:57.000000000 +00:00
+- title: RFC 3092 – Etymology of "Foo" (2001)
+  url: https://datatracker.ietf.org/doc/html/rfc3092
   summary: Comments
-  published: 2026-02-01 17:54:55.000000000 +00:00
-- title: Clearspace (YC W23) Is Hiring an Applied Researcher (ML)
-  url: https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace
+  published: 2026-02-08 14:32:28.000000000 +00:00
+- title: 'Ktkit: A Kotlin toolkit for building server applications with Ktor'
+  url: https://github.com/smyrgeorge/ktkit
   summary: Comments
-  published: 2026-02-01 18:41:54.000000000 +00:00
-- title: Netbird – Open Source Zero Trust Networking
-  url: https://netbird.io/
+  published: 2026-02-04 08:56:20.000000000 +00:00
+- title: I put a real-time 3D shader on the Game Boy Color
+  url: https://blog.otterstack.com/posts/202512-gbshader/
   summary: Comments
-  published: 2026-02-01 09:44:01.000000000 +00:00
-- title: Reliable 25 Gigabit Ethernet via Thunderbolt
-  url: https://kohlschuetter.github.io/blog/posts/2026/01/27/tb25/
+  published: 2026-02-08 16:28:51.000000000 +00:00
+- title: Exploiting signed bootloaders to circumvent UEFI Secure Boot
+  url: https://habr.com/en/articles/446238/
   summary: Comments
-  published: 2026-01-27 20:57:25.000000000 +00:00
-- title: MRI scans show exercise can make the brain look younger
-  url: https://www.sciencedaily.com/releases/2026/01/260121034130.htm
+  published: 2026-02-08 14:40:52.000000000 +00:00
+- title: "(Golang) Self referential functions and the design of options"
+  url: https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html
   summary: Comments
-  published: 2026-02-01 21:37:00.000000000 +00:00
-- title: Allowlisting some Bash commands is often the same as allowlisting all
-  url: https://www.joinformal.com/blog/allowlisting-some-bash-commands-is-often-the-same-as-allowlisting-all-with-claude-code/
+  published: 2026-02-08 09:41:29.000000000 +00:00
+- title: GitHub Agentic Workflows
+  url: https://github.github.io/gh-aw/
   summary: Comments
-  published: 2026-01-28 19:37:11.000000000 +00:00
-- title: 'Towards a science of scaling agent systems: When and why agent systems work'
-  url: https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/
+  published: 2026-02-08 13:40:56.000000000 +00:00
+- title: Curating a Show on My Ineffable Mother, Ursula K. Le Guin
+  url: https://hyperallergic.com/curating-a-show-on-my-ineffable-mother-ursula-k-le-guin/
   summary: Comments
-  published: 2026-02-01 18:00:30.000000000 +00:00
-- title: Amiga Unix (Amix)
-  url: https://www.amigaunix.com/doku.php/home
+  published: 2026-02-08 10:13:00.000000000 +00:00
+- title: Omega-3 is inversely related to risk of early-onset dementia
+  url: https://pubmed.ncbi.nlm.nih.gov/41506004/
   summary: Comments
-  published: 2026-02-01 10:57:20.000000000 +00:00
-- title: 'Show HN: ÆTHRA – Writing Music as Code'
-  url: https://news.ycombinator.com/item?id=46820691
+  published: 2026-02-08 16:47:08.000000000 +00:00
+- title: Stop Generating, Start Thinking
+  url: https://localghost.dev/blog/stop-generating-start-thinking/
   summary: Comments
-  published: 2026-01-30 04:59:37.000000000 +00:00
-- title: FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap
-  url: https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/
+  published: 2026-02-08 21:58:19.000000000 +00:00
+- title: OpenClaw is changing my life
+  url: https://reorx.com/blog/openclaw-is-changing-my-life/
   summary: Comments
-  published: 2026-02-01 10:30:41.000000000 +00:00
-- title: 'TIL: Apple Broke Time Machine Again on Tahoe'
-  url: https://taoofmac.com/space/til/2026/02/01/1630
+  published: 2026-02-08 06:21:27.000000000 +00:00
+- title: AI makes the easy part easier and the hard part harder
+  url: https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
   summary: Comments
-  published: 2026-02-01 19:38:45.000000000 +00:00
-- title: VisualJJ – Jujutsu in Visual Studio Code
-  url: https://www.visualjj.com/
+  published: 2026-02-08 23:13:34.000000000 +00:00
+- title: Bun v1.3.9
+  url: https://bun.com/blog/bun-v1.3.9
   summary: Comments
-  published: 2026-01-28 18:20:35.000000000 +00:00
+  published: 2026-02-08 17:39:00.000000000 +00:00
