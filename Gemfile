@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.3"
 gem "webrick", "~> 1.8"
 gem "feedjira", "~> 3.2.4"
-gem 'nokogiri', "~> 1.18.4"
+gem 'nokogiri', "~> 1.19.1"
 gem 'rss', "~> 0.3.1"
 
 
