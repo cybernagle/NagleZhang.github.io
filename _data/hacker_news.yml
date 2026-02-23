@@ -1,126 +1,121 @@
 ---
-- title: I’m joining OpenAI
-  url: https://steipete.me/posts/2026/openclaw
+- title: I built Timeframe, our family e-paper dashboard
+  url: https://hawksley.org/2026/02/17/timeframe.html
   summary: Comments
-  published: 2026-02-15 21:54:15.000000000 +00:00
-- title: Magnus Carlsen Wins the Freestyle (Chess960) World Championship
-  url: https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/
+  published: 2026-02-22 19:12:31.000000000 +00:00
+- title: Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
+  url: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
   summary: Comments
-  published: 2026-02-15 22:17:10.000000000 +00:00
-- title: Pink noise reduces REM sleep and may harm sleep quality
-  url: https://www.pennmedicine.org/news/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality
+  published: 2026-02-22 23:07:55.000000000 +00:00
+- title: Loops is a federated, open-source TikTok
+  url: https://joinloops.org/
   summary: Comments
-  published: 2026-02-16 00:35:12.000000000 +00:00
-- title: 'LT6502: A 6502-based homebrew laptop'
-  url: https://github.com/TechPaula/LT6502
+  published: 2026-02-22 18:56:40.000000000 +00:00
+- title: 'Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable'
+  url: https://cia-factbook-archive.fly.dev/
   summary: Comments
-  published: 2026-02-15 17:12:35.000000000 +00:00
-- title: Error payloads in Zig
-  url: https://srcreigh.ca/posts/error-payloads-in-zig/
+  published: 2026-02-22 20:50:23.000000000 +00:00
+- title: Using the new bridges of FreeBSD 15
+  url: https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/
   summary: Comments
-  published: 2026-02-15 23:08:43.000000000 +00:00
-- title: Radio host David Greene says Google's NotebookLM tool stole his voice
-  url: https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/
+  published: 2026-02-22 22:42:16.000000000 +00:00
+- title: Attention Media ≠ Social Networks
+  url: https://susam.net/attention-media-vs-social-networks.html
   summary: Comments
-  published: 2026-02-15 18:05:24.000000000 +00:00
-- title: Audio is the one area small labs are winning
-  url: https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai
+  published: 2026-02-22 12:36:46.000000000 +00:00
+- title: The surprising power of daily rituals
+  url: https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress
   summary: Comments
-  published: 2026-02-13 05:39:45.000000000 +00:00
-- title: 'Modern CSS Code Snippets: Stop writing CSS like it''s 2015'
-  url: https://modern-css.com
+  published: 2026-02-23 01:23:18.000000000 +00:00
+- title: 'Show HN: A geometric analysis of Chopin''s Prelude No. 4 using 3D topology'
+  url: https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md
   summary: Comments
-  published: 2026-02-15 18:04:10.000000000 +00:00
-- title: I fixed Windows native development
-  url: https://marler8997.github.io/blog/fixed-windows/
+  published: 2026-02-20 13:48:55.000000000 +00:00
+- title: Six Math Essentials
+  url: https://terrytao.wordpress.com/2026/02/16/six-math-essentials/
   summary: Comments
-  published: 2026-02-15 11:25:26.000000000 +00:00
-- title: I gave Claude access to my pen plotter
-  url: https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter
+  published: 2026-02-22 19:21:21.000000000 +00:00
+- title: 'Show HN: Local-First Linux MicroVMs for macOS'
+  url: https://shuru.run
   summary: Comments
-  published: 2026-02-13 16:15:58.000000000 +00:00
-- title: EU bans the destruction of unsold apparel, clothing, accessories and footwear
-  url: https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en
+  published: 2026-02-22 18:50:14.000000000 +00:00
+- title: Fix your tools
+  url: https://ochagavia.nl/blog/fix-your-tools/
   summary: Comments
-  published: 2026-02-15 17:10:18.000000000 +00:00
-- title: 'Show HN: Klaw.sh – Kubernetes for AI agents'
-  url: https://github.com/klawsh/klaw.sh
+  published: 2026-02-22 16:12:31.000000000 +00:00
+- title: Man accidentally gains control of 7k robot vacuums
+  url: https://www.popsci.com/technology/robot-vacuum-army/
   summary: Comments
-  published: 2026-02-15 17:22:59.000000000 +00:00
-- title: Transforming a Clojure Database into a Library with GraalVM Native Image
-    and FFI
-  url: https://avelino.run/chrondb-polyglot-ffi-clojure-graalvm-native-image/
+  published: 2026-02-22 14:44:42.000000000 +00:00
+- title: Linuxulator on FreeBSD Feels Like Magic
+  url: https://hayzam.com/blog/02-linuxulator-is-awesome/
   summary: Comments
-  published: 2026-02-11 21:03:58.000000000 +00:00
-- title: Pocketblue – Fedora Atomic for mobile devices
-  url: https://github.com/pocketblue/pocketblue
+  published: 2026-02-22 18:45:56.000000000 +00:00
+- title: 'Ask HN: Chromebook leads for K-8 school in need?'
+  url: https://news.ycombinator.com/item?id=47113936
   summary: Comments
-  published: 2026-02-15 16:40:13.000000000 +00:00
-- title: 'Show HN: VOOG – Moog-style polyphonic synthesizer in Python with tkinter
-    GUI'
-  url: https://github.com/gpasquero/voog
+  published: 2026-02-22 19:39:27.000000000 +00:00
+- title: Hello Worg, the Org-Mode Community
+  url: https://orgmode.org/worg/
   summary: Comments
-  published: 2026-02-15 19:40:57.000000000 +00:00
-- title: 'Show HN: Microgpt is a GPT you can visualize in the browser'
-  url: https://microgpt.boratto.ca
+  published: 2026-02-22 17:39:50.000000000 +00:00
+- title: My journey to the microwave alternate timeline
+  url: https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline
   summary: Comments
-  published: 2026-02-15 18:40:35.000000000 +00:00
-- title: GNU Pies – Program Invocation and Execution Supervisor
-  url: https://www.gnu.org.ua/software/pies/
+  published: 2026-02-18 21:59:06.000000000 +00:00
+- title: IT Staffing Firms (TCS, Cognizant, Infosis Underpay Developers by 80–100%
+  url: https://h1bdatahub.com/blog/cognizant-tcs-infosys-low-h1b-salaries-exposed
   summary: Comments
-  published: 2026-02-15 20:53:26.000000000 +00:00
-- title: 'True Nature: The Lives of Peter Matthiessen'
-  url: https://www.lrb.co.uk/the-paper/v48/n02/christian-lorentzen/i-m-always-in-the-club
+  published: 2026-02-23 00:21:23.000000000 +00:00
+- title: Fresh File Explorer – VS Code extension for navigating recent work
+  url: https://github.com/FreHu/vscode-fresh-file-explorer
   summary: Comments
-  published: 2026-02-11 01:32:59.000000000 +00:00
-- title: Real-time PathTracing with global illumination in WebGL
-  url: https://erichlof.github.io/THREE.js-PathTracing-Renderer/
+  published: 2026-02-22 18:20:31.000000000 +00:00
+- title: Emulated Windows 3.11 in the Browser
+  url: https://pieter.com/
   summary: Comments
-  published: 2026-02-12 18:35:39.000000000 +00:00
-- title: JavaScript-heavy approaches are not compatible with long-term performance
-    goals
-  url: https://sgom.es/posts/2026-02-13-js-heavy-approaches-are-not-compatible-with-long-term-performance-goals/
+  published: 2026-02-22 17:37:14.000000000 +00:00
+- title: What is a database transaction?
+  url: https://planetscale.com/blog/database-transactions
   summary: Comments
-  published: 2026-02-16 00:26:23.000000000 +00:00
-- title: 'Language a Wood for Thought: Susan Howe''s Work'
-  url: https://www.poetryfoundation.org/articles/1769037/language-a-wood-for-thought
+  published: 2026-02-22 12:28:41.000000000 +00:00
+- title: NanoClaw moved from Apple Containers to Docker
+  url: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
   summary: Comments
-  published: 2026-02-11 23:07:10.000000000 +00:00
-- title: Towards Autonomous Mathematics Research
-  url: https://arxiv.org/abs/2602.10177
+  published: 2026-02-22 19:12:50.000000000 +00:00
+- title: Xweather Live – Interactive global vector weather map
+  url: https://live.xweather.com/
   summary: Comments
-  published: 2026-02-15 18:35:40.000000000 +00:00
-- title: 'Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)'
-  url: https://github.com/fosrl/pangolin
+  published: 2026-02-22 15:12:15.000000000 +00:00
+- title: Git's Magic Files
+  url: https://nesbitt.io/2026/02/05/git-magic-files.html
   summary: Comments
-  published: 2026-02-15 10:50:18.000000000 +00:00
-- title: 'Gwtar: A static efficient single-file HTML format'
-  url: https://gwern.net/gwtar
+  published: 2026-02-22 14:21:35.000000000 +00:00
+- title: 'Keybee: A Keyboard Designed for Smartphones'
+  url: https://keybeekeyboard.com/
   summary: Comments
-  published: 2026-02-15 15:37:06.000000000 +00:00
-- title: Two different tricks for fast LLM inference
-  url: https://www.seangoedecke.com/fast-llm-inference/
+  published: 2026-02-19 14:45:55.000000000 +00:00
+- title: Spain has blocked access to freedom.gov
+  url: https://twitter.com/Pirat_Nation/status/2025643188321714642
   summary: Comments
-  published: 2026-02-15 09:27:33.000000000 +00:00
-- title: 'Show HN: Knock-Knock.net – Visualizing the bots knocking on my server''s
-    door'
-  url: https://knock-knock.net
+  published: 2026-02-22 20:17:12.000000000 +00:00
+- title: 'Show HN: Warn Firehose – Every US layoff notice in one searchable database'
+  url: https://warnfirehose.com
   summary: Comments
-  published: 2026-02-15 17:06:25.000000000 +00:00
-- title: Continuous batching from first principles (2025)
-  url: https://huggingface.co/blog/continuous_batching
+  published: 2026-02-22 23:32:43.000000000 +00:00
+- title: 'Show HN: 3D Mahjong, Built in CSS'
+  url: https://voxjong.com
   summary: Comments
-  published: 2026-02-15 22:47:26.000000000 +00:00
-- title: 'Editor''s Note: Retraction of article containing fabricated quotations'
-  url: https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/
+  published: 2026-02-22 15:53:02.000000000 +00:00
+- title: The Tears of Donald Knuth
+  url: https://cacm.acm.org/opinion/the-tears-of-donald-knuth/
   summary: Comments
-  published: 2026-02-15 18:29:54.000000000 +00:00
-- title: Amazon's Ring and Google's Nest reveal the severity of U.S. surveillance
-    state
-  url: https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly
+  published: 2026-02-22 19:54:14.000000000 +00:00
+- title: 'Black-White Array: fast, ordered and based on with O(log N) memory allocations'
+  url: https://github.com/dronnix/bwarr
   summary: Comments
-  published: 2026-02-15 12:42:17.000000000 +00:00
-- title: Hideki Sato, designer of all Sega's consoles, has died
-  url: https://www.videogameschronicle.com/news/hideki-sato-designer-of-segas-consoles-dies-age-75/
+  published: 2026-02-22 19:19:31.000000000 +00:00
+- title: The Geometry of Tostitos Scoops
+  url: https://chip-tech-rob.zocomputer.io/
   summary: Comments
-  published: 2026-02-15 16:19:51.000000000 +00:00
+  published: 2026-02-22 19:49:26.000000000 +00:00
