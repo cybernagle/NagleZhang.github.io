@@ -1,121 +1,122 @@
 ---
-- title: I built Timeframe, our family e-paper dashboard
-  url: https://hawksley.org/2026/02/17/timeframe.html
+- title: WebMCP is available for early preview
+  url: https://developer.chrome.com/blog/webmcp-epp
   summary: Comments
-  published: 2026-02-22 19:12:31.000000000 +00:00
-- title: Google restricting Google AI Pro/Ultra subscribers for using OpenClaw
-  url: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778
+  published: 2026-03-01 22:13:58.000000000 +00:00
+- title: How to talk to anyone, and why you should
+  url: https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
   summary: Comments
-  published: 2026-02-22 23:07:55.000000000 +00:00
-- title: Loops is a federated, open-source TikTok
-  url: https://joinloops.org/
+  published: 2026-02-24 20:08:38.000000000 +00:00
+- title: Tove Jansson's criticized illustrations of The Hobbit
+  url: https://tovejansson.com/hobbit-tolkien/
   summary: Comments
-  published: 2026-02-22 18:56:40.000000000 +00:00
-- title: 'Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable'
-  url: https://cia-factbook-archive.fly.dev/
+  published: 2026-02-27 16:17:53.000000000 +00:00
+- title: Ghostty – Terminal Emulator
+  url: https://ghostty.org/docs
   summary: Comments
-  published: 2026-02-22 20:50:23.000000000 +00:00
-- title: Using the new bridges of FreeBSD 15
-  url: https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/
+  published: 2026-03-01 12:13:03.000000000 +00:00
+- title: Little Free Library Books
+  url: https://littlefreelibrary.org/
   summary: Comments
-  published: 2026-02-22 22:42:16.000000000 +00:00
-- title: Attention Media ≠ Social Networks
-  url: https://susam.net/attention-media-vs-social-networks.html
+  published: 2026-03-01 22:18:10.000000000 +00:00
+- title: How Next-Gen Spacecraft Are Overwhelming Our Communication Networks
+  url: https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/
   summary: Comments
-  published: 2026-02-22 12:36:46.000000000 +00:00
-- title: The surprising power of daily rituals
-  url: https://www.bbc.com/future/article/20210914-how-rituals-help-us-to-deal-with-uncertainty-and-stress
+  published: 2026-02-27 16:21:38.000000000 +00:00
+- title: When does MCP make sense vs CLI?
+  url: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
   summary: Comments
-  published: 2026-02-23 01:23:18.000000000 +00:00
-- title: 'Show HN: A geometric analysis of Chopin''s Prelude No. 4 using 3D topology'
-  url: https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md
+  published: 2026-03-01 16:54:49.000000000 +00:00
+- title: What Your DNA Reveals about the Sex Life of Neanderthals
+  url: https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html
   summary: Comments
-  published: 2026-02-20 13:48:55.000000000 +00:00
-- title: Six Math Essentials
-  url: https://terrytao.wordpress.com/2026/02/16/six-math-essentials/
+  published: 2026-02-26 21:55:08.000000000 +00:00
+- title: Microgpt explained interactively
+  url: https://growingswe.com/blog/microgpt
   summary: Comments
-  published: 2026-02-22 19:21:21.000000000 +00:00
-- title: 'Show HN: Local-First Linux MicroVMs for macOS'
-  url: https://shuru.run
+  published: 2026-03-01 09:43:43.000000000 +00:00
+- title: Decision trees – the unreasonable power of nested decision rules
+  url: https://mlu-explain.github.io/decision-tree/
   summary: Comments
-  published: 2026-02-22 18:50:14.000000000 +00:00
-- title: Fix your tools
-  url: https://ochagavia.nl/blog/fix-your-tools/
+  published: 2026-03-01 08:55:52.000000000 +00:00
+- title: Long Range E-Bike (2021)
+  url: https://jacquesmattheij.com/long-range-ebike/
   summary: Comments
-  published: 2026-02-22 16:12:31.000000000 +00:00
-- title: Man accidentally gains control of 7k robot vacuums
-  url: https://www.popsci.com/technology/robot-vacuum-army/
+  published: 2026-02-26 13:41:32.000000000 +00:00
+- title: 'Chorba: A novel CRC32 implementation (2024)'
+  url: https://arxiv.org/abs/2412.16398
   summary: Comments
-  published: 2026-02-22 14:44:42.000000000 +00:00
-- title: Linuxulator on FreeBSD Feels Like Magic
-  url: https://hayzam.com/blog/02-linuxulator-is-awesome/
+  published: 2026-02-27 13:12:38.000000000 +00:00
+- title: Setting up phones is a nightmare
+  url: https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/
   summary: Comments
-  published: 2026-02-22 18:45:56.000000000 +00:00
-- title: 'Ask HN: Chromebook leads for K-8 school in need?'
-  url: https://news.ycombinator.com/item?id=47113936
+  published: 2026-02-26 19:36:30.000000000 +00:00
+- title: Allegations of insider trading over prediction-market bets tied to Iran conflict
+  url: https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict
   summary: Comments
-  published: 2026-02-22 19:39:27.000000000 +00:00
-- title: Hello Worg, the Org-Mode Community
-  url: https://orgmode.org/worg/
+  published: 2026-03-01 22:39:27.000000000 +00:00
+- title: Programming in K
+  url: https://github.com/JohnEarnest/ok/blob/gh-pages/docs/Programming.md
   summary: Comments
-  published: 2026-02-22 17:39:50.000000000 +00:00
-- title: My journey to the microwave alternate timeline
-  url: https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline
+  published: 2026-02-26 11:27:06.000000000 +00:00
+- title: Flightradar24 for Ships
+  url: https://atlas.flexport.com/
   summary: Comments
-  published: 2026-02-18 21:59:06.000000000 +00:00
-- title: IT Staffing Firms (TCS, Cognizant, Infosis Underpay Developers by 80–100%
-  url: https://h1bdatahub.com/blog/cognizant-tcs-infosys-low-h1b-salaries-exposed
+  published: 2026-03-01 11:01:17.000000000 +00:00
+- title: Microgpt
+  url: http://karpathy.github.io/2026/02/12/microgpt/
   summary: Comments
-  published: 2026-02-23 00:21:23.000000000 +00:00
-- title: Fresh File Explorer – VS Code extension for navigating recent work
-  url: https://github.com/FreHu/vscode-fresh-file-explorer
+  published: 2026-03-01 01:39:26.000000000 +00:00
+- title: Interview with Øyvind Kolås, GIMP developer (2017)
+  url: https://www.gimp.org/news/2026/02/22/%C3%B8yvind-kol%C3%A5s-interview-ww2017/
   summary: Comments
-  published: 2026-02-22 18:20:31.000000000 +00:00
-- title: Emulated Windows 3.11 in the Browser
-  url: https://pieter.com/
+  published: 2026-02-26 16:39:07.000000000 +00:00
+- title: I built a demo of what AI chat will look like when it's "free" and ad-supported
+  url: https://99helpers.com/tools/ad-supported-chat
   summary: Comments
-  published: 2026-02-22 17:37:14.000000000 +00:00
-- title: What is a database transaction?
-  url: https://planetscale.com/blog/database-transactions
+  published: 2026-03-01 11:49:01.000000000 +00:00
+- title: 'Python Type Checker Comparison: Empty Container Inference'
+  url: https://pyrefly.org/blog/container-inference-comparison/
   summary: Comments
-  published: 2026-02-22 12:28:41.000000000 +00:00
-- title: NanoClaw moved from Apple Containers to Docker
-  url: https://twitter.com/Gavriel_Cohen/status/2025603982769410356
+  published: 2026-02-25 13:45:02.000000000 +00:00
+- title: Why XML tags are so fundamental to Claude
+  url: https://glthr.com/XML-fundamental-to-Claude
   summary: Comments
-  published: 2026-02-22 19:12:50.000000000 +00:00
-- title: Xweather Live – Interactive global vector weather map
-  url: https://live.xweather.com/
+  published: 2026-03-01 14:52:22.000000000 +00:00
+- title: Operational issue – Multiple services (UAE)
+  url: https://health.aws.amazon.com/health/status
   summary: Comments
-  published: 2026-02-22 15:12:15.000000000 +00:00
-- title: Git's Magic Files
-  url: https://nesbitt.io/2026/02/05/git-magic-files.html
+  published: 2026-03-01 19:24:30.000000000 +00:00
+- title: South Korean Police Lose Seized Crypto by Posting Password Online
+  url: https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191
   summary: Comments
-  published: 2026-02-22 14:21:35.000000000 +00:00
-- title: 'Keybee: A Keyboard Designed for Smartphones'
-  url: https://keybeekeyboard.com/
+  published: 2026-03-01 21:52:16.000000000 +00:00
+- title: Are the Mysteries of Quantum Mechanics Beginning to Dissolve?
+  url: https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/
   summary: Comments
-  published: 2026-02-19 14:45:55.000000000 +00:00
-- title: Spain has blocked access to freedom.gov
-  url: https://twitter.com/Pirat_Nation/status/2025643188321714642
+  published: 2026-03-01 21:33:19.000000000 +00:00
+- title: 'Gzpeek: Tool to Parse Gzip Metadata'
+  url: https://evanhahn.com/introducing-gzpeek/
   summary: Comments
-  published: 2026-02-22 20:17:12.000000000 +00:00
-- title: 'Show HN: Warn Firehose – Every US layoff notice in one searchable database'
-  url: https://warnfirehose.com
+  published: 2026-02-27 07:39:09.000000000 +00:00
+- title: '10-202: Introduction to Modern AI (CMU)'
+  url: https://modernaicourse.org
   summary: Comments
-  published: 2026-02-22 23:32:43.000000000 +00:00
-- title: 'Show HN: 3D Mahjong, Built in CSS'
-  url: https://voxjong.com
+  published: 2026-03-01 07:35:03.000000000 +00:00
+- title: 'Show HN: Audio Toolkit for Agents'
+  url: https://github.com/shiehn/sas-audio-processor
   summary: Comments
-  published: 2026-02-22 15:53:02.000000000 +00:00
-- title: The Tears of Donald Knuth
-  url: https://cacm.acm.org/opinion/the-tears-of-donald-knuth/
+  published: 2026-03-01 15:52:02.000000000 +00:00
+- title: New iron nanomaterial wipes out cancer cells without harming healthy tissue
+  url: https://www.sciencedaily.com/releases/2026/02/260228093456.htm
   summary: Comments
-  published: 2026-02-22 19:54:14.000000000 +00:00
-- title: 'Black-White Array: fast, ordered and based on with O(log N) memory allocations'
-  url: https://github.com/dronnix/bwarr
+  published: 2026-03-01 15:09:55.000000000 +00:00
+- title: How the Government Deceived Congress in the Debate over Surveillance Powers
+    (2013)
+  url: https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived
   summary: Comments
-  published: 2026-02-22 19:19:31.000000000 +00:00
-- title: The Geometry of Tostitos Scoops
-  url: https://chip-tech-rob.zocomputer.io/
+  published: 2026-03-01 20:55:22.000000000 +00:00
+- title: Obsidian Sync now has a headless client
+  url: https://help.obsidian.md/sync/headless
   summary: Comments
-  published: 2026-02-22 19:49:26.000000000 +00:00
+  published: 2026-02-28 16:31:53.000000000 +00:00
