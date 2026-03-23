@@ -4,7 +4,65 @@
   summary: Need to know what happened in crypto today? Here is the latest news on
     daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3
     and crypto regulation.
-  published: 2026-03-15 21:56:41.000000000 +00:00
+  published: 2026-03-22 21:49:43.000000000 +00:00
+- title: Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'
+  url: https://cointelegraph.com/news/ethereum-25-rally-richest-eth-whale-return-profitable?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: ETH price could climb toward $2,750 by June and above $3,200 by September
+    if the historical whale-profit signal plays out again.
+  published: 2026-03-21 16:22:38.000000000 +00:00
+- title: Early Ethereum whale rebuilds stack with $19.5M in ETH buys
+  url: https://cointelegraph.com/news/ethereum-whale-thomasg-eth-buys-19-5m?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Early Ethereum whale thomasg.eth is rebuilding his position with $19.5
+    million in ETH purchases this week, as BitMine’s Tom Lee calls for the end of
+    “crypto winter.”
+  published: 2026-03-21 09:22:44.000000000 +00:00
+- title: 'Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?'
+  url: https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: A strong buy signal not seen since 2022 just flashed on Ether, but the
+    altcoin needs to hold above a key price level to avoid invalidating the pattern.
+  published: 2026-03-20 18:44:02.000000000 +00:00
+- title: Execution quality is the missing metric in Bitcoin and Ethereum markets
+  url: https://cointelegraph.com/news/execution-quality-missing-metric?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Crypto’s hidden trading costs demand the adoption of transaction cost analysis.
+    Slippage, fees and fragmentation erode trust as crypto matures into institutional
+    markets.
+  published: 2026-03-20 00:30:00.000000000 +00:00
+- title: EtherFi turns to real-world assets for yield with $25M Plume allocation
+  url: https://cointelegraph.com/news/etherfi-turns-to-real-world-assets-for-yield-with-25m-plume-allocation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: EtherFi will integrate Plume’s Nest vaults, beginning with exposure to
+    a Superstate-backed fund and expanding to a dedicated RWA vault within its platform.
+  published: 2026-03-19 20:59:36.000000000 +00:00
+- title: Ethereum long squeeze risk rises as ETH price dips to $2,100
+  url: https://cointelegraph.com/news/ethereum-long-squeeze-risk-rises-eth-price-dips-2-100?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ether risks over $2.5 billion in long liquidations below $2K, with volatility
+    increasing the chance of a retest of $1,800 support.
+  published: 2026-03-19 12:16:49.000000000 +00:00
+- title: Why Ethereum developers want ‘one-click staking’ for institutions
+  url: https://cointelegraph.com/news/ethereum-one-click-staking-institutions?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum developers are pushing one-click staking to simplify validator
+    operations, attract institutions and strengthen decentralization across the network.
+  published: 2026-03-19 10:18:35.000000000 +00:00
+- title: Crypto Fear and Greed rebounds off extreme lows as traders re-enter
+  url: https://cointelegraph.com/news/crypto-fear-and-greed-rebounds-off-extreme-lows-as-traders-re-enter?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The Crypto Fear and Greed Index just ended a 48-day stretch in the “extreme
+    fear” zone, signalling improving sentiment among investors. Will fresh capital
+    inflows reignite the bull market?
+  published: 2026-03-18 19:39:49.000000000 +00:00
+- title: Ethereum aims to cut bridge times by 98% to 13 seconds with new rule
+  url: https://cointelegraph.com/news/ethereum-cuts-bridge-times-98-percent-13-seconds-fast-confirmation-rule?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum’s FCR aims to reduce bridge times by up to 98%, bringing L1-to-L2
+    and exchange deposits down to 13 seconds without a hard fork.
+  published: 2026-03-18 10:18:41.000000000 +00:00
+- title: Bitmine speeds pace of Ethereum buys, boosting treasury to 4.6M ETH
+  url: https://cointelegraph.com/news/bitmine-buys-5-000-eth-from-ethereum-foundation-brings-holdings-to-4-6m-tokens?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: About two-thirds of the company’s tokens are currently staked, generating
+    an estimated $180 million in annualized revenue.
+  published: 2026-03-16 20:31:04.000000000 +00:00
+- title: Three Ethereum indicators hint that $2.8K is the next ETH price target
+  url: https://cointelegraph.com/news/three-ethereum-indicators-hint-2-8k-next-eth-price-target?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: A symmetrical triangle breakout and an unresolved supply overhang are boosting
+    the case that Ether may go as high as $2,800 in March.
+  published: 2026-03-16 14:15:59.000000000 +00:00
 - title: Vitalik Buterin promotes an update simplifying Ethereum node software
   url: https://cointelegraph.com/news/vitalik-buterin-simplify-ethereum-node?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: The blockchain co-founder said the goal is to make the "self-sovereign"
@@ -100,62 +158,3 @@
   summary: Ether traders said ETH price could see further upside as long as bulls
     defended the $2,100 support, fueled by renewed demand.
   published: 2026-03-05 17:53:47.000000000 +00:00
-- title: Why Peter Thiel’s Founders Fund walked away from an Ether treasury bet
-  url: https://cointelegraph.com/news/why-peter-thiel-s-founders-fund-walked-away-from-an-ether-treasury-bet?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Founders Fund’s exit from ETHZilla highlights volatility, balance sheet
-    strain and the challenges facing public Ether treasury strategies.
-  published: 2026-03-04 16:41:25.000000000 +00:00
-- title: 'Ether supply on exchanges drops to multi-year lows: Here’s why it matters'
-  url: https://cointelegraph.com/news/ether-supply-on-exchanges-drops-to-multi-year-lows-here-s-why-it-matters?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether reserves held on exchanges fell to a new multi-year low as ETH price
-    struggled to trade above $2,000. Will the supply crunch benefit bulls or bears?
-  published: 2026-03-03 18:57:41.000000000 +00:00
-- title: 'Ether price again rejected at $2K: How low can ETH go in March?'
-  url: https://cointelegraph.com/news/ethereum-price-again-rejected-2k-how-low-can-eth-go-in-march?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether needed to hold a key support recently established at $1,800, coinciding
-    with the lower trend line of a classic chart pattern that warns of a drop below
-    $1,500.
-  published: 2026-03-03 13:29:08.000000000 +00:00
-- title: Magic Eden winds down EVM, Bitcoin NFT markets to focus on gambling
-  url: https://cointelegraph.com/news/magic-eden-winds-down-evm-bitcoin-nft-markets-to-focus-on-gambling?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Magic Eden is shifting resources from NFTs to its casino platform Dicey,
-    after a closed beta saw $15 million wagered by around 200 users in two months.
-  published: 2026-03-02 04:20:57.000000000 +00:00
-- title: 'AI ‘vibe coding’ could put Ethereum roadmap ahead of schedule: Vitalik Buterin'
-  url: https://cointelegraph.com/news/vitalik-says-vibe-coding-accelerate-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Vitalik Buterin says AI coding still has “massive caveats,” but people
-    should expect Ethereum’s roadmap to be finished much faster than expected.
-  published: 2026-03-02 04:14:00.000000000 +00:00
-- title: Ethereum smart accounts are finally coming ‘within a year’ — Vitalik Buterin
-  url: https://cointelegraph.com/news/ethereum-smart-accounts-are-finally-coming-within-a-year-says-vitalik?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Removing intermediaries with account abstraction is a “core principle of
-    non-ugly cypherpunk Ethereum,” said Buterin.
-  published: 2026-03-01 02:54:03.000000000 +00:00
-- title: 'Ether is 60% down from its 2025 high, but TradFi keeps betting on ETH: Here’s
-    why'
-  url: https://cointelegraph.com/news/ether-60percent-down-from-its-2025-high-but-tradfi-keeps-betting-on-eth-here-s-why?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum’s dominant total value locked and widespread adoption by traditional
-    finance institutions confirm its role as the base of global onchain finance. Will
-    Ether price follow?
-  published: 2026-02-28 21:30:00.000000000 +00:00
-- title: Why institutions still prefer Ethereum despite faster blockchains
-  url: https://cointelegraph.com/news/institutions-prefer-eth-faster-blockchains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: TPS breakthroughs get engineers excited, but TradFi is looking at Ethereum
-    because that’s where the liquidity is, says Kevin Lepsoe of ETHGas.
-  published: 2026-02-28 13:00:00.000000000 +00:00
-- title: Three Solana data points highlight resilience, but is SOL undervalued?
-  url: https://cointelegraph.com/news/3-solana-data-points-highlight-resilience-but-is-sol-undervalued?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: SOL is down 72% from its all-time high, but several data points paint a
-    compelling investment scenario. Is SOL trading at a deep discount?
-  published: 2026-02-27 21:30:00.000000000 +00:00
-- title: 'Bitcoin manipulation claims face pushback as ETFs snap 5-week outflow run:
-    Finance Redefined'
-  url: https://cointelegraph.com/news/analysts-reject-jane-street-dump-claims-bitcoin-etf-inflows-finance-redefined?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Analysts dispute claims of a daily Jane Street Bitcoin dump as spot Bitcoin
-    ETFs post three days of inflows and DeFi debates shift to real revenue.
-  published: 2026-02-27 19:00:00.000000000 +00:00
-- title: Vitalik Buterin outlines quantum resistance roadmap for Ethereum
-  url: https://cointelegraph.com/news/vitalik-proposes-4-fixes-quantum-resistance-roadmap-for-ethereum?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum’s co-founder says validator signatures, data storage, accounts
-    and proofs must change to prepare for quantum threats.
-  published: 2026-02-27 03:05:38.000000000 +00:00

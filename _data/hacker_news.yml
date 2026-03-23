@@ -1,122 +1,123 @@
 ---
-- title: Canada's bill C-22 mandates mass metadata surveillance of Canadians
-  url: https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/
+- title: PC Gamer recommends RSS readers in a 37mb article that just keeps downloading
+  url: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
   summary: Comments
-  published: 2026-03-15 21:22:16.000000000 +00:00
-- title: Chrome DevTools MCP
-  url: https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session
+  published: 2026-03-22 18:23:40.000000000 +00:00
+- title: 'The gold standard of optimization: A look under the hood of RollerCoaster
+    Tycoon'
+  url: https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/
   summary: Comments
-  published: 2026-03-15 19:12:53.000000000 +00:00
-- title: The 49MB web page
-  url: https://thatshubham.com/blog/news-audit
+  published: 2026-03-22 19:02:43.000000000 +00:00
+- title: The future of version control
+  url: https://bramcohen.com/p/manyana
   summary: Comments
-  published: 2026-03-15 19:25:18.000000000 +00:00
-- title: '"How I write software with LLMs"'
-  url: https://www.stavros.io/posts/how-i-write-software-with-llms/
+  published: 2026-03-22 15:16:28.000000000 +00:00
+- title: Reports of code's death are greatly exaggerated
+  url: https://stevekrouse.com/precision
   summary: Comments
-  published: 2026-03-16 01:24:09.000000000 +00:00
-- title: A new Bigfoot documentary helps explain our conspiracy-minded era
-  url: https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px
+  published: 2026-03-22 11:09:34.000000000 +00:00
+- title: Why I love NixOS
+  url: https://www.birkey.co/2026-03-22-why-i-love-nixos.html
   summary: Comments
-  published: 2026-03-15 22:15:50.000000000 +00:00
-- title: LLM Architecture Gallery
-  url: https://sebastianraschka.com/llm-architecture-gallery/
+  published: 2026-03-22 17:17:06.000000000 +00:00
+- title: Intuitions for Tranformer Circuits
+  url: https://www.connorjdavis.com/p/intuitions-for-transformer-circuits
   summary: Comments
-  published: 2026-03-15 16:01:09.000000000 +00:00
-- title: The Linux Programming Interface as a university course text
-  url: https://man7.org/tlpi/academic/index.html
+  published: 2026-03-23 01:06:35.000000000 +00:00
+- title: GrapheneOS will remain usable by anyone without requiring personal information
+  url: https://grapheneos.social/@GrapheneOS/116261301913660830
   summary: Comments
-  published: 2026-03-15 23:51:26.000000000 +00:00
-- title: What Is Agentic Engineering?
-  url: https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/
+  published: 2026-03-22 21:14:11.000000000 +00:00
+- title: Project Nomad – Knowledge That Never Goes Offline
+  url: https://www.projectnomad.us
   summary: Comments
-  published: 2026-03-16 01:07:47.000000000 +00:00
-- title: "//go:fix inline and the source-level inliner"
-  url: https://go.dev/blog/inliner
+  published: 2026-03-22 12:28:38.000000000 +00:00
+- title: I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos
+  url: https://bay41.com/posts/tiiny-ai-pocket-lab-review/
   summary: Comments
-  published: 2026-03-11 18:39:25.000000000 +00:00
-- title: Separating the Wayland compositor and window manager
-  url: https://isaacfreund.com/blog/river-window-management/
+  published: 2026-03-19 04:56:25.000000000 +00:00
+- title: Department of State advises Americans worldwide to exercise increased caution
+  url: https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html
   summary: Comments
-  published: 2026-03-15 15:09:24.000000000 +00:00
-- title: Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells
-    (2016)
-  url: https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/
+  published: 2026-03-23 01:02:56.000000000 +00:00
+- title: 'Flash-MoE: Running a 397B Parameter Model on a Laptop'
+  url: https://github.com/danveloper/flash-moe
   summary: Comments
-  published: 2026-03-16 00:22:48.000000000 +00:00
-- title: What makes Intel Optane stand out (2023)
-  url: https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/
+  published: 2026-03-22 11:30:03.000000000 +00:00
+- title: LLMs predict my coffee
+  url: https://dynomight.net/coffee/
   summary: Comments
-  published: 2026-03-15 15:09:41.000000000 +00:00
-- title: 'Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories'
-  url: https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode
+  published: 2026-03-18 13:56:37.000000000 +00:00
+- title: First and Lego Education Partnership Update
+  url: https://community.firstinspires.org/first-lego-education-partnership-update
   summary: Comments
-  published: 2026-03-15 13:08:02.000000000 +00:00
-- title: I built an ephemeral P2P chat with WebRTC, without servers
-  url: https://ephemchat.vercel.app/
+  published: 2026-03-19 13:25:59.000000000 +00:00
+- title: Five Years of Running a Systems Reading Group at Microsoft
+  url: https://armaansood.com/posts/systems-reading-group/
   summary: Comments
-  published: 2026-03-16 01:11:52.000000000 +00:00
-- title: 'Bandit: A 32bit baremetal computer that runs Color Forth [video]'
-  url: https://www.youtube.com/watch?v=HK0uAKkt0AE
+  published: 2026-03-22 17:06:38.000000000 +00:00
+- title: MAUI Is Coming to Linux
+  url: https://avaloniaui.net/blog/maui-avalonia-preview-1
   summary: Comments
-  published: 2026-03-12 14:10:56.000000000 +00:00
-- title: Nasdaq's Shame
-  url: https://keubiko.substack.com/p/nasdaqs-shame
+  published: 2026-03-22 15:43:21.000000000 +00:00
+- title: How to Attract AI Bots to Your Open Source Project
+  url: https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html
   summary: Comments
-  published: 2026-03-15 22:16:09.000000000 +00:00
-- title: Learning athletic humanoid tennis skills from imperfect human motion data
-  url: https://zzk273.github.io/LATENT/
+  published: 2026-03-21 20:58:01.000000000 +00:00
+- title: What Young Workers Are Doing to AI-Proof Themselves
+  url: https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284
   summary: Comments
-  published: 2026-03-15 15:21:04.000000000 +00:00
-- title: 'Type systems are leaky abstractions: the case of Map.take!/2'
-  url: https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take
+  published: 2026-03-22 18:18:01.000000000 +00:00
+- title: Windows native app development is a mess
+  url: https://domenic.me/windows-native-dev/
   summary: Comments
-  published: 2026-03-11 21:13:52.000000000 +00:00
-- title: An experiment to use GitHub Actions as a control plane for a PaaS
-  url: https://towlion.github.io
+  published: 2026-03-22 09:57:31.000000000 +00:00
+- title: They're Vibe-Coding Spam Now
+  url: https://tedium.co/2026/02/25/vibe-coded-email-spam/
   summary: Comments
-  published: 2026-03-16 00:51:18.000000000 +00:00
-- title: A Visual Introduction to Machine Learning (2015)
-  url: https://r2d3.us/visual-intro-to-machine-learning-part-1/
+  published: 2026-03-22 22:11:54.000000000 +00:00
+- title: Building an FPGA 3dfx Voodoo with Modern RTL Tools
+  url: https://noquiche.fyi/voodoo
   summary: Comments
-  published: 2026-03-15 10:47:35.000000000 +00:00
-- title: 'In Memoriam: John W. Addison, my PhD advisor'
-  url: https://billwadge.com/2026/03/15/in-memoriam-john-w-addison-jr-my-phd-advisor/
+  published: 2026-03-22 13:24:38.000000000 +00:00
+- title: 'Show HN: Codala, a social network built on scanning barcodes'
+  url: https://play.google.com/store/apps/details?id=com.hsynkrkye.codala&hl=en
   summary: Comments
-  published: 2026-03-15 15:46:19.000000000 +00:00
-- title: Stop Sloppypasta
-  url: https://stopsloppypasta.ai/
+  published: 2026-03-18 15:17:25.000000000 +00:00
+- title: Ordered Dithering with Arbitrary or Irregular Colour Palettes (2023)
+  url: https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/
   summary: Comments
-  published: 2026-03-15 17:25:00.000000000 +00:00
-- title: Excel incorrectly assumes that the year 1900 is a leap year
-  url: https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/excel/wrongly-assumes-1900-is-leap-year
+  published: 2026-03-17 15:31:52.000000000 +00:00
+- title: Theodosian Land Walls of Constantinople (2025)
+  url: https://turkisharchaeonews.net/object/theodosian-land-walls-constantinople
   summary: Comments
-  published: 2026-03-15 23:34:35.000000000 +00:00
-- title: 'Show HN: Free OpenAI API Access with ChatGPT Account'
-  url: https://github.com/EvanZhouDev/openai-oauth
+  published: 2026-03-19 06:19:47.000000000 +00:00
+- title: More common mistakes to avoid when creating system architecture diagrams
+  url: https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/
   summary: Comments
-  published: 2026-03-15 21:29:52.000000000 +00:00
-- title: 'A Plain Anabaptist Story: The Hutterites'
-  url: https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites
+  published: 2026-03-22 11:51:52.000000000 +00:00
+- title: You are not your job
+  url: https://jry.io/writing/you-are-not-your-job/
   summary: Comments
-  published: 2026-03-12 20:41:51.000000000 +00:00
-- title: Bus travel from Lima to Rio de Janeiro
-  url: https://kenschutte.com/lima-to-rio-by-bus/
+  published: 2026-03-22 15:30:54.000000000 +00:00
+- title: Vectorization of Verilog Designs and its Effects on Verification and Synthesis
+  url: https://arxiv.org/abs/2603.17099
   summary: Comments
-  published: 2026-03-11 19:07:12.000000000 +00:00
-- title: I'm Too Lazy to Check Datadog Every Morning, So I Made AI Do It
-  url: https://quickchat.ai/post/automate-bug-triage-with-claude-code-and-datadog
+  published: 2026-03-19 16:40:37.000000000 +00:00
+- title: Teaching Claude to QA a mobile app
+  url: https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html
   summary: Comments
-  published: 2026-03-15 21:19:18.000000000 +00:00
-- title: LLMs can be exhausting
-  url: https://tomjohnell.com/llms-can-be-absolutely-exhausting/
+  published: 2026-03-22 19:04:00.000000000 +00:00
+- title: Migrating the American Express Payment Network, Twice
+  url: https://americanexpress.io/migrating-the-payments-network-twice/
   summary: Comments
-  published: 2026-03-15 20:56:21.000000000 +00:00
-- title: 'Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300'
-  url: https://firthemouse.github.io/
+  published: 2026-03-23 00:15:10.000000000 +00:00
+- title: 25 Years of Eggs
+  url: https://www.john-rush.com/posts/eggs-25-years-20260219.html
   summary: Comments
-  published: 2026-03-15 15:40:13.000000000 +00:00
-- title: Hollywood Enters Oscars Weekend in Existential Crisis
-  url: https://www.theculturenewspaper.com/hollywood-enters-oscars-weekend-in-existential-crisis/
+  published: 2026-03-18 15:44:08.000000000 +00:00
+- title: The IBM scientist who rewrote the rules of information just won a Turing
+    Award
+  url: https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award
   summary: Comments
-  published: 2026-03-15 12:41:56.000000000 +00:00
+  published: 2026-03-22 11:53:37.000000000 +00:00
