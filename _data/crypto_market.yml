@@ -1,20 +1,57 @@
 ---
-- title: Bitcoin risks 50% drop as BTC's positive correlation with US stocks grows
-  url: https://cointelegraph.com/news/bitcoin-risks-50percent-drop-btc-positive-correlation-us-stocks-grows?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin’s 20-week rolling correlation with the S&P 500 has turned positive,
-    a signal that has historically preceded major BTC price declines.
-  published: 2026-03-22 12:11:52.000000000 +00:00
-- title: Bitcoin options signal fear even as BTC ETF outflows remain relatively low
-  url: https://cointelegraph.com/news/bitcoin-options-signal-fear-even-as-btc-etf-outflows-remain-relatively-low?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin ETF outflows are too small to signal a bearish pivot from traders,
-    but worsening US macroeconomic conditions and high oil prices keep BTC traders
-    on the hedge.
-  published: 2026-03-21 17:18:44.000000000 +00:00
-- title: Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'
-  url: https://cointelegraph.com/news/ethereum-25-rally-richest-eth-whale-return-profitable?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: ETH price could climb toward $2,750 by June and above $3,200 by September
-    if the historical whale-profit signal plays out again.
-  published: 2026-03-21 16:22:38.000000000 +00:00
+- title: 'Potential Bitcoin crash below $60K may delay recovery to 2027: Data'
+  url: https://cointelegraph.com/news/potential-bitcoin-crash-below-dollar60k-may-delay-recovery-to-2027-data?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Bitcoin’s return to all-time highs may depend on how deep the current drawdown
+    extends, with deeper declines historically lengthening recovery times.
+  published: 2026-03-28 08:00:00.000000000 +00:00
+- title: 'XRP risk-reward improves as whale accumulation rises: Will price follow?'
+  url: https://cointelegraph.com/news/xrp-risk-reward-improves-as-whale-accumulation-rises-will-price-follow?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: XRP shows improving risk-adjusted returns alongside rising whale flows,
+    but rising leverage use and repeat liquidations point to a fragile futures market.
+  published: 2026-03-28 05:56:37.000000000 +00:00
+- title: Bitcoin traders see 53% odds of sub-$66K BTC by April 24
+  url: https://cointelegraph.com/news/bitcoin-traders-see-53-odds-of-sub-66k-btc-by-april-24?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Bitcoin price slumped on Friday as uncertainty over the US economy and
+    war in Iran negatively impacted stock and crypto markets.
+  published: 2026-03-27 21:15:00.000000000 +00:00
+- title: Ether traders see ‘further decline’ as ETH price slips below $2K
+  url: https://cointelegraph.com/news/ether-traders-see-further-decline-eth-price-slips-below-2k?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Ether traders said ETH price could see further downside after bulls failed
+    to defend the $2,000 support as signs of declining demand were apparent.
+  published: 2026-03-27 15:10:45.000000000 +00:00
+- title: Bitcoin holders show ‘stronger’ conviction despite BTC price losing $68K
+    level
+  url: https://cointelegraph.com/news/bitcoin-holders-show-stronger-conviction-despite-btc-price-losing-68k?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Bitcoin long-term holders continued to expand their holdings, while increased
+    withdrawal from exchanges flashed a classic supply shock warning.
+  published: 2026-03-27 12:39:03.000000000 +00:00
+- title: Ether needs these 3 indicators to flip to trigger rally above $2.4K
+  url: https://cointelegraph.com/news/ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-2-4k?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Spot ETF outlflows, falling DEX volumes and a declining ETH futures premium
+    may be preventing Ether from rallying, but flipping them could catalyze a rally
+    to $2,400.
+  published: 2026-03-27 01:35:46.000000000 +00:00
+- title: Bitcoin gained 655% the last time this supply in profit metric dropped to
+    50%
+  url: https://cointelegraph.com/news/bitcoin-gained-655percent-the-last-time-this-supply-in-profit-metric-dropped-to-50percent?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Bitcoin’s total supply in profit metric fell below 50% in February, a threshold
+    linked to previous BTC accumulation phases. Does data predict a similar outcome?
+  published: 2026-03-26 21:15:00.000000000 +00:00
+- title: 'Bittensor''s TAO price may plunge 40% within five weeks: Fractal data'
+  url: https://cointelegraph.com/news/bittensor-tao-price-may-punge-40percent-five-weeks?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: TAO's price has rallied 160% in over a month, but is printing a familiar
+    golden cross that has preceded massive price corrections in the past.
+  published: 2026-03-26 18:15:00.000000000 +00:00
+- title: XRP price risks 50% drop despite Goldman Sachs' $152M ETF exposure
+  url: https://cointelegraph.com/news/xrp-price-risks-50-drop-despite-goldman-sachs-152m-etf?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Goldman Sachs revealed a $152 million exposure to spot XRP ETFs, while
+    volatility contracted to levels seen ahead of strong price moves.
+  published: 2026-03-26 14:39:31.000000000 +00:00
+- title: 'Ethereum price rally pauses at $2.2K: What will trigger breakout?'
+  url: https://cointelegraph.com/news/ethereum-price-rally-pauses-at-2-200-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: A resurgence in institutional demand and spot ETF inflow return could put
+    Ethereum price in a better position to overcome the next hurdle at $2,200.
+  published: 2026-03-24 14:43:25.000000000 +00:00
 - title: Bitcoin weakness deepens as war pushes traders to cut risk in BTC and stocks
   url: https://cointelegraph.com/news/bitcoin-weakness-deepens-as-war-pushes-traders-to-cut-risk-in-btc-and-stocks?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: Bitcoin price remains rocky, and BTC and equities ETF outflows soar as
@@ -26,31 +63,11 @@
     and tanking stock markets have investors worried over the future of inflation
     in the US.
   published: 2026-03-20 20:56:20.000000000 +00:00
-- title: 'Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?'
-  url: https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: A strong buy signal not seen since 2022 just flashed on Ether, but the
-    altcoin needs to hold above a key price level to avoid invalidating the pattern.
-  published: 2026-03-20 18:44:02.000000000 +00:00
-- title: What happens to Bitcoin if oil price hits $180 per barrel?
-  url: https://cointelegraph.com/news/what-happens-to-bitcoin-if-oil-price-hits-180-per-barrel?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: A 70% oil spike could nearly double US inflation, slash rate-cut hopes,
-    and deepen downside risks for Bitcoin prices in the coming months.
-  published: 2026-03-20 15:53:33.000000000 +00:00
-- title: Bitcoin vs gold shows potential bottom signals as BTC bulls defend $70K
-  url: https://cointelegraph.com/news/bitcoin-vs-gold-flashes-multiple-bottom-signals-btc-bulls-defend-70k?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Technical indicators hint at a possible reversal in BTC’s relative performance,
-    as traders watch whether key support levels can hold.
-  published: 2026-03-20 10:38:42.000000000 +00:00
 - title: Solana DApps revenue falls to 18-month low as SOL price risks $80 retest
   url: https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: Weakening onchain activity and bearish derivatives data suggest that a
     SOL price recovery will take longer than most investors anticipate.
   published: 2026-03-20 02:44:43.000000000 +00:00
-- title: Bitcoin price tussle at $70K may hint that market bottom is not in
-  url: https://cointelegraph.com/news/bitcoin-price-tussle-at-dollar70k-may-hint-that-market-bottom-is-not-in?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin slipped below $70K as futures selling rose and spot demand cooled,
-    but a recurring setup on lower time frames points to a potential rebound.
-  published: 2026-03-19 22:31:55.000000000 +00:00
 - title: 'Bitcoin shows early bull market signals, but confirmation is lacking: Glassnode'
   url: https://cointelegraph.com/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: Bitcoin markets have started to turn bullish again, but data shows that
@@ -61,86 +78,23 @@
   summary: Korean traders are pulling XRP off exchanges at a rapid pace, while whale
     flows signal accumulation seen ahead of past rallies.
   published: 2026-03-19 15:16:47.000000000 +00:00
-- title: Prediction markets price 70% chance Bitcoin drops below $55K in 2026
-  url: https://cointelegraph.com/news/bitcoin-prediction-markets-see-70-chance-btc-price-crashes-to-55k-in-2026?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin bull market optimism has suffered since the October crash, as chances
-    of an extended BTC price drop below $55,000 increase.
-  published: 2026-03-19 15:02:02.000000000 +00:00
 - title: Ethereum long squeeze risk rises as ETH price dips to $2,100
   url: https://cointelegraph.com/news/ethereum-long-squeeze-risk-rises-eth-price-dips-2-100?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: Ether risks over $2.5 billion in long liquidations below $2K, with volatility
     increasing the chance of a retest of $1,800 support.
   published: 2026-03-19 12:16:49.000000000 +00:00
-- title: Bitcoin dips below $71K, but data shows BTC’s bullish momentum holding
-  url: https://cointelegraph.com/news/bitcoin-falls-under-71k-but-data-shows-btc-s-bullish-momentum-holding?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin dropped below $71,000, but the market remains tilted toward bulls
-    as spot ETF inflows and BTC buying from Strategy boost investor sentiment.
-  published: 2026-03-18 23:23:32.000000000 +00:00
 - title: Crypto Fear and Greed rebounds off extreme lows as traders re-enter
   url: https://cointelegraph.com/news/crypto-fear-and-greed-rebounds-off-extreme-lows-as-traders-re-enter?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: The Crypto Fear and Greed Index just ended a 48-day stretch in the “extreme
     fear” zone, signalling improving sentiment among investors. Will fresh capital
     inflows reignite the bull market?
   published: 2026-03-18 19:39:49.000000000 +00:00
-- title: 'Fed holds rates amid higher inflation outlook: Bitcoin bounces to $72K'
-  url: https://cointelegraph.com/news/fed-holds-rates-amid-higher-inflation-outlook-bitcoin-bounces-to-dollar72k?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin’s pre-FOMC sell-off eased as the US Federal Reserve's choice to
-    leave interest rates unchanged was followed by a swift bounce in BTC price.
-  published: 2026-03-18 18:16:41.000000000 +00:00
-- title: "‘Rich Dad, Poor Dad’ author says ‘pin is near’ on TradFi ‘bubble burst:’
-    Predicts $750K Bitcoin"
-  url: https://cointelegraph.com/news/rich-dad-poor-dad-author-says-pin-is-near-on-tradfi-bubble-burst-predicts-750k-bitcoin?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Author and personal finance educator Robert Kiyosaki says Bitcoin is going
-    to $750,000, but there's a catch.
-  published: 2026-03-18 17:30:00.000000000 +00:00
-- title: Bitcoin tests fresh decoupling trade as tech correlation drops to 2018 lows
-  url: https://cointelegraph.com/news/bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: BTC price is vastly outperforming the tech-heavy Nasdaq index amid the
-    US–Iran war, but its risks of crashing toward $51,000 persist.
-  published: 2026-03-18 16:19:28.000000000 +00:00
-- title: 'Bitcoin stalls at $76K: Key BTC price levels to watch ahead of FOMC'
-  url: https://cointelegraph.com/news/bitcoin-stalls-76k-key-btc-price-levels-to-watch-ahead-fomc?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin price traded at $74,000 as investors braced for Jerome Powell’s
-    post-FOMC speech that could see volatile swings toward key BTC price levels.
-  published: 2026-03-18 10:19:06.000000000 +00:00
-- title: 'Bitcoin holds $70K, bringing spot ETF buyers close to breakeven: Is the
-    bull market back?'
-  url: https://cointelegraph.com/news/bitcoin-holds-dollar70k-bringing-spot-etf-buyers-close-breakeven-is-bull-market-back?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: A Bitcoin price rally to $80,000 would bring the bulk of spot BTC ETF holders
-    to breakeven on their positions and possibly signal the resumption of the crypto
-    bull market.
-  published: 2026-03-17 20:27:57.000000000 +00:00
 - title: 'SOL price signal tied to previous 142% rally flashes again: Are the bulls
     back?'
   url: https://cointelegraph.com/news/sol-price-signal-tied-to-previous-142percent-rally-flashes-again-are-the-bulls-back?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: A SOL chart pattern that preceded several triple-digit rallies just flashed
     again. Are the altcoin bulls gearing up for a run to new price highs?
   published: 2026-03-17 18:50:25.000000000 +00:00
-- title: 'Strategy halts Bitcoin buying via STRC: Will BTC price dip again?'
-  url: https://cointelegraph.com/news/strategy-halts-bitcoin-buying-via-strc-will-btc-price-dip-again?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Strategy often pauses BTC buys when STRC falls below $100, a setup that
-    has previously coincided with 25%–40% Bitcoin declines.
-  published: 2026-03-17 15:35:35.000000000 +00:00
-- title: 'XRP holders hit a record 7.7M: Will price break through $1.60 next?'
-  url: https://cointelegraph.com/news/xrp-holders-hit-record-7-7m-will-price-break-1-60?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: XRP’s road to recovery will pick up momentum if network usage continues
-    rising and bulls push the price above the $1.60 resistance.
-  published: 2026-03-17 14:31:47.000000000 +00:00
-- title: Bitcoin’s ‘powerful move’ nears as Bollinger Bands warn of volatility
-  url: https://cointelegraph.com/news/bitcoin-powerful-move-nears-as-bollinger-bands-warn-of-volatility?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin’s technical and onchain indicators are boosting the case that BTC
-    price may go as high as $84,000 in the short-term.
-  published: 2026-03-17 10:34:15.000000000 +00:00
-- title: Do Bitcoin halvings matter? Strategy buys outpace new BTC supply by 700%
-  url: https://cointelegraph.com/news/do-bitcoin-halvings-matter-anymore-if-strategy-s-strc-exists?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Strategy bought seven weeks of new Bitcoin supply in one week, boosting
-    the case for a $400,000 BTC price target if this pace continues.
-  published: 2026-03-17 10:02:04.000000000 +00:00
-- title: Bitcoin tops $74.5K but are pro traders turning bullish again?
-  url: https://cointelegraph.com/news/bitcoin-tops-74-5k-but-are-pro-traders-turning-bullish-again?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin’s recovery above $74,000 highlights a rapidly improving market,
-    but several data points suggest that pro traders remain cautious and skeptical.
-  published: 2026-03-16 20:56:14.000000000 +00:00
 - title: Bitcoin nears $75K as trader says BTC price squeeze ‘changes nothing’
   url: https://cointelegraph.com/news/bitcoin-approaches-75k-trader-says-btc-price-squeeze-changes-nothing?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
   summary: Bitcoin achieved new six-week highs at the week's first Wall Street open,
@@ -152,8 +106,54 @@
   summary: A symmetrical triangle breakout and an unresolved supply overhang are boosting
     the case that Ether may go as high as $2,800 in March.
   published: 2026-03-16 14:15:59.000000000 +00:00
-- title: Bitcoin hits $74.4K six-week high as analysts see ‘more upside’ for BTC
-  url: https://cointelegraph.com/news/bitcoin-hits-74-4k-six-week-high-analysts-more-upside-for-btc?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
-  summary: Bitcoin’s relief rally pushed its price above the 50-day SMA as analysts
-    say further upside potential is increasing amid rising open interest.
-  published: 2026-03-16 10:51:19.000000000 +00:00
+- title: Ether accumulation data points to a rally toward $2.8K, but there’s a catch
+  url: https://cointelegraph.com/news/ether-accumulation-data-predicts-rally-to-dollar2-8k-but-there-s-a-catch?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Ether bulls appear to be targeting $2,800 as their next stop, but ETH futures
+    data shows a divided market with limited odds for a sustained 33% rally.
+  published: 2026-03-13 20:34:28.000000000 +00:00
+- title: 'Ethereum accumulation wallets jump 30%: Will ETH price follow?'
+  url: https://cointelegraph.com/news/ethereum-accumulation-wallets-jump-30-percent-wil-eth-price-follow?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Ether’s road to recovery could become clearer if balances in Ethereum accumulation
+    wallets and the staked supply continue rising.
+  published: 2026-03-13 16:49:56.000000000 +00:00
+- title: Here’s why XRP bulls see an ‘explosive run’ to $2.55 next
+  url: https://cointelegraph.com/news/here-s-why-xrp-bulls-see-an-explosive-run-to-2-55?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: XRP’s technical and onchain signals hint at a significant breakout, with
+    bulls eyeing an “explosive” rally toward $2.55.
+  published: 2026-03-13 11:19:24.000000000 +00:00
+- title: XRP price chart mirrors 1,500% rally setup from 2017, but there is a catch
+  url: https://cointelegraph.com/news/xrp-price-chart-mirrors-2017-rally-but-theres-a-catch?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: XRP's weekly chart mirrors the 2017 setup that projects a massive upward
+    rally, but bulls must first break resistance around $2.
+  published: 2026-03-11 11:30:29.000000000 +00:00
+- title: Hyperliquid's HYPE price will increase  by August, predicts Arthur Hayes
+  url: https://cointelegraph.com/news/hyperliquid-hype-price-will-hit-150-by-august-predicts-arthur-hayes?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: HYPE technical setup points to an initial breakout, with growing demand
+    for macro-linked perps adding to the upside case.
+  published: 2026-03-10 16:13:11.000000000 +00:00
+- title: XRP holders face $50B in unrealized losses as it trades below $1.40
+  url: https://cointelegraph.com/news/xrp-holders-face-50b-unrealized-losses-price-below-1-40?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: About 60% of XRP's circulating supply trades underwater at $1.35, with
+    spot ETF outflows and weak sentiment weighing on market sentiment.
+  published: 2026-03-09 15:05:18.000000000 +00:00
+- title: Ether traders see ‘larger bounce’ after ETH price taps $2.2K
+  url: https://cointelegraph.com/news/ethereum-traders-see-larger-bounce-after-eth-price-taps-2-2k?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Ether traders said ETH price could see further upside as long as bulls
+    defended the $2,100 support, fueled by renewed demand.
+  published: 2026-03-05 17:53:47.000000000 +00:00
+- title: XRP price breakout targets $1.95 amid five-day ETF inflow streak
+  url: https://cointelegraph.com/news/xrp-price-breakout-targets-1-95-five-day-etf-inflow-streak?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: XRP analysts highlighted the potential for a rebound to $1.95 as the price
+    broke above a symmetrical triangle amid persistent institutional demand.
+  published: 2026-03-04 12:55:49.000000000 +00:00
+- title: 'Ether supply on exchanges drops to multi-year lows: Here’s why it matters'
+  url: https://cointelegraph.com/news/ether-supply-on-exchanges-drops-to-multi-year-lows-here-s-why-it-matters?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Ether reserves held on exchanges fell to a new multi-year low as ETH price
+    struggled to trade above $2,000. Will the supply crunch benefit bulls or bears?
+  published: 2026-03-03 18:57:41.000000000 +00:00
+- title: 'Ether price again rejected at $2K: How low can ETH go in March?'
+  url: https://cointelegraph.com/news/ethereum-price-again-rejected-2k-how-low-can-eth-go-in-march?utm_source=rss_feed&utm_medium=rss_category_market-analysis&utm_campaign=rss_partner_inbound
+  summary: Ether needed to hold a key support recently established at $1,800, coinciding
+    with the lower trend line of a classic chart pattern that warns of a drop below
+    $1,500.
+  published: 2026-03-03 13:29:08.000000000 +00:00

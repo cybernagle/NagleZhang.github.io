@@ -1,20 +1,80 @@
 ---
-- title: Here’s what happened in crypto today
-  url: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Need to know what happened in crypto today? Here is the latest news on
-    daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3
-    and crypto regulation.
-  published: 2026-03-22 21:49:43.000000000 +00:00
-- title: Ethereum eyes 25% rally as richest ETH whales return to 'profitable state'
+- title: Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation
+  url: https://cointelegraph.com/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Developers from Gnosis and Zisk propose a framework to connect fragmented
+    rollups, amid growing debate over Ethereum’s scaling model and interoperability
+    challenges.
+  published: 2026-03-29 17:00:00.000000000 +01:00
+- title: Ethereum 'flippening' odds rise, but it won't involve Bitcoin
+  url: https://cointelegraph.com/news/etheruem-flippening-odds-rise-wont-involve-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Polymarket traders now see a real risk of ETH losing its number-two crypto
+    ranking in 2026, with odds jumping from 17% to over 59% this year.
+  published: 2026-03-29 13:25:37.000000000 +01:00
+- title: Ether traders see ‘further decline’ as ETH price slips below $2K
+  url: https://cointelegraph.com/news/ether-traders-see-further-decline-eth-price-slips-below-2k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ether traders said ETH price could see further downside after bulls failed
+    to defend the $2,000 support as signs of declining demand were apparent.
+  published: 2026-03-27 15:10:45.000000000 +00:00
+- title: Ether needs these 3 indicators to flip to trigger rally above $2.4K
+  url: https://cointelegraph.com/news/ether-needs-these-3-indicators-to-flip-to-trigger-rally-above-2-4k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Spot ETF outlflows, falling DEX volumes and a declining ETH futures premium
+    may be preventing Ether from rallying, but flipping them could catalyze a rally
+    to $2,400.
+  published: 2026-03-27 01:35:46.000000000 +00:00
+- title: 'Bitcoin’s quantum-resistance lag may become Ethereum’s bull case: Nic Carter'
+  url: https://cointelegraph.com/news/bitcoin-quantum-rigidity-becomes-ethereum-s-biggest-bull-case-nic-carter?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Crypto entrepreneur Nic Carter claims that Bitcoin developers still have
+    their "head in the sand" when it comes to making Bitcoin quantum-resistant, compared
+    to Ethereum.
+  published: 2026-03-26 05:28:54.000000000 +00:00
+- title: Google targets 2029 post-quantum migration as threats draw nearer
+  url: https://cointelegraph.com/news/google-sets-quantum-migration-deadline-2029?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Google has urged others to accelerate post-quantum efforts as it continues
+    to develop Willow, one of the most powerful superconducting quantum processors
+    today.
+  published: 2026-03-26 00:48:12.000000000 +00:00
+- title: 'Data points to accelerating Ether supply crunch: Will ETH price follow?'
+  url: https://cointelegraph.com/news/data-points-to-accelerating-ether-supply-crunch-will-eth-price-follow?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The number of Ether staked continues to rise while ETH outflows from exchanges
+    are increasing. Will the phenomenon have a positive or negative impact on ETH
+    price?
+  published: 2026-03-25 21:15:00.000000000 +00:00
+- title: Bitmine launches institutional Ethereum staking platform
+  url: https://cointelegraph.com/news/bitmine-launches-mavan-an-institutional-ethereum-staking-platform?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The MAVAN platform extends Bitmine’s staking operations to external clients
+    as institutional demand for validator infrastructure accelerates.
+  published: 2026-03-25 17:09:11.000000000 +00:00
+- title: Ethereum devs up security efforts with new ‘Post-Quantum’ team
+  url: https://cointelegraph.com/news/ethereum-devs-up-security-efforts-post-quantum-team?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The Ethereum Foundation-linked Post-Quantum team says while the quantum
+    threat isn’t imminent, deploying a full solution without disrupting the network
+    will take years.
+  published: 2026-03-25 02:10:15.000000000 +00:00
+- title: 'Ethereum price rally pauses at $2.2K: What will trigger breakout?'
+  url: https://cointelegraph.com/news/ethereum-price-rally-pauses-at-2-200-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: A resurgence in institutional demand and spot ETF inflow return could put
+    Ethereum price in a better position to overcome the next hurdle at $2,200.
+  published: 2026-03-24 14:43:25.000000000 +00:00
+- title: Zama integrates with Apex-backed T-REX for private tokenized assets
+  url: https://cointelegraph.com/news/cryptography-firm-zama-taps-t-rex-to-bring-bank-grade-privacy-to-public-blockchains?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Cryptography startup Zama is plugging its privacy tech into T‑REX in a
+    bid to let banks and asset managers trade sensitive assets on public blockchains
+    without losing confidentiality.
+  published: 2026-03-24 11:01:21.000000000 +00:00
+- title: Bitmine chair sees ‘mini-crypto winter’ thaw for ETH as it hits 77% of goal
+  url: https://cointelegraph.com/news/tom-lee-bitmine-ether-77-percent-crypto-winter-end?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitmine Immersion Technologies bought another $139 million in Ether last
+    week, bringing its ETH holdings to 4.6 million.
+  published: 2026-03-24 04:56:59.000000000 +00:00
+- title: Ethereum may see 25% rally as richest ETH whales return to ‘profitable state’
   url: https://cointelegraph.com/news/ethereum-25-rally-richest-eth-whale-return-profitable?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: ETH price could climb toward $2,750 by June and above $3,200 by September
-    if the historical whale-profit signal plays out again.
+  summary: ETH could approach $2,750 by June and $3,200 by September if a historical
+    whale-profit signal repeats, though past cycles show mixed outcomes.
   published: 2026-03-21 16:22:38.000000000 +00:00
 - title: Early Ethereum whale rebuilds stack with $19.5M in ETH buys
   url: https://cointelegraph.com/news/ethereum-whale-thomasg-eth-buys-19-5m?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Early Ethereum whale thomasg.eth is rebuilding his position with $19.5
-    million in ETH purchases this week, as BitMine’s Tom Lee calls for the end of
-    “crypto winter.”
+  summary: Ethereum whale thomasg.eth has accumulated $19.5 million in ETH this week,
+    as Bitmine’s Tom Lee argues the market may be nearing the end of “crypto winter.”
   published: 2026-03-21 09:22:44.000000000 +00:00
 - title: 'Ether taker volume hits 3-year high: Will ETH avoid a 19% price decline?'
   url: https://cointelegraph.com/news/ether-taker-volume-hits-3-year-high-will-eth-avoid-a-19percent-price-decline?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -100,61 +160,3 @@
     and receive Puffer’s liquid restaking token while earning staking and restaking
     rewards.
   published: 2026-03-12 21:16:54.000000000 +00:00
-- title: BlackRock launches staked Ethereum ETF offering ETH exposure and yield
-  url: https://cointelegraph.com/news/blackrock-ishares-staked-ethereum-trust-etf-exposure-yield?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: BlackRock’s iShares Staked Ethereum Trust ETF will trade on the Nasdaq,
-    offering spot exposure and staking income with a reduced 0.12% fee on the first
-    $2.5 billion.
-  published: 2026-03-12 12:56:54.000000000 +00:00
-- title: "‘Adoption paradox’ in effect as Ether lags while network activity surges"
-  url: https://cointelegraph.com/news/ethereum-adoption-paradox-deepens-as-network-activity-increases-while-prices-sink?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Data shows that Ether price dynamics are being driven by capital flows
-    rather than network activity growth, said CryptoQuant analyst Julio Moreno.
-  published: 2026-03-11 06:28:12.000000000 +00:00
-- title: 'Ether funding rate flips negative: Are ETH bears back in control?'
-  url: https://cointelegraph.com/news/ether-funding-rate-flips-negative-are-eth-bears-back-in-control?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bearish Ether derivatives data and slowing network use weigh on ETH price,
-    even as developers plan for faster transactions and more flexible wallet fees.
-  published: 2026-03-10 21:19:35.000000000 +00:00
-- title: 'Bitcoin leads, altcoin indicators drop to intriguing lows: Time for an altseason?'
-  url: https://cointelegraph.com/news/bitcoin-leads-altcoin-indicators-drop-to-intriguing-lows-time-for-an-altseason?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitcoin is the frontrunner in the crypto market, while 36% of altcoins
-    trade near their all-time lows. Do altcoin price metrics suggest an altseason
-    is next?
-  published: 2026-03-10 19:40:37.000000000 +00:00
-- title: Was Ethereum 'ultrasound money' a mistake? ETH down 65% vs. BTC since pivot
-  url: https://cointelegraph.com/news/was-ethereum-ultrasound-money-mistake-eth-btc-down-60-since-pos?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum has failed to remain deflationary since the switch to Proof-of-Stake,
-    as ETH's price has disappointed Ether investors, particularly against Bitcoin.
-  published: 2026-03-10 11:20:29.000000000 +00:00
-- title: Vitalik Buterin envisions ‘one-click’ Ether staking for institutions
-  url: https://cointelegraph.com/news/vitalik-distributed-validator-technology-lite-simplify-institutional-eth-staking?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: "“We want the authority over staking nodes to be highly distributed, and
-    the first step to doing this is to make it easy,” said Ethereum co-founder Vitalik
-    Buterin."
-  published: 2026-03-10 06:06:56.000000000 +00:00
-- title: Sharplink reports $735M loss in 2025 as Ethereum slumped
-  url: https://cointelegraph.com/news/sharplink-reports-734m-loss-2025-as-ethereum-dived?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Sharplink says it will continue to acquire Ether despite a brutal crypto
-    market sell-off last year that led to a $616.2 million paper loss on its ETH holdings. 
-  published: 2026-03-10 05:06:33.000000000 +00:00
-- title: Ether holds $2K as traders make push toward overhead short liquidity
-  url: https://cointelegraph.com/news/ether-holds-dollar2k-as-traders-make-push-toward-overhead-short-liquidity?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether's short liquidity may be the next target for bullish traders who
-    have piled into fresh leveraged positions. Is $2,500 the next stop for ETH price?
-  published: 2026-03-09 16:14:14.000000000 +00:00
-- title: Banks will run RWAs on two blockchain rails, says RedStone co-founder
-  url: https://cointelegraph.com/news/banks-rwas-two-blockchain-rails-redstone?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: RedStone co-founder Marcin Kaźmierczak says banks are splitting RWA infrastructure
-    between private networks like Canton and public chains such as Ethereum.
-  published: 2026-03-09 13:00:00.000000000 +00:00
-- title: 'Ether’s path to $2.5K may be trickier than expected: Here’s why'
-  url: https://cointelegraph.com/news/ether-s-path-to-2-5k-may-be-trickier-than-expected-here-s-why?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Crypto markets spent the week chasing green, but Ether’s rally toward $2,500
-    might hit significant setbacks. Cointelegraph explains why.
-  published: 2026-03-05 21:45:27.000000000 +00:00
-- title: Ether traders see ‘larger bounce’ after ETH price taps $2.2K
-  url: https://cointelegraph.com/news/ethereum-traders-see-larger-bounce-after-eth-price-taps-2-2k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether traders said ETH price could see further upside as long as bulls
-    defended the $2,100 support, fueled by renewed demand.
-  published: 2026-03-05 17:53:47.000000000 +00:00
