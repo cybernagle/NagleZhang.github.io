@@ -1,14 +1,87 @@
 ---
+- title: Ethereum Foundation nearly reaches 70,000 staked ETH goal
+  url: https://cointelegraph.com/news/ethereum-foundation-nearly-reaches-70000-staked-eth-goal?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The non-profit foundation has staked 69,500 ETH, nearly reaching the goal
+    it unveiled at the end of February, less than two months ago.
+  published: 2026-04-03 22:31:51.000000000 +01:00
+- title: Ethereum L2s need responsive pricing to scale, says Offchain Labs
+  url: https://cointelegraph.com/news/ethereum-l2s-responsive-pricing-scale-billions?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Edward Felten said Ethereum L2s need responsive pricing to scale, as Arbitrum’s
+    new model tests an alternative to EIP-1559-style fee swings.
+  published: 2026-04-03 14:51:29.000000000 +01:00
+- title: 'Aave avoided bad debt by shifting risk to borrowers: Bank of Canada study'
+  url: https://cointelegraph.com/news/aave-v3-bad-debt-liquidations-borrower-losses-study?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: A Bank of Canada staff paper found Aave V3 avoided bad debt in 2024, but
+    said the model pushed losses onto borrowers during liquidations.
+  published: 2026-04-03 12:51:18.000000000 +01:00
+- title: Ether at risk of new 2026 lows if bulls fail to turn $2.4K into support
+  url: https://cointelegraph.com/news/ether-at-risk-of-new-2026-lows-if-bulls-fail-to-turn-dollar2-4k-into-support?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Fresh lows below $1,736 could be in store for Ether price if bulls fail
+    to hold the altcoin’s price above an important ascending trendline.
+  published: 2026-04-02 19:25:33.000000000 +01:00
+- title: DeFi is optimizing for gas, not for markets
+  url: https://cointelegraph.com/news/defi-optimizes-for-gas-not-markets?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: DeFi prioritizes gas efficiency over market resilience. Simplified financial
+    logic fails under volatility due to computational constraints.
+  published: 2026-04-02 16:00:00.000000000 +01:00
+- title: Drift explains $280M exploit as critics question Circle over USDC freeze
+  url: https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Drift said a durable nonce attack helped drive its Solana exploit, as critics
+    questioned why stolen USDC moved for hours without a freeze.
+  published: 2026-04-02 11:13:27.000000000 +01:00
+- title: Naoris launches post-quantum blockchain as quantum security risks gain attention
+  url: https://cointelegraph.com/news/naoris-post-quantum-blockchain-quantum-security-risks-gain-attention?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Naoris Protocol said it has launched its mainnet, introducing a layer-1
+    blockchain that uses post-quantum cryptography for transaction validation and
+    network security.
+  published: 2026-04-01 18:12:33.000000000 +01:00
+- title: 'Solana DEX volumes drop to 2024 lows: Will SOL hold $80 as support?'
+  url: https://cointelegraph.com/news/solana-dex-volumes-drop-to-2024-lows-will-sol-hold-80-as-support?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Solana’s declining DEX volumes raise the likelihood of a SOL price correction
+    to $75, but the network’s DApp revenue highlights its resilience.
+  published: 2026-04-01 02:00:00.000000000 +01:00
+- title: 'Ethereum bulls must hold $2K: Volatility metric hints at ‘strong’ move next'
+  url: https://cointelegraph.com/news/ethereum-bulls-must-hold-2k-volatility-hints-strong-price-move?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: A sharp drop in Ether’s realized volatility could result in significant
+    ETH price moves if history repeats, making $2,000 a key support level to keep
+    an eye on.
+  published: 2026-03-31 17:39:01.000000000 +01:00
+- title: Ethereum’s EEZ and the attempt to rebuild one Ethereum
+  url: https://cointelegraph.com/news/ethereum-eez-attempt-rebuild-one-ether?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The Ethereum Economic Zone promises to stitch fragmented rollups back into
+    a single system, but a similar model struggled to gain traction on Cosmos.
+  published: 2026-03-31 14:03:33.000000000 +01:00
+- title: Bitmine scoops $147M of ETH in its biggest week of buying this year
+  url: https://cointelegraph.com/news/bitmine-extends-ether-buying-streak-five-weeks-147-million?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Bitmine bought over 71,000 Ether over the past week, adding to the 238,244
+    Ether it acquired over the previous four weeks.
+  published: 2026-03-31 06:45:55.000000000 +01:00
+- title: Aave V4 goes live on Ethereum after governance vote clears rollout
+  url: https://cointelegraph.com/news/aave-launches-v4-ethereum-after-onchain-vote-split-support?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The rollout includes Aave Pro for advanced users and integrates Chainlink
+    to provide oracle data for V4 markets.
+  published: 2026-03-30 14:00:00.000000000 +01:00
+- title: Ethereum Foundation accelerates 70,000 ETH staking plan after BitMine sale
+  url: https://cointelegraph.com/news/ethereum-foundation-stakes-46m-eth-after-bitmine-sale-accelerates-70k-plan?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The Ethereum Foundation deployed $46.2 million in ETH across 11 deposits
+    as it accelerates a 70,000 ETH staking plan.
+  published: 2026-03-30 09:45:59.000000000 +01:00
+- title: Lido DAO proposes $20M LDO buyback to reverse historic price fall
+  url: https://cointelegraph.com/news/lido-dao-weights-20m-ldo-buyback-plan?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The LDO token is down 95.9% from its all-time high, with a $255 million
+    market cap, even as Lido’s staking protocol still accounts for the largest share
+    of staked Ether at 23.2%.
+  published: 2026-03-30 03:08:24.000000000 +01:00
 - title: Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation
   url: https://cointelegraph.com/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: Developers from Gnosis and Zisk propose a framework to connect fragmented
     rollups, amid growing debate over Ethereum’s scaling model and interoperability
     challenges.
   published: 2026-03-29 17:00:00.000000000 +01:00
-- title: Ethereum 'flippening' odds rise, but it won't involve Bitcoin
+- title: Ethereum risks losing No. 2 spot as stablecoins gain ground
   url: https://cointelegraph.com/news/etheruem-flippening-odds-rise-wont-involve-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Polymarket traders now see a real risk of ETH losing its number-two crypto
-    ranking in 2026, with odds jumping from 17% to over 59% this year.
+  summary: Polymarket odds of Ether losing its No. 2 crypto ranking in 2026 have surged
+    from 17% to over 59%, as stablecoin growth challenges its position.
   published: 2026-03-29 13:25:37.000000000 +01:00
 - title: Ether traders see ‘further decline’ as ETH price slips below $2K
   url: https://cointelegraph.com/news/ether-traders-see-further-decline-eth-price-slips-below-2k?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
@@ -87,76 +160,3 @@
     Slippage, fees and fragmentation erode trust as crypto matures into institutional
     markets.
   published: 2026-03-20 00:30:00.000000000 +00:00
-- title: EtherFi turns to real-world assets for yield with $25M Plume allocation
-  url: https://cointelegraph.com/news/etherfi-turns-to-real-world-assets-for-yield-with-25m-plume-allocation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: EtherFi will integrate Plume’s Nest vaults, beginning with exposure to
-    a Superstate-backed fund and expanding to a dedicated RWA vault within its platform.
-  published: 2026-03-19 20:59:36.000000000 +00:00
-- title: Ethereum long squeeze risk rises as ETH price dips to $2,100
-  url: https://cointelegraph.com/news/ethereum-long-squeeze-risk-rises-eth-price-dips-2-100?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether risks over $2.5 billion in long liquidations below $2K, with volatility
-    increasing the chance of a retest of $1,800 support.
-  published: 2026-03-19 12:16:49.000000000 +00:00
-- title: Why Ethereum developers want ‘one-click staking’ for institutions
-  url: https://cointelegraph.com/news/ethereum-one-click-staking-institutions?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum developers are pushing one-click staking to simplify validator
-    operations, attract institutions and strengthen decentralization across the network.
-  published: 2026-03-19 10:18:35.000000000 +00:00
-- title: Crypto Fear and Greed rebounds off extreme lows as traders re-enter
-  url: https://cointelegraph.com/news/crypto-fear-and-greed-rebounds-off-extreme-lows-as-traders-re-enter?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The Crypto Fear and Greed Index just ended a 48-day stretch in the “extreme
-    fear” zone, signalling improving sentiment among investors. Will fresh capital
-    inflows reignite the bull market?
-  published: 2026-03-18 19:39:49.000000000 +00:00
-- title: Ethereum aims to cut bridge times by 98% to 13 seconds with new rule
-  url: https://cointelegraph.com/news/ethereum-cuts-bridge-times-98-percent-13-seconds-fast-confirmation-rule?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ethereum’s FCR aims to reduce bridge times by up to 98%, bringing L1-to-L2
-    and exchange deposits down to 13 seconds without a hard fork.
-  published: 2026-03-18 10:18:41.000000000 +00:00
-- title: Bitmine speeds pace of Ethereum buys, boosting treasury to 4.6M ETH
-  url: https://cointelegraph.com/news/bitmine-buys-5-000-eth-from-ethereum-foundation-brings-holdings-to-4-6m-tokens?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: About two-thirds of the company’s tokens are currently staked, generating
-    an estimated $180 million in annualized revenue.
-  published: 2026-03-16 20:31:04.000000000 +00:00
-- title: Three Ethereum indicators hint that $2.8K is the next ETH price target
-  url: https://cointelegraph.com/news/three-ethereum-indicators-hint-2-8k-next-eth-price-target?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: A symmetrical triangle breakout and an unresolved supply overhang are boosting
-    the case that Ether may go as high as $2,800 in March.
-  published: 2026-03-16 14:15:59.000000000 +00:00
-- title: Vitalik Buterin promotes an update simplifying Ethereum node software
-  url: https://cointelegraph.com/news/vitalik-buterin-simplify-ethereum-node?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The blockchain co-founder said the goal is to make the "self-sovereign"
-    method of Ethereum users running their own nodes a user-friendly experience.
-  published: 2026-03-15 16:47:31.000000000 +00:00
-- title: Ethereum Foundation sells $10.2M worth of ETH to BitMine in OTC deal
-  url: https://cointelegraph.com/news/ethereum-foundation-sells-eth-to-bitmine-otc-deal?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The Ethereum Foundation completed a $10.2 million OTC sale of 5,000 ETH
-    to BitMine as part of its treasury management strategy to fund operations and
-    ecosystem development.
-  published: 2026-03-15 07:06:13.000000000 +00:00
-- title: Ether accumulation data points to a rally toward $2.8K, but there’s a catch
-  url: https://cointelegraph.com/news/ether-accumulation-data-predicts-rally-to-dollar2-8k-but-there-s-a-catch?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether bulls appear to be targeting $2,800 as their next stop, but ETH futures
-    data shows a divided market with limited odds for a sustained 33% rally.
-  published: 2026-03-13 20:34:28.000000000 +00:00
-- title: Ethereum Foundation publishes mandate clarifying role and goals
-  url: https://cointelegraph.com/news/ethereum-foundation-mandate-role-goals?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The non-profit organization said the goal is to make Ethereum so decentralized
-    that it could function even if the foundation ceases to exist.
-  published: 2026-03-13 17:32:01.000000000 +00:00
-- title: 'Ethereum accumulation wallets jump 30%: Will ETH price follow?'
-  url: https://cointelegraph.com/news/ethereum-accumulation-wallets-jump-30-percent-wil-eth-price-follow?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Ether’s road to recovery could become clearer if balances in Ethereum accumulation
-    wallets and the staked supply continue rising.
-  published: 2026-03-13 16:49:56.000000000 +00:00
-- title: Vitalik distances himself from nonprofit backed by SHIB donation
-  url: https://cointelegraph.com/news/vitalik-buterin-future-of-life-institute-shib-donation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Vitalik Buterin said he is no longer closely aligned with the Future of
-    Life Institute after its strategy shifted following his 2021 SHIB donation.
-  published: 2026-03-13 08:32:08.000000000 +00:00
-- title: Anchorage Digital ties in Puffer Finance for institutional Ethereum restaking
-  url: https://cointelegraph.com/news/anchorage-digital-integrates-puffer-finance-to-offer-institutional-ethereum-restaking?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The integration allows institutions to stake Ether held in Anchorage custody
-    and receive Puffer’s liquid restaking token while earning staking and restaking
-    rewards.
-  published: 2026-03-12 21:16:54.000000000 +00:00

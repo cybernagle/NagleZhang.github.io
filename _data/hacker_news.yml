@@ -1,124 +1,124 @@
 ---
-- title: The Cognitive Dark Forest
-  url: https://ryelang.org/blog/posts/cognitive-dark-forest/
+- title: 'Show HN: YouTube search barely works, I made a search form with advanced
+    filters'
+  url: https://playlists.at/youtube/search/
   summary: Comments
-  published: 2026-03-29 19:36:21.000000000 +00:00
-- title: Voyager 1 runs on 69 KB of memory and an 8-track tape recorder
-  url: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+  published: 2026-04-06 00:18:26.000000000 +00:00
+- title: Gemma 4 on iPhone
+  url: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
   summary: Comments
-  published: 2026-03-29 16:12:22.000000000 +00:00
-- title: Claude Code runs Git reset –hard origin/main against project repo every 10
-    mins
-  url: https://github.com/anthropics/claude-code/issues/40710
+  published: 2026-04-05 18:45:53.000000000 +00:00
+- title: 'Show HN: I built a tiny LLM to demystify how language models work'
+  url: https://github.com/arman-bd/guppylm
   summary: Comments
-  published: 2026-03-29 22:15:06.000000000 +00:00
-- title: ChatGPT won't let you type until Cloudflare reads your React state
-  url: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+  published: 2026-04-06 00:20:12.000000000 +00:00
+- title: 'LÖVE: 2D Game Framework for Lua'
+  url: https://github.com/love2d/love
   summary: Comments
-  published: 2026-03-29 20:21:05.000000000 +00:00
-- title: 15 Years of Forking
-  url: https://www.waterfox.com/blog/15-years-of-forking/
+  published: 2026-04-04 09:20:34.000000000 +00:00
+- title: Artemis II crew see first glimpse of far side of Moon [video]
+  url: https://www.bbc.com/news/videos/ce3d5gkd2geo
   summary: Comments
-  published: 2026-03-27 17:22:11.000000000 +00:00
-- title: 'Midnight train from GA: A view of America from the tracks as airports struggle'
-  url: https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a
+  published: 2026-04-05 14:18:12.000000000 +00:00
+- title: Microsoft hasn't had a coherent GUI strategy since Petzold
+  url: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
   summary: Comments
-  published: 2026-03-29 20:00:02.000000000 +00:00
-- title: Philly courts will ban all smart eyeglasses starting next week
-  url: https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html
+  published: 2026-04-05 17:27:41.000000000 +00:00
+- title: Eight years of wanting, three months of building with AI
+  url: https://lalitm.com/post/building-syntaqlite-ai/
   summary: Comments
-  published: 2026-03-30 01:38:17.000000000 +00:00
-- title: 'Pretext: TypeScript library for multiline text measurement and layout'
-  url: https://github.com/chenglou/pretext
+  published: 2026-04-05 12:43:47.000000000 +00:00
+- title: In Japan, the robot isn't coming for your job; it's filling the one nobody
+    wants
+  url: https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
   summary: Comments
-  published: 2026-03-28 16:52:45.000000000 +00:00
-- title: The road signs that teach travellers about France
-  url: https://www.bbc.com/travel/article/20260327-the-road-signs-that-teach-travellers-about-france
+  published: 2026-04-05 22:31:16.000000000 +00:00
+- title: 'Endian wars and anti-portability: this again?'
+  url: https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/
   summary: Comments
-  published: 2026-03-29 20:30:02.000000000 +00:00
-- title: There is No Spoon. A software engineers primer for demystified ML
-  url: https://github.com/dreddnafious/thereisnospoon
+  published: 2026-04-04 07:29:41.000000000 +00:00
+- title: Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
+  url: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
   summary: Comments
-  published: 2026-03-29 22:28:11.000000000 +00:00
-- title: 'Something unexpected: Sunbathers live longer'
-  url: https://www.health.harvard.edu/blog/heres-something-unexpected-sunbathers-live-longer-201606069738
+  published: 2026-04-05 17:13:51.000000000 +00:00
+- title: Apex Protocol – An open MCP-based standard for AI agent trading
+  url: https://apexstandard.org/
   summary: Comments
-  published: 2026-03-30 01:10:14.000000000 +00:00
-- title: I'll buy your electronics to feed our robot
-  url: https://www.dayworkx.com/
+  published: 2026-04-06 00:50:32.000000000 +00:00
+- title: Employers use your personal data to figure out the lowest salary you'll accept
+  url: https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb
   summary: Comments
-  published: 2026-03-26 19:45:29.000000000 +00:00
-- title: Coding Agents Could Make Free Software Matter Again
-  url: https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/
+  published: 2026-04-06 00:29:08.000000000 +00:00
+- title: Music for Programming
+  url: https://musicforprogramming.net
   summary: Comments
-  published: 2026-03-29 22:21:34.000000000 +00:00
-- title: C++26 is done ISO C++ standards meeting, Trip Report
-  url: https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/
+  published: 2026-04-05 18:23:08.000000000 +00:00
+- title: 'Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and
+    Windsurf'
+  url: https://github.com/mohshomis/modo
   summary: Comments
-  published: 2026-03-29 17:46:12.000000000 +00:00
-- title: Ohm's Peg-to-WASM Compiler
-  url: https://ohmjs.org/blog/2026/03/12/peg-to-wasm
+  published: 2026-04-05 23:59:10.000000000 +00:00
+- title: 'The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn''t'
+  url: https://sschueller.github.io/posts/the-free-market-lie/
   summary: Comments
-  published: 2026-03-27 04:41:07.000000000 +00:00
-- title: About the Atmosphere
-  url: https://toni.org/2026/03/27/about-the-atmosphere/
+  published: 2026-04-05 18:29:47.000000000 +00:00
+- title: Recall – local multimodal semantic search for your files
+  url: https://github.com/aayu22809/Recall
   summary: Comments
-  published: 2026-03-27 23:10:36.000000000 +00:00
-- title: 'Show HN: Crazierl – An Erlang Operating System'
-  url: https://crazierl.org/demo/
+  published: 2026-04-06 00:09:14.000000000 +00:00
+- title: OpenAI's fall from grace as investors race to Anthropic
+  url: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
   summary: Comments
-  published: 2026-03-29 20:38:26.000000000 +00:00
-- title: 'The RISE RISC-V Runners: free, native RISC-V CI on GitHub'
-  url: https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/
+  published: 2026-04-05 23:33:01.000000000 +00:00
+- title: Wavelets on Graphs via Spectral Graph Theory (2009)
+  url: https://arxiv.org/abs/0912.3848
   summary: Comments
-  published: 2026-03-26 15:17:17.000000000 +00:00
-- title: More on Version Control
-  url: https://bramcohen.com/p/more-on-version-control
+  published: 2026-03-31 22:32:40.000000000 +00:00
+- title: A tail-call interpreter in (nightly) Rust
+  url: https://www.mattkeeter.com/blog/2026-04-05-tailcall/
   summary: Comments
-  published: 2026-03-29 19:26:14.000000000 +00:00
-- title: Creating West Coast Buddhism (2024)
-  url: https://letter.palladiummag.com/p/creating-west-coast-buddhism
+  published: 2026-04-05 15:18:01.000000000 +00:00
+- title: Computational Physics (2nd Edition) (2025)
+  url: https://websites.umich.edu/~mejn/cp2/
   summary: Comments
-  published: 2026-03-26 14:08:34.000000000 +00:00
-- title: 'Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes'
-  url: https://github.com/elixir-volt/quickbeam
+  published: 2026-04-05 15:38:18.000000000 +00:00
+- title: The Mechanics of Steins Gate (2023) [pdf]
+  url: https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf
   summary: Comments
-  published: 2026-03-28 21:03:23.000000000 +00:00
-- title: Neovim 0.12.0
-  url: https://github.com/neovim/neovim/releases/tag/v0.12.0
+  published: 2026-04-05 21:42:01.000000000 +00:00
+- title: 'Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs'
+  url: https://github.com/salmanmohammadi/nanocode/discussions/1
   summary: Comments
-  published: 2026-03-29 17:39:55.000000000 +00:00
-- title: 'The rise and fall of IBM''s 4 Pi aerospace computers: an illustrated history'
-  url: https://www.righto.com/2026/03/ibm-4-pi-computer-history.html
+  published: 2026-04-05 14:21:17.000000000 +00:00
+- title: 'Caveman: Why use many token when few token do trick'
+  url: https://github.com/JuliusBrussee/caveman
   summary: Comments
-  published: 2026-03-29 16:26:55.000000000 +00:00
-- title: Kyushu Railway Company Train Varieties
-  url: https://www.jrkyushu.co.jp/english/train/index.html
+  published: 2026-04-05 08:56:18.000000000 +00:00
+- title: 'Show HN: Mdarena – Benchmark your Claude.md against your own PRs'
+  url: https://github.com/HudsonGri/mdarena
   summary: Comments
-  published: 2026-03-29 19:08:07.000000000 +00:00
-- title: LinkedIn uses 2.4 GB RAM across two tabs
-  url: https://news.ycombinator.com/item?id=47561489
+  published: 2026-04-05 23:35:59.000000000 +00:00
+- title: 'Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud'
+  url: https://github.com/kessler/gemma-gem
   summary: Comments
-  published: 2026-03-29 08:58:24.000000000 +00:00
-- title: 'Interview: Nobonoko, Master of the Minimal Sequencer'
-  url: https://fi-le.net/nobo/
+  published: 2026-04-06 00:14:37.000000000 +00:00
+- title: Copilot is 'for entertainment purposes only', per Microsoft's terms of use
+  url: https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
   summary: Comments
-  published: 2026-03-27 14:40:47.000000000 +00:00
-- title: Nitrile and latex gloves may cause overestimation of microplastics
-  url: https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/
+  published: 2026-04-06 00:07:54.000000000 +00:00
+- title: 'OpenJDK: Panama'
+  url: https://openjdk.org/projects/panama/
   summary: Comments
-  published: 2026-03-29 09:46:58.000000000 +00:00
-- title: 'Miasma: A tool to trap AI web scrapers in an endless poison pit'
-  url: https://github.com/austin-weeks/miasma
+  published: 2026-04-05 18:33:38.000000000 +00:00
+- title: Friendica – A Decentralized Social Network
+  url: https://friendi.ca/
   summary: Comments
-  published: 2026-03-29 10:10:12.000000000 +00:00
-- title: 'AyaFlow: A high-performance, eBPF-based network traffic analyzer written
-    in Rust'
-  url: https://github.com/DavidHavoc/ayaFlow
+  published: 2026-04-05 10:41:06.000000000 +00:00
+- title: Finnish sauna heat exposure induces stronger immune cell than cytokine responses
+  url: https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract
   summary: Comments
-  published: 2026-03-29 15:28:27.000000000 +00:00
-- title: Police used AI facial recognition to wrongly arrest TN woman for crimes in
-    ND
-  url: https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition
+  published: 2026-04-05 13:14:36.000000000 +00:00
+- title: Hightouch (YC S19) Is Hiring
+  url: https://hightouch.com/careers#open-positions
   summary: Comments
-  published: 2026-03-29 14:20:23.000000000 +00:00
+  published: 2026-04-05 12:03:17.000000000 +00:00
