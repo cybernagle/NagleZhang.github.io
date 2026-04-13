@@ -1,124 +1,123 @@
 ---
-- title: 'Show HN: YouTube search barely works, I made a search form with advanced
-    filters'
-  url: https://playlists.at/youtube/search/
+- title: 'Taking on CUDA with ROCm: ''One Step After Another'''
+  url: https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/
   summary: Comments
-  published: 2026-04-06 00:18:26.000000000 +00:00
-- title: Gemma 4 on iPhone
-  url: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+  published: 2026-04-12 22:38:45.000000000 +00:00
+- title: Bring Back Idiomatic Design (2023)
+  url: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
   summary: Comments
-  published: 2026-04-05 18:45:53.000000000 +00:00
-- title: 'Show HN: I built a tiny LLM to demystify how language models work'
-  url: https://github.com/arman-bd/guppylm
+  published: 2026-04-12 12:21:26.000000000 +00:00
+- title: DIY Soft Drinks
+  url: https://blinry.org/diy-soft-drinks/
   summary: Comments
-  published: 2026-04-06 00:20:12.000000000 +00:00
-- title: 'LÖVE: 2D Game Framework for Lua'
-  url: https://github.com/love2d/love
+  published: 2026-04-12 16:38:43.000000000 +00:00
+- title: 'Show HN: boringBar – a taskbar-style dock replacement for macOS'
+  url: https://boringbar.app/
   summary: Comments
-  published: 2026-04-04 09:20:34.000000000 +00:00
-- title: Artemis II crew see first glimpse of far side of Moon [video]
-  url: https://www.bbc.com/news/videos/ce3d5gkd2geo
+  published: 2026-04-12 17:25:44.000000000 +00:00
+- title: A Perfectable Programming Language
+  url: https://alok.github.io/lean-pages/perfectable-lean/
   summary: Comments
-  published: 2026-04-05 14:18:12.000000000 +00:00
-- title: Microsoft hasn't had a coherent GUI strategy since Petzold
-  url: https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/
+  published: 2026-04-12 21:11:24.000000000 +00:00
+- title: 'Ask HN: What Are You Working On? (April 2026)'
+  url: https://news.ycombinator.com/item?id=47741527
   summary: Comments
-  published: 2026-04-05 17:27:41.000000000 +00:00
-- title: Eight years of wanting, three months of building with AI
-  url: https://lalitm.com/post/building-syntaqlite-ai/
+  published: 2026-04-12 16:24:43.000000000 +00:00
+- title: Most people can't juggle one ball
+  url: https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball
   summary: Comments
-  published: 2026-04-05 12:43:47.000000000 +00:00
-- title: In Japan, the robot isn't coming for your job; it's filling the one nobody
-    wants
-  url: https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
+  published: 2026-04-09 12:35:20.000000000 +00:00
+- title: I gave every train in New York an instrument
+  url: https://www.trainjazz.com/
   summary: Comments
-  published: 2026-04-05 22:31:16.000000000 +00:00
-- title: 'Endian wars and anti-portability: this again?'
-  url: https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/
+  published: 2026-04-10 15:21:07.000000000 +00:00
+- title: 'Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD
+    card)'
+  url: https://github.com/rochus-keller/OberonSystem3Native/releases
   summary: Comments
-  published: 2026-04-04 07:29:41.000000000 +00:00
-- title: Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code
-  url: https://ai.georgeliu.com/p/running-google-gemma-4-locally-with
+  published: 2026-04-12 13:06:44.000000000 +00:00
+- title: Google removes "Doki Doki Literature Club" from Google Play
+  url: https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t
   summary: Comments
-  published: 2026-04-05 17:13:51.000000000 +00:00
-- title: Apex Protocol – An open MCP-based standard for AI agent trading
-  url: https://apexstandard.org/
+  published: 2026-04-12 19:53:08.000000000 +00:00
+- title: The peril of laziness lost
+  url: https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/
   summary: Comments
-  published: 2026-04-06 00:50:32.000000000 +00:00
-- title: Employers use your personal data to figure out the lowest salary you'll accept
-  url: https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb
+  published: 2026-04-12 19:44:40.000000000 +00:00
+- title: Uncharted island soon to appear on nautical charts
+  url: https://www.awi.de/en/about-us/service/press/single-view/unkartierte-insel-demnaechst-auf-seekarten-verzeichnet.html
   summary: Comments
-  published: 2026-04-06 00:29:08.000000000 +00:00
-- title: Music for Programming
-  url: https://musicforprogramming.net
+  published: 2026-04-12 20:30:11.000000000 +00:00
+- title: 'Tell HN: Docker pull fails in Spain due to football Cloudflare block'
+  url: https://news.ycombinator.com/item?id=47738883
   summary: Comments
-  published: 2026-04-05 18:23:08.000000000 +00:00
-- title: 'Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and
-    Windsurf'
-  url: https://github.com/mohshomis/modo
+  published: 2026-04-12 12:28:57.000000000 +00:00
+- title: Is Math Big or Small?
+  url: https://chessapig.github.io/talks/Big-Small
   summary: Comments
-  published: 2026-04-05 23:59:10.000000000 +00:00
-- title: 'The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn''t'
-  url: https://sschueller.github.io/posts/the-free-market-lie/
+  published: 2026-04-12 08:25:03.000000000 +00:00
+- title: We have a 99% email reputation, but Gmail disagrees
+  url: https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/
   summary: Comments
-  published: 2026-04-05 18:29:47.000000000 +00:00
-- title: Recall – local multimodal semantic search for your files
-  url: https://github.com/aayu22809/Recall
+  published: 2026-04-12 12:42:25.000000000 +00:00
+- title: Investigating How Long-Distance Couples Use Digital Games to Facilitate Intimacy
+  url: https://arxiv.org/abs/2505.09509
   summary: Comments
-  published: 2026-04-06 00:09:14.000000000 +00:00
-- title: OpenAI's fall from grace as investors race to Anthropic
-  url: https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic
+  published: 2026-04-12 16:17:59.000000000 +00:00
+- title: Seven countries now generate 100% of their electricity from renewable energy
+  url: https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html
   summary: Comments
-  published: 2026-04-05 23:33:01.000000000 +00:00
-- title: Wavelets on Graphs via Spectral Graph Theory (2009)
-  url: https://arxiv.org/abs/0912.3848
+  published: 2026-04-12 13:21:39.000000000 +00:00
+- title: Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets
+  url: https://arxiv.org/abs/2604.07902
   summary: Comments
-  published: 2026-03-31 22:32:40.000000000 +00:00
-- title: A tail-call interpreter in (nightly) Rust
-  url: https://www.mattkeeter.com/blog/2026-04-05-tailcall/
+  published: 2026-04-12 09:14:30.000000000 +00:00
+- title: JVM Options Explorer
+  url: https://chriswhocodes.com/vm-options-explorer.html
   summary: Comments
-  published: 2026-04-05 15:18:01.000000000 +00:00
-- title: Computational Physics (2nd Edition) (2025)
-  url: https://websites.umich.edu/~mejn/cp2/
+  published: 2026-04-12 10:29:26.000000000 +00:00
+- title: Happy Map
+  url: https://pudding.cool/2026/02/happy-map/
   summary: Comments
-  published: 2026-04-05 15:38:18.000000000 +00:00
-- title: The Mechanics of Steins Gate (2023) [pdf]
-  url: https://github.com/Votuko/steins-gate-mechanics/blob/main/The%20Mechanics%20of%20Steins%20Gate%20v1.0.3.pdf
+  published: 2026-04-07 13:55:11.000000000 +00:00
+- title: 'Show HN: Claudraband – Claude Code for the Power User'
+  url: https://github.com/halfwhey/claudraband
   summary: Comments
-  published: 2026-04-05 21:42:01.000000000 +00:00
-- title: 'Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs'
-  url: https://github.com/salmanmohammadi/nanocode/discussions/1
+  published: 2026-04-12 16:55:20.000000000 +00:00
+- title: EasyPost (YC S13) Is Hiring
+  url: https://www.easypost.com/careers
   summary: Comments
-  published: 2026-04-05 14:21:17.000000000 +00:00
-- title: 'Caveman: Why use many token when few token do trick'
-  url: https://github.com/JuliusBrussee/caveman
+  published: 2026-04-12 17:01:26.000000000 +00:00
+- title: Pro Max 5x quota exhausted in 1.5 hours despite moderate usage
+  url: https://github.com/anthropics/claude-code/issues/45756
   summary: Comments
-  published: 2026-04-05 08:56:18.000000000 +00:00
-- title: 'Show HN: Mdarena – Benchmark your Claude.md against your own PRs'
-  url: https://github.com/HudsonGri/mdarena
+  published: 2026-04-12 13:15:31.000000000 +00:00
+- title: The End of Eleventy
+  url: https://brennan.day/the-end-of-eleventy/
   summary: Comments
-  published: 2026-04-05 23:35:59.000000000 +00:00
-- title: 'Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud'
-  url: https://github.com/kessler/gemma-gem
+  published: 2026-04-12 01:55:48.000000000 +00:00
+- title: Phyphox – Physical Experiments Using a Smartphone
+  url: https://phyphox.org/
   summary: Comments
-  published: 2026-04-06 00:14:37.000000000 +00:00
-- title: Copilot is 'for entertainment purposes only', per Microsoft's terms of use
-  url: https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
+  published: 2026-04-12 08:38:11.000000000 +00:00
+- title: Exploiting the most prominent AI agent benchmarks
+  url: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
   summary: Comments
-  published: 2026-04-06 00:07:54.000000000 +00:00
-- title: 'OpenJDK: Panama'
-  url: https://openjdk.org/projects/panama/
+  published: 2026-04-11 19:15:56.000000000 +00:00
+- title: Tech valuations are back to pre-AI boom levels
+  url: https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels
   summary: Comments
-  published: 2026-04-05 18:33:38.000000000 +00:00
-- title: Friendica – A Decentralized Social Network
-  url: https://friendi.ca/
+  published: 2026-04-12 22:13:22.000000000 +00:00
+- title: Mark's Magic Multiply
+  url: https://wren.wtf/shower-thoughts/marks-magic-multiply/
   summary: Comments
-  published: 2026-04-05 10:41:06.000000000 +00:00
-- title: Finnish sauna heat exposure induces stronger immune cell than cytokine responses
-  url: https://www.tandfonline.com/doi/full/10.1080/23328940.2026.2645467#abstract
+  published: 2026-04-11 09:03:34.000000000 +00:00
+- title: A Tour of Oodi
+  url: https://blinry.org/oodi/
   summary: Comments
-  published: 2026-04-05 13:14:36.000000000 +00:00
-- title: Hightouch (YC S19) Is Hiring
-  url: https://hightouch.com/careers#open-positions
+  published: 2026-04-09 17:27:39.000000000 +00:00
+- title: 'Bouncer: Block "crypto", "rage politics", and more from your X feed using
+    AI'
+  url: https://github.com/imbue-ai/bouncer
   summary: Comments
-  published: 2026-04-05 12:03:17.000000000 +00:00
+  published: 2026-04-12 16:24:46.000000000 +00:00
