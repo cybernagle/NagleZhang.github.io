@@ -1,4 +1,23 @@
 ---
+- title: "#2304 “I make $4.5 million implementing AI”"
+  url: https://mixergy.com/interviews/i-make-4-5-million-implementing-ai/
+  summary: |-
+    I first heard about this guy on the Joe Rogan show. He built a hot business on a simple concept: Companies hire him to embed AI usage and thinking in their businesses. Now he’s creating his own agent software (a customized version of NeoClaw) that he’s installing in companies.
+    Best of all: Jon Cheney says what he built at GenAIPI can be built by people listening to this episode. We break down how.
+    Jon Cheney is the founder of GenAIPI (General AI Proficiency Institute), an AI consulting and enablement company that helps businesses adopt AI through training, strategy, and implementation. He previously built and exited a venture-backed startup, then used AI tools to launch GenAIPI from scratch with just $400. Today, the company is at roughly $4.5M ARR and is evolving from fractional AI consulting into software-assisted AI infrastructure for clients.
+    Sponsored byZapier
+    More interviews -> https://mixergy.com/moreint
+    Rate this interview -> https://mixergy.com/rateint
+  published: 2026-04-23 14:02:31.000000000 +00:00
+- title: "#2303 Convos: Instant OpenClaw on your phone"
+  url: https://mixergy.com/interviews/convos-instant-openclaw-on-your-phone/
+  summary: |-
+    On X, Shane Mac showed how he created an OpenClaw agent and asked it to copy an app. In this interview, he showed how his app Convos, does it. This interview is more visual than our usual ones, so you should head over to our YouTube channel for builders to see it.
+    Shane Mac is the founder of XMTP, the protocol behind Convos, a chat app that allows users to launch and interact with AI agents like OpenClaw and Hermes on their phones. He is building tools that make agents more personal, more mobile, and more useful in everyday life, from coordination and planning to app creation and information monitoring.
+    Sponsored byZapier
+    More interviews -> https://mixergy.com/moreint
+    Rate this interview -> https://mixergy.com/rateint
+  published: 2026-04-20 14:20:21.000000000 +00:00
 - title: "#2302 Superpowering Claude with 10,000 apps"
   url: https://mixergy.com/interviews/superpowering-claude-with-10000-apps/
   summary: |-
