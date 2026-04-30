@@ -78,6 +78,7 @@ AI Engineer and Platform Architect with 10+ years of experience building product
 - **[Kokoros](https://github.com/cybernagle/Kokoros)** — Kokoro TTS engine re-implemented in Rust for real-time, high-quality text-to-speech. Optimized for low-latency inference.
 - **[OptiTranslate](https://github.com/cybernagle/OptiTranslate)** — macOS menu-bar AI translator (Swift). Opt+Space to translate selected text, saves results to Markdown.
 - **[FingerSaver](https://github.com/cybernagle/fingersaver)** (Private) — Multi-agent terminal manager. Split-pane TUI for orchestrating multiple coding agents simultaneously.
+- **SIN** (Internal, SAP) — Agentic CLI for infrastructure operations, built on [Backstage](https://backstage.io) as the backend platform. Enables natural-language driven infrastructure management across Kubeflow and Kubernetes environments.
 
 ### Kubeflow Community Contributions
 
