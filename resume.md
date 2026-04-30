@@ -19,7 +19,7 @@ AI Engineer and Platform Architect with 10+ years of experience building product
 
 - Currently focused on **LLM-powered agents**, voice AI, and developer tooling
 - Kubeflow community member with contributions to auth, security (CVE fixes), and platform reliability
-- Built real-time voice agents in Rust, AI coding agents in Go, and TTS engines from scratch
+- Built real-time voice agents in Rust, AI coding agents in Go, and TTS integrations
 - Deep infrastructure background: Kubernetes, MLOps platforms serving 100+ teams
 - Lifelong learner and educator — OS kernel video series on BiliBili
 
@@ -75,7 +75,7 @@ AI Engineer and Platform Architect with 10+ years of experience building product
 
 - **[Car Agent](https://github.com/cybernagle/car-agent)** (Private) — Real-time voice-interaction AI agent for in-car scenarios. Built with Rust (core agent + relay server), iOS (SwiftUI client), integrated with LLM providers, TTS (Kokoro), and STT (FunASR streaming). Features WebSocket-based relay, tool orchestration, and terminal streaming viewer.
 - **[Cos](https://github.com/cybernagle/cos)** — AI Coding Agent implemented in Go with Bubbletea TUI. Full-featured terminal-based coding assistant.
-- **[Kokoros](https://github.com/cybernagle/Kokoros)** — Kokoro TTS engine re-implemented in Rust for real-time, high-quality text-to-speech. Optimized for low-latency inference.
+- **[Kokoros](https://github.com/cybernagle/Kokoros)** — Kokoro TTS model ported to Rust for real-time, high-quality text-to-speech inference with low-latency optimization.
 - **[OptiTranslate](https://github.com/cybernagle/OptiTranslate)** — macOS menu-bar AI translator (Swift). Opt+Space to translate selected text, saves results to Markdown.
 - **[FingerSaver](https://github.com/cybernagle/fingersaver)** (Private) — Multi-agent terminal manager. Split-pane TUI for orchestrating multiple coding agents simultaneously.
 - **SIN** (Internal, SAP) — Agentic CLI for infrastructure operations, built on [Backstage](https://backstage.io) as the backend platform. Enables natural-language driven infrastructure management across Kubeflow and Kubernetes environments.
