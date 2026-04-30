@@ -15,7 +15,13 @@ permalink: /cv/
 ## Summary
 * * *
 
-AI Engineer and Platform Architect with 10+ years of experience building production systems. Currently focused on LLM-powered agents, voice AI, and developer tooling. Open source contributor to Kubeflow and CNCF ecosystem. Combines deep infrastructure expertise with hands-on AI/ML engineering — from training platform design to building real-time voice agents in Rust.
+AI Engineer and Platform Architect with 10+ years of experience building production systems.
+
+- Currently focused on **LLM-powered agents**, voice AI, and developer tooling
+- Kubeflow community member with contributions to auth, security (CVE fixes), and platform reliability
+- Built real-time voice agents in Rust, AI coding agents in Go, and TTS engines from scratch
+- Deep infrastructure background: Kubernetes, MLOps platforms serving 100+ teams
+- Lifelong learner and educator — OS kernel video series on BiliBili
 
 ## Experience
 * * *
@@ -82,7 +88,7 @@ AI Engineer and Platform Architect with 10+ years of experience building product
 - **Security:** Fixed SSRF vulnerability CVE-2023-6570 in Kubeflow Pipelines ([PR #13126](https://github.com/kubeflow/pipelines/pull/13126)), SQL injection prevention ([PR #13127](https://github.com/kubeflow/pipelines/pull/13127))
 - **Platform:** gRPC max_receive_message_length configuration ([PR #12438](https://github.com/kubeflow/pipelines/pull/12438)), pipeline version bug fix ([PR #10268](https://github.com/kubeflow/pipelines/pull/10268))
 - **Auth:** OAuth2Proxy documentation and Istio envoy filter chain fixes ([manifests PRs #2884, #2656](https://github.com/kubeflow/manifests))
-- **Member:** Kubeflow community, contributor to internal-acls governance
+- **Member:** [Kubeflow community member](https://github.com/kubeflow/community/blob/master/memberlist.yaml)
 
 ### CS Education
 
