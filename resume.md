@@ -37,40 +37,36 @@ AI Engineer and Platform Architect with 10+ years of experience building product
 - Contributed security fixes to Kubeflow Pipelines: SSRF prevention (CVE-2023-6570, PR #13126), SQL injection fix (PR #13127), and gRPC configuration improvements (PR #12438).
 - Integrated kfp-sdk with Jenkins CI/CD, enabling data scientists to deploy ML pipelines via pull request.
 
-#### Seedlink — DevOps Engineer  2019.06 - 2019.12
+#### Seedlink — Cloud Engineer  2019.06 - 2019.12
 
 ***Keywords: Cloud Architecture, CI/CD, Docker***
 
-- Dockerized all services and designed the service architecture.
-- Refactored CI/CD workflow using Jenkins (following the Moby project pattern).
-- Rebuilt Ansible provisioning and deployment automation.
-- Integrated Terraform for AWS infrastructure management.
+- Led the company-wide containerization initiative — dockerized all production services and redesigned the service architecture for cloud-native deployment.
+- Rebuilt CI/CD pipeline with Jenkins (modeled after the Moby project workflow), cutting release cycles and improving deployment reliability.
+- Migrated infrastructure provisioning to Terraform, replacing manual AWS operations with reproducible Infrastructure as Code.
+- Rewrote Ansible playbooks for provisioning and deployment, standardizing the team's automation workflow.
 
-#### Strikingly — DevOps Engineer  2018.03 - 2019.06
+#### Strikingly — Platform Engineer  2018.03 - 2019.06
 
 ***Keywords: Public Cloud, Infrastructure as Code, Monitoring***
 
-- Maintained fully automated CI/CD pipelines (GitLab CI).
-- Managed AWS infrastructure with Terraform (VPC, auto-scaling, security groups).
-- Built monitoring stack with Prometheus, Grafana, and Elasticsearch.
-- Developed AWS Lambda functions in Python/Go for scheduled data pipelines.
-- Maintained production Kubernetes cluster on Tencent Cloud.
+- Managed full AWS infrastructure with Terraform (VPC, NAT gateway, auto-scaling groups, security groups) and maintained GitLab CI pipelines for automated deployments.
+- Built end-to-end monitoring and observability stack using Prometheus, Grafana, and Elasticsearch.
+- Developed serverless data pipelines with AWS Lambda (Python/Go), including blockchain data scraping into Elasticsearch.
+- Maintained production Kubernetes cluster on Tencent Cloud for a gaming workload.
 
-#### eHi Car Rental — DevOps Engineer  2015.07 - 2018.03
+#### eHi Car Rental — Systems Engineer  2015.07 - 2018.03
 
 ***Keywords: Private Cloud, Log Analytics, Monitoring***
 
-- Built Elastic Stack (ELK) for centralized log analysis across 500+ instances.
-- Automated daily data extraction with Python; reduced incident detection time from 1 hour to 5 minutes.
-- Implemented ElastAlert for real-time production monitoring.
-- Translated ElastAlert documentation from English to Chinese for the community.
+- Designed and deployed a centralized Elastic Stack (ELK) for log aggregation across 500+ Windows and Linux instances — replacing manual log analysis.
+- Built Python automation for daily data extraction and real-time alerting with ElastAlert; reduced incident detection and resolution time from 1 hour to 5 minutes.
+- Maintained Zabbix, Cacti, and Piwik for infrastructure and application monitoring.
+- Contributed ElastAlert Chinese documentation to the open source community.
 
-#### Power Dekor — IT Manager  2012.02 - 2015.06
+#### Power Dekor — IT Engineer  2012.02 - 2015.06
 
-***Keywords: Network Engineering, Team Management***
-
-- Designed and maintained corporate network supporting 100+ clients.
-- Managed IT department operations and executive reporting.
+- Designed and built corporate network infrastructure supporting 100+ clients.
 
 ## Open Source & Projects
 * * *
