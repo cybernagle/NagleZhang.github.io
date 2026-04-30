@@ -12,153 +12,94 @@ permalink: /cv/
 - BiliBili: [Knowledge Sharing](https://space.bilibili.com/250682464)
 - **zhang.nlage@gmail.com**
 
-
-
-## Quick Overview
+## Summary
 * * *
 
-Profile Skilled DevOps Engineer with
-- Over 10+ years of experience
-- Open source contributor
-- Lifelong learner and sharer
+AI Engineer and Platform Architect with 10+ years of experience building production systems. Currently focused on LLM-powered agents, voice AI, and developer tooling. Open source contributor to Kubeflow and CNCF ecosystem. Combines deep infrastructure expertise with hands-on AI/ML engineering — from training platform design to building real-time voice agents in Rust.
 
-## Company Timeline View
-
+## Experience
 * * *
-#### SAP (Kubernetes ,Devops Engnieer, Data Scientist) 2019.12 - Current
 
-***Keyword: Open Source, Software Engineering, Low Level Coding***
+#### SAP — AI Platform Engineer (Kubeflow, MLOps)  2019.12 - Present
 
-  - Integrate kfp(kubeflow pipeline) sdk support CI/CD kubeflow pipeline on jenkins.
-  - Implement multi-tenant training platform(kubeflow) base on kubernetes. onboarded 100+ internal team.
-  - Re-implement oAuth for kubeflow platform, and contribute solution back to community.
-  - Design Infrastructure as Code for team by using helm & argoCD.
-  - Desing & Implement Queueing System on kubernetes in a cloud native way.(kqueue+pytorchjob)
+***Keywords: Open Source, MLOps, AI Platform, Kubernetes***
 
-#### Seedlink (Public Cloud, Devops Engineer) 2019.06 - 2019.12
+- Architected and maintained a multi-tenant ML training platform serving 100+ internal teams, built on Kubeflow, Kubernetes, and Kueue.
+- Designed the platform's OAuth2 authentication layer and contributed the solution back to the Kubeflow community (kubeflow/manifests PRs #2884, #2862, #2656).
+- Built Infrastructure as Code pipelines using Helm and ArgoCD for reproducible deployments.
+- Designed and implemented a Kubernetes-native queueing system (Kueue + PyTorchJob) for GPU resource scheduling.
+- Contributed security fixes to Kubeflow Pipelines: SSRF prevention (CVE-2023-6570, PR #13126), SQL injection fix (PR #13127), and gRPC configuration improvements (PR #12438).
+- Integrated kfp-sdk with Jenkins CI/CD, enabling data scientists to deploy ML pipelines via pull request.
 
-***Kyeword: Learn from Failure, Consolidate***
+#### Seedlink — DevOps Engineer  2019.06 - 2019.12
 
-  - Dockerlize all the service, design service Arch.
-  - Refactoring CI/CD workflow by using Jenkins.(follow ![moby](https://github.com/moby/moby/blob/19.03/Jenkinsfile) workflow)
-  - Almost refactoring all the ansible code for provision and deploy.
-  - Apply terraform in team to support AWS operation.
-  - Integrated Jenkins with Teams by groovy.
+***Keywords: Cloud Architecture, CI/CD, Docker***
 
-#### Strikingly (Public Cloud, Devops Engineer) 2018.03 - 2019.06
+- Dockerized all services and designed the service architecture.
+- Refactored CI/CD workflow using Jenkins (following the Moby project pattern).
+- Rebuilt Ansible provisioning and deployment automation.
+- Integrated Terraform for AWS infrastructure management.
 
-***Keyword: Public Cloud, Infrastructure As Code, A Stable world***
+#### Strikingly — DevOps Engineer  2018.03 - 2019.06
 
-  - maintain fully automated CI/CD pipelines for code deployment using gitlab-ci. 
-  - Maintain infrastructure on AWS by terraform.  
-  - Automated instance provision by shell and ansible. 
-  - Develop lambda on AWS for cronjobs by python/golang. 
-  - Setup monitoring system. Use prometheus, grafana and elasticsearch. 
-  - Mantain game k8s production on tencent Cloud. 
-  - Setup data pipeline,which scrap data from eos to elasticsearch by using python and AWS lambda. 
+***Keywords: Public Cloud, Infrastructure as Code, Monitoring***
 
-#### eHi Car Rental Service(Private Cloud, DevOps Enginner) 2015.07 - 2018.03 
+- Maintained fully automated CI/CD pipelines (GitLab CI).
+- Managed AWS infrastructure with Terraform (VPC, auto-scaling, security groups).
+- Built monitoring stack with Prometheus, Grafana, and Elasticsearch.
+- Developed AWS Lambda functions in Python/Go for scheduled data pipelines.
+- Maintained production Kubernetes cluster on Tencent Cloud.
 
-***Keyword: Private Cloud, Manually Operation, Scripting, Analsis***
+#### eHi Car Rental — DevOps Engineer  2015.07 - 2018.03
 
-  - Setup Elastic stack(Elasticsearch+Logstash+Kibana) for log analysis. 
-  - Automated extract daily data from elasticsearch by using python. 
-  - Using ElasticAlert to monitoring production log.  
-  - Maintain Zabbix/Cacti/Piwik system for problem analysis. 
-  - Translate Elastlaert document from English to Chinese. 
-  - Reduce problem detecting and solving time from 1 hour to 5 minutes by using alert and log. 
-    
-#### Power Dekor Floor factory ( IT Help Desk Support, Manager)  2012.02 - 2015.06 
+***Keywords: Private Cloud, Log Analytics, Monitoring***
 
-***Keyword: Cooperate, Comminunication***
+- Built Elastic Stack (ELK) for centralized log analysis across 500+ instances.
+- Automated daily data extraction with Python; reduced incident detection time from 1 hour to 5 minutes.
+- Implemented ElastAlert for real-time production monitoring.
+- Translated ElastAlert documentation from English to Chinese for the community.
 
-  - Build network for office which support 100+ clients.  
-  - Troubleshoting with network traffics. 
-  - Manage IT depatment, wrote weekly report. 
-  - Wrote powerpoint report for CEO. 
+#### Power Dekor — IT Manager  2012.02 - 2015.06
 
-## Project View
+***Keywords: Network Engineering, Team Management***
 
-***
+- Designed and maintained corporate network supporting 100+ clients.
+- Managed IT department operations and executive reporting.
 
-### Side Project
-- [proconfig generator](https://github.com/cybernagle/proconfig-generator) for MyShell community
-- [cs videos](https://space.bilibili.com/250682464) which implement by [manim(in python)](https://github.com/cybernagle/cs-videos)
-- [binary bomb guide](https://github.com/cybernagle/Binary-Bomb) for learners who internested in CSAPP, also the [videos](https://space.bilibili.com/250682464/lists/1498508?type=season)
-
-### Main Project
-
-#### 2022 - 2025(current) Platform served for Data Scientist Train,Fine-Tunning & Deploy models.
-
-Key Components:
-- Kubeflow
-- Kueue
-- oAuth2
-- Hashicorp Vault
-- Jenkins
-
-Support Developer/Data Engineer/Data Scientist onboarding their project by pull request on github. and hashicorp manage sensitive date.
-Kubeflow(pipeline,notebook etc) support user to debug & train & deploy their traing code & manifests.
-
-#### 2019.12 - 2021.6 CI/CD System Enhancement
-
-Jenkins Shared Library for Monitoring Jenkins pipeline execution time
-
-  - jenkins shared library(groovy)
-  - grafana
-  - influxdb
-
-A unified CI/CD system writen by jenkins pipeline & groovy , most part are groovy.   
-using groovy to do data extraction , put it on influxdb. and analysis on grafana.   
-
-#### 2018.3 - 2019.12 Infrastructure Management System
-
-  - AWS vpc/peering/ec2/s3/dynamodb/auto-scaling/security group/ami and so on
-  - Elasticsearch
-  - Docker
-  - AWS lambda
-  - Terraform
-  - Ansible
-  - Jenkins
-
-Using ansible to do system provisioning on ec2 by using cloud init.   
-terraform build vpc, nat gateway, security group, auto scaling group.  
-provisioning system by using ansible. the ansible include three step: [bootstap, provisioning app environment, deploy app]  
-bootstap include setup default environment.   
-provision app environment it's about setup application spefic package, and environment.  
-deploy application, is to run container on ec2, and this part can be reused by CD system.  
-Using jenkins to do CI/CD.  
-
-#### 2015.7 - 2018.3 Monitoring System
-
-  - Elasticsearch, Kibana , Logstash
-  - Elastalert
-  - Cerebro
-
-Pain point: The system got 500 more instances, both include windows & linux.  
-What we have done: we need a good tool to extract logs from each and to do analysis instead of pull logs from instance directly and analysis by labtop.  
-Using Elasticsearch & Kibana (version 3), nxlog is try to extrat the log from windows server , and push to logstash. we defined the rule of log format on logstash. then push it directly to elasticsearch.  
-For es management part, we are using cerebro. to track if the es stauts is red or not. and how replicas works.  
-For alerting part, we are using elastalert. it's just using yaml to send alert to lot of channels. include wechat.    
- 
-## Skills 
+## Open Source & Projects
 * * *
-  - Kubeflow Platform. 
-  - Terraform for infrastructure manage. 
-  - Configuration and automated by ansible. 
-  - Kubernetes application management.
-  - Git for version control 
-  - Jenkins & Argocd for integration and deploy.
-  - Golang/Python/Groovy development. 
-  - Strong experience with public cloud. (AWS/Ali cloud/Tencent Cloud). 
-  - Docker. 
-  - Windows Server / Linux Server Mangement. 
-  - Elastic stack / Piwik / prometheus / Zabbix / Cacti 
-  - Language: English/中文 
 
-## Education 
+### AI & Agent Projects
+
+- **[Car Agent](https://github.com/cybernagle/car-agent)** (Private) — Real-time voice-interaction AI agent for in-car scenarios. Built with Rust (core agent + relay server), iOS (SwiftUI client), integrated with LLM providers, TTS (Kokoro), and STT (FunASR streaming). Features WebSocket-based relay, tool orchestration, and terminal streaming viewer.
+- **[Cos](https://github.com/cybernagle/cos)** — AI Coding Agent implemented in Go with Bubbletea TUI. Full-featured terminal-based coding assistant.
+- **[Kokoros](https://github.com/cybernagle/Kokoros)** — Kokoro TTS engine re-implemented in Rust for real-time, high-quality text-to-speech. Optimized for low-latency inference.
+- **[OptiTranslate](https://github.com/cybernagle/OptiTranslate)** — macOS menu-bar AI translator (Swift). Opt+Space to translate selected text, saves results to Markdown.
+- **[FingerSaver](https://github.com/cybernagle/fingersaver)** (Private) — Multi-agent terminal manager. Split-pane TUI for orchestrating multiple coding agents simultaneously.
+
+### Kubeflow Community Contributions
+
+- **Security:** Fixed SSRF vulnerability CVE-2023-6570 in Kubeflow Pipelines ([PR #13126](https://github.com/kubeflow/pipelines/pull/13126)), SQL injection prevention ([PR #13127](https://github.com/kubeflow/pipelines/pull/13127))
+- **Platform:** gRPC max_receive_message_length configuration ([PR #12438](https://github.com/kubeflow/pipelines/pull/12438)), pipeline version bug fix ([PR #10268](https://github.com/kubeflow/pipelines/pull/10268))
+- **Auth:** OAuth2Proxy documentation and Istio envoy filter chain fixes ([manifests PRs #2884, #2656](https://github.com/kubeflow/manifests))
+- **Member:** Kubeflow community, contributor to internal-acls governance
+
+### CS Education
+
+- **[CS Videos](https://github.com/cybernagle/cs-videos)** — Operating systems and computer science video series on [BiliBili](https://space.bilibili.com/250682464). Topics include kernel internals, memory management, API Gateway design, eBPF, HTTPS internals, and universal hashing. Implemented with Manim (Python).
+- **[Binary Bomb Lab Guide](https://github.com/cybernagle/Binary-Bomb)** — Walkthrough for CSAPP's binary bomb exercise, with companion video series.
+
+## Technical Skills
 * * *
-  2012  Computer application and technology 2009 - 2012 
 
+- **Languages:** Rust, Go, Python, Swift, Groovy, Shell
+- **AI/ML:** LLM Integration, Agent Orchestration, Prompt Engineering, PyTorch, Kubeflow Pipelines, TTS/STT Systems
+- **Platform:** Kubernetes, Docker, Helm, ArgoCD, Terraform, Ansible, Jenkins
+- **Cloud:** AWS, Alibaba Cloud, Tencent Cloud
+- **Observability:** Prometheus, Grafana, Elasticsearch, Kibana, ElastAlert
+- **Languages:** English (fluent), 中文 (native)
 
+## Education
+* * *
 
+- 2012 — Computer Application and Technology (2009 - 2012)
