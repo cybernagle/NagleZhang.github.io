@@ -1,122 +1,123 @@
 ---
-- title: I bought Friendster for $30k – Here's what I'm doing with it
-  url: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+- title: BYOMesh – New LoRa mesh radio offers 100x the bandwidth
+  url: https://partyon.xyz/@nullagent/116499715071759135
   summary: Comments
-  published: 2026-04-26 20:41:06.000000000 +00:00
-- title: Self-updating screenshots
-  url: https://interblah.net/self-updating-screenshots
+  published: 2026-05-03 18:03:14.000000000 +00:00
+- title: Let's Buy Spirit Air
+  url: https://letsbuyspiritair.com/
   summary: Comments
-  published: 2026-04-26 07:00:39.000000000 +00:00
-- title: Three constraints before I build anything
-  url: https://jordanlord.co.uk/blog/3-constraints/
+  published: 2026-05-03 23:36:11.000000000 +00:00
+- title: The 'Hidden' Costs of Great Abstractions
+  url: https://jdgr.net/the-hidden-costs-of-great-abstractions
   summary: Comments
-  published: 2026-04-25 18:41:03.000000000 +00:00
-- title: 'Fast16: High-precision software sabotage 5 years before Stuxnet'
-  url: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/
+  published: 2026-05-03 23:12:02.000000000 +00:00
+- title: Using "underdrawings" for accurate text and numbers
+  url: https://samcollins.blog/underdrawings/
   summary: Comments
-  published: 2026-04-26 20:18:37.000000000 +00:00
-- title: Box to save memory in Rust
-  url: https://dystroy.org/blog/box-to-save-memory/
+  published: 2026-05-01 18:07:28.000000000 +00:00
+- title: DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper
+  url: https://github.com/aattaran/deepclaude
   summary: Comments
-  published: 2026-04-23 17:02:24.000000000 +00:00
-- title: 'Show HN: The Unix Magic poster, annotated (updated)'
-  url: https://github.com/drio/unixmagic
+  published: 2026-05-03 22:13:20.000000000 +00:00
+- title: Southwest Headquarters Tour
+  url: https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html
   summary: Comments
-  published: 2026-04-27 01:32:44.000000000 +00:00
-- title: When the cheap one is the cool one
-  url: https://arun.is/blog/cheap-cool/
+  published: 2026-05-03 17:02:13.000000000 +00:00
+- title: US–Indian space mission maps extreme subsidence in Mexico City
+  url: https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html
   summary: Comments
-  published: 2026-04-26 01:25:13.000000000 +00:00
-- title: Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft
-  url: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c
+  published: 2026-05-01 13:38:27.000000000 +00:00
+- title: Tar Files Created on macOS Display Errors When Extracting on Linux (2024)
+  url: https://aruljohn.com/blog/macos-created-tar-files-linux-errors/
   summary: Comments
-  published: 2026-04-27 00:34:30.000000000 +00:00
-- title: Butterflies are in decline across North America, a look at the Western Monarch
-  url: https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/
+  published: 2026-04-30 12:03:38.000000000 +00:00
+- title: A desktop made for one
+  url: https://isene.org/2026/05/Audience-of-One.html
   summary: Comments
-  published: 2026-04-26 21:23:20.000000000 +00:00
-- title: SWE-bench Verified no longer measures frontier coding capabilities
-  url: https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/
+  published: 2026-05-03 15:32:05.000000000 +00:00
+- title: K3sup – bootstrap K3s over SSH in < 60s
+  url: https://github.com/alexellis/k3sup
   summary: Comments
-  published: 2026-04-26 13:58:13.000000000 +00:00
-- title: The fastest Linux timestamps
-  url: https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/
+  published: 2026-05-01 14:16:38.000000000 +00:00
+- title: Agentic Coding Is a Trap
+  url: https://larsfaye.com/articles/agentic-coding-is-a-trap
   summary: Comments
-  published: 2026-04-26 13:00:50.000000000 +00:00
-- title: AI should elevate your thinking, not replace it
-  url: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/
+  published: 2026-05-03 22:52:07.000000000 +00:00
+- title: Introduction to Atom
+  url: https://validator.w3.org/feed/docs/atom.html
   summary: Comments
-  published: 2026-04-26 20:03:12.000000000 +00:00
-- title: Sawe becomes first athlete to run a sub-two-hour marathon in a competitive
-    race
-  url: https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo
+  published: 2026-05-03 22:08:47.000000000 +00:00
+- title: 'The text mode lie: why modern TUIs are a nightmare for accessibility'
+  url: https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility
   summary: Comments
-  published: 2026-04-26 20:56:30.000000000 +00:00
-- title: 'Show HN: AI memory with biological decay (52% recall)'
-  url: https://github.com/sachitrafa/YourMemory
+  published: 2026-05-03 23:59:02.000000000 +00:00
+- title: OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors
+  url: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
   summary: Comments
-  published: 2026-04-26 20:58:31.000000000 +00:00
-- title: Music of the BBC Microcomputer System
-  url: https://www.acornelectron.co.uk/eug/72/a-musi.html
+  published: 2026-05-03 00:30:50.000000000 +00:00
+- title: 'Bad Connection: Global telecom exploitation by covert surveillance actors'
+  url: https://citizenlab.ca/research/uncovering-global-telecom-exploitation-by-covert-surveillance-actors/
   summary: Comments
-  published: 2026-04-25 14:31:43.000000000 +00:00
-- title: Lessons from building multiplayer browsers
-  url: https://www.alejandro.pe/writing/sail-muddy-lessons
+  published: 2026-05-03 16:15:49.000000000 +00:00
+- title: LLMs Are Not a Higher Level of Abstraction
+  url: https://www.lelanthran.com/chap15/content.html
   summary: Comments
-  published: 2026-04-26 14:59:37.000000000 +00:00
-- title: Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core
-  url: https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core
+  published: 2026-05-03 17:51:58.000000000 +00:00
+- title: Why TUIs are back
+  url: https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/
   summary: Comments
-  published: 2026-04-24 04:57:16.000000000 +00:00
-- title: Quirks of Human Anatomy
-  url: https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm
+  published: 2026-05-03 18:42:28.000000000 +00:00
+- title: New statue in London, attributed to Banksy, of a suited man, blinded by a
+    flag
+  url: https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/
   summary: Comments
-  published: 2026-04-25 04:31:14.000000000 +00:00
-- title: 'Magic: The Gathering took me from N2 to Japanese fluency'
-  url: https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency
+  published: 2026-05-03 18:54:28.000000000 +00:00
+- title: Mercedes-Benz commits to bringing back physical buttons
+  url: https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/
   summary: Comments
-  published: 2026-04-24 00:03:20.000000000 +00:00
-- title: When Your Digital Life Vanishes
-  url: https://www.newyorker.com/magazine/2026/04/27/when-your-digital-life-vanishes
+  published: 2026-05-03 14:43:27.000000000 +00:00
+- title: Text-to-CAD
+  url: https://github.com/earthtojake/text-to-cad
   summary: Comments
-  published: 2026-04-22 22:31:24.000000000 +00:00
-- title: XOXO Festival Archive
-  url: https://xoxofest.com/
+  published: 2026-05-01 01:48:15.000000000 +00:00
+- title: I recreated the Apple Lisa computer inside an FPGA [video]
+  url: https://www.youtube.com/watch?v=8jNQDcpHc68
   summary: Comments
-  published: 2026-04-24 02:40:39.000000000 +00:00
-- title: MoQ Boy
-  url: https://moq.dev/blog/moq-boy/
+  published: 2026-05-03 17:45:47.000000000 +00:00
+- title: Denuvo has been cracked in all single-player games it previously protected
+  url: https://www.tomshardware.com/video-games/pc-gaming/denuvo-has-been-bypassed-in-all-single-player-games-it-previously-protected-2k-games-and-denuvo-reportedly-retaliate-with-mandatory-14-day-online-checks
   summary: Comments
-  published: 2026-04-26 20:40:50.000000000 +00:00
-- title: 'The Visible Zorker: Zork 1'
-  url: https://eblong.com/infocom/visi/zork1/
+  published: 2026-04-28 21:08:29.000000000 +00:00
+- title: Security through obscurity is not bad
+  url: https://mobeigi.com/blog/security/security-through-obscurity-is-not-bad/
   summary: Comments
-  published: 2026-04-26 16:42:19.000000000 +00:00
-- title: Clay PCB Tutorial
-  url: https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial
+  published: 2026-05-03 14:49:56.000000000 +00:00
+- title: I built my own hair electrolysis machine
+  url: https://www.scd31.com/posts/diy-hair-electrolysis-machine
   summary: Comments
-  published: 2026-04-26 16:02:14.000000000 +00:00
-- title: FreeBSD Device Drivers Book
-  url: https://github.com/ebrandi/FDD-book
+  published: 2026-04-29 02:42:46.000000000 +00:00
+- title: What is Z-Angle Memory and why is Intel developing it?
+  url: https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/
   summary: Comments
-  published: 2026-04-26 22:53:06.000000000 +00:00
-- title: Chernobyl wildlife forty years on
-  url: https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on
+  published: 2026-05-01 09:56:47.000000000 +00:00
+- title: 'Lost in translation: The linguistic challenges facing N. Korean defectors
+    (2025)'
+  url: https://www.dailynk.com/english/lost-in-translation-the-linguistic-challenges-facing-n-korean-defectors/
   summary: Comments
-  published: 2026-04-26 19:42:59.000000000 +00:00
-- title: An AI agent deleted our production database. The agent's confession is below
-  url: https://twitter.com/lifeof_jer/status/2048103471019434248
+  published: 2026-05-01 08:20:03.000000000 +00:00
+- title: 'Show HN: Apple''s SHARP running in the browser via ONNX runtime web'
+  url: https://github.com/bring-shrubbery/ml-sharp-web
   summary: Comments
-  published: 2026-04-26 16:27:29.000000000 +00:00
-- title: 'Show HN: Startup Equity Adventure Game'
-  url: https://options-game-polymathrobotics.pythonanywhere.com/
+  published: 2026-05-03 09:14:56.000000000 +00:00
+- title: Make your own microforest (2025)
+  url: https://ambrook.com/offrange/environment/a-forest-in-your-pocket
   summary: Comments
-  published: 2026-04-26 22:14:59.000000000 +00:00
-- title: 'Statecharts: hierarchical state machines'
-  url: https://statecharts.dev/
+  published: 2026-05-03 19:31:35.000000000 +00:00
+- title: Metal Gear Solid 2's source code has been leaked on 4chan
+  url: https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/
   summary: Comments
-  published: 2026-04-26 09:32:22.000000000 +00:00
-- title: 'Show HN: Free textbook on engineering thermodynamics'
-  url: https://thermodynamicsbook.com/
+  published: 2026-05-03 16:48:11.000000000 +00:00
+- title: How far behind is each major Chromium browser?
+  url: https://chromium-drift.pages.dev/
   summary: Comments
-  published: 2026-04-26 15:17:34.000000000 +00:00
+  published: 2026-05-03 17:05:58.000000000 +00:00
