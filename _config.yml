@@ -21,7 +21,7 @@ navigation:
     url: /blog/
   - title: RSS
     url: /feed/
-  - title: Resume
+  - title: Projects
     url: /cv/
 
 # Social links
