@@ -1,77 +1,13 @@
 ---
 layout: page
-title: Resume
+title: Projects
 permalink: /cv/
 ---
 
-## Personal Information
+## Open Source \& Projects
 * * *
 
-- GitHub: [cybernagle](https://www.github.com/cybernagle)
-- Twitter: [@cybernagle](https://twitter.com/cybernagle)
-- BiliBili: [Knowledge Sharing](https://space.bilibili.com/250682464)
-- **zhang.nlage@gmail.com**
-
-## Summary
-* * *
-
-AI Engineer and Platform Architect with 10+ years of experience building production systems.
-
-- Currently focused on **LLM-powered agents**, voice AI, and developer tooling
-- Kubeflow community member with contributions to auth, security (CVE fixes), and platform reliability
-- Built real-time voice agents in Rust, AI coding agents in Go, and TTS integrations
-- Deep infrastructure background: Kubernetes, MLOps platforms serving 100+ teams
-- Lifelong learner and educator — OS kernel video series on BiliBili
-
-## Experience
-* * *
-
-#### SAP — AI Platform Engineer (Kubeflow, MLOps)  2019.12 - Present
-
-***Keywords: Open Source, MLOps, AI Platform, Kubernetes***
-
-- Architected and maintained a multi-tenant ML training platform serving 100+ internal teams, built on Kubeflow, Kubernetes, and Kueue.
-- Designed the platform's OAuth2 authentication layer and contributed the solution back to the Kubeflow community (kubeflow/manifests PRs #2884, #2862, #2656).
-- Built Infrastructure as Code pipelines using Helm and ArgoCD for reproducible deployments.
-- Designed and implemented a Kubernetes-native queueing system (Kueue + PyTorchJob) for GPU resource scheduling.
-- Contributed security fixes to Kubeflow Pipelines: SSRF prevention (CVE-2023-6570, PR #13126), SQL injection fix (PR #13127), and gRPC configuration improvements (PR #12438).
-- Integrated kfp-sdk with Jenkins CI/CD, enabling data scientists to deploy ML pipelines via pull request.
-
-#### Seedlink — Cloud Engineer  2019.06 - 2019.12
-
-***Keywords: Cloud Architecture, CI/CD, Docker***
-
-- Led the company-wide containerization initiative — dockerized all production services and redesigned the service architecture for cloud-native deployment.
-- Rebuilt CI/CD pipeline with Jenkins (modeled after the Moby project workflow), cutting release cycles and improving deployment reliability.
-- Migrated infrastructure provisioning to Terraform, replacing manual AWS operations with reproducible Infrastructure as Code.
-- Rewrote Ansible playbooks for provisioning and deployment, standardizing the team's automation workflow.
-
-#### Strikingly — Platform Engineer  2018.03 - 2019.06
-
-***Keywords: Public Cloud, Infrastructure as Code, Monitoring***
-
-- Managed full AWS infrastructure with Terraform (VPC, NAT gateway, auto-scaling groups, security groups) and maintained GitLab CI pipelines for automated deployments.
-- Built end-to-end monitoring and observability stack using Prometheus, Grafana, and Elasticsearch.
-- Developed serverless data pipelines with AWS Lambda (Python/Go), including blockchain data scraping into Elasticsearch.
-- Maintained production Kubernetes cluster on Tencent Cloud for a gaming workload.
-
-#### eHi Car Rental — Systems Engineer  2015.07 - 2018.03
-
-***Keywords: Private Cloud, Log Analytics, Monitoring***
-
-- Designed and deployed a centralized Elastic Stack (ELK) for log aggregation across 500+ Windows and Linux instances — replacing manual log analysis.
-- Built Python automation for daily data extraction and real-time alerting with ElastAlert; reduced incident detection and resolution time from 1 hour to 5 minutes.
-- Maintained Zabbix, Cacti, and Piwik for infrastructure and application monitoring.
-- Contributed ElastAlert Chinese documentation to the open source community.
-
-#### Power Dekor — IT Engineer  2012.02 - 2015.06
-
-- Designed and built corporate network infrastructure supporting 100+ clients.
-
-## Open Source & Projects
-* * *
-
-### AI & Agent Projects
+### AI \& Agent Projects
 
 - **[Car Agent](https://github.com/cybernagle/car-agent)** (Private) — Real-time voice-interaction AI agent for in-car scenarios. Built with Rust (core agent + relay server), iOS (SwiftUI client), integrated with LLM providers, TTS (Kokoro), and STT (FunASR streaming). Features WebSocket-based relay, tool orchestration, and terminal streaming viewer.
 - **[Cos](https://github.com/cybernagle/cos)** — AI Coding Agent implemented in Go with Bubbletea TUI. Full-featured terminal-based coding assistant.
@@ -91,18 +27,3 @@ AI Engineer and Platform Architect with 10+ years of experience building product
 
 - **[CS Videos](https://github.com/cybernagle/cs-videos)** — Operating systems and computer science video series on [BiliBili](https://space.bilibili.com/250682464). Topics include kernel internals, memory management, API Gateway design, eBPF, HTTPS internals, and universal hashing. Implemented with Manim (Python).
 - **[Binary Bomb Lab Guide](https://github.com/cybernagle/Binary-Bomb)** — Walkthrough for CSAPP's binary bomb exercise, with companion video series.
-
-## Technical Skills
-* * *
-
-- **Languages:** Rust, Go, Python, Swift, Groovy, Shell
-- **AI/ML:** LLM Integration, Agent Orchestration, Prompt Engineering, PyTorch, Kubeflow Pipelines, TTS/STT Systems
-- **Platform:** Kubernetes, Docker, Helm, ArgoCD, Terraform, Ansible, Jenkins
-- **Cloud:** AWS, Alibaba Cloud, Tencent Cloud
-- **Observability:** Prometheus, Grafana, Elasticsearch, Kibana, ElastAlert
-- **Languages:** English (fluent), 中文 (native)
-
-## Education
-* * *
-
-- 2012 — Computer Application and Technology (2009 - 2012)
