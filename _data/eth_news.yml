@@ -1,10 +1,39 @@
 ---
+- title: Cambridge study puts Ethereum near the lower end of PoS energy intensity
+  url: https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the
+    second-lowest market-value-adjusted energy intensity among the proof-of-stake
+    networks studied.
+  published: 2026-07-12 09:29:00.000000000 +00:00
+- title: 'Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?'
+  url: https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: 'Despite strong tokenization gains and institutional accumulation, weak
+    onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.
+
+    '
+  published: 2026-07-11 12:55:18.000000000 +00:00
+- title: Robinhood Chain sees over $70M in ETH bridged during first week
+  url: https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: 'Robinhood’s choice to use Ethereum further solidifies its position as
+    the “ultimate settlement layer and liquidity foundation for tokenized assets,”
+    said HashKey Group’s Tim Sun. '
+  published: 2026-07-10 05:44:20.000000000 +00:00
+- title: Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost
+  url: https://cointelegraph.com/markets/ether-climbs-toward-2k-as-bitmine-buys-eth-robinhood-l2-boost?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: "ETH charts a path toward $2,000 as TradFi adoption, DAT buying and a long-awaited
+    network upgrade boost investor interest. \n"
+  published: 2026-07-07 21:14:37.000000000 +00:00
+- title: Trader loses $2M in ‘same-block backrun extraction’ exploit
+  url: https://cointelegraph.com/news/trader-loses-2m-in-same-block-backrun-extraction-exploit?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: One crypto trader noted the $2 million loss could have been prevented had
+    the victim read the transaction route before signing the transaction.
+  published: 2026-07-07 05:58:11.000000000 +00:00
 - title: Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high
   url: https://cointelegraph.com/news/binance-outflows-1-23-billion-eth-withdrawals-3-year-high?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: Binance recorded $1.23 billion in weekly net outflows, up 207% from the
     previous week, as Ethereum withdrawals surged to a three-year high.
   published: 2026-07-05 08:33:39.000000000 +00:00
-- title: 'Vitalik Buterin shares top priorities for new ''Lean Ethereum'' strawmap '
+- title: 'Vitalik Buterin shares priorities for new ''Lean Ethereum'' strawmap '
   url: https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: 'Part of the Ethereum Foundation’s plan to make Ethereum more private and
     scalable is to introduce a new virtual machine, with leanISA and RISC-V among
@@ -143,29 +172,3 @@
   summary: FG Nexus offloads another 10,000 ETH, pushing realized and paper losses
     above $100 million as the Ethereum treasury firm continues cutting exposure.
   published: 2026-06-04 10:41:24.000000000 +00:00
-- title: Bitmine eyes dividend-paying preferred shares, echoing Strategy’s playbook
-  url: https://cointelegraph.com/news/bitmine-turns-to-dividend-paying-shares-following-strategys-footsteps?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The move comes as Ether prices slumped to a 14-month low below $1,750 on
-    Thursday.
-  published: 2026-06-04 04:34:46.000000000 +00:00
-- title: Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum’s strength
-  url: https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million
-    Ether tokens and is about 90% of the way to its target after its latest purchase.
-  published: 2026-06-02 03:03:00.000000000 +00:00
-- title: Are Ethereum OGs jumping ship? Here's what the data says
-  url: https://cointelegraph.com/markets/are-ethereum-ogs-jumping-ship-heres-what-the-data-says?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Long-term whales have cashed out millions of dollars from Ethereum following
-    the recent sell-off, potentially putting ETH at risk of further losses.
-  published: 2026-06-01 14:44:00.000000000 +00:00
-- title: Ethereum analysts say ‘downside pressure’ remains as $1.8K becomes key
-  url: https://cointelegraph.com/markets/analysts-say-ethereums-downside-pressure-remains-as-18k-becomes-key?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Analysts warn Ether’s downside risks remain elevated as traders closely
-    watch the $1,800 support zone for stability.
-  published: 2026-05-29 14:50:08.000000000 +00:00
-- title: Bit Digital buys $20M worth of Ethereum, expands treasury to 158K ETH
-  url: https://cointelegraph.com/news/bit-digital-buys-20m-worth-of-ethereum-expands-treasury-to-158k-eth?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The purchase pushed the Nasdaq-listed company ahead of Coinbase Global
-    to become the fourth-largest public corporate holder of Ether, according to CoinGecko
-    data.
-  published: 2026-05-28 20:32:40.000000000 +00:00
