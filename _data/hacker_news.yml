@@ -1,123 +1,122 @@
 ---
-- title: PGSimCity - How PostgreSQL Works
-  url: https://nikolays.github.io/PGSimCity/
+- title: CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+  url: https://github.com/johnsonjh/cpm386
   summary: Comments
-  published: 2026-07-27 00:19:04.000000000 +00:00
-- title: Decker, a platform that builds on the legacy of Hypercard and classic macOS
-  url: https://beyondloom.com/decker/
+  published: 2026-08-03 00:38:10.000000000 +00:00
+- title: Why Book Corners won't sync contributions back to OpenStreetMap
+  url: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/
   summary: Comments
-  published: 2026-07-26 18:23:06.000000000 +00:00
-- title: 'Show HN: Physically accurate black hole you can put in your room'
-  url: https://blackhole.plav.in
+  published: 2026-08-03 00:12:16.000000000 +00:00
+- title: Karpathy’s Pelican
+  url: https://twitter.com/karpathy/status/2083749667410727319
   summary: Comments
-  published: 2026-07-23 13:29:24.000000000 +00:00
-- title: We have proof automation now
-  url: https://www.imperialviolet.org/2026/07/26/zstd-lean.html
+  published: 2026-08-02 04:05:56.000000000 +00:00
+- title: 'Show HN: Isopolis – isometric pixel map of SF'
+  url: https://sf.isopolis.city/
   summary: Comments
-  published: 2026-07-26 20:53:26.000000000 +00:00
-- title: French firefighters face 'pyrocumulonimbus' for first time
-  url: https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time
+  published: 2026-08-03 00:46:38.000000000 +00:00
+- title: 'RFC 9851: TLS 1.2 is in Feature Freeze'
+  url: https://www.rfc-editor.org/rfc/rfc9851.html
   summary: Comments
-  published: 2026-07-26 17:49:44.000000000 +00:00
-- title: US citizen charged after GrapheneOS phone wipes during airport search
-  url: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+  published: 2026-08-03 01:23:26.000000000 +00:00
+- title: 'Show HN: ssh ssh.place'
+  url: https://ssh.place
   summary: Comments
-  published: 2026-07-26 22:21:41.000000000 +00:00
-- title: Teaching Kids Forth
-  url: https://gracefulliberty.com/articles/teaching-kids-forth/
+  published: 2026-08-03 00:23:21.000000000 +00:00
+- title: Autoregressive Language Model on the 6502 Processor
+  url: https://mattbeton.com/blog/bitnet-6502.html
   summary: Comments
-  published: 2026-07-26 21:39:17.000000000 +00:00
-- title: Introduction to Data-Oriented Design [pdf]
-  url: https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf
+  published: 2026-07-31 13:08:30.000000000 +00:00
+- title: 'Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux
+    ARM'
+  url: https://github.com/wie-project/kakehashi
   summary: Comments
-  published: 2026-07-26 18:11:16.000000000 +00:00
-- title: Htmx 4.0, the first JavaScript library to release exclusively on the Game
-    Boy
-  url: https://swag.htmx.org/en-cad/products/htmx-4-the-game
+  published: 2026-08-02 16:26:40.000000000 +00:00
+- title: Note-Taking and Personal Knowledge Management
+  url: https://unattributed.cc/note-taking-and-personal-knowledge-management
   summary: Comments
-  published: 2026-07-26 12:00:11.000000000 +00:00
-- title: Design is compromise
-  url: https://stephango.com/design-is-compromise
+  published: 2026-07-28 14:21:10.000000000 +00:00
+- title: Developers are attached to tools because tools encode trust
+  url: https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/
   summary: Comments
-  published: 2026-07-26 15:51:12.000000000 +00:00
-- title: Simulate cassette tape audio profiles using FFmpeg
-  url: https://github.com/AARomanov1985/Audio-Cassette-Simulation
+  published: 2026-07-29 14:25:54.000000000 +00:00
+- title: Read the Novels and Forget Everything Else
+  url: https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else
   summary: Comments
-  published: 2026-07-26 20:02:15.000000000 +00:00
-- title: 'Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in
-    binary'
-  url: https://github.com/vercel-labs/scriptc
+  published: 2026-07-31 23:31:28.000000000 +00:00
+- title: The Computational Theory of Mind (2015)
+  url: https://plato.stanford.edu/entries/computational-mind/
   summary: Comments
-  published: 2026-07-26 22:46:10.000000000 +00:00
-- title: 'Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs'
-  url: https://github.com/gmrandazzo/CheapSecurity
+  published: 2026-08-02 22:35:35.000000000 +00:00
+- title: 'Show HN: Make your Framework 12 sound like a creaky door'
+  url: https://github.com/ArcaEge/creakwork12
   summary: Comments
-  published: 2026-07-26 15:53:55.000000000 +00:00
-- title: Plasma Tunnels Reveal How Dying Satellites Fall to Earth
-  url: https://spectrum.ieee.org/space-debris-atmosphere-burn-up
+  published: 2026-08-02 20:33:01.000000000 +00:00
+- title: 'Show HN: Mu – Tools for Agents'
+  url: https://github.com/micro/mu
   summary: Comments
-  published: 2026-07-26 20:31:57.000000000 +00:00
-- title: How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster
-  url: https://astgrep.com/blog/tree-sitter-rust-rewrite
+  published: 2026-08-02 22:06:34.000000000 +00:00
+- title: 'Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark'
+  url: https://github.com/graham33/nixos-dgx-spark
   summary: Comments
-  published: 2026-07-26 17:51:03.000000000 +00:00
-- title: How to Write English Prose
-  url: https://thelampmagazine.com/blog/how-to-write-english-prose
+  published: 2026-08-02 17:05:54.000000000 +00:00
+- title: TinyNES Review – A Super Niche NES Console
+  url: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/
   summary: Comments
-  published: 2026-07-26 17:29:35.000000000 +00:00
-- title: History of John Backus's functional programming project [draft]
-  url: https://softwarepreservation.computerhistory.org/FP/
+  published: 2026-08-02 20:01:37.000000000 +00:00
+- title: 'F*: A general-purpose proof-oriented programming language'
+  url: https://fstar-lang.org/
   summary: Comments
-  published: 2026-07-24 16:32:23.000000000 +00:00
-- title: Fonts In Use – Find out where a font is used
-  url: https://fontsinuse.com/
+  published: 2026-08-02 12:31:16.000000000 +00:00
+- title: Twenty Years of RISC OS Open
+  url: https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open
   summary: Comments
-  published: 2026-07-26 23:45:09.000000000 +00:00
-- title: 'Go Analysis Framework: modular static analysis by go team'
-  url: https://pkg.go.dev/golang.org/x/tools/go/analysis
+  published: 2026-08-02 12:36:07.000000000 +00:00
+- title: Californians' data deletion requests, DROP, become enforceable Aug. 1
+  url: https://www.nbcsandiego.com/nbc-7-responds-2/californians-data-deletion-requests-drop-become-enforceable-aug-1/4054771/
   summary: Comments
-  published: 2026-07-26 12:21:26.000000000 +00:00
-- title: How to Block Some of the Bots
-  url: https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/
+  published: 2026-08-02 22:16:34.000000000 +00:00
+- title: 'My personal AI benchmark: "Generate an SVG of a frog with a Habsburg jaw."'
+  url: https://frogs.vaguespac.es/
   summary: Comments
-  published: 2026-07-26 18:32:46.000000000 +00:00
-- title: The relay market powering token resellers and fraud
-  url: https://vectoral.com/blog/token-relay-market
+  published: 2026-08-02 19:42:08.000000000 +00:00
+- title: A tool for finding the causes of unstable Python tests
+  url: https://github.com/mgaitan/pytest-leak-finder
   summary: Comments
-  published: 2026-07-26 15:17:06.000000000 +00:00
-- title: 'The New AI Superpowers: Focus and Followthrough'
-  url: https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and
+  published: 2026-07-30 17:26:33.000000000 +00:00
+- title: When transit passes were designed by hand (2022)
+  url: https://letterformarchive.org/news/milwaukee-transit-passes/
   summary: Comments
-  published: 2026-07-26 13:13:03.000000000 +00:00
-- title: I learned PCB design, 3D printing and C just to listen to music
-  url: https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/
+  published: 2026-07-31 13:38:04.000000000 +00:00
+- title: Playing with Georgia
+  url: https://mighil.com/playing-with-georgia
   summary: Comments
-  published: 2026-07-23 14:37:13.000000000 +00:00
-- title: The Usefulness of Useless Knowledge (1939) [pdf]
-  url: https://faculty.lsu.edu/kharms/files/flexner_1939.pdf
+  published: 2026-07-29 12:41:10.000000000 +00:00
+- title: Sharing an X11 Server Across Hosts with FamilyWild
+  url: https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/
   summary: Comments
-  published: 2026-07-23 12:58:02.000000000 +00:00
-- title: Kill The Cookie Banner
-  url: https://killthecookiebanner.eu/
+  published: 2026-08-02 20:26:47.000000000 +00:00
+- title: A Playable History of Sudoku
+  url: https://doku.su/history-of-sudoku
   summary: Comments
-  published: 2026-07-26 11:53:17.000000000 +00:00
-- title: 'Show HN: Reverse Minesweeper'
-  url: https://sunflowersgame.com/
+  published: 2026-07-29 14:14:10.000000000 +00:00
+- title: "'Crush this lady': how eBay harassment campaign led to $56M payout"
+  url: https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2
   summary: Comments
-  published: 2026-07-26 12:51:03.000000000 +00:00
-- title: I wanted a clock that never needed setting. Things escalated
-  url: https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/
+  published: 2026-08-02 19:19:24.000000000 +00:00
+- title: Rooting, firmware analysis and persistent credentials of TP-Link TL-841N
+  url: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/
   summary: Comments
-  published: 2026-07-23 12:01:52.000000000 +00:00
-- title: Jimothy the raccoon has a rare spinal condition. Here's what that means
-  url: https://www.popsci.com/science/whats-jimothy-raccoon-condition/
+  published: 2026-08-02 16:19:17.000000000 +00:00
+- title: Folding Paper Globes
+  url: https://foldingglobes.com/globes
   summary: Comments
-  published: 2026-07-21 19:28:55.000000000 +00:00
-- title: Using sed to make indexes for books (1997)
-  url: https://www.pement.org/sed/make_indexes.txt
+  published: 2026-07-29 05:53:00.000000000 +00:00
+- title: Fasttracker II clone in C using SDL 2
+  url: https://16-bits.org/ft2.php
   summary: Comments
-  published: 2026-07-23 04:25:24.000000000 +00:00
-- title: 'Show HN: Port Zero – how I learned to stop worrying and love PORT=0'
-  url: https://portzero.net/
+  published: 2026-07-29 06:47:22.000000000 +00:00
+- title: Meshdiff – visually compare two STL versions in the browser, client-side
+  url: https://meshdiff.com/
   summary: Comments
-  published: 2026-07-27 00:03:48.000000000 +00:00
+  published: 2026-08-02 11:34:41.000000000 +00:00

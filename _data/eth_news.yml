@@ -1,4 +1,26 @@
 ---
+- title: Ethereum Foundation adds SEAL 911 co-founder to board as privacy focus grows
+  url: https://cointelegraph.com/news/ethereum-foundation-seal-911-pascal-caversaccio-board?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Pascal Caversaccio joins the Ethereum Foundation’s four-member board as
+    the organization elevates privacy and security in its protocol strategy.
+  published: 2026-07-30 01:34:26.000000000 +00:00
+- title: 'Ethereum, Solana led crypto hack losses in H1 2026: Blockaid'
+  url: https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026,
+    while Solana replaced Arbitrum as the network with the second-highest losses,
+    driven largely by key compromises.
+  published: 2026-07-28 13:00:00.000000000 +00:00
+- title: Lido upgrade aims to slash Ethereum’s validator count by one-third
+  url: https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s
+    validator count by one-third by consolidating validators and introducing new operator
+    rules.
+  published: 2026-07-28 09:14:45.000000000 +00:00
+- title: Bitmine keeps buying Ether as ETH outperforms Bitcoin
+  url: https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The company added nearly 10,000 ETH over the past week, bringing its holdings
+    to 5.79 million Ether, about 85% of which is staked through its validator operations.
+  published: 2026-07-27 19:22:59.000000000 +00:00
 - title: Ethereum ETFs close week in red, end 5-day inflow streak
   url: https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged
@@ -151,28 +173,3 @@
   summary: The warning comes as the Ethereum Foundation reduces spending, adjusts
     its treasury strategy and undergoes a wave of leadership departures.
   published: 2026-06-19 13:16:19.000000000 +00:00
-- title: Ether analysts predict another ‘selling wave’ as ETH struggles to overcome
-    $1.7K
-  url: https://cointelegraph.com/markets/ether-below-17k-gains-interest-as-analysts-warn-of-another-selling-wave?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Exchange inflows, slumping demand and a 31% drop in Ether futures open
-    interest may signal that another wave of selling could hit ETH.
-  published: 2026-06-19 00:26:39.000000000 +00:00
-- title: Ethereum Foundation leadership exodus continues with director’s departure
-  url: https://cointelegraph.com/news/ethereum-foundation-leadership-exodus-continues-with-directors-departure?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: 'Hsiao-Wei Wang’s departure adds to a wave of Ethereum Foundation exits,
-    fueling debate over governance, decentralization and the network’s future.
-
-    '
-  published: 2026-06-18 19:51:13.000000000 +00:00
-- title: BitMine boosts ETH holdings closer to $10B as bear market accumulation continues
-  url: https://cointelegraph.com/news/bitmine-eth-holdings-near-10b-bear-market-accumulation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: BitMine continued buying Ether through the market downturn, growing its
-    stake to nearly 5% of the circulating supply while generating staking yield amid
-    mounting ecosystem challenges.
-  published: 2026-06-15 17:55:11.000000000 +00:00
-- title: Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku
-    lead
-  url: https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The SPHINCS- proposal aims to reduce the cost of post-quantum signature
-    verification on Ethereum while the network works toward a longer-term solution.
-  published: 2026-06-14 12:49:48.000000000 +00:00
