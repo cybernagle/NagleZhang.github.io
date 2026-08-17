@@ -1,122 +1,123 @@
 ---
-- title: How I use LLMs to learn complex topics
-  url: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/
+- title: A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known
+    Better"
+  url: https://rvembedded.com/blog_post/12/
   summary: Comments
-  published: 2026-08-09 19:16:49.000000000 +00:00
-- title: New Zealand lost its music media, and what we're building to replace it
-  url: https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media
+  published: 2026-08-16 17:01:07.000000000 +00:00
+- title: 'Claude: System Prompts'
+  url: https://platform.claude.com/docs/en/release-notes/system-prompts
   summary: Comments
-  published: 2026-08-09 20:42:29.000000000 +00:00
-- title: '"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)'
-  url: https://publicdomainreview.org/collection/marnameh/
+  published: 2026-08-16 12:48:21.000000000 +00:00
+- title: The Life and Death of Direct File [pdf]
+  url: https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf
   summary: Comments
-  published: 2026-08-07 04:04:56.000000000 +00:00
-- title: Mea Culpa – Dark Hours
-  url: https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html
+  published: 2026-08-17 00:17:57.000000000 +00:00
+- title: 'SIMD in the 90s: Programming Intel''s Pentium MMX'
+  url: https://pikuma.com/blog/programming-intel-pentium-mmx-simd
   summary: Comments
-  published: 2026-08-09 13:20:43.000000000 +00:00
-- title: 'Ask HN: What are you working on? (August 2026)'
-  url: https://news.ycombinator.com/item?id=49233423
+  published: 2026-08-13 12:44:05.000000000 +00:00
+- title: Low-Tech Ceramic Water Filter
+  url: https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en
   summary: Comments
-  published: 2026-08-09 17:23:22.000000000 +00:00
-- title: How We Pushed CDC into Postgres
-  url: https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/
+  published: 2026-08-11 15:36:27.000000000 +00:00
+- title: A quick look at zero-knowledge proofs
+  url: https://bernsteinbear.com/blog/zkp/
   summary: Comments
-  published: 2026-08-10 01:01:34.000000000 +00:00
-- title: Taxi drivers rarely die of Alzheimer's
-  url: https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650
+  published: 2026-08-14 19:52:05.000000000 +00:00
+- title: Protobuf has LSP support. You're welcome
+  url: https://buf.build/blog/protobuf-lsp
   summary: Comments
-  published: 2026-08-09 15:21:46.000000000 +00:00
-- title: Tuxedo No. 2 – Cocktail recipes
-  url: https://tuxedono2.com
+  published: 2026-08-16 18:48:27.000000000 +00:00
+- title: The AI Credit Resale Economy
+  url: https://vectoral.com/blog/who-are-the-token-brokers
   summary: Comments
-  published: 2026-08-09 20:48:46.000000000 +00:00
-- title: Cool URIs Don't Change (1998)
-  url: https://www.w3.org/Provider/Style/URI
+  published: 2026-08-16 14:44:55.000000000 +00:00
+- title: Models Are Getting Dumber on Purpose
+  url: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose
   summary: Comments
-  published: 2026-08-09 14:32:53.000000000 +00:00
-- title: Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]
-  url: https://www.youtube.com/watch?v=GS7CxAtV5Ks
+  published: 2026-08-16 19:04:26.000000000 +00:00
+- title: MathCode, Mathematical Coding Agent
+  url: https://math-ai-org.github.io/mathcode/
   summary: Comments
-  published: 2026-08-06 22:41:24.000000000 +00:00
-- title: The tragedy of the commons, AI edition
-  url: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition
+  published: 2026-08-16 18:17:10.000000000 +00:00
+- title: Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee
+  url: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
   summary: Comments
-  published: 2026-08-09 19:43:52.000000000 +00:00
-- title: 'Picophysics: Single file physics for games on platforms like N64, PSX, DC'
-  url: https://gitlab.com/Kazade/picophysics
+  published: 2026-08-16 21:07:10.000000000 +00:00
+- title: 'Clamiga: Common Lisp for the Amiga'
+  url: https://nnamgreb.de/blog/Clamiga+-+Common+Lisp+for+the+Amiga
   summary: Comments
-  published: 2026-08-05 12:52:00.000000000 +00:00
-- title: I made tinnitus my friend, then it disappeared [video]
-  url: https://mynoise.net/vlog.php?ep=20260803
+  published: 2026-08-13 03:05:36.000000000 +00:00
+- title: 'Dancing with friends and enemies: boids'' swarm intelligence'
+  url: https://community.wolfram.com/groups/-/m/t/122095
   summary: Comments
-  published: 2026-08-09 18:41:35.000000000 +00:00
-- title: 'OpenChamber: An Agentic Development Environment'
-  url: https://openchamber.dev/
+  published: 2026-08-11 12:40:31.000000000 +00:00
+- title: Anton Chekhov played at love most of his life
+  url: https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/
   summary: Comments
-  published: 2026-08-09 17:27:16.000000000 +00:00
-- title: Everything you do is being recorded
-  url: https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/
+  published: 2026-08-14 23:53:43.000000000 +00:00
+- title: 'Plastic mechanical computer from 1963: The Digi-Comp 1 [video]'
+  url: https://www.youtube.com/watch?v=-y8bGBE71yw
   summary: Comments
-  published: 2026-08-09 11:30:48.000000000 +00:00
-- title: The Hacker's Renaissance
-  url: https://phrack.org/issues/72/19#article
+  published: 2026-08-15 20:15:51.000000000 +00:00
+- title: Firefox for iOS now has a native adblocker
+  url: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios
   summary: Comments
-  published: 2026-08-09 20:18:44.000000000 +00:00
-- title: Touring the Consensus, Six Months In
-  url: https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html
+  published: 2026-08-16 12:58:10.000000000 +00:00
+- title: Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter
+  url: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion
   summary: Comments
-  published: 2026-08-06 04:59:47.000000000 +00:00
-- title: John C. Lilly on solid state intelligence and the elimination of man (1978)
-  url: https://kibotronics.net/unlisted/lilly-machines/
+  published: 2026-08-16 20:31:16.000000000 +00:00
+- title: 'Tell HN: Cloudflare silently injects its analytics when you switch nameservers'
+  url: https://news.ycombinator.com/item?id=49322107
   summary: Comments
-  published: 2026-08-09 13:47:36.000000000 +00:00
-- title: How Golden Is Silence, Actually?
-  url: https://www.newyorker.com/magazine/2026/08/10/silence-kate-mcloughlin-book-review
+  published: 2026-08-16 17:49:46.000000000 +00:00
+- title: St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into
+    core
+  url: https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core
   summary: Comments
-  published: 2026-08-06 17:08:04.000000000 +00:00
-- title: Georgia police officers fired after Flock camera misuse
-  url: https://www.wtoc.com/2026/08/07/savannah-police-department-fires-6-employees-over-flock-safety-system-misuse/
+  published: 2026-08-16 15:16:06.000000000 +00:00
+- title: The Case Against Formal Verification, 50 Years Later
+  url: https://ivan-gavran.github.io/0-social-processes-paper
   summary: Comments
-  published: 2026-08-09 21:20:24.000000000 +00:00
-- title: Japanese court overturns Red RAW video patent
-  url: https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/
+  published: 2026-08-16 20:38:58.000000000 +00:00
+- title: Webmaster a Manifesto for Everyone
+  url: https://brennan.day/webmaster-a-manifesto-for-everyone/
   summary: Comments
-  published: 2026-08-10 00:36:24.000000000 +00:00
-- title: Windows 11's built-in Weather app wastes more than 1 GB of RAM
-  url: https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html
+  published: 2026-08-17 00:04:14.000000000 +00:00
+- title: NIH is ending a key grant for budding clinical researchers
+  url: https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers
   summary: Comments
-  published: 2026-08-09 15:11:20.000000000 +00:00
-- title: 'Show HN: A Project Oberon System version running on RISC-V instead of RISC-5'
-  url: https://github.com/rochus-keller/OberonSystem/tree/op2-rv32
+  published: 2026-08-16 16:14:55.000000000 +00:00
+- title: Asus Bike Booster
+  url: https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/
   summary: Comments
-  published: 2026-08-09 12:43:16.000000000 +00:00
-- title: Reviving a four year old reMarkable 2
-  url: https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html
+  published: 2026-08-12 06:33:12.000000000 +00:00
+- title: A True Telnet BBS on a Casio Calculator
+  url: https://ei3lh.eu/2026/08/16/a-true-telnet-bbs-on-a-casio-calculator/
   summary: Comments
-  published: 2026-08-09 11:39:25.000000000 +00:00
-- title: When Compilers Disagree About UTF‑8
-  url: https://nemanjatrifunovic.substack.com/p/when-compilers-disagree-about-utf8
+  published: 2026-08-16 12:16:21.000000000 +00:00
+- title: A SAT Attack on Tarski's High School Algebra Problem
+  url: https://arxiv.org/abs/2608.08421
   summary: Comments
-  published: 2026-08-05 08:27:40.000000000 +00:00
-- title: To Recruit Teachers, School Districts Are Building Homes
-  url: https://www.nytimes.com/2026/07/28/business/affordable-housing-schools-teachers.html
+  published: 2026-08-12 06:30:57.000000000 +00:00
+- title: Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing
+  url: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing
   summary: Comments
-  published: 2026-08-09 22:00:36.000000000 +00:00
-- title: 'Show HN: Alphabet Soup, a multiplayer game, build the longest word to win'
-  url: https://alphabetsoup.club
+  published: 2026-08-16 21:53:43.000000000 +00:00
+- title: Tasklet (YC P26) Is Hiring a Head of Design Engineering
+  url: https://tasklet.ai/careers/head-of-design-engineering
   summary: Comments
-  published: 2026-08-09 20:15:45.000000000 +00:00
-- title: AI assistant hacks gym website in first known Australian autonomous cyber
-    attack
-  url: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986
+  published: 2026-08-16 13:30:27.000000000 +00:00
+- title: Before Rightmove, there was the Cosmorama
+  url: https://www.ianvisits.co.uk/articles/before-rightmove-there-was-the-cosmorama-londons-forgotten-property-innovation-91687/
   summary: Comments
-  published: 2026-08-09 21:52:23.000000000 +00:00
-- title: Crickets as pets
-  url: https://en.wikipedia.org/wiki/Crickets_as_pets
+  published: 2026-08-11 15:56:01.000000000 +00:00
+- title: Chestnut – eGPU dock with open-source firmware
+  url: https://hwbusters.com/news/comma-ai-egpu-dock-runs-open-source-firmware-249-bare-799-with-an-rx-9060/
   summary: Comments
-  published: 2026-08-05 14:18:10.000000000 +00:00
-- title: 'The Alpha 21264 CPU: NT''s Greatest RISC (1998)'
-  url: https://halfhill.com/byte/1998-12_alpha.html
+  published: 2026-08-13 22:01:04.000000000 +00:00
+- title: 'Asynchronous I/O in DuckDB: Work, Thread, Work'
+  url: https://duckdb.org/2026/07/31/asynchronous-io
   summary: Comments
-  published: 2026-08-09 10:06:37.000000000 +00:00
+  published: 2026-08-10 13:01:18.000000000 +00:00
