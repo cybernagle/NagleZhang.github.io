@@ -1,4 +1,21 @@
 ---
+- title: GnosisDAO approves Gnosis Chain for Ethereum Economic Zone
+  url: https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Gnosis Chain was approved to transition to an EEZ rollup, enabling it to
+    settle directly to Ethereum rather than continue with an independent validator
+    set.
+  published: 2026-08-20 08:59:40.000000000 +00:00
+- title: Ethereum Foundation warns some tools may break with Glamsterdam upgrade
+  url: https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Developers have been urged to test on Plataberget before Glamsterdam’s
+    new gas model reaches Ethereum’s other testnets and mainnet.
+  published: 2026-08-18 05:12:18.000000000 +00:00
+- title: Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses
+  url: https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: 'Tom Lee’s Ethereum treasury company keeps buying the second-biggest crypto
+    through the downturn, while more than 5 million staked ETH is projected to generate
+    $287 million in annual rewards. '
+  published: 2026-08-17 16:04:32.000000000 +00:00
 - title: Ethereum devs to narrow 66 proposals tied to Hegotá upgrade
   url: https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.
@@ -153,20 +170,3 @@
   summary: "Tokenization and RWA TVL growth highlight Ethereum’s fundamentals, but
     stagnant DApps and spot ETF outflows keep the pressure on ETH price. \n"
   published: 2026-06-30 21:16:47.000000000 +00:00
-- title: Vitalik Buterin says obfuscation could unlock private onchain crypto voting
-  url: https://cointelegraph.com/news/vitalik-buterin-private-onchain-voting-obfuscation?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Vitalik Buterin said indistinguishability obfuscation could eventually
-    support private, collusion-resistant onchain voting without trusted committees,
-    though the technology remains impractical.
-  published: 2026-06-29 10:53:39.000000000 +00:00
-- title: Ether treasury Sharplink bought $16M ETH last week
-  url: https://cointelegraph.com/news/ether-treasury-sharplink-buys-624m-of-eth-in-3-days?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Sharplink bought 10,000 ETH last week after an eight-month pause, adding
-    to signs the company has resumed its Ether accumulation strategy.
-  published: 2026-06-29 02:43:44.000000000 +00:00
-- title: Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K
-  url: https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: 'Old Ether wallets moved 37,806 ETH as long-term whale profitability turned
-    negative for the first time since 2019, signaling mixed sentiment among large
-    holders. '
-  published: 2026-06-26 22:18:07.000000000 +00:00
