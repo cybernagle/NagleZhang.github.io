@@ -1,121 +1,121 @@
 ---
-- title: Everything I own, owned
-  url: https://schlarp.com/posts/everything-i-own-owned/
+- title: "“I just chose words carefully”"
+  url: https://unsung.aresluna.org/i-just-chose-words-carefully/
   summary: Comments
-  published: 2026-08-23 22:41:04.000000000 +00:00
-- title: How I find problems to solve as a staff engineer
-  url: https://lalitm.com/post/find-problems-staff-engineer/
+  published: 2026-08-30 22:49:48.000000000 +00:00
+- title: Creepy Crawlies
+  url: https://people.kernel.org/monsieuricon/creepy-crawlies
   summary: Comments
-  published: 2026-08-23 19:23:29.000000000 +00:00
-- title: Anthropic's best AI model struggles to attract users as cheaper tools thrive
-  url: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245
+  published: 2026-08-29 17:49:01.000000000 +00:00
+- title: Understanding ChatGPT Work
+  url: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
   summary: Comments
-  published: 2026-08-23 18:16:37.000000000 +00:00
-- title: Google Workspace thinks my domain is an email provider (2025)
-  url: https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/
+  published: 2026-08-31 01:28:22.000000000 +00:00
+- title: 'Matrox: Graphics for Professionals'
+  url: https://www.abortretry.fail/p/matrox
   summary: Comments
-  published: 2026-08-23 19:29:32.000000000 +00:00
-- title: My agent.md to improve LLM-assisted code quality
-  url: https://fabiensanglard.net/agent.md/index.html
+  published: 2026-08-30 23:39:35.000000000 +00:00
+- title: CobaltC – The Successor to C?
+  url: https://strawberry9.github.io/the-wrong-memory/Appendix_06.html
   summary: Comments
-  published: 2026-08-23 17:59:52.000000000 +00:00
-- title: What Is a Harness?
-  url: https://earendil.com/posts/what-is-a-harness/
+  published: 2026-08-31 02:26:09.000000000 +00:00
+- title: Haiku R1/beta6 has been released
+  url: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
   summary: Comments
-  published: 2026-08-23 14:24:21.000000000 +00:00
-- title: How Complex Systems Fail (1998)
-  url: https://how.complexsystems.fail/
+  published: 2026-08-30 16:01:10.000000000 +00:00
+- title: 'Cores in space: The core memory module from a 1980 Spacelab computer'
+  url: https://www.righto.com/2026/08/spacelab-core-memory.html
   summary: Comments
-  published: 2026-08-23 15:13:31.000000000 +00:00
-- title: AI Chip Architectures
-  url: https://www.jepeake.com/ai-chip-architectures
+  published: 2026-08-30 20:00:25.000000000 +00:00
+- title: 'Show HN: NFC Energy-Harvesting PCB Business Card with an MCU'
+  url: https://wilsonharper.net/projects/businesscard/
   summary: Comments
-  published: 2026-08-23 02:25:10.000000000 +00:00
-- title: Malware infects Android-based automotive head unit firmware
-  url: https://securelist.com/android-head-unit-malware/121106/
+  published: 2026-08-28 13:48:12.000000000 +00:00
+- title: Why do I lose my passion and want to do nothing?
+  url: https://news.ycombinator.com/item?id=49505014
   summary: Comments
-  published: 2026-08-23 13:05:38.000000000 +00:00
-- title: Implementation of GPT-2 in pure CMake
-  url: https://github.com/AlpinDale/gpt2.cmake
+  published: 2026-08-31 02:40:37.000000000 +00:00
+- title: It takes 5 cloud services to hear my doorbell
+  url: https://blog.vghaisas.com/rube-goldberg-doorbell/
   summary: Comments
-  published: 2026-08-23 21:41:17.000000000 +00:00
-- title: My favorite nonfiction books about cults, scams, and schemes
-  url: https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes
+  published: 2026-08-28 15:34:30.000000000 +00:00
+- title: Sort branches by last commit date
+  url: https://ryangreenberg.com/til/git-branches-by-commit-date/
   summary: Comments
-  published: 2026-08-23 13:51:10.000000000 +00:00
-- title: A website for debloated open source alternatives
-  url: https://debloat.dev/
+  published: 2026-08-25 14:57:00.000000000 +00:00
+- title: How to build a diffusion language model
+  url: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
   summary: Comments
-  published: 2026-08-23 16:54:10.000000000 +00:00
-- title: 'Why Sal Khan''t: On Learning by Making but Teaching by Telling'
-  url: https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/
+  published: 2026-08-30 23:41:32.000000000 +00:00
+- title: Continuous Diffusion Language Models (CDLM's)
+  url: https://sander.ai/2026/08/24/continuous-dlms.html
   summary: Comments
-  published: 2026-08-23 15:59:08.000000000 +00:00
-- title: Explain it to me like I'm ten
-  url: https://timharford.com/2026/08/explain-it-to-me-like-im-ten/
+  published: 2026-08-30 20:46:53.000000000 +00:00
+- title: Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
+  url: https://github.com/KodeMunkie/sm750hdmifb
   summary: Comments
-  published: 2026-08-23 18:08:13.000000000 +00:00
-- title: Decoding silent reading from non-invasive EEG
-  url: https://arxiv.org/abs/2608.20186
+  published: 2026-08-30 18:49:08.000000000 +00:00
+- title: Commercially Available Bike Generators Are Not Sustainable (2011)
+  url: https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/
   summary: Comments
-  published: 2026-08-23 20:13:34.000000000 +00:00
-- title: Rural Village in Spain Is Welcoming Digital Nomads with Open Arms
-  url: https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms
+  published: 2026-08-26 15:04:44.000000000 +00:00
+- title: Hacking IKEA Furniture
+  url: https://greenlightning.eu/diy/hacking-ikea-furniture/
   summary: Comments
-  published: 2026-08-23 20:30:50.000000000 +00:00
-- title: Declarative WebGPU with S-Expressions
-  url: https://hugodaniel.com/posts/declarative-webgpu-with-s-expressions/
+  published: 2026-08-30 11:39:43.000000000 +00:00
+- title: Relm4 makes developing beautiful cross-platform applications idiomatic
+  url: https://relm4.org/
   summary: Comments
-  published: 2026-08-23 20:47:53.000000000 +00:00
-- title: Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?
-  url: https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html
+  published: 2026-08-26 10:38:56.000000000 +00:00
+- title: 'Coordination Headwind: How Organizations Are Like Slime Molds'
+  url: https://komoroske.com/slime-mold/
   summary: Comments
-  published: 2026-08-23 18:55:54.000000000 +00:00
-- title: AI and Infrastructure Engineering
-  url: https://omegion.dev/2026/08/ai-and-infrastructure-engineering/
+  published: 2026-08-30 16:03:17.000000000 +00:00
+- title: Flock Safety's controversial CEO just got a taste of his own medicine
+  url: https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/
   summary: Comments
-  published: 2026-08-23 18:09:01.000000000 +00:00
-- title: Kodak DC50 now usable on the Apple II
-  url: https://www.colino.net/wordpress/archives/2026/08/23/kodak-dc50-now-usable-on-the-apple-ii/
+  published: 2026-08-31 02:44:30.000000000 +00:00
+- title: Startup Anti-Patterns
+  url: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/
   summary: Comments
-  published: 2026-08-23 16:25:59.000000000 +00:00
-- title: The Vibe Tax
-  url: https://insufferable.dev/posts/vibe-tax/
+  published: 2026-08-30 15:57:30.000000000 +00:00
+- title: Dad’s Custom Atari Peripherals
+  url: https://www.goto10retro.com/p/dads-custom-atari-peripherals
   summary: Comments
-  published: 2026-08-23 18:31:02.000000000 +00:00
-- title: The planet now has more trees than it did 35 years ago (2018)
-  url: https://psmag.com/environment/the-planet-now-has-more-trees-than-it-did-35-years-ago/
+  published: 2026-08-27 17:20:21.000000000 +00:00
+- title: Artie (YC S23) Is Hiring Technical AES
+  url: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1
   summary: Comments
-  published: 2026-08-23 21:55:55.000000000 +00:00
-- title: 'The Remote Work Challenge: Lessons from 5 Cities'
-  url: https://www.pew.org/en/research-and-analysis/reports/2026/05/the-remote-work-challenge-lessons-from-5-cities
+  published: 2026-08-30 17:01:56.000000000 +00:00
+- title: Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+  url: https://www.qubes-os.org/news/2026/08/29/qsb-118/
   summary: Comments
-  published: 2026-08-23 17:15:36.000000000 +00:00
-- title: Fable and the end of the free lunch
-  url: https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html
+  published: 2026-08-30 08:51:39.000000000 +00:00
+- title: How would you know whether an ancient culture had zero?
+  url: https://www.johndcook.com/blog/2026/08/21/ancient-number-system/
   summary: Comments
-  published: 2026-08-23 19:06:09.000000000 +00:00
-- title: Parallel development without the headaches using Git worktree
-  url: https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/
+  published: 2026-08-27 13:05:53.000000000 +00:00
+- title: SolarWindow launches 0.85 mm-thick, self-adhesive solar film
+  url: https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/
   summary: Comments
-  published: 2026-08-23 22:06:14.000000000 +00:00
-- title: Things I want in a modern relational query language
-  url: https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/
+  published: 2026-08-31 02:50:00.000000000 +00:00
+- title: Longest Straight Line Paths on Water or Land on the Earth (2018)
+  url: https://arxiv.org/abs/1804.07389
   summary: Comments
-  published: 2026-08-22 18:38:41.000000000 +00:00
-- title: A complex structure on S^6 [pdf]
-  url: https://alpo.ge/s6.pdf
+  published: 2026-08-30 08:23:26.000000000 +00:00
+- title: 'Omarchy: Any User Process Can Escalate to Root'
+  url: https://0xcc.io/posts/omarchy-root-creds/
   summary: Comments
-  published: 2026-08-23 21:47:25.000000000 +00:00
-- title: Coconut oil jet fuel matches kerosene's efficiency in engine tests
-  url: https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/
+  published: 2026-08-30 15:59:49.000000000 +00:00
+- title: 'Zig: Pointer Stability for ArrayLists'
+  url: https://ziglang.org/devlog/2026/#2026-08-27
   summary: Comments
-  published: 2026-08-23 15:50:18.000000000 +00:00
-- title: Death to px, long live ch
-  url: https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/
+  published: 2026-08-30 14:41:53.000000000 +00:00
+- title: Electric rain can eat through metal
+  url: https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/
   summary: Comments
-  published: 2026-08-23 13:56:27.000000000 +00:00
-- title: The Sloppification of Peptides
-  url: https://henryaj.substack.com/p/the-sloppification-of-peptides
+  published: 2026-08-27 12:04:11.000000000 +00:00
+- title: Adding a directional cost bias to a TSP heuristic reveals better local optima
+  url: https://tsp.uncledroid.app
   summary: Comments
-  published: 2026-08-23 09:32:54.000000000 +00:00
+  published: 2026-08-24 06:16:02.000000000 +00:00
