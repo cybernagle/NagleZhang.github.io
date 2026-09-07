@@ -1,121 +1,121 @@
 ---
-- title: "“I just chose words carefully”"
-  url: https://unsung.aresluna.org/i-just-chose-words-carefully/
+- title: Making a Python interpreter in 1024 bytes
+  url: https://austinhenley.com/blog/python1024.html
   summary: Comments
-  published: 2026-08-30 22:49:48.000000000 +00:00
-- title: Creepy Crawlies
-  url: https://people.kernel.org/monsieuricon/creepy-crawlies
+  published: 2026-09-06 23:14:08.000000000 +00:00
+- title: It took a year to ship WebAssembly in Anubis
+  url: https://anubis.techaro.lol/blog/2026/anubis-wasm/
   summary: Comments
-  published: 2026-08-29 17:49:01.000000000 +00:00
-- title: Understanding ChatGPT Work
-  url: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/
+  published: 2026-09-06 20:32:38.000000000 +00:00
+- title: The NX bit is not just about security
+  url: https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/
   summary: Comments
-  published: 2026-08-31 01:28:22.000000000 +00:00
-- title: 'Matrox: Graphics for Professionals'
-  url: https://www.abortretry.fail/p/matrox
+  published: 2026-09-04 13:47:25.000000000 +00:00
+- title: Your intellectual fly is open when you use an LLM to author a post (2025)
+  url: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
   summary: Comments
-  published: 2026-08-30 23:39:35.000000000 +00:00
-- title: CobaltC – The Successor to C?
-  url: https://strawberry9.github.io/the-wrong-memory/Appendix_06.html
+  published: 2026-09-06 11:56:43.000000000 +00:00
+- title: 'Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple'
+  url: https://github.com/marsbos/mador
   summary: Comments
-  published: 2026-08-31 02:26:09.000000000 +00:00
-- title: Haiku R1/beta6 has been released
-  url: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+  published: 2026-09-06 20:45:13.000000000 +00:00
+- title: Nitter and XCancel resume service after legal advice
+  url: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3
   summary: Comments
-  published: 2026-08-30 16:01:10.000000000 +00:00
-- title: 'Cores in space: The core memory module from a 1980 Spacelab computer'
-  url: https://www.righto.com/2026/08/spacelab-core-memory.html
+  published: 2026-09-06 17:49:47.000000000 +00:00
+- title: GrapheneOS Overhauled Default Apps and Secure Clipboard
+  url: https://grapheneos.social/@GrapheneOS/117225539756835649
   summary: Comments
-  published: 2026-08-30 20:00:25.000000000 +00:00
-- title: 'Show HN: NFC Energy-Harvesting PCB Business Card with an MCU'
-  url: https://wilsonharper.net/projects/businesscard/
+  published: 2026-09-06 20:24:00.000000000 +00:00
+- title: Babylonian Lamb Stew with Beets (1750–1730 BCE)
+  url: https://babylonian-collection.yale.edu/about/babylonian-cooking
   summary: Comments
-  published: 2026-08-28 13:48:12.000000000 +00:00
-- title: Why do I lose my passion and want to do nothing?
-  url: https://news.ycombinator.com/item?id=49505014
+  published: 2026-09-03 18:40:07.000000000 +00:00
+- title: 'MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server'
+  url: https://github.com/Staatsgeheim/MathKernel
   summary: Comments
-  published: 2026-08-31 02:40:37.000000000 +00:00
-- title: It takes 5 cloud services to hear my doorbell
-  url: https://blog.vghaisas.com/rube-goldberg-doorbell/
+  published: 2026-09-07 00:21:01.000000000 +00:00
+- title: Harnessing the Universal Geometry of Embeddings
+  url: https://arxiv.org/abs/2505.12540
   summary: Comments
-  published: 2026-08-28 15:34:30.000000000 +00:00
-- title: Sort branches by last commit date
-  url: https://ryangreenberg.com/til/git-branches-by-commit-date/
+  published: 2026-09-06 20:31:20.000000000 +00:00
+- title: NetBSD 9.5 released and EOL for NetBSD-9
+  url: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and
   summary: Comments
-  published: 2026-08-25 14:57:00.000000000 +00:00
-- title: How to build a diffusion language model
-  url: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
+  published: 2026-09-06 15:44:24.000000000 +00:00
+- title: Please don't rearrange our shoes when we turn up, paramedics in Japan urge
+  url: https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette
   summary: Comments
-  published: 2026-08-30 23:41:32.000000000 +00:00
-- title: Continuous Diffusion Language Models (CDLM's)
-  url: https://sander.ai/2026/08/24/continuous-dlms.html
+  published: 2026-09-03 10:23:19.000000000 +00:00
+- title: An Alien Mind
+  url: https://openai.com/index/an-alien-mind/
   summary: Comments
-  published: 2026-08-30 20:46:53.000000000 +00:00
-- title: Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver
-  url: https://github.com/KodeMunkie/sm750hdmifb
+  published: 2026-09-06 16:27:05.000000000 +00:00
+- title: 'Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)'
+  url: https://www.atlasobscura.com/places/black-hole-of-los-alamos
   summary: Comments
-  published: 2026-08-30 18:49:08.000000000 +00:00
-- title: Commercially Available Bike Generators Are Not Sustainable (2011)
-  url: https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/
+  published: 2026-09-02 18:47:55.000000000 +00:00
+- title: 'Research acceleration: The view inside OpenAI'
+  url: https://openai.com/index/research-acceleration-view-inside-openai
   summary: Comments
-  published: 2026-08-26 15:04:44.000000000 +00:00
-- title: Hacking IKEA Furniture
-  url: https://greenlightning.eu/diy/hacking-ikea-furniture/
+  published: 2026-09-06 15:08:44.000000000 +00:00
+- title: Asahi Linux on M3
+  url: https://asahilinux.org/2026/09/m2-episode-1/
   summary: Comments
-  published: 2026-08-30 11:39:43.000000000 +00:00
-- title: Relm4 makes developing beautiful cross-platform applications idiomatic
-  url: https://relm4.org/
+  published: 2026-09-06 14:08:59.000000000 +00:00
+- title: Reverse engineering the storage format for an undocumented database
+  url: https://blog.glazer.ee/posts/converting-cronos/
   summary: Comments
-  published: 2026-08-26 10:38:56.000000000 +00:00
-- title: 'Coordination Headwind: How Organizations Are Like Slime Molds'
-  url: https://komoroske.com/slime-mold/
+  published: 2026-09-04 07:17:00.000000000 +00:00
+- title: A/I shuts down
+  url: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/
   summary: Comments
-  published: 2026-08-30 16:03:17.000000000 +00:00
-- title: Flock Safety's controversial CEO just got a taste of his own medicine
-  url: https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/
+  published: 2026-09-06 14:34:34.000000000 +00:00
+- title: Research carried out using NetBSD
+  url: https://www.netbsd.org/gallery/research.html
   summary: Comments
-  published: 2026-08-31 02:44:30.000000000 +00:00
-- title: Startup Anti-Patterns
-  url: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/
+  published: 2026-09-06 16:10:05.000000000 +00:00
+- title: Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
+  url: https://twitter.com/Liquid_BTC/status/2096696272447218108
   summary: Comments
-  published: 2026-08-30 15:57:30.000000000 +00:00
-- title: Dad’s Custom Atari Peripherals
-  url: https://www.goto10retro.com/p/dads-custom-atari-peripherals
+  published: 2026-09-06 22:43:25.000000000 +00:00
+- title: Vidact – a compiler that turns React into direct DOM operations
+  url: https://www.vidact.dev/
   summary: Comments
-  published: 2026-08-27 17:20:21.000000000 +00:00
-- title: Artie (YC S23) Is Hiring Technical AES
-  url: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1
+  published: 2026-09-02 20:34:24.000000000 +00:00
+- title: D2 Is Non-Profit
+  url: https://d2lang.com/blog/d2-non-profit/
   summary: Comments
-  published: 2026-08-30 17:01:56.000000000 +00:00
-- title: Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
-  url: https://www.qubes-os.org/news/2026/08/29/qsb-118/
+  published: 2026-09-06 19:11:05.000000000 +00:00
+- title: Electronic skin for prosthetics to sense temperature and pressure
+  url: https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/
   summary: Comments
-  published: 2026-08-30 08:51:39.000000000 +00:00
-- title: How would you know whether an ancient culture had zero?
-  url: https://www.johndcook.com/blog/2026/08/21/ancient-number-system/
+  published: 2026-09-02 18:06:56.000000000 +00:00
+- title: Opalite Health (YC W26) Is Hiring – Founding GTM
+  url: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm
   summary: Comments
-  published: 2026-08-27 13:05:53.000000000 +00:00
-- title: SolarWindow launches 0.85 mm-thick, self-adhesive solar film
-  url: https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/
+  published: 2026-09-06 17:00:28.000000000 +00:00
+- title: M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years
+  url: https://en.wikipedia.org/wiki/M-DISC
   summary: Comments
-  published: 2026-08-31 02:50:00.000000000 +00:00
-- title: Longest Straight Line Paths on Water or Land on the Earth (2018)
-  url: https://arxiv.org/abs/1804.07389
+  published: 2026-09-02 04:10:21.000000000 +00:00
+- title: Isar Aerospace reaches orbit and deploys payloads on second flight
+  url: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
   summary: Comments
-  published: 2026-08-30 08:23:26.000000000 +00:00
-- title: 'Omarchy: Any User Process Can Escalate to Root'
-  url: https://0xcc.io/posts/omarchy-root-creds/
+  published: 2026-09-06 07:21:06.000000000 +00:00
+- title: Doomscrolling ourselves to death
+  url: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death
   summary: Comments
-  published: 2026-08-30 15:59:49.000000000 +00:00
-- title: 'Zig: Pointer Stability for ArrayLists'
-  url: https://ziglang.org/devlog/2026/#2026-08-27
+  published: 2026-09-06 11:53:40.000000000 +00:00
+- title: Every Novel Is Boring–Until It Isn't
+  url: https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/
   summary: Comments
-  published: 2026-08-30 14:41:53.000000000 +00:00
-- title: Electric rain can eat through metal
-  url: https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/
+  published: 2026-09-03 19:10:02.000000000 +00:00
+- title: 2026 Hugo Awards
+  url: https://www.thehugoawards.org/
   summary: Comments
-  published: 2026-08-27 12:04:11.000000000 +00:00
-- title: Adding a directional cost bias to a TSP heuristic reveals better local optima
-  url: https://tsp.uncledroid.app
+  published: 2026-09-06 12:41:59.000000000 +00:00
+- title: 216M Spy TVs – The LG Smart TV Problem [video]
+  url: https://www.youtube.com/watch?v=6IFVTcM28KA
   summary: Comments
-  published: 2026-08-24 06:16:02.000000000 +00:00
+  published: 2026-09-07 00:22:04.000000000 +00:00
