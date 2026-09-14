@@ -1,121 +1,122 @@
 ---
-- title: Making a Python interpreter in 1024 bytes
-  url: https://austinhenley.com/blog/python1024.html
+- title: Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+  url: https://www.vals.ai/blogs/fable-solves-cyphral-distich
   summary: Comments
-  published: 2026-09-06 23:14:08.000000000 +00:00
-- title: It took a year to ship WebAssembly in Anubis
-  url: https://anubis.techaro.lol/blog/2026/anubis-wasm/
+  published: 2026-09-13 21:06:13.000000000 +00:00
+- title: Why is Google still serving dodgy ads?
+  url: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads
   summary: Comments
-  published: 2026-09-06 20:32:38.000000000 +00:00
-- title: The NX bit is not just about security
-  url: https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/
+  published: 2026-09-13 17:37:44.000000000 +00:00
+- title: Spaceships (Reverse Asteroid)
+  url: https://spaceships.treybastian.com/
   summary: Comments
-  published: 2026-09-04 13:47:25.000000000 +00:00
-- title: Your intellectual fly is open when you use an LLM to author a post (2025)
-  url: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+  published: 2026-09-10 04:44:32.000000000 +00:00
+- title: Registration without a phone number on Signal will use zero-knowledge proofs
+  url: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10
   summary: Comments
-  published: 2026-09-06 11:56:43.000000000 +00:00
-- title: 'Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple'
-  url: https://github.com/marsbos/mador
+  published: 2026-09-13 21:47:04.000000000 +00:00
+- title: Open-Source AI and Open Models Reading List
+  url: https://www.interconnects.ai/p/open-source-ai-reading-list
   summary: Comments
-  published: 2026-09-06 20:45:13.000000000 +00:00
-- title: Nitter and XCancel resume service after legal advice
-  url: https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3
+  published: 2026-09-14 00:22:51.000000000 +00:00
+- title: Julia 1.13 highlights
+  url: https://julialang.org/blog/2026/09/julia-1.13-highlights/
   summary: Comments
-  published: 2026-09-06 17:49:47.000000000 +00:00
-- title: GrapheneOS Overhauled Default Apps and Secure Clipboard
-  url: https://grapheneos.social/@GrapheneOS/117225539756835649
+  published: 2026-09-10 12:27:25.000000000 +00:00
+- title: Astra and Fable still hack on simple variants of alignment evals from 2025
+  url: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment
   summary: Comments
-  published: 2026-09-06 20:24:00.000000000 +00:00
-- title: Babylonian Lamb Stew with Beets (1750–1730 BCE)
-  url: https://babylonian-collection.yale.edu/about/babylonian-cooking
+  published: 2026-09-13 14:28:36.000000000 +00:00
+- title: 'Show HN: Is It Greg?'
+  url: https://github.com/antoineleclair/is-it-greg
   summary: Comments
-  published: 2026-09-03 18:40:07.000000000 +00:00
-- title: 'MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server'
-  url: https://github.com/Staatsgeheim/MathKernel
+  published: 2026-09-14 01:58:41.000000000 +00:00
+- title: AI is not a normal technology
+  url: https://12gramsofcarbon.com/p/ai-is-not-a-normal-technology
   summary: Comments
-  published: 2026-09-07 00:21:01.000000000 +00:00
-- title: Harnessing the Universal Geometry of Embeddings
-  url: https://arxiv.org/abs/2505.12540
+  published: 2026-09-14 01:00:09.000000000 +00:00
+- title: Data collected by cars and sold to third parties
+  url: https://www.theverge.com/column/994172/your-car-is-selling-your-data
   summary: Comments
-  published: 2026-09-06 20:31:20.000000000 +00:00
-- title: NetBSD 9.5 released and EOL for NetBSD-9
-  url: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and
+  published: 2026-09-13 13:45:08.000000000 +00:00
+- title: The Malicious Use of Artificial Intelligence
+  url: https://arxiv.org/abs/1802.07228
   summary: Comments
-  published: 2026-09-06 15:44:24.000000000 +00:00
-- title: Please don't rearrange our shoes when we turn up, paramedics in Japan urge
-  url: https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette
+  published: 2026-09-14 01:22:35.000000000 +00:00
+- title: Flawed routers flood University of Wisconsin internet time server (2003)
+  url: https://pages.cs.wisc.edu/~plonka/netgear-sntp/
   summary: Comments
-  published: 2026-09-03 10:23:19.000000000 +00:00
-- title: An Alien Mind
-  url: https://openai.com/index/an-alien-mind/
+  published: 2026-09-13 20:33:18.000000000 +00:00
+- title: 'Ask HN: What are you working on? (September 2026)'
+  url: https://news.ycombinator.com/item?id=49686380
   summary: Comments
-  published: 2026-09-06 16:27:05.000000000 +00:00
-- title: 'Black Hole of Los Alamos: Seller of surplus nuclear research materials (2011)'
-  url: https://www.atlasobscura.com/places/black-hole-of-los-alamos
+  published: 2026-09-13 17:31:38.000000000 +00:00
+- title: Mullenweg has returned as CEO after attempted board ouster
+  url: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/
   summary: Comments
-  published: 2026-09-02 18:47:55.000000000 +00:00
-- title: 'Research acceleration: The view inside OpenAI'
-  url: https://openai.com/index/research-acceleration-view-inside-openai
+  published: 2026-09-13 20:19:06.000000000 +00:00
+- title: 'The GDR and Vietnam: From Fake Coffee to Coffee Empire'
+  url: https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee
   summary: Comments
-  published: 2026-09-06 15:08:44.000000000 +00:00
-- title: Asahi Linux on M3
-  url: https://asahilinux.org/2026/09/m2-episode-1/
+  published: 2026-09-10 19:39:13.000000000 +00:00
+- title: Apple's Dimensional Drawings
+  url: https://developer.apple.com/accessories/dimensional-drawings/
   summary: Comments
-  published: 2026-09-06 14:08:59.000000000 +00:00
-- title: Reverse engineering the storage format for an undocumented database
-  url: https://blog.glazer.ee/posts/converting-cronos/
+  published: 2026-09-14 00:11:21.000000000 +00:00
+- title: 'Writing a better reality: The case for optimistic sci-fi'
+  url: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/
   summary: Comments
-  published: 2026-09-04 07:17:00.000000000 +00:00
-- title: A/I shuts down
-  url: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/
+  published: 2026-09-14 00:27:11.000000000 +00:00
+- title: Reverse engineering my e-scooter and rewriting the firmware in Rust
+  url: https://bensimms.moe/reverse-engineering-scooter/
   summary: Comments
-  published: 2026-09-06 14:34:34.000000000 +00:00
-- title: Research carried out using NetBSD
-  url: https://www.netbsd.org/gallery/research.html
+  published: 2026-09-10 03:32:04.000000000 +00:00
+- title: The Coming War on General Computation (2011)
+  url: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation
   summary: Comments
-  published: 2026-09-06 16:10:05.000000000 +00:00
-- title: Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet
-  url: https://twitter.com/Liquid_BTC/status/2096696272447218108
+  published: 2026-09-13 23:54:55.000000000 +00:00
+- title: Making Startups Powerful
+  url: https://paulgraham.com/powerful.html
   summary: Comments
-  published: 2026-09-06 22:43:25.000000000 +00:00
-- title: Vidact – a compiler that turns React into direct DOM operations
-  url: https://www.vidact.dev/
+  published: 2026-09-13 14:09:53.000000000 +00:00
+- title: Why is the x86 undefined instruction called ud2? Why 2?
+  url: https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689
   summary: Comments
-  published: 2026-09-02 20:34:24.000000000 +00:00
-- title: D2 Is Non-Profit
-  url: https://d2lang.com/blog/d2-non-profit/
+  published: 2026-09-13 12:30:15.000000000 +00:00
+- title: 'Rope, twine and thread: Invisible technologies of the Stone Age'
+  url: https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads
   summary: Comments
-  published: 2026-09-06 19:11:05.000000000 +00:00
-- title: Electronic skin for prosthetics to sense temperature and pressure
-  url: https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/
+  published: 2026-09-11 17:38:11.000000000 +00:00
+- title: 'I build a mechanical watch face: a real gear train for a watch with no gears'
+  url: https://myday24.com/blog/how-a-mechanical-watch-face-is-built/
   summary: Comments
-  published: 2026-09-02 18:06:56.000000000 +00:00
-- title: Opalite Health (YC W26) Is Hiring – Founding GTM
-  url: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm
+  published: 2026-09-10 15:35:36.000000000 +00:00
+- title: CUDA for AMD on Windows
+  url: https://github.com/Speedstu/CUDA-for-AMD-Windows
   summary: Comments
-  published: 2026-09-06 17:00:28.000000000 +00:00
-- title: M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years
-  url: https://en.wikipedia.org/wiki/M-DISC
+  published: 2026-09-13 14:25:13.000000000 +00:00
+- title: AI Robots – When will they be in our homes
+  url: https://spectrum.ieee.org/ai-robots
   summary: Comments
-  published: 2026-09-02 04:10:21.000000000 +00:00
-- title: Isar Aerospace reaches orbit and deploys payloads on second flight
-  url: https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight
+  published: 2026-09-14 00:44:23.000000000 +00:00
+- title: '"Chilling" warning or overreaction? AI bioweapons report divides experts'
+  url: https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts
   summary: Comments
-  published: 2026-09-06 07:21:06.000000000 +00:00
-- title: Doomscrolling ourselves to death
-  url: https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death
+  published: 2026-09-14 00:07:09.000000000 +00:00
+- title: 'Reverse-Engineering Claude Web''s MicroVM: Uncovering Anthropic''s Hidden
+    Antspace'
+  url: https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace
   summary: Comments
-  published: 2026-09-06 11:53:40.000000000 +00:00
-- title: Every Novel Is Boring–Until It Isn't
-  url: https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/
+  published: 2026-09-11 03:45:42.000000000 +00:00
+- title: 'Show HN: Exploring the intersection of prediction markets and social media'
+  url: https://www.thevidmarket.com/
   summary: Comments
-  published: 2026-09-03 19:10:02.000000000 +00:00
-- title: 2026 Hugo Awards
-  url: https://www.thehugoawards.org/
+  published: 2026-09-14 01:14:25.000000000 +00:00
+- title: The contagion of fear
+  url: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/
   summary: Comments
-  published: 2026-09-06 12:41:59.000000000 +00:00
-- title: 216M Spy TVs – The LG Smart TV Problem [video]
-  url: https://www.youtube.com/watch?v=6IFVTcM28KA
+  published: 2026-09-13 22:38:18.000000000 +00:00
+- title: Bad code is kudzu
+  url: https://vickiboykis.com/2026/09/01/bad-code-is-kudzu/
   summary: Comments
-  published: 2026-09-07 00:22:04.000000000 +00:00
+  published: 2026-09-10 13:02:59.000000000 +00:00
