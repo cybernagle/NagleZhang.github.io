@@ -1,4 +1,22 @@
 ---
+- title: Ethereum Institutional signals support for Ethlabs’ motion to reduce Ethereum
+    block times
+  url: https://cointelegraph.com/news/ethereum-institutional-support-ethlabs-reduce-ethereum-block-times?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: The non-profit signaled support for reducing Ethereum block times, citing
+    increasing institutional activity moving onto the smart-contract network.
+  published: 2026-09-18 12:40:04.000000000 +00:00
+- title: Ethereum, Base wallet standards talks fail, Ethlabs researcher says
+  url: https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Ethereum and Base are pursuing different account abstraction designs after
+    talks failed, according to Ethlabs researcher Derek Chiang.
+  published: 2026-09-15 09:40:27.000000000 +00:00
+- title: Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury
+  url: https://cointelegraph.com/news/bitmine-5-million-eth-staked-334-million-revenue?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: 'Bitmine now has more than 5 million ETH staked, turning most of its Ether
+    holdings into a recurring income stream as it continues to accumulate.
+
+    '
+  published: 2026-09-14 15:55:59.000000000 +00:00
 - title: Consensys to split into MetaMask and institutional blockchain company
   url: https://cointelegraph.com/news/consensys-to-split-into-metamask-and-institutional-blockchain-company?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: The restructuring will separate MetaMask’s consumer business from Consensys’
@@ -149,22 +167,3 @@
     company’s pivot from Bitcoin mining gained momentum following its March validator
     launch.
   published: 2026-07-15 01:28:14.000000000 +00:00
-- title: Cambridge study puts Ethereum near lower end of PoS energy intensity
-  url: https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the
-    second-lowest market-value-adjusted energy intensity among the proof-of-stake
-    networks studied.
-  published: 2026-07-12 09:29:00.000000000 +00:00
-- title: 'Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?'
-  url: https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: 'Despite strong tokenization gains and institutional accumulation, weak
-    onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.
-
-    '
-  published: 2026-07-11 12:55:18.000000000 +00:00
-- title: Robinhood Chain sees over $70M in ETH bridged during first week
-  url: https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: 'Robinhood’s choice to use Ethereum further solidifies its position as
-    the “ultimate settlement layer and liquidity foundation for tokenized assets,”
-    said HashKey Group’s Tim Sun. '
-  published: 2026-07-10 05:44:20.000000000 +00:00
