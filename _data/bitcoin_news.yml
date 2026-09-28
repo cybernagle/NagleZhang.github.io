@@ -1,4 +1,119 @@
 ---
+- title: IBIT options price trading more calmly after Bitcoin rebound
+  url: https://cointelegraph.com/markets/ibit-options-trading-bitcoins-rebound?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: IBIT’s expected volatility sits near the bottom of its 12-month range,
+    according to Saxo Bank’s analysis of options data from Sept. 23.
+  published: 2026-09-25 11:11:33.000000000 +00:00
+- title: Bitcoin ETF inflows slow to $191M as six-day streak reaches $2.8B
+  url: https://cointelegraph.com/markets/bitcoin-etf-six-day-streak-2-8-billion?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: US spot Bitcoin ETFs drew $191 million Thursday as daily inflows slowed
+    for a third day, lifting year-to-date net flows to $787 million.
+  published: 2026-09-25 07:41:36.000000000 +00:00
+- title: 'Researchers propose Zcash-style private Bitcoin transfers without a soft
+    fork '
+  url: https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to
+    hide transaction details without changing Bitcoin consensus, but researchers have
+    raised questions about anonymity and quantum resistance.
+  published: 2026-09-25 04:41:06.000000000 +00:00
+- title: Block brings Bitcoin Lightning payments to x402 for AI agents
+  url: https://cointelegraph.com/news/block-brings-bitcoin-lightning-payments-to-x402-for-ai-agents?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Block joins Google, Microsoft, AWS and Coinbase in backing x402, an open
+    payment standard enabling agentic AI commerce.
+  published: 2026-09-25 02:00:54.000000000 +00:00
+- title: Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC
+  url: https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: 'The France-based semiconductor company has fully unwound a Bitcoin treasury
+    that once held more than 3,200 BTC as more firms scale back crypto holdings. '
+  published: 2026-09-24 17:13:38.000000000 +00:00
+- title: Bitcoin falls below $84K as 10-year Treasury yield hits 19-year high
+  url: https://cointelegraph.com/markets/bitcoin-fall-84k-treasury-yield-hits-19-year-high?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Bitcoin traded near $83,200 as Fed hike odds reached about 75% and Treasury
+    prepared a $6 billion buyback of long-dated bonds.
+  published: 2026-09-24 10:15:03.000000000 +00:00
+- title: Bitcoin ETFs add $347M as BTC falls below $84K after topping $87K
+  url: https://cointelegraph.com/markets/bitcoin-etf-347-million-inflow-btc-below-84k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: US spot Bitcoin ETF inflows slowed to $347 million on Wednesday as Bitcoin
+    fell below $84,000, while five-day inflows reached $2.65 billion.
+  published: 2026-09-24 09:32:44.000000000 +00:00
+- title: 'Bitcoin’s ‘last resort’ quantum-safe solution just got 79% cheaper: StarkWare'
+  url: https://cointelegraph.com/news/bitcoins-last-resort-quantum-safe-solution-just-got-79-cheaper-starkware?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: 'A weeklong optimization challenge cut the estimated GPU cost of preparing
+    an experimental quantum-resistant Bitcoin transaction to under $67, potentially
+    making the “last-resort measure” a little easier on the wallet. '
+  published: 2026-09-24 04:52:40.000000000 +00:00
+- title: Bitcoin long liquidations hit $280M as BTC price dips under $84K
+  url: https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000,
+    while analysis flagged key support to hold.
+  published: 2026-09-23 14:52:11.000000000 +00:00
+- title: EU watchdogs warn quantum computers could pick crypto’s locks
+  url: https://cointelegraph.com/news/eu-watchdogs-quantum-computers-crypto-locks?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: EU supervisors warn quantum computing could weaken blockchain security
+    as Bitcoin developers weigh a draft migration plan and Ethereum targets 2029.
+  published: 2026-09-23 12:22:56.000000000 +00:00
+- title: 'Bitcoin bull market ‘confirmed’ but $90K presents profit-taking risk: Analysis'
+  url: https://cointelegraph.com/markets/bitcoin-bull-market-confirmed-but-90k-presents-profit-taking-risk-analysis?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: BTC price analysis concluded that onchain signals had “confirmed” the new
+    Bitcoin bull market.
+  published: 2026-09-23 10:05:10.000000000 +00:00
+- title: Bitcoin ETFs take in $1.7B in 2 days as BTC tops holder cost basis
+  url: https://cointelegraph.com/markets/bitcoin-etf-inflow-2-days-holder-profitable?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: US spot Bitcoin ETFs recorded more than $1.7 billion in net inflows over
+    two days as Bitcoin rose above investors’ estimated average cost basis.
+  published: 2026-09-23 07:25:05.000000000 +00:00
+- title: Bitcoin price seeks $86K as new support after oil dips below $90
+  url: https://cointelegraph.com/markets/bitcoin-price-seeks-86k-as-new-support-after-oil-dips-below-90?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Bitcoin price action avoided a significant drop below $86,000 as US president
+    Donald Trump pledged a deal with Iran after November’s midterm election.
+  published: 2026-09-22 16:01:55.000000000 +00:00
+- title: 'Big Questions: Does Satoshi actually own 1.1 million Bitcoin? '
+  url: https://cointelegraph.com/magazine/big-questions-does-satoshi-actually-own-1-million-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Researchers can trace an estimated 1.1 million BTC to a distinctive early
+    mining operation. The harder question is whether that miner was actually Satoshi.
+  published: 2026-09-22 13:30:00.000000000 +00:00
+- title: Crypto market cap reclaims $3 trillion as Bitcoin, altcoins rally
+  url: https://cointelegraph.com/markets/crypto-market-cap-3-trillion-bitcoin-altcoins-rally?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Bitcoin traded near $86,000 as major altcoins gained, while rising derivatives
+    leverage pointed to growing speculative activity across crypto markets.
+  published: 2026-09-22 09:58:26.000000000 +00:00
+- title: White hats outrun Coldcard hackers in 52-Bitcoin evacuation
+  url: https://cointelegraph.com/news/white-hats-coldcard-btc-exploit-galaxy?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: White hats secured about 40% of the Bitcoin moved in the Coldcard exploit’s
+    second wave, transferring it to a Wyoming trust for victims.
+  published: 2026-09-22 09:06:59.000000000 +00:00
+- title: Crypto’s wild boom-and-bust cycles are fading, Solstice CEO says
+  url: https://cointelegraph.com/news/crypto-bull-runs-liquidity-solstice-ceo?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Solstice CEO Ben Nadareski says deeper liquidity and growing institutional
+    participation could make future crypto bull runs less volatile than previous cycles.
+  published: 2026-09-22 08:06:23.000000000 +00:00
+- title: Bitcoin ETFs flirt with $1B as inflows hit 2026 high
+  url: https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: US spot Bitcoin ETFs drew nearly $1 billion on Monday, their largest daily
+    inflow since October 2025, as Bitcoin briefly climbed above $87,000.
+  published: 2026-09-22 07:33:37.000000000 +00:00
+- title: Bitcoin price tags $86K as analysis sees crypto in ‘new bull market’
+  url: https://cointelegraph.com/markets/bitcoin-price-86k-analysis-sees-crypto-new-bull-market?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Bitcoin crossed the $86,000 mark for the first time since late January
+    as falling oil prices and concerns over supply lifted US stocks.
+  published: 2026-09-21 16:39:40.000000000 +00:00
+- title: Strategy buys 950 Bitcoin for $76M, repurchases $174M in STRC
+  url: https://cointelegraph.com/news/strategy-950-btc-buy-strc-repurchase-174-million?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Strategy bought 950 Bitcoin for $75.7 million after a two-week pause and
+    spent another $174 million repurchasing its STRC preferred stock.
+  published: 2026-09-21 12:48:21.000000000 +00:00
+- title: 'BTC price nears eight-month high above $85K: Five things to know in Bitcoin
+    this week'
+  url: https://cointelegraph.com/markets/btc-price-nears-eight-month-high-above-85k-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: Bitcoin hit $85,000 for the first time since January as markets focused
+    on cooling oil prices.
+  published: 2026-09-21 10:15:51.000000000 +00:00
+- title: Bitcoin reclaims 50-week moving average as analysts eye end of bear market
+  url: https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
+  summary: "Bitcoin’s move above its 50-week moving average has historically marked
+    the end of bear markets, but analysts say one weekly close isn’t enough to confirm
+    a new bull run. \n"
+  published: 2026-09-21 04:29:59.000000000 +00:00
 - title: Bitcoin hits $81K as US bond yields rebound on global oil woes
   url: https://cointelegraph.com/markets/bitcoin-hits-81k-as-us-bond-yields-rebound-on-global-oil-woes?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
   summary: Bitcoin price action made swift gains at the start of Friday’s Wall Street
@@ -43,126 +158,3 @@
     since 2023, but 16 of 18 officials expect at least one more hike before the end
     of the year. '
   published: 2026-09-17 02:52:08.000000000 +00:00
-- title: US lawmakers advance bill to lock Trump’s Bitcoin reserve into law
-  url: https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: 'The legislation seeks to codify Trump’s Bitcoin reserve policy, locking
-    up Bitcoin acquired through civil and criminal forfeiture for 20 years. '
-  published: 2026-09-17 00:23:44.000000000 +00:00
-- title: Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish
-    surprise’ odds
-  url: https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin price support materialized around $68,000 as markets saw a 93%
-    chance of the Fed hiking rates by 0.25% on Wednesday.
-  published: 2026-09-16 15:30:49.000000000 +00:00
-- title: 'Ethiopia cuts Bitcoin miners’ power by 77% amid hydropower shortage: Report'
-  url: https://cointelegraph.com/news/ethiopia-bitcoin-mining-power-cut-hydro-shortage?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin miners generated 35% of the state-owned power producer’s revenue
-    last year, but declining reservoir inflows led the utility to prioritize households
-    and manufacturers.
-  published: 2026-09-16 10:11:39.000000000 +00:00
-- title: Bitcoin Coinbase Premium hits monthly low as CLARITY Act vote squeezes US
-    demand
-  url: https://cointelegraph.com/markets/bitcoin-coinbase-premium-hits-monthly-low-as-clarity-act-vote-squeezes-us-demand?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: " Bitcoin exchange demand on Coinbase declined after the US Senate voted
-    against the CLARITY Act, while traders sent BTC to exchanges at an unrealized
-    loss."
-  published: 2026-09-16 09:55:16.000000000 +00:00
-- title: Bitcoin ETFs shed $450M in biggest outflow since June
-  url: https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act
-    failed to advance in the Senate, with Fidelity and BlackRock funds leading the
-    outflows.
-  published: 2026-09-16 04:05:39.000000000 +00:00
-- title: Bitcoin price falls to $75.6K September low as global bonds hit multidecade
-    highs
-  url: https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin price action weakened over market nerves prior to the Senate CLARITY
-    Act vote, while surging bond yields pressured risk assets across the board.
-  published: 2026-09-15 16:02:01.000000000 +00:00
-- title: 'Bitcoin short-term holders hit 30-day profit streak as bull-market odds
-    improve: CryptoQuant'
-  url: https://cointelegraph.com/markets/bitcoin-short-term-holders-hit-30-day-profit-streak-as-bull-market-odds-improve-cryptoquant?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin short-term holders approached a full month in partial profit as
-    analysis saw improving odds of an enduring bullish BTC price reversal.
-  published: 2026-09-15 09:30:31.000000000 +00:00
-- title: Bitcoin tops $79K, oil falls as Trump says Iran war could end
-  url: https://cointelegraph.com/markets/bitcoin-passes-79k-oil-prices-cool-on-trump-iran-war-hints?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin’s price rose toward $80,000 after US President Donald Trump hinted
-    that the US-Iran war would end, pushing oil prices lower.
-  published: 2026-09-14 18:56:28.000000000 +00:00
-- title: Strive adds 469 Bitcoin to reach 25,000 BTC treasury
-  url: https://cointelegraph.com/news/strive-adds-469-bitcoin-to-reach-25000-btc-treasury?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Strive’s latest Bitcoin purchase was funded entirely through its SATA preferred
-    stock as the company continues its rapid climb among corporate BTC holders.
-  published: 2026-09-14 17:50:12.000000000 +00:00
-- title: 'HYPE price could suffer as Binance takes its revenue: Alice Liu'
-  url: https://cointelegraph.com/magazine/hype-price-could-suffer-as-binance-takes-its-revenue-alice-liu?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: 'Token buybacks have pushed Hyperliquid to all time highs, but Alice Liu
-    from CoinMarketCap warns that Binance poses a threat to the revenue stream it
-    depends on to pay for them. '
-  published: 2026-09-14 13:30:00.000000000 +00:00
-- title: 'CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this
-    week'
-  url: https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate
-    vote to move forward and the Fed is due to announce its latest rate decision.
-  published: 2026-09-14 10:02:00.000000000 +00:00
-- title: Bitcoin ETFs shed $463M in weekly reversal as Ether ETFs gain $197M
-  url: https://cointelegraph.com/markets/bitcoin-etfs-shed-463m-ether-etfs-gain-197m?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: ARKB, GBTC and IBIT led Bitcoin ETF withdrawals, while BlackRock’s ETHA
-    pushed Ether ETFs into weekly inflows.
-  published: 2026-09-14 07:07:54.000000000 +00:00
-- title: 'Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest'
-  url: https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Crypto’s moment of CLARITY finally arrives with a key Senate vote on Tuesday.
-    AI swarm fears prompt development slowdown, with some predicting big falls in
-    AI stock prices.
-  published: 2026-09-14 00:15:37.000000000 +00:00
-- title: Bitcoin spikes toward $80K as US CPI data delivers new 22-year high in bond
-    yields
-  url: https://cointelegraph.com/markets/bitcoin-spikes-toward-80k-as-us-cpi-data-delivers-new-22-year-high-in-bond-yields?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin briefly rebounded past $79,000 and US stocks turned green as US
-    CPI inflation data met expectations.
-  published: 2026-09-11 16:03:37.000000000 +00:00
-- title: Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary
-  url: https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Metaplanet will cut 131.3 million potential shares and form a $1 million
-    Hong Kong subsidiary for trading in Bitcoin, equities and credit products.
-  published: 2026-09-11 13:44:27.000000000 +00:00
-- title: Bitcoin ETF outflows accelerate as investors pull $449M in three days
-  url: https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals,
-    while Ether and Solana funds also recorded net outflows.
-  published: 2026-09-11 12:33:38.000000000 +00:00
-- title: Bitcoin buyers wary of July sub-$58K floor amid onchain data ‘anomaly’
-  url: https://cointelegraph.com/markets/bitcoin-buyers-wary-of-july-sub-58k-floor-amid-onchain-data-anomaly?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin HODL waves data revealed an unusually muted reaction to Bitcoin’s
-    drop below $58,000, raising questions over its status as a bear-market floor.
-  published: 2026-09-11 10:53:55.000000000 +00:00
-- title: Blockstream rejects ransom as Liquid hackers hold nearly 600 BTC
-  url: https://cointelegraph.com/news/blockstream-rejects-ransom-liquid-hackers-return-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Blockstream said it would work with law enforcement, exchanges and forensic
-    specialists to recover the Bitcoin if the hackers do not return it.
-  published: 2026-09-11 08:43:19.000000000 +00:00
-- title: 'Metaplanet equity backlash, SE Asia crypto funding doubles: Asia Express'
-  url: https://cointelegraph.com/magazine/metaplanet-equity-backlash-se-asia-crypto-funding-doubles-asia-express?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Shareholders of Bitcoin treasury company Metaplanet are seething over equity
-    allocations for insiders, while new figures cement Singapore’s role as the top
-    Asian crypto hub.
-  published: 2026-09-10 23:21:26.000000000 +00:00
-- title: Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year
-    high
-  url: https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin fell with US stocks as high inflation and a further surge in oil
-    prices coincided with another multidecade high for US bond yields.
-  published: 2026-09-10 14:52:15.000000000 +00:00
-- title: Bitcoin ETFs shed $167M after strongest three-week inflow run of 2026
-  url: https://cointelegraph.com/markets/bitcoin-etfs-shed-167m-after-strongest-three-week-inflow-run-of-2026?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: ARKB led Wednesday’s Bitcoin ETF outflows as Ether and Solana funds returned
-    to net inflows.
-  published: 2026-09-10 09:59:32.000000000 +00:00
-- title: Bitcoin sell-side risk returns to rare lows as $80K sellers fade from view
-  url: https://cointelegraph.com/markets/bitcoin-sell-side-risk-returns-rare-lows-fade?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound
-  summary: Bitcoin investors showed little sign of panic selling as BTC held most
-    of its August gains and sell-side risk fell to rare lows, data showed.
-  published: 2026-09-10 09:36:42.000000000 +00:00
