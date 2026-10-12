@@ -1,4 +1,20 @@
 ---
+- title: Bitmine sets 5% Ether supply ‘hard cap’ as accumulation target nears
+  url: https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Tom Lee said Bitmine will not accumulate Ether past 5% of the supply, turning
+    the company’s target into a ceiling.
+  published: 2026-10-07 08:50:02.000000000 +00:00
+- title: Ethereum’s Glamsterdam upgrade launches on Sepolia testnet
+  url: https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: Sepolia marks one of the final major rehearsals before the final activation
+    of Glamsterdam, aimed at bringing more efficiency and scalability to the Ethereum
+    mainnet.
+  published: 2026-10-06 14:00:00.000000000 +00:00
+- title: EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum
+  url: https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
+  summary: An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops
+    a framework to connect Ethereum mainnet and its rollups.
+  published: 2026-10-06 07:09:33.000000000 +00:00
 - title: Ethereum’s zkAPI brings privacy-preserving API payments to mainnet
   url: https://cointelegraph.com/news/ethereum-zkapi-private-api-payments-mainnet?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
   summary: Ethereum’s zkAPI is now live on mainnet, turning an earlier zero-knowledge
@@ -146,20 +162,3 @@
   summary: Pascal Caversaccio joins the Ethereum Foundation’s four-member board as
     the organization elevates privacy and security in its protocol strategy.
   published: 2026-07-30 01:34:26.000000000 +00:00
-- title: 'Ethereum, Solana led crypto hack losses in H1 2026: Blockaid'
-  url: https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026,
-    while Solana replaced Arbitrum as the network with the second-highest losses,
-    driven largely by key compromises.
-  published: 2026-07-28 13:00:00.000000000 +00:00
-- title: Lido upgrade aims to slash Ethereum’s validator count by one-third
-  url: https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s
-    validator count by one-third by consolidating validators and introducing new operator
-    rules.
-  published: 2026-07-28 09:14:45.000000000 +00:00
-- title: Bitmine keeps buying Ether as ETH outperforms Bitcoin
-  url: https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_ethereum&utm_campaign=rss_partner_inbound
-  summary: The company added nearly 10,000 ETH over the past week, bringing its holdings
-    to 5.79 million Ether, about 85% of which is staked through its validator operations.
-  published: 2026-07-27 19:22:59.000000000 +00:00
