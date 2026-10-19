@@ -1,121 +1,123 @@
 ---
-- title: Whatever became of holography? (2011)
-  url: https://www.americanscientist.org/article/whatever-became-of-holography
+- title: 'Hybrid Reasoning Agents: LLM agents that think in latent space, act through
+    text'
+  url: https://arxiv.org/abs/2610.18861
   summary: Comments
-  published: 2026-10-11 23:50:34.000000000 +00:00
-- title: Fingerprints are the new cookies
-  url: https://royfish.dev/fingerprints-are-the-new-cookies
+  published: 2026-10-18 20:48:14.000000000 +00:00
+- title: William Gibson and the trademarking of cyberspace
+  url: https://colo.to/cyberspace.html
   summary: Comments
-  published: 2026-10-11 22:33:39.000000000 +00:00
-- title: Total Annihilation, rebuilt for modern computers
-  url: https://nanolathe.gg
+  published: 2026-10-18 23:37:57.000000000 +00:00
+- title: 'There''s never been a better time to go into math (by: 3blue1brown) [video]'
+  url: https://www.youtube.com/watch?v=LKrwhjOI8Nc
   summary: Comments
-  published: 2026-10-11 18:04:47.000000000 +00:00
-- title: Calculus with Julia
-  url: https://jverzani.github.io/CalculusWithJuliaNotes.jl/
+  published: 2026-10-17 23:26:35.000000000 +00:00
+- title: Laptop Based on 6502 CPU
+  url: https://www.maddox.pro/?p=448
   summary: Comments
-  published: 2026-10-10 15:59:52.000000000 +00:00
-- title: Cartographers of North Korea (2019)
-  url: https://cartographers-nk.wonyoung.so/
+  published: 2026-10-15 22:56:23.000000000 +00:00
+- title: Someone behind the software
+  url: https://karrisaarinen.com/posts/someone-behind-the-software/
   summary: Comments
-  published: 2026-10-11 19:46:40.000000000 +00:00
-- title: Tattoos you can turn on and off
-  url: https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off
+  published: 2026-10-18 16:32:00.000000000 +00:00
+- title: If you don't run your own LLM proxy, how do you know whats going on?
+  url: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
   summary: Comments
-  published: 2026-10-11 21:04:46.000000000 +00:00
-- title: The gap in shared understanding of LLM capability is widening
-  url: https://twitter.com/karpathy/status/2109361546505966046
+  published: 2026-10-18 21:09:12.000000000 +00:00
+- title: 'Starcraft: Ashfall'
+  url: https://starcraft-shooter-2026.pages.dev/
   summary: Comments
-  published: 2026-10-11 20:20:52.000000000 +00:00
-- title: Doory – Open-Source Canva
-  url: https://github.com/shaongitbd/doory
+  published: 2026-10-19 01:18:02.000000000 +00:00
+- title: RepRapMicron
+  url: https://github.com/VikOlliver/RepRapMicron/wiki
   summary: Comments
-  published: 2026-10-12 00:48:27.000000000 +00:00
-- title: Illustration Beyond Proof
-  url: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/
+  published: 2026-10-18 13:48:48.000000000 +00:00
+- title: Free Pascal compiler now supports dynamic packages
+  url: https://www.getlazarus.org/dynamic/
   summary: Comments
-  published: 2026-10-11 23:22:36.000000000 +00:00
-- title: 'Terence Tao: Math 2.0 [pdf]'
-  url: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+  published: 2026-10-18 18:48:04.000000000 +00:00
+- title: Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky
+  url: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky
   summary: Comments
-  published: 2026-10-11 13:16:45.000000000 +00:00
-- title: Vectorized CLZ and CTZ
-  url: https://purplesyringa.moe/blog/vectorized-clz-and-ctz/
+  published: 2026-10-18 01:38:08.000000000 +00:00
+- title: 'Superlite: A Faster Alternatie to Superpowers'
+  url: https://contextfirst.blog/superlite-hand-an-agent-a-spec/
   summary: Comments
-  published: 2026-10-11 03:36:42.000000000 +00:00
-- title: Google is illegaly cutting forest to build data centers
-  url: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment
+  published: 2026-10-19 02:01:16.000000000 +00:00
+- title: 'Show HN: WhatsApp MCP running free on Cloudflare'
+  url: https://github.com/finereli/whatsapp-mcp
   summary: Comments
-  published: 2026-10-11 22:33:30.000000000 +00:00
-- title: No portable way to detect string-to-float conversion errors in standard C
-  url: https://sebsite.pw/w/20261009-strtod.html
+  published: 2026-10-18 21:36:10.000000000 +00:00
+- title: How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?
+  url: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base
   summary: Comments
-  published: 2026-10-10 15:39:30.000000000 +00:00
-- title: Passkeys are a trap
-  url: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+  published: 2026-10-18 23:37:54.000000000 +00:00
+- title: I built a programming language that LLMs can't use
+  url: https://blog.picheta.me/post/killswitch-lang/
   summary: Comments
-  published: 2026-10-11 21:59:48.000000000 +00:00
-- title: 'Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos'
-  url: https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5
+  published: 2026-10-17 22:26:47.000000000 +00:00
+- title: PalmOS Lemmings
+  url: https://github.com/ardiri/palmos-lemmings
   summary: Comments
-  published: 2026-10-11 09:19:46.000000000 +00:00
-- title: Chapter 1 of "Ways of Seeing" by John Berger (1972)
-  url: https://www.ways-of-seeing.com/ch1
+  published: 2026-10-18 17:56:59.000000000 +00:00
+- title: The DNS Museum
+  url: https://dns.museum
   summary: Comments
-  published: 2026-10-11 18:26:24.000000000 +00:00
-- title: Local Indexing to reduce tool calling and token usage
-  url: https://tedhaley.ca/pensieve/
+  published: 2026-10-16 22:21:34.000000000 +00:00
+- title: '"Traditional, but Puzzling"'
+  url: https://unsung.aresluna.org/traditional-but-puzzling/
   summary: Comments
-  published: 2026-10-12 00:03:53.000000000 +00:00
-- title: Recursive self-improvement through collective intelligence
-  url: https://pub.sakana.ai/mass/
+  published: 2026-10-16 19:17:23.000000000 +00:00
+- title: 'One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos,
+    Linux'
+  url: https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/
   summary: Comments
-  published: 2026-10-11 22:22:10.000000000 +00:00
-- title: So, You’d Like To Sell Your Print Issues Of The Onion?
-  url: https://theonion.com/archivehunt/
+  published: 2026-10-16 18:07:44.000000000 +00:00
+- title: 16-bit fully functional DIY magnetic core memory
+  url: https://www.youtube.com/watch?v=OJ1WYyO2jdY
   summary: Comments
-  published: 2026-10-11 19:43:32.000000000 +00:00
-- title: NYC's "Click to Cancel" rule is now in effect
-  url: https://www.nyc.gov/main/click-to-cancel
+  published: 2026-10-15 01:51:02.000000000 +00:00
+- title: The First Candid
+  url: https://www.newyorker.com/magazine/2026/10/19/the-first-candid
   summary: Comments
-  published: 2026-10-11 18:01:16.000000000 +00:00
-- title: I guess I'm using WebP now?
-  url: https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now
+  published: 2026-10-16 17:28:19.000000000 +00:00
+- title: Java sealed classes and exhaustive pattern matching
+  url: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/
   summary: Comments
-  published: 2026-10-09 15:32:04.000000000 +00:00
-- title: '500B tokens later: Letting AI agents decompile a first-person shooter'
-  url: https://momo5502.com/posts/2026-10-09-game-decompilation/
+  published: 2026-10-18 14:47:37.000000000 +00:00
+- title: A new way to think about borrow checking (in reverse)
+  url: https://verdagon.dev/blog/reverse-borrow-checking
   summary: Comments
-  published: 2026-10-11 02:02:38.000000000 +00:00
-- title: Safe SIMD in Rust, even on the inside
-  url: https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/
+  published: 2026-10-18 12:11:13.000000000 +00:00
+- title: Footage of the Flock search that a judge ruled was uncosntitutional
+  url: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/
   summary: Comments
-  published: 2026-10-10 14:56:11.000000000 +00:00
-- title: HashiCorp archives the Boundary open source repo
-  url: https://github.com/hashicorp/boundary
+  published: 2026-10-19 01:55:03.000000000 +00:00
+- title: '"I''m on a war footing": Terry Tao and the crisis in math'
+  url: https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html
   summary: Comments
-  published: 2026-10-12 00:02:45.000000000 +00:00
-- title: 'apsw: Another Python SQLite Wrapper'
-  url: https://github.com/rogerbinns/apsw
+  published: 2026-10-16 13:30:20.000000000 +00:00
+- title: What the heck is /pkg?
+  url: https://anderegg.ca/2026/10/18/what-the-heck-is-pkg
   summary: Comments
-  published: 2026-10-11 16:58:22.000000000 +00:00
-- title: ClickHouse C – Talk to ClickHouse using its native binary protocol
-  url: https://github.com/ClickHouse/clickhouse-c
+  published: 2026-10-18 17:21:23.000000000 +00:00
+- title: 'The Intel 8087 chip: floating-point addition and subtraction'
+  url: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html
   summary: Comments
-  published: 2026-10-11 23:08:29.000000000 +00:00
-- title: 'Show HN: BetterWispr – Free, open-source dictation for Mac'
-  url: https://betterwispr.com/
+  published: 2026-10-18 16:20:27.000000000 +00:00
+- title: Open MicroManipulator – A sub-micrometer 3D motion control plattform
+  url: https://github.com/0x23/MicroManipulatorStepper
   summary: Comments
-  published: 2026-10-11 12:01:28.000000000 +00:00
-- title: 'FlowCE: Calculus on your TI-84 Plus CE'
-  url: https://tommyb3ll.github.io/FlowCE/
+  published: 2026-10-18 11:16:22.000000000 +00:00
+- title: Namecheap just seized and disabled all my domains
+  url: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/
   summary: Comments
-  published: 2026-10-10 14:43:09.000000000 +00:00
-- title: How I reverse engineered a commercial spatial audio effect
-  url: http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/
+  published: 2026-10-18 16:56:56.000000000 +00:00
+- title: 'SIGSALY: Churchill''s top secret hotline to the president'
+  url: https://www.iwm.org.uk/history/iwm/cwr/telephone
   summary: Comments
-  published: 2026-10-11 15:21:58.000000000 +00:00
-- title: 'Valen''s Memory Safety: A New Kind of Borrow Checking'
-  url: https://verdagon.dev/blog/valen-group-borrowing
+  published: 2026-10-14 22:07:47.000000000 +00:00
+- title: Sanity's Edge – A voice BBS from 1994
+  url: https://sanitys-edge.shouden.us
   summary: Comments
-  published: 2026-10-11 12:06:22.000000000 +00:00
+  published: 2026-10-19 00:30:34.000000000 +00:00
